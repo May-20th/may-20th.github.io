@@ -128,7 +128,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/SuPhotos相册精简_1.0.0-arm64.deb
+Filename: debs/相册精简SuPhotos_1.0.0-arm64.deb
 Size: 3572
 MD5sum: 15876d7e90c6c0442e3cb0da12b13a8c
 SHA1: 48340c8563e703b16df105e0299e800d0544d5a6
@@ -144,7 +144,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 2088
 Depends: mobilesubstrate
-Filename: debs/ReachPlayer音乐专辑_4.0.3-arm64.deb
+Filename: debs/音乐专辑ReachPlayer_4.0.3-arm64.deb
 Size: 1096182
 MD5sum: 97c9cbfc9c1a4aaf2d0555572cfb22c1
 SHA1: cc6a17db8830d5230c270f3fbff60515dbdfc42f
@@ -178,7 +178,7 @@ Architecture: iphoneos-arm64
 Maintainer: TiaoTiao
 Installed-Size: 104
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: debs/WeChatEmotionToSelfie表情转自拍_1.2-arm64.deb
+Filename: debs/微信表情转自拍WeChatEmotionToSelfie_1.2-arm64.deb
 Size: 24134
 MD5sum: de4cfff9561acbec2095f16699dad1f4
 SHA1: 8a4a36c123043f02bb764387fcc98931f39e4824
