@@ -216,6 +216,70 @@ Author: binglan
 Name: 控制中心美化
 
 Package: com.binglanqjsy.deb
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Filename: debs/全局水印_2.1.0-arm64.deb
+Size: 38152
+MD5sum: 6c96a5730626271a5ab289b8c779dee5
+SHA1: 506f8cc61d1f63baa3264d09542819e955286abb
+SHA256: 3c72294a250a48a4ed9edae94c822219c84ebf66f346ceab34d5e0fde7351f5d
+Section: Tweaks
+Description: 添加全局水印相关功能，支持截屏水印，录屏水印，套壳截图。
+Author: binglan
+Name: 全局水印
+
+Package: com.binglanqjsy.deb
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 596
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Filename: debs/全局水印_2.2.4-arm64.deb
+Size: 60644
+MD5sum: 32f057567c9d9ce9af2b90c21c346a8c
+SHA1: dbdcc49628d3a0fd8773cee50da1417aa5186ec2
+SHA256: 7a61ad571aad30774db9434cb560b6c5501aad5711af30d54b0f16bc99222e77
+Section: Tweaks
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Author: 冰蓝
+Name: 全局水印
+
+Package: com.binglanqjsy.deb
+Version: 2.2.5
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 660
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Filename: debs/全局水印_2.2.5-arm64.deb
+Size: 66420
+MD5sum: 57a57193052225ca7a08f258e8802557
+SHA1: ef7f6d76a9a4b6a203ac7cf9b3b1d92cd3839694
+SHA256: e25c07078b83ccf0b705636c4478d269f7325287793584dac5f6debfe1f8625c
+Section: Tweaks
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Author: 冰蓝
+Name: 全局水印
+
+Package: com.binglanqjsy.deb
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 780
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Filename: debs/全局水印_ 2.2.6-arm64.deb
+Size: 88136
+MD5sum: 5d35c20577026d9c14ed9fc55489c1e4
+SHA1: 0c52fd33a9cdc4991bcceb7baaf23c5531e5ee73
+SHA256: 8c78d2f3d8c0b1d498bf853395b6ef7026232c443561deac8abbc4d9fc95b9d5
+Section: Tweaks
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Author: 冰蓝
+Name: 全局水印
+
+Package: com.binglanqjsy.deb
 Version: 3.0.0
 Architecture: iphoneos-arm64
 Maintainer: 冰蓝
