@@ -1,3 +1,21 @@
+Package: com.axs.ios16dao
+Version: 5.2.0-177
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 592
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/ios16灵动岛_5.2.0-177-arm64.deb
+Size: 67104
+MD5sum: e8adc5e877101c175493289bf858e899
+SHA1: 4cdba911b7703d55a248ab23e88a694e264dd1b3
+SHA256: 442d139c5d66f80479440a98671341048c78cfd6f19c4821221b8310e9540c5f
+Section: 灵动岛
+Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。集成授权校验联系:VCR66T
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
+Name: ios16灵动岛
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+
 Package: com.susu.photos
 Version: 1.0.0
 Architecture: iphoneos-arm64
