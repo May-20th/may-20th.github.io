@@ -36,22 +36,6 @@ Description: 灵动岛增加视频背景。
 Author: binglan
 Name: 动态岛
 
-Package: com.binglan.kongzhbg
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: binglan
-Installed-Size: 436
-Depends: firmware (>= 16.0), mobilesubstrate
-Filename: debs/控制中心视频.deb
-Size: 30452
-MD5sum: 54b702822c8f837e4874294cdec980b8
-SHA1: 3b5d597def27db6535f75cfce24e6db1f86a4b45
-SHA256: 7509442126670d791e13fe2670701ebfef5b71915ee628d947057284ef12673a
-Section: Tweaks
-Description: 为控制中心增加视频背景
-Author: binglan
-Name: 控制中心视频
-
 Package: com.binglan.kzmh
 Version: 1.0.8
 Architecture: iphoneos-arm64
