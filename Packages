@@ -551,7 +551,7 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 420
 Depends: mobilesubstrate
-Filename: debs/swing_infuseplus_1.2.0-arm64.deb
+Filename: debs/dvntm_infuseplus_1.2.0-arm64.deb
 Size: 125280
 MD5sum: fee899c4a2b4254669f2327b7d349bf3
 SHA1: eb98046e58e4b45e2f3beacec785cf8180c863bf
