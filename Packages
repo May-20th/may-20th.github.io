@@ -619,6 +619,55 @@ Description: WeChat Emoticon To SelfieEmoticon
 Author: TiaoTiao
 Name: WeChatEmoticonToSelfie
 
+Package: com.wkk.mjhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/wkk米家优化_1.0-1-arm64.deb
+Size: 10920
+MD5sum: e003d3e491ab8066816a92619636315b
+SHA1: d632162faba7f8fc05370ccd51dfdc1d4cc5cdef
+SHA256: d9d90e9320620a43e520247beb6274261ad3b7e427339eefa956b435ae671053
+Section: Tweaks
+Description: cool
+Author: wkk
+Name: 米家优化
+
+Package: com.wkk.mtwmhook
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/wkk美团外卖NoAds_1.1-7-arm64.deb
+Size: 3544
+MD5sum: 8a11617063926e7d8deb7ee050e0236f
+SHA1: cc1d3bfbd82d20986156edc180b6b03d5fd9de68
+SHA256: 4b4d37704f4f23653e20db171df1ebff623ceed206ebba00cdcb78a3a02c0173
+Section: 去广告
+Description: 去开屏广告，版本：8.68.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
+Name: 美团外卖NoAds
+
+Package: com.wkk.mtyhhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/wkk美团优化_1.0-1-arm64.deb
+Size: 13768
+MD5sum: a8a1e01e73e0b7d492afe15971a38a19
+SHA1: 111547d5cd624dc1b736c0db5e26df3a32106b7f
+SHA256: d279ac8013172d2f04f1f66342b5b5a26f88fd95b7d6843ecae796c751418c62
+Section: Tweaks
+Description: cool
+Author: wkk
+Name: 美团优化
+
 Package: com.xx.gaodehook
 Version: 1.0.4
 Architecture: iphoneos-arm64
