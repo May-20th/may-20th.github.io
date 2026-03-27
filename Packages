@@ -80,7 +80,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing京东净化_1.0.0-arm64.deb
+Filename: debs/Apple京东净化_1.0.0-arm64.deb
 Size: 14182
 MD5sum: b4b5445c98b5722552a02b483514a109
 SHA1: 110aa97d7fcab4bc5bf09c606781ad918fa95a6a
