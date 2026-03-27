@@ -833,6 +833,25 @@ Icon: https://repo.swing1993.cn/api/packageinfo/com.swing.neteasemusic/icon.png
 Name: 网易云音乐
 Sileodepiction: https://repo.swing1993.cn/depictions/native/com.swing.neteasemusic.json
 
+Package: com.swing.nicegram
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing_Nicegram Pro_1.0.0-1-arm64.deb
+Size: 7672
+MD5sum: 43eb0c8f9759816c9af0d4abb75fed8e
+SHA1: 71139b50a7b896033ab796806b55871a38af1bb3
+SHA256: edd5ca981279fb96df4450ecc5da07181e254e38cc9e5bf439d6afe4b72e301e
+Section: Tweaks
+Description: An awesome tweak for Nicegram! TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.swing1993.cn/depictions/index.html?packageId=com.swing.nicegram
+Icon: https://repo.swing1993.cn/api/packageinfo/com.swing.nicegram/icon.png
+Name: Nicegram Premium
+Sileodepiction: https://repo.swing1993.cn/depictions/native/com.swing.nicegram.json
+
 Package: com.swing.puretieba
 Version: 1.0.7
 Architecture: iphoneos-arm64
