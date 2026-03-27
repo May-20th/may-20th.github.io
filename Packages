@@ -795,6 +795,25 @@ Icon: https://repo.swing1993.cn/api/packageinfo/com.swing.mihome/icon.png
 Name: 米家NoAds
 Sileodepiction: https://repo.swing1993.cn/depictions/native/com.swing.mihome.json
 
+Package: com.swing.neteasemusic
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing网易云净化_0.0.1-arm64.deb
+Size: 11388
+MD5sum: f8d4325a4872e441e464348fbe447c9b
+SHA1: e0108fb9c06ed347cd0604f4cda05a37b755f9e0
+SHA256: 9d33521cf75b84349047a4c24029c74da042c43b7fc9a4bbc39ad3bbfaca0ec5
+Section: Tweaks
+Description: 净化网易云音乐的广告！
+Author: SWING
+Depiction: https://repo.swing1993.cn/depictions/index.html?packageId=com.swing.neteasemusic
+Icon: https://repo.swing1993.cn/api/packageinfo/com.swing.neteasemusic/icon.png
+Name: 网易云音乐
+Sileodepiction: https://repo.swing1993.cn/depictions/native/com.swing.neteasemusic.json
+
 Package: com.swing.puretieba
 Version: 1.0.7
 Architecture: iphoneos-arm64
