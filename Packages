@@ -42,7 +42,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing哔哩哔哩净化_1.2.3-arm64.deb
+Filename: debs/Apple哔哩哔哩净化_1.2.3-arm64.deb
 Size: 22774
 MD5sum: f70bac7871d503217623ef9cc09bb8a6
 SHA1: 5b8f9ac8a16b1f9ecc0dea47ac6a84e40a4afea6
