@@ -785,6 +785,30 @@ Description: 将控制中心主副卡显示为自己喜欢的图片 可自定义
 Author: liuf <1602389262>
 Name: Liuf's 主副卡
 
+Package: com.mtac.vitreux
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 7028
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/mtac.vitreux液态玻璃_1.4-arm64.deb
+Size: 121300
+MD5sum: 5a9ed2795d088ca751fcc1001e36bc05
+SHA1: b25d03b6705ed0776ac2097087afa8ab6c603f9a
+SHA256: d73919662745826eefc79262d8004a552a4d74952dd71a51592f257ddebaa91e
+Section: Tweaks
+Description: A recreation of Liquid Glass
+  * 1.主打 iOS 26 系统液态玻璃设计。
+  * 2.让旧系统体验液态玻璃风格。
+  * 3.目前版本，效果主要体现在锁屏、主屏、控制中心、通知、App 资源库、小组件等。
+  * 4.自定义选项丰富。可以自定义模糊设置等。
+  * 5.目前仅仅支持 SpringBoard 范围。
+  * 6.支持 iOS 15.x - 16.x 系统。
+Author: MTAC
+Icon: https://axs66.github.io/repo/icon/vitreux.png
+Name: Vitreux 液态玻璃
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/vitreux/js.json
+
 Package: com.niceios.mrshi-roothide
 Version: 1.0.0.2-54
 Architecture: iphoneos-arm64e
