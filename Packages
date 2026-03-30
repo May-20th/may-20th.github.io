@@ -61,7 +61,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple_App Store净化_1.0.0-arm64.deb
+Filename: debs/Apple.App Store净化_1.0.0-arm64.deb
 Size: 4376
 MD5sum: 6ceee26792188084734338cb6e80a909
 SHA1: 62779e0c0a193a2e616e1e297867fe854776be05
@@ -80,7 +80,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple哔哩哔哩净化_1.2.3-arm64.deb
+Filename: debs/Apple.哔哩哔哩净化_1.2.3-arm64.deb
 Size: 22774
 MD5sum: f70bac7871d503217623ef9cc09bb8a6
 SHA1: 5b8f9ac8a16b1f9ecc0dea47ac6a84e40a4afea6
@@ -99,7 +99,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple网易云净化_1.0.0-arm64.deb
+Filename: debs/Apple.网易云净化_1.0.0-arm64.deb
 Size: 18316
 MD5sum: f51bffcaf784b7724dedd33c7d3da553
 SHA1: b6b3e912c93d8b4c526b23d6f32340c0db73ec20
@@ -118,7 +118,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple京东净化_1.0.0-arm64.deb
+Filename: debs/Apple.京东净化_1.0.0-arm64.deb
 Size: 14182
 MD5sum: b4b5445c98b5722552a02b483514a109
 SHA1: 110aa97d7fcab4bc5bf09c606781ad918fa95a6a
@@ -137,7 +137,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple拼多多净化_1.0.0-arm64.deb
+Filename: debs/Apple.拼多多净化_1.0.0-arm64.deb
 Size: 11582
 MD5sum: 2e3f3ed0b00a8f2e3a501bdf653d3bfb
 SHA1: ce4ca2cc244804eecf0de5ea8ab28b499f59e859
@@ -156,7 +156,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple淘宝净化_1.0.0-arm64.deb
+Filename: debs/Apple.淘宝净化_1.0.0-arm64.deb
 Size: 16104
 MD5sum: d4d8cc16b1a62e8fa0d28e8f617046f5
 SHA1: e3702886faf25d03352ce2479927332554ac3fc6
@@ -175,7 +175,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple淘宝净化_1.1.0-arm64.deb
+Filename: debs/Apple.淘宝净化_1.1.0-arm64.deb
 Size: 12298
 MD5sum: 2ce95da8093ee371c6a60791e588d7ad
 SHA1: 490fa948a452b770caa5cd122f48c60c39f9c1f9
@@ -194,7 +194,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: debs/Apple百度贴吧净化_1.0.8-arm64.deb
+Filename: debs/Apple.百度贴吧净化_1.0.8-arm64.deb
 Size: 20242
 MD5sum: 46aaf45f6072fd56f0b162bfe6e5969f
 SHA1: 605d18a330be11d881108d3f53972a65a2419dbd
@@ -213,7 +213,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple小红书净化_1.0.3-arm64.deb
+Filename: debs/Apple.小红书净化_1.0.3-arm64.deb
 Size: 14648
 MD5sum: ffd1fe8f232a54ab09eba915bd6833e9
 SHA1: eb252d2446336dedf3ba6c0be2c50057501858f8
@@ -232,7 +232,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple喜马拉雅净化_1.0.1-arm64.deb
+Filename: debs/Apple.喜马拉雅净化_1.0.1-arm64.deb
 Size: 25710
 MD5sum: c1c31503c5a00f0a0d7791dbd78ab0e2
 SHA1: 83d5329c33494f6c592b329c4b56e911bdee2733
@@ -251,7 +251,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple_QQ音乐净化_1.0.0-arm64.deb
+Filename: debs/Apple.QQ音乐净化_1.0.0-arm64.deb
 Size: 18516
 MD5sum: 6291886df297ac85a797cff0578c0684
 SHA1: a5683441c3e89708ad3dc9efac4def58a6804d28
@@ -270,7 +270,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple微信净化_1.2.0-arm64.deb
+Filename: debs/Apple.微信净化_1.2.0-arm64.deb
 Size: 33346
 MD5sum: 837d923461d198d2318ed501a607ba06
 SHA1: 87fb2c1f4f953c9cf87fb7208e0cc2c625b76115
@@ -286,7 +286,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 252
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Apple微信净化_1.2.1-arm64.deb
+Filename: debs/Apple.微信净化_1.2.1-arm64.deb
 Size: 30140
 MD5sum: cfaa08fefc13ce1f2da910c6f97f7f73
 SHA1: d12c0a4c07b062725db30c3c607ab984fce57ac8
@@ -302,7 +302,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: debs/Apple微博净化_1.2.5-arm64.deb
+Filename: debs/Apple.微博净化_1.2.5-arm64.deb
 Size: 27212
 MD5sum: f9304871ff18b75cf589dc065397585e
 SHA1: d423941d8d5452f7ccbc2e286f3eddc6233d6a0b
@@ -321,7 +321,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: debs/Apple知乎净化_1.0.0-arm64.deb
+Filename: debs/Apple.知乎净化_1.0.0-arm64.deb
 Size: 18404
 MD5sum: 315e683c995025120503c09ea1bc0db9
 SHA1: 8c435688fb723fae5b6c989f100b246283ab3ed6
@@ -608,7 +608,7 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 420
 Depends: mobilesubstrate
-Filename: debs/dvntm_infuseplus_1.2.0-arm64.deb
+Filename: debs/dvntm.infuseplus_1.2.0-arm64.deb
 Size: 125280
 MD5sum: fee899c4a2b4254669f2327b7d349bf3
 SHA1: eb98046e58e4b45e2f3beacec785cf8180c863bf
@@ -658,7 +658,7 @@ Architecture: iphoneos-arm64
 Maintainer: Link
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/link抖音净化_1.0.5-arm64.deb
+Filename: debs/link.抖音净化_1.0.5-arm64.deb
 Size: 73768
 MD5sum: 47318d9de6a5812239164259f7b0a4f3
 SHA1: 5a939c312b9a14f14b2be2ad4b998b562e689463
@@ -677,7 +677,7 @@ Architecture: iphoneos-arm64
 Maintainer: liuf <1602389262>
 Installed-Size: 356
 Depends: mobilesubstrate
-Filename: debs/liuf灵动岛发光_1.0.0-arm64.deb
+Filename: debs/liuf.灵动岛发光_1.0.0-arm64.deb
 Size: 12780
 MD5sum: 40818d11e975f0ac5e22a1bc7f2cb54f
 SHA1: 9c767470c545b3113748aebf2f9dc02b4e3d32fe
@@ -757,13 +757,29 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.sutheme
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/susu.自定义应用图标_1.0.1-arm64.deb
+Size: 12562
+MD5sum: 6a83cf68741edc46038b7acc8874d644
+SHA1: c191e2b0dc8af7ffe59965fa103b64046f7f42d7
+SHA256: 66761c05963f1a242a2117582d83aceb72ff66761f7179bcb5b140cde9595138
+Section: Tweaks
+Description: 自定义应用图标
+Author: 苏苏
+Name: SuTheme
+
 Package: com.swing.ddmcnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing叮咚买菜净化_1.0.0-arm64.deb
+Filename: debs/swing.叮咚买菜净化_1.0.0-arm64.deb
 Size: 5052
 MD5sum: affc170066db969d2f4fa1dac97036d6
 SHA1: 9002d3418c137cc9b33f37904d653a35ecffdb0b
@@ -820,7 +836,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 180
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing咸鱼净化_1.0.0-2-arm64.deb
+Filename: debs/swing.咸鱼净化_1.0.0-2-arm64.deb
 Size: 15750
 MD5sum: 513ef16b2bf349a07fd525ff8d772fd0
 SHA1: a9b27272a8fd8aab876d8e248ec131eb19d30006
@@ -836,7 +852,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing_github_1.0.1-arm64.deb
+Filename: debs/swing.github_1.0.1-arm64.deb
 Size: 5946
 MD5sum: 115faca1325099ff2e7e1368d3184eb7
 SHA1: 039534403821c4cfd432560ef21a898670c4a0d5
@@ -893,7 +909,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing_Nicegram Pro_1.0.0-1-arm64.deb
+Filename: debs/swing.Nicegram Pro_1.0.0-1-arm64.deb
 Size: 7672
 MD5sum: 43eb0c8f9759816c9af0d4abb75fed8e
 SHA1: 71139b50a7b896033ab796806b55871a38af1bb3
@@ -969,7 +985,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing_QQ邮箱净化_1.0.1-arm64.deb
+Filename: debs/swing.QQ邮箱净化_1.0.1-arm64.deb
 Size: 5166
 MD5sum: d24edcaeb47dff6b93ab13bccedb1c43
 SHA1: d84dc4a22525dbf2193945c04f52aee14fa315ef
@@ -988,7 +1004,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing_QQ音乐净化_1.0.1-arm64.deb
+Filename: debs/swing.QQ音乐净化_1.0.1-arm64.deb
 Size: 18176
 MD5sum: 5ea3dc14b608c971290b1fa3f18e3047
 SHA1: a691467a27ae56026abb242116dd96678376fb4c
