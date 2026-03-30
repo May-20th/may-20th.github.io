@@ -430,6 +430,22 @@ Architecture: iphoneos-arm64
 Maintainer: baiy（qq：961666883））
 Installed-Size: 240
 Depends: mobilesubstrate
+Filename: debs/baiyi.switchtheme牙齿_1.0.0-arm64.deb
+Size: 27752
+MD5sum: c43f16be4b9d53b43bfee76d257cd548
+SHA1: ea6e4b5f6b22724aa416324333a4555f944c2176
+SHA256: 2c9c91c5031e46f2339f3d4ac82c82f962bd02336c1503e8143d9485824fd15c
+Section: Tweaks
+Description: 灵感源自牙齿线条的极简开关，圆润而洁净，温润而纯粹。滑动之间，如唇齿轻启，带来指尖柔滑的精致体验
+Author: 白衣
+Name: SwitchTheme——牙齿
+
+Package: com.baiy.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq：961666883））
+Installed-Size: 240
+Depends: mobilesubstrate
 Filename: debs/baiyi.SwitchTheme牙齿_1.0.0-arm64.deb
 Size: 27752
 MD5sum: c43f16be4b9d53b43bfee76d257cd548
