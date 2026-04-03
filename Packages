@@ -946,6 +946,22 @@ Author: Spark & Dennis D. Bednarz
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard
 
+Package: com.susu.ccuiplayer
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/susu.控制中心播放器加背景图_1.0.7-arm64.deb
+Size: 48272
+MD5sum: 60b52cc90bacab3e953c6fa91413048a
+SHA1: e145028c02765fd8f7b48cd3ee3924d1fc3235be
+SHA256: d21ebeccb3760deaec5846adf86183dd93497c8662ec67ec7a0a8cbdb8c599b5
+Section: Tweaks
+Description: 控制中心音频窗口背景插件
+Author: SuSu
+Name: CCUIPlayer
+
 Package: com.susu.ios16
 Version: 2.2
 Architecture: iphoneos-arm64
