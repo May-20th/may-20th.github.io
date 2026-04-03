@@ -414,7 +414,7 @@ Architecture: iphoneos-arm64
 Maintainer: baiy(QQ：961666883)
 Installed-Size: 524
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/键盘自定义keyboardhook_2.0-6-arm64.deb
+Filename: debs/baiy.键盘自定义keyboardhook_2.0-6-arm64.deb
 Size: 47728
 MD5sum: af368a36f5385e3558251e473da9be77
 SHA1: 15b6fb1c3cf91392878bc8f51bc3c77e4dfdb7d6
@@ -1001,7 +1001,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/相册精简SuPhotos_1.0.0-arm64.deb
+Filename: debs/susu.相册精简_1.0.0-arm64.deb
 Size: 3572
 MD5sum: 15876d7e90c6c0442e3cb0da12b13a8c
 SHA1: 48340c8563e703b16df105e0299e800d0544d5a6
@@ -1017,7 +1017,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 2088
 Depends: mobilesubstrate
-Filename: debs/音乐专辑ReachPlayer_4.0.3-arm64.deb
+Filename: debs/susu.音乐专辑ReachPlayer_4.0.3-arm64.deb
 Size: 1096182
 MD5sum: 97c9cbfc9c1a4aaf2d0555572cfb22c1
 SHA1: cc6a17db8830d5230c270f3fbff60515dbdfc42f
@@ -1035,7 +1035,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/susu.自定义应用图标_1.0.1-arm64.deb
+Filename: debs/susu.自定义图标_1.0.1-arm64.deb
 Size: 12562
 MD5sum: 6a83cf68741edc46038b7acc8874d644
 SHA1: c191e2b0dc8af7ffe59965fa103b64046f7f42d7
@@ -1051,7 +1051,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/susu.自定义应用图标_1.0.2-arm64.deb
+Filename: debs/susu.自定义图标_1.0.2-arm64.deb
 Size: 13886
 MD5sum: c771981c092bf9eaf05f77261e665af3
 SHA1: cf71a8616f747c4260314d9f9ce486cbee109555
