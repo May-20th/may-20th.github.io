@@ -356,7 +356,7 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 608
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/灵动岛ios16_5.2.0-161-arm64.deb
+Filename: debs/axs.灵动岛ios16_5.2.0-161-arm64.deb
 Size: 67044
 MD5sum: fc419fa2e9f9dab18cf651fa200adcd1
 SHA1: cdebcd1c14b05c49d45c49db6b731d0e7faa242c
@@ -374,7 +374,7 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 592
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/灵动岛ios16_5.2.0-177-arm64.deb
+Filename: debs/axs.灵动岛ios16_5.2.0-177-arm64.deb
 Size: 67104
 MD5sum: e8adc5e877101c175493289bf858e899
 SHA1: 4cdba911b7703d55a248ab23e88a694e264dd1b3
@@ -690,7 +690,7 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/灵动岛ios16_5.2.0-100-arm64.deb
+Filename: debs/axs.灵动岛ios16_5.2.0-100-arm64.deb
 Size: 55764
 MD5sum: 2223ae925766ac95bac914aad5bad9bd
 SHA1: 583a0efa498d77c13836c366207c043c9157097e
@@ -706,7 +706,7 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 524
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/灵动岛ios16_5.2.0-125-arm64.deb
+Filename: debs/axs.灵动岛ios16_5.2.0-125-arm64.deb
 Size: 55708
 MD5sum: 0560396e617a7c7edab8e5a66fbed437
 SHA1: be2133020b7de62fd1df486805f9a025acff4d2a
