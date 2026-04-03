@@ -656,7 +656,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdata, netskao.appdata-rootless
-Filename: debs/fouad.AppData降级_9.9.9-arm64.deb
+Filename: debs/fouad.appdata降级_9.9.9-arm64.deb
 Size: 823356
 MD5sum: d76e1bce5683880cf62816cf2cb1ac3e
 SHA1: 9f30ee0e8a06e6bb410094bfdef83ddee74fa3bf
@@ -722,7 +722,7 @@ Architecture: iphoneos-arm64
 Maintainer: iosdump
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
-Filename: debs/fouad.AppData降级_1.8.9-arm64.deb
+Filename: debs/fouad.appdata降级_1.8.9-arm64.deb
 Size: 295646
 MD5sum: b5c98484bd80a112c770f148e9d98b88
 SHA1: e4ec2cd31dc094a151a5cbb642893637132e9be1
@@ -756,7 +756,7 @@ Architecture: iphoneos-arm64
 Maintainer: iosdump
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
-Filename: debs/fouad.AppData降级_1.9.1-arm64.deb
+Filename: debs/fouad.appdata降级_1.9.1-arm64.deb
 Size: 300058
 MD5sum: 6ea3b0ec0b26e22c70e8a89f5e4047dc
 SHA1: 0ab1301ae35b6997dd54617e18a9e2ea5c3e2292
