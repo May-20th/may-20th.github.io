@@ -24,7 +24,7 @@ Maintainer: 搬运工
 Installed-Size: 1408
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/地震预警_0.0.1-arm64e.deb
+Filename: debs/hw.地震预警_0.0.1-arm64e.deb
 Size: 385638
 MD5sum: 9dd7f824e0bfb1dade72477e9e4f1d61
 SHA1: 7bac97f4b02cdbc1188b140a8b86626594790308
@@ -392,7 +392,7 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 540
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/全局水印ScreenShell Pro_5.2.0-61-arm64.deb
+Filename: debs/axs.全局水印_5.2.0-61-arm64.deb
 Size: 51728
 MD5sum: 6ae4d8266a96dcd5264efc6d33c813a6
 SHA1: 629fc1fee0fc7288ad0d2beec4b3ba4c88e5f7ea
@@ -414,7 +414,7 @@ Architecture: iphoneos-arm64
 Maintainer: baiy(QQ：961666883)
 Installed-Size: 524
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/baiy.键盘自定义keyboardhook_2.0-6-arm64.deb
+Filename: debs/baiyi.键盘自定义_2.0-6-arm64.deb
 Size: 47728
 MD5sum: af368a36f5385e3558251e473da9be77
 SHA1: 15b6fb1c3cf91392878bc8f51bc3c77e4dfdb7d6
@@ -430,23 +430,7 @@ Architecture: iphoneos-arm64
 Maintainer: baiy（qq：961666883））
 Installed-Size: 240
 Depends: mobilesubstrate
-Filename: debs/baiyi.switchtheme牙齿_1.0.0-arm64.deb
-Size: 27752
-MD5sum: c43f16be4b9d53b43bfee76d257cd548
-SHA1: ea6e4b5f6b22724aa416324333a4555f944c2176
-SHA256: 2c9c91c5031e46f2339f3d4ac82c82f962bd02336c1503e8143d9485824fd15c
-Section: Tweaks
-Description: 灵感源自牙齿线条的极简开关，圆润而洁净，温润而纯粹。滑动之间，如唇齿轻启，带来指尖柔滑的精致体验
-Author: 白衣
-Name: SwitchTheme——牙齿
-
-Package: com.baiy.switchtheme
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: baiy（qq：961666883））
-Installed-Size: 240
-Depends: mobilesubstrate
-Filename: debs/baiyi.SwitchTheme牙齿_1.0.0-arm64.deb
+Filename: debs/baiyi.牙齿_1.0.0-arm64.deb
 Size: 27752
 MD5sum: c43f16be4b9d53b43bfee76d257cd548
 SHA1: ea6e4b5f6b22724aa416324333a4555f944c2176
@@ -462,7 +446,7 @@ Architecture: iphoneos-arm64
 Maintainer: be-huge (Modified)
 Installed-Size: 2700
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/分屏floatingView-1.5.9-licensed.deb
+Filename: debs/be-huge.分屏_1.5.9-arm64.deb
 Size: 1084808
 MD5sum: 706943df5286405fda6b4342e8c3eea3
 SHA1: ed28e6ecaa9a5316c5d56d953528d02dd0b2f0d8
@@ -480,7 +464,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/控制中心美化_1.0.1-arm64.deb
+Filename: debs/binglan.控制中心美化_1.0.1-arm64.deb
 Size: 18916
 MD5sum: 80e5b7db0ed1b6f4372484a6ea20ba76
 SHA1: df6b542a66f0db409f6f412585f91e144888dfc7
@@ -496,7 +480,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/控制中心美化_1.0.5-arm64.deb
+Filename: debs/binglan.控制中心美化_1.0.5-arm64.deb
 Size: 20604
 MD5sum: be3422e6aab99bd7059787b42e222853
 SHA1: c4b566fbb026c5f70a9cf47853f7b57123aecf31
@@ -512,7 +496,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/控制中心美化_1.0.5-1-arm64.deb
+Filename: debs/binglan.控制中心美化_1.0.5-1-arm64.deb
 Size: 21512
 MD5sum: b0df61d845089f15a2c0547d69980d71
 SHA1: d9e6205c5d038ff6734651397415bb7d57ac12e7
@@ -528,7 +512,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 376
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/控制中心美化_1.0.6-arm64.deb
+Filename: debs/binglan.控制中心美化_1.0.6-arm64.deb
 Size: 20792
 MD5sum: 4efe657677ff3e633c841e161683271c
 SHA1: b7b537968e3e8e6380719a0dce4ce9c780a9d117
@@ -544,7 +528,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 392
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/控制中心美化_1.0.8-arm64.deb
+Filename: debs/binglan.控制中心美化_1.0.8-arm64.deb
 Size: 25684
 MD5sum: dec4e935a8f3582a06b5bb2b3d271e15
 SHA1: 5da944bcea17ad140b7e9b3838281b913bf21fa3
@@ -560,7 +544,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 504
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/全局水印_2.1.0-arm64.deb
+Filename: debs/binglan.全局水印_2.1.0-arm64.deb
 Size: 38152
 MD5sum: 6c96a5730626271a5ab289b8c779dee5
 SHA1: 506f8cc61d1f63baa3264d09542819e955286abb
@@ -576,7 +560,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 596
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/全局水印_2.2.4-arm64.deb
+Filename: debs/binglan.全局水印_2.2.4-arm64.deb
 Size: 60644
 MD5sum: 32f057567c9d9ce9af2b90c21c346a8c
 SHA1: dbdcc49628d3a0fd8773cee50da1417aa5186ec2
@@ -592,7 +576,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 660
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/全局水印_2.2.5-arm64.deb
+Filename: debs/binglan.全局水印_2.2.5-arm64.deb
 Size: 66420
 MD5sum: 57a57193052225ca7a08f258e8802557
 SHA1: ef7f6d76a9a4b6a203ac7cf9b3b1d92cd3839694
@@ -608,7 +592,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 780
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/全局水印_ 2.2.6-arm64.deb
+Filename: debs/binglan.全局水印_ 2.2.6-arm64.deb
 Size: 88136
 MD5sum: 5d35c20577026d9c14ed9fc55489c1e4
 SHA1: 0c52fd33a9cdc4991bcceb7baaf23c5531e5ee73
@@ -624,7 +608,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 908
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/全局水印_3.0.0-arm64.deb
+Filename: debs/binglan.全局水印_3.0.0-arm64.deb
 Size: 109384
 MD5sum: 486e04ca0c72ce1b6b37ec11c88f8fbe
 SHA1: de6ff6d33fb31403a1ddc31ff6572434cbfe0002
@@ -640,7 +624,7 @@ Architecture: iphoneos-arm64
 Maintainer: Charlie Leung
 Installed-Size: 13344
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/分屏TrollOpen_1.2.8-arm64.deb
+Filename: debs/charlie.分屏_1.2.8-arm64.deb
 Size: 1981616
 MD5sum: 2f9c7b325ba038a064ae14fa4e6b2a30
 SHA1: f639739acc773381913964425e1ffc908c48303a
@@ -872,7 +856,7 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 7028
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/mtac.vitreux液态玻璃_1.4-arm64.deb
+Filename: debs/mtac.液态玻璃_1.4-arm64.deb
 Size: 121300
 MD5sum: 5a9ed2795d088ca751fcc1001e36bc05
 SHA1: b25d03b6705ed0776ac2097087afa8ab6c603f9a
@@ -896,7 +880,7 @@ Architecture: iphoneos-arm64e
 Maintainer: MrShi
 Installed-Size: 2368
 Depends: mobilesubstrate
-Filename: debs/全局系统颜色自定义MrShi_1.0.0.2-54-arm64e.deb
+Filename: debs/MrShi.全局系统颜色自定义_1.0.0.2-54-arm64e.deb
 Size: 554970
 MD5sum: ab3bbc44c595a8ad00ec050847c570c5
 SHA1: 4de4c00605f42db3d1623afc9a9509406b7eba00
@@ -914,7 +898,7 @@ Architecture: iphoneos-arm64
 Maintainer: MrShi
 Installed-Size: 2352
 Depends: mobilesubstrate
-Filename: debs/全局系统颜色自定义MrShi_1.0.0.2-235-arm64.deb
+Filename: debs/MrShi.全局系统颜色自定义_1.0.0.2-235-arm64.deb
 Size: 547636
 MD5sum: 2c3a4ecc34a9a7ca1d5ad7d2e9df1967
 SHA1: cb140335246cc17af724165a0fc478e286422f36
@@ -1324,29 +1308,13 @@ Icon: https://repo.swing1993.cn/api/packageinfo/com.swing.weibolite/icon.png
 Name: 微博轻享版去广告
 Sileodepiction: https://repo.swing1993.cn/depictions/native/com.swing.weibolite.json
 
-Package: com.thefool.ccaudioplay
-Version: 0.0.1-94+debug
-Architecture: iphoneos-arm64
-Maintainer: thefool
-Installed-Size: 29540
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/播放器美化CCAudioPlay_0.0.1-94-arm64.deb
-Size: 25090780
-MD5sum: 7e22abf9f62e77bf79371bf5f82c70ef
-SHA1: 8b63dd05af342c1cab579c3e279b17d07a1098eb
-SHA256: a61f01e9709a5875239b0c3f0902d685ee819896f8536e9ec414db106541a81e
-Section: Tweaks
-Description: 播放器美化 不支IOS15
-Author: thefool
-Name: CCAudioPlay
-
 Package: com.tiaotiao.wcchannelsdownloader
 Version: 1.6
 Architecture: iphoneos-arm64
 Maintainer: TiaoTiao
 Installed-Size: 2404
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/微信视频号下载WCChannelsDownloader_1.6-arm64.deb
+Filename: debs/tiaotiao.微信视频号下载_1.6-arm64.deb
 Size: 893946
 MD5sum: a39453f8200e963281c75deafdd05184
 SHA1: 8b4678bb362fe073f5a0ba0f575200e630b393bc
@@ -1362,7 +1330,7 @@ Architecture: iphoneos-arm64
 Maintainer: TiaoTiao
 Installed-Size: 104
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: debs/微信表情转自拍WeChatEmotionToSelfie_1.2-arm64.deb
+Filename: debs/tiaotiao.微信表情转自拍_1.2-arm64.deb
 Size: 24134
 MD5sum: de4cfff9561acbec2095f16699dad1f4
 SHA1: 8a4a36c123043f02bb764387fcc98931f39e4824
@@ -1378,7 +1346,7 @@ Architecture: iphoneos-arm64
 Maintainer: TiaoTiao
 Installed-Size: 416
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/tiao.微信键盘虚线_1.8-arm64.deb
+Filename: debs/tiaotiao.微信键盘虚线_1.8-arm64.deb
 Size: 81104
 MD5sum: 781da50e35122e97118343867055f887
 SHA1: 6708b3eb109855c250d7fe30117b41c71bc3f9e4
@@ -1394,7 +1362,7 @@ Architecture: iphoneos-arm64
 Maintainer: TiaoTiao
 Installed-Size: 416
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/tiao.微信键盘虚线_1.9-arm64.deb
+Filename: debs/tiaotiao.微信键盘虚线_1.9-arm64.deb
 Size: 83910
 MD5sum: a85171436dd66d8cbb21af8f2be60ebc
 SHA1: 600e1d592ec99e0c6bd152e18682750f68237e35
@@ -1410,7 +1378,7 @@ Architecture: iphoneos-arm64
 Maintainer: TiaoTiao
 Installed-Size: 480
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/tiao.微信键盘虚线_2.0-arm64.deb
+Filename: debs/tiaotiao.微信键盘虚线_2.0-arm64.deb
 Size: 106694
 MD5sum: 8a86becf2f19175d598fa85e6bbc99f5
 SHA1: 25e581e355b85ebadac33a6ac1ad48c6e423e150
@@ -1426,7 +1394,7 @@ Architecture: iphoneos-arm64
 Maintainer: MTAC
 Installed-Size: 2952
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: debs/mtac.lynx2系统增强_2.5.4-arm64.deb
+Filename: debs/mtac.系统增强_2.5.4-arm64.deb
 Size: 677340
 MD5sum: 9c3330c4a1a9ca5c5ff7918ecdb42fef
 SHA1: 51e7487acbaec496a2a56d7e3813f9f1b5ff0357
@@ -1517,6 +1485,21 @@ Section: Tweaks
 Description: 灵动岛音乐进度环增强插件
 Author: 夜辰
 Name: 灵动岛进度环
+
+Package: com.yourepo.ok95.reachplayer
+Version: 5.0.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏 <kk99588077@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/com.yourepo.ok95.reachplayer_5.0.0_iphoneos-arm64.deb
+Size: 1259174
+MD5sum: 661d6e6bcb6511b4c3bfaf75efee2581
+SHA1: 6e7fd90867ade2c51df26b84e310cdb51bddee01
+SHA256: ca05dc04581ebe6c5ca9fb53653d5008e85fd132b36cb8b463284673ad4348db
+Section: Tweaks
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏 <kk99588077@gmail.com>
+Name: ReachPlayer音乐专辑
 
 Package: flex3
 Version: 1:3~Beta90
