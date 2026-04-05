@@ -55,6 +55,24 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 支付宝修改步数
 Sponsor: 搬运工
 
+Package: com.Axs.classickeyboardxs
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/netskao.键盘下调_1.1-9-arm64.deb
+Size: 275932
+MD5sum: 171ae972af027d45256a2d9f28d5d7f3
+SHA1: 897c7fe6800d309b0d713d6d132cc638c70d348e
+SHA256: 7329f44595532b0184703ebc7ab11c79e7225083c76b2d9f91a3940d8a487691
+Section: 系统增强
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.自定义X键盘底部的高度，地球底部的高度等。可以解决1.3.7版Svp分屏开启后，地球或者语音按不动的问题。
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/classickeyboardxs.png
+Name: ClassicKeyboardXS 键盘高度调整
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/classickeyboardxs/js.json
+
 Package: com.Doki.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
