@@ -23,11 +23,16 @@ jobs:
         run: |
           dpkg-scanpackages --multiversion debs /dev/null > Packages.raw
           
-          # 自动分类：净化、破解、其它
+          # 加强版自动分类：覆盖所有插件，100%分类
           sed -E \
-            -e '/净化|去广告|精简|无广告|NoAds|pure/s/^Section:.*$/Section: 净化/' \
-            -e '/破解|解锁|SVIP|会员|VIP/s/^Section:.*$/Section: 破解/' \
-            -e '/灵动岛|键盘|分屏|美化|水印|控制中心|主题/s/^Section:.*$/Section: 其它/' \
+            # 【净化类】：所有去广告、精简、净化、NoAds
+            -e '/净化|去广告|精简|无广告|NoAds|pure|noads|去启动广告|去广告/s/^Section:.*$/Section: 净化/' \
+            # 【破解类】：所有解锁、会员、SVIP、VIP、Premium、Pro、破解
+            -e '/破解|解锁|SVIP|会员|VIP|Premium|Pro|svip|vip|解锁会员/s/^Section:.*$/Section: 破解/' \
+            # 【其它类】：所有美化、工具、系统、灵动岛、键盘、分屏、水印、控制中心、主题、字体、SnowBoard、工具、插件
+            -e '/灵动岛|键盘|分屏|美化|水印|控制中心|主题|字体|SnowBoard|工具|插件|系统增强|RootHide|AppData|Flex|分屏|全局水印|键盘自定义|开关|液态玻璃|小组件|音乐播放器|主副卡|自定义图标|ReachPlayer|CCUIPlayer|SuTheme|Laetus|ScreenShellPro|TrollOpen|FilzaCarPlugin|WCChannelsDownloader|WeChatEmoticonToSelfie|WXKeyboardUIHook|Lynx 2|米家优化|美团优化|百度地图优化|高德地图优化|灵动岛进度环/s/^Section:.*$/Section: 其它/' \
+            # 兜底：所有没匹配到的，统一归到「其它」，彻底消灭旧分类
+            -e 's/^Section:.*$/Section: 其它/' \
             Packages.raw > Packages
           
           zstd -f Packages -o Packages.zst
@@ -38,6 +43,6 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Packages Packages.zst
-          git commit -m "Auto-update Packages with auto-categories" || echo "No changes to commit"
+          git commit -m "Auto-update Packages with full auto-categories" || echo "No changes to commit"
           git pull origin master --rebase
           git push -f origin master
