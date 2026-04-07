@@ -1521,6 +1521,22 @@ Description: cool
 Author: wkk
 Name: 美团优化
 
+Package: com.xx.baiduhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/xx.百度地图优化_1.0.2-arm64.deb
+Size: 124518
+MD5sum: d0cb211557aeec5a9b9ee6934154aeda
+SHA1: 29d5d239c353e3658169fb214dd5b38a873800d7
+SHA256: 8cf2629077db9a092a80181dbbc822c0807e773d082bf1d6b4af4606558099bd
+Section: Tweaks
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部tab | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭 || 1.0.2更新内容：新版支持
+Author: x✨
+Name: 百度地图优化
+
 Package: com.xx.gaodehook
 Version: 1.0.4
 Architecture: iphoneos-arm64
