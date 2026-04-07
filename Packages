@@ -667,6 +667,22 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.hw.dzyjvip
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 🅷🆆
+Installed-Size: 2192
+Depends: mobilesubstrate
+Filename: debs/hw.地震预警_0.0.1-arm64.deb
+Size: 431472
+MD5sum: 0a9e1e741f8b422ada42d77d48a42776
+SHA1: 41e99f6ffe37b675d3743ae9baf32b66e12a73f7
+SHA256: 3c1864a5bc41e333ae347958c82dff3db46f44686c29c31fa054ee0acbc4f0ab
+Section: 插件
+Description: 解锁会员 - TG：@HelloWorld_1024
+Author: 🅷🆆
+Name: 🅷🆆 地震预警
+
 Package: com.ios16dao
 Version: 5.2.0-100
 Architecture: iphoneos-arm64
