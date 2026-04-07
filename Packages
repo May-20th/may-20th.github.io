@@ -29,7 +29,7 @@ Size: 385638
 MD5sum: 9dd7f824e0bfb1dade72477e9e4f1d61
 SHA1: 7bac97f4b02cdbc1188b140a8b86626594790308
 SHA256: 07dbb6c3290bb16110419d1acf4df55aa2f47300eb890734071a620a61703323
-Section: 软件破解
+Section: 破解
 Description: 地震预警是App Store里的一款软件，配合本插件介绍会员权限，说不定什么时候能救你小子狗命！
 Author: HW
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -48,7 +48,7 @@ Size: 23762
 MD5sum: 8f522868ef3ad577c51e1001a0aee473
 SHA1: 785baa82512fd07e866f1e6aee5b3e9382961e55
 SHA256: 1c35822e9129194f665c493a8461a6164078db0609a7b33b4e8a22542941712c
-Section: 软件破解
+Section: 破解
 Description: 支付宝首页，长按任一底栏就可以打开插件设置，更新后需重新设置！插件没效果的解除对支付宝的越狱屏蔽检测
 Author: ylr
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -379,7 +379,7 @@ Size: 67044
 MD5sum: fc419fa2e9f9dab18cf651fa200adcd1
 SHA1: cdebcd1c14b05c49d45c49db6b731d0e7faa242c
 SHA256: 88029d37d2e1cd21874a88e96103f2a60357a0178e215f41de9a73e028cc1c07
-Section: 灵动岛
+Section: 其它
 Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。集成授权校验联系:VCR66T
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
@@ -397,7 +397,7 @@ Size: 67104
 MD5sum: e8adc5e877101c175493289bf858e899
 SHA1: 4cdba911b7703d55a248ab23e88a694e264dd1b3
 SHA256: 442d139c5d66f80479440a98671341048c78cfd6f19c4821221b8310e9540c5f
-Section: 灵动岛
+Section: 其它
 Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。集成授权校验联系:VCR66T
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
@@ -697,7 +697,7 @@ Size: 55764
 MD5sum: 2223ae925766ac95bac914aad5bad9bd
 SHA1: 583a0efa498d77c13836c366207c043c9157097e
 SHA256: 29ad6b936e75a59678568d63c6f0482aa1e2a931afc5804e5e2308e46880e9c5
-Section: 灵动岛
+Section: 其它
 Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。
 Author: Axs
 Name: ios16灵动岛
@@ -713,7 +713,7 @@ Size: 55708
 MD5sum: 0560396e617a7c7edab8e5a66fbed437
 SHA1: be2133020b7de62fd1df486805f9a025acff4d2a
 SHA256: 3f9efc6b1e62564c9ff75624e04e06d22a4b0e0ae7c8ed2d57c5136fdd64018c
-Section: 灵动岛
+Section: 其它
 Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。
 Author: Axs
 Name: ios16灵动岛
@@ -1499,7 +1499,7 @@ Size: 3544
 MD5sum: 8a11617063926e7d8deb7ee050e0236f
 SHA1: cc1d3bfbd82d20986156edc180b6b03d5fd9de68
 SHA256: 4b4d37704f4f23653e20db171df1ebff623ceed206ebba00cdcb78a3a02c0173
-Section: 去广告
+Section: 净化
 Description: 去开屏广告，版本：8.68.0
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
