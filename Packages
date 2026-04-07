@@ -1058,6 +1058,22 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.snapper3.picta
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 180
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: debs/susu.picta_1.0.0-arm64.deb
+Size: 10466
+MD5sum: 6d5bf7b4ad07fd86bdda1224a71083b6
+SHA1: 72fde27044141599038c7c3c13cc8025543ead67
+SHA256: b455488c3f62b808538323ef6f96f6a1b1a01a2ce1eaf2b8da326174018e01da
+Section: 插件
+Description: Picta适配 Snapper3 的插件
+Author: SuSu
+Name: Picta
+
 Package: com.susu.sumusicplayercc
 Version: 1.0.1
 Architecture: iphoneos-arm64
