@@ -1,22 +1,3 @@
-Package: byg.iosios.net.baidudisk.rootless
-Version: 0.0.2-1
-Architecture: iphoneos-arm64e
-Maintainer: 搬运工
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/iosign.百度网盘svip.rootless_0.0.2-1-arm64e.deb
-Size: 7036
-MD5sum: 7328fc6f4545a36cf9583161aa81d9b7
-SHA1: 7c77e119d449fe317e719433cc7edb5539715d7f
-SHA256: 8b7e683d3597b23a999c085fc385370b3510df065bf51d3210b67cf2b7c0b7f7
-Section: 插件
-Description: 百度网盘解锁会员，优化去除广告，精简个人主页、解锁超清画质和倍速播放、下载不限速！显示已失去，实则功能已启用！仅适用于11.14.0版本，请使用APPdata插件，降级至11.14.0版本！本插件乃搬运工源iOSign免费首发，如需转载请注明出处！别的源会员才能用的插件在搬运工基本可以免费使用！但资源可能不多，慢慢来吧，至于劫持依赖问题，说真的我对你的依赖一点不敢兴趣，只是大多数插件依赖要多，我要一个个去修改依赖包，然后更新又多，我是忙别的没时间去弄，我又不是每天只搞越狱源！介意的勿用，但是用过的都知道搬运工是个什么样的源，给群友提供了多少帮助！网络时代，敲敲键盘就能诋毁一切，不做过多评判！
-Author: iOSign
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 百度网盘 破解-Rootless
-Sponsor: 搬运工
-
 Package: com.Axs.classickeyboardxs
 Version: 1.1-9
 Architecture: iphoneos-arm64
