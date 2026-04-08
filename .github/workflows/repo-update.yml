@@ -12,31 +12,30 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Install dependencies
-        run: sudo apt-get update && sudo apt-get install -y dpkg-dev zstd
-      - name: Generate Packages with correct format
         run: |
-          dpkg-scanpackages --multiversion debs /dev/null > Packages.raw
-          # 使用 awk 正确处理换行（RS="", ORS="\n\n" 确保段落间空行）
-          awk 'BEGIN { RS=""; FS="\n"; ORS="\n\n" } {
-            is_roothide=0;
-            for(i=1;i<=NF;i++) if ($i ~ /^(Package|Filename):.*[Rr]oothide/) is_roothide=1;
-            for(i=1;i<=NF;i++) {
-              if ($i ~ /^Section:/) {
-                if (is_roothide) $i = "Section: RootHide";
-                else $i = "Section: Tweaks";
-              }
-            }
-            print
-          }' Packages.raw > Packages
+          sudo apt-get update
+          sudo apt-get install -y dpkg-dev zstd
+
+      - name: Generate correct Packages
+        run: |
+          # 直接生成标准格式的 Packages
+          dpkg-scanpackages --multiversion debs /dev/null > Packages
+          # 将所有 Section 行统一改为 Tweaks（注意保留原格式）
+          sed -i 's/^Section:.*/Section: Tweaks/' Packages
+          # 生成压缩文件
           zstd -f Packages -o Packages.zst
-          rm Packages.raw
+
       - name: Update Sections file
-        run: printf "Tweaks\nRootHide\n" > Sections
-      - name: Commit and push
+        run: echo "Tweaks" > Sections
+
+      - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add Packages Packages.zst Sections
-          git commit -m "Auto: Tweaks/RootHide with correct format" || echo "No changes"
-          git push
+          git commit -m "Fix: regenerate correct Packages format" || echo "No changes"
+          git push origin master
