@@ -23,7 +23,6 @@ jobs:
       - name: Generate Packages with auto-detection
         run: |
           dpkg-scanpackages --multiversion debs /dev/null > Packages.raw
-          # 逐段处理：如果包名（Package字段）或文件名（Filename字段）包含 "roothide"（不区分大小写），则设为 RootHide，否则 Tweaks
           awk '
             BEGIN { RS=""; FS="\n"; ORS="\n\n" }
             {
@@ -43,9 +42,8 @@ jobs:
           zstd -f Packages -o Packages.zst
           rm Packages.raw
 
-      - name: Update Sections file (both categories)
-        run: |
-          printf "Tweaks\nRootHide\n" > Sections
+      - name: Update Sections file
+        run: printf "Tweaks\nRootHide\n" > Sections
 
       - name: Commit and push changes
         run: |
