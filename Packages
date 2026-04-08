@@ -919,6 +919,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
 Name: 支付宝步数(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zfbhook/js.json
 
+Package: com.sini921.photohub
+Version: 0.0.1-5
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/sini.photohub_0.0.1-5-arm64.deb
+Size: 58612
+MD5sum: 577aa2af4114dc0756ee23f8fba8c06d
+SHA1: a0a9e1c5005e2c347e41b16925df2b9df7e54431
+SHA256: 5fb41b4c78c4956e4c202e50eb3c01fac278fb34206b064bab18e5ffcf4f1a4a
+Section: Tweaks
+Description: 系统相册App简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/photohub.png
+Name: PhotoHub(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/photohub/js.json
+
 Package: com.sini921.reachplayer
 Version: 2.26-3
 Architecture: iphoneos-arm64
