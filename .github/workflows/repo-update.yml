@@ -20,18 +20,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y dpkg-dev zstd
 
-      # 确保 Sections 文件存在且内容为 Tweaks
       - name: Update Sections file
         run: echo "Tweaks" > Sections
 
       - name: Generate Packages
         run: |
           dpkg-scanpackages --multiversion debs /dev/null > Packages.raw
-          # 删除所有已有的 Section 行，再统一添加一行 Section: Tweaks
-          sed -i '/^Section:/d' Packages.raw
-          echo "Section: Tweaks" >> Packages.raw
-          # 对文件进行排序（保持整洁）
-          sort -u Packages.raw > Packages
+          # 只修改 Section 行，不改变其他任何结构和顺序
+          sed 's/^Section:.*/Section: Tweaks/' Packages.raw > Packages
           zstd -f Packages -o Packages.zst
           rm -f Packages.raw
 
@@ -40,5 +36,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Packages Packages.zst Sections
-          git commit -m "All to Tweaks" || echo "No changes"
+          git commit -m "Fix: correct Packages format (no sort)" || echo "No changes"
           git push origin master
