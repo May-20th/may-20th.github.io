@@ -862,7 +862,7 @@ Size: 554970
 MD5sum: ab3bbc44c595a8ad00ec050847c570c5
 SHA1: 4de4c00605f42db3d1623afc9a9509406b7eba00
 SHA256: 8759fdec529e757824d5177b03cec4ac2686ff48dad60649899b296b9e8eef5a
-Section: Tweaks
+Section: RootHide
 Description: 全局系统颜色自定义
 Author: MrShi
 Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
