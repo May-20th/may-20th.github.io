@@ -1,3 +1,3 @@
 # XY's Repo 🥳🥳🥳
     
-欢迎使用 **XY's Repo**！这是一个基于 GitHub Pages 搭建的 iOS 私人越狱软件源！
+欢迎使用 **XY's Repo**！这是一个基于 GitHub Pages 搭建的iOS越狱插件源 · 纯净稳定
