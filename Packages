@@ -957,6 +957,22 @@ Description: 控制中心发光
 Author: Simon
 Name: 控制中心发光
 
+Package: com.simon.ccmusic
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 564
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/simon.控制中心音乐模块动画_2.4-arm64.deb
+Size: 75316
+MD5sum: 6fc90596ee54d48f924709e4bd0a3ddb
+SHA1: 61e88951c1ad7461be7e8656ab8170f0c49fa324
+SHA256: f6d755539047566c04866948cf70dfef6ca3e223e8d7a5addef3bcbeee2030c7
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Name: 控制中心音乐模块动画
+
 Package: com.simon.ccweathermodule
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -988,6 +1004,22 @@ Section: Tweaks
 Description: 用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
 Author: Simon
 Name: 控制中心模块
+
+Package: com.simon.dynamicislandanimation
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: debs/simon.灵动岛跳舞动画plus_2.4-arm64.deb
+Size: 80138
+MD5sum: f54b62060533ec551c1b21924bb4a76f
+SHA1: b38630fbc0a17a3d444d79d9a83cf19c7c759c80
+SHA256: 4d08d430ebc1e0cdcee77ca03f8ee8ec16ed993bbd002d3eb9ea2f76e2864ba9
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Name: 灵动岛跳舞动画PLUS
 
 Package: com.sini.dyyy
 Version: 2.2-9-build1653
