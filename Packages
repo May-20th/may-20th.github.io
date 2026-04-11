@@ -1292,6 +1292,22 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/switchpro.png
 Name: SwitchPro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/switchpro/js.json
 
+Package: com.snail.autovpn.rootless
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 1048
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: debs/snail.autovpn_1.0.8-arm64.deb
+Size: 279826
+MD5sum: 93a6c80f68bca1dee30ce7f2949f59d1
+SHA1: 6068d7350fef35d86c74df117a5534d033f12987
+SHA256: d742ad6fe6595b9ffc058967be4f575dff4fd95cae678ac6a7ed1ec3e3cc08d4
+Section: Tweaks
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
+Author: Snail <mu514983786@gmail.com>
+Name: AutoVPN 自动VPN
+
 Package: com.spark.laetus
 Version: 3.5.1-rootless
 Architecture: iphoneos-arm64
