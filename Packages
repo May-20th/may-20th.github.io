@@ -1077,6 +1077,24 @@ Name: 支付宝步数(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zfbhook/js.json
 
 Package: com.sini921.ccloader
+Version: 0.0.1-10
+Architecture: iphoneos-arm64
+Maintainer: 橙子
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/sini.ccloader_0.0.1-10-arm64.deb
+Size: 146784
+MD5sum: 22716d5126d7ada45d8979cad07f550f
+SHA1: 44cc161734fb9faf67bfd2eb95aac4d864090398
+SHA256: 341c6f49cf4ae5b47406924502f1553304b9da18a4a029f5f8ce83d28e8fa69a
+Section: Tweaks
+Description: 控制中心CAPackage加载器
+Author: 橙子
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccloader.png
+Name: CCLoader(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccloader/js.json
+
+Package: com.sini921.ccloader
 Version: 0.0.1-5
 Architecture: iphoneos-arm64
 Maintainer: 橙子
