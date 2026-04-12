@@ -1184,6 +1184,24 @@ Name: CCLoader(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccloader/js.json
 
 Package: com.sini921.ccloader
+Version: 0.0.1-14
+Architecture: iphoneos-arm64
+Maintainer: 橙子
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/sini.ccloader_0.0.1-14-arm64.deb
+Size: 146698
+MD5sum: 26fae3c6ba4702fbde74ebafd1905595
+SHA1: 38801fc9051113073a50a9c98f035a0027c4c09d
+SHA256: 1a33e2a5b3be5cd3c347f199d8f7b2011e63fc605112c21c76ba362652c6f72c
+Section: Tweaks
+Description: 控制中心CAPackage加载器
+Author: 橙子
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccloader.png
+Name: CCLoader(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccloader/js.json
+
+Package: com.sini921.ccloader
 Version: 0.0.1-5
 Architecture: iphoneos-arm64
 Maintainer: 橙子
