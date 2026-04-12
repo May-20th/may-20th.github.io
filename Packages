@@ -784,6 +784,23 @@ Author: Fouad Raheb
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 
+Package: com.iosdump.appdata
+Version: 1.9.4
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/fouad.appdata_1.9.4-arm64.deb
+Size: 352110
+MD5sum: 6d3f7e5f5c2197124fed520704efb7be
+SHA1: 0fe74f55572dae78471b4d7b8b7bbdbe3413d89c
+SHA256: b535ab5feb7f5d5fb4f24d1f04e38dfcbd667edd4de117085826fdd20f71996a
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Fouad Raheb
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
 Package: com.iosdump.filzacarplugin
 Version: 1.0.0
 Architecture: iphoneos-arm64
