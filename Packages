@@ -2032,6 +2032,22 @@ Description: ReachPlayer便捷访问音乐专辑
 Author: 苏苏 <kk99588077@gmail.com>
 Name: ReachPlayer音乐专辑
 
+Package: dylv.liquidass
+Version: 6.alpha
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 1092
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/dylv.ios26玻璃特效_6.alpha-arm64.deb
+Size: 186806
+MD5sum: c0c4acf83663d755b024ac628910a2df
+SHA1: b3cec18e131ccd85e911f0696b5e46595a60df8d
+SHA256: 0c47dfb19c99cc53c893c0e11159466f738ce1f32fcfb5bbb379e34b2da8b248
+Section: Tweaks
+Description: ass
+Author: dylv
+Name: liquidass
+
 Package: flex3
 Version: 1:3~Beta90
 Architecture: iphoneos-arm64
