@@ -1,5 +1,4 @@
 name: Update Repo Packages
-
 on:
   push:
     paths:
@@ -19,23 +18,20 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y dpkg-dev zstd
+          # 给所有deb包添加全局读权限，彻底解决Permission denied
+          chmod -R 644 debs/*.deb
 
-      - name: Generate correct Packages
+      - name: Generate Packages
         run: |
-          # 直接生成标准格式的 Packages
-          dpkg-scanpackages --multiversion debs /dev/null > Packages
-          # 将所有 Section 行统一改为 Tweaks（注意保留原格式）
-          sed -i 's/^Section:.*/Section: Tweaks/' Packages
-          # 生成压缩文件
+          dpkg-scanpackages --multiversion debs /dev/null > Packages.raw
+          sed -E 's/^Section:.*$/Section: Tweaks/' Packages.raw > Packages
           zstd -f Packages -o Packages.zst
-
-      - name: Update Sections file
-        run: echo "Tweaks" > Sections
+          rm -f Packages.raw
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add Packages Packages.zst Sections
-          git commit -m "Fix: regenerate correct Packages format" || echo "No changes"
-          git push origin master
+          git add Packages Packages.zst
+          git commit -m "Auto-update: All to Tweaks" || echo "No changes"
+          git push -f origin master
