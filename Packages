@@ -16,6 +16,24 @@ Icon: https://axs66.github.io/repo/icon/classickeyboardxs.png
 Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
+Package: com.Axs.lightisle
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: 旧约
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.1)
+Filename: debs/axs.灵动岛手电筒_1.0.0-2-arm64.deb
+Size: 953728
+MD5sum: d7de10d50519f18e14bb4e6b5efd2e87
+SHA1: bbd326c180d35cca12a18e61b62752d6efa04e11
+SHA256: 1f557d12f5aeb88024eaf1a92cd8af9f7d5f1ed1497df69ecd4dd94fbcd0c268
+Section: Tweaks
+Description: 为iOS16添加灵岛手电筒控制
+Author: 旧约
+Icon: https://axs66.github.io/pro/icon/lightisle.png
+Name: LightIsle手电筒
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lightisle/js.json
+
 Package: com.Doki.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
