@@ -18,8 +18,12 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y dpkg-dev zstd
-          # 给所有deb包添加全局读权限，彻底解决Permission denied
-          chmod -R 644 debs/*.deb
+
+      - name: Fix deb permissions (兜底)
+        run: |
+          # 给所有deb包添加全局读权限，强制解决Permission denied
+          sudo chmod -R 644 debs/*.deb
+          sudo chown -R $(whoami):$(whoami) debs/
 
       - name: Generate Packages
         run: |
