@@ -1,3 +1,19 @@
+Package: ch.xxtou.hudapp.jb
+Version: 2.0-13
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 640
+Depends: firmware (>= 14.0)
+Filename: debs/lessica.网速显示_2.0-13-arm64.deb
+Size: 163526
+MD5sum: 2a4098497d0d1198a4e4d1915004d555
+SHA1: f3886f45e59cdb4c3213ea0fe9a476c409058f82
+SHA256: bf72cec5838030da646cf7d6cb0a212702326a8c9baecc4f5a9999229a61da19
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
 Package: com.Axs.classickeyboardxs
 Version: 1.1-9
 Architecture: iphoneos-arm64
