@@ -1345,6 +1345,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccloader.png
 Name: CCLoader(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccloader/js.json
 
+Package: com.sini921.lockscreenhelper
+Version: 0.0.1-10
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 668
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/sini.LockScreenHelper-0.0.1-10-arm64.deb
+Size: 76048
+MD5sum: 5618e7e38a08f2a48531ff9617cf1db6
+SHA1: f0a889d4deca87d14eadd550811dcc782d547aaf
+SHA256: e17dd762c8a2f74b3e4e7457fb9bbaaf21578c54b8fb1ae2345f4d8763813e22
+Section: Tweaks
+Description: 锁屏界面相关的简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Name: LockScreenHelper(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
+
 Package: com.sini921.photohub
 Version: 0.0.1-5
 Architecture: iphoneos-arm64
