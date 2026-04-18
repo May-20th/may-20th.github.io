@@ -14,6 +14,22 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
+Package: cn.fkj233.watchfix
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/cn.watchfix_1.0.0-arm64.deb
+Size: 113026
+MD5sum: 92d7d6a3f4b4c762737ee0409586e78e
+SHA1: 61201165495056a8de885ef5f9c0951d69c62b0b
+SHA256: 20e94a0fd514d26649ca66a56337b5f6040f1127f528b30d12b3f72d5e3c6fb3
+Section: Tweaks
+Description: Fix Apple watch connection issues
+Author: 577FKJ
+Name: WatchFix
+
 Package: com.Axs.classickeyboardxs
 Version: 1.1-9
 Architecture: iphoneos-arm64
