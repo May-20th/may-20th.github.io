@@ -949,6 +949,22 @@ Description: 将控制中心主副卡显示为自己喜欢的图片 可自定义
 Author: liuf <1602389262>
 Name: Liuf's 主副卡
 
+Package: com.meo.wcvoice
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: debs/meo.独立语音包_1.0.0-arm64.deb
+Size: 56404
+MD5sum: f172b79d12559432f9ccc013e7bd59f3
+SHA1: bff006189b6fc6139dc90e39fdf057d6a3fbc156
+SHA256: 85c5a6b6419fed36bc8def206d566d9558ee6cc4d8c92d206340ca7422295f9b
+Section: Tweaks
+Description: 独立语音包管理插件
+Author: Meo
+Name: WCVoice
+
 Package: com.mtac.vitreux
 Version: 1.4
 Architecture: iphoneos-arm64
