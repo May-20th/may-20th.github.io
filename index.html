@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>XY's Repo</title>
+    <title>XY's 越狱插件源</title>
     <link rel="icon" type="image/png" href="CydiaIcon.png">
     <style>
         * {
@@ -37,12 +37,12 @@
         .container {
             position: relative;
             z-index: 1;
-            max-width: 460px;
+            max-width: 420px;      /* 略微收窄 */
             width: 100%;
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(16px);
             border-radius: 48px;
-            padding: 48px 32px;
+            padding: 32px 28px;     /* 减小内边距 */
             text-align: center;
             box-shadow: 0 20px 40px rgba(0,0,0,0.3);
             border: 1px solid rgba(255,255,255,0.2);
@@ -55,55 +55,48 @@
         }
 
         .icon {
-            width: 80px;
-            height: 80px;
-            margin: 0 auto 16px;
+            width: 64px;            /* 缩小图标 */
+            height: 64px;
+            margin: 0 auto 12px;    /* 减小下边距 */
             background-image: url('CydiaIcon.png');
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
-            border-radius: 20px;
+            border-radius: 16px;
             filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
         }
 
         .slogan {
             color: #ffd966;
-            font-size: 15px;
+            font-size: 13px;        /* 字体稍小 */
             font-weight: 600;
-            margin-bottom: 12px;
-            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+            letter-spacing: 0.3px;
             background: rgba(0,0,0,0.4);
             display: inline-block;
-            padding: 6px 16px;
-            border-radius: 40px;
+            padding: 4px 12px;      /* 减小内边距 */
+            border-radius: 30px;
             backdrop-filter: blur(4px);
         }
 
         h1 {
-            font-size: 38px;
+            font-size: 32px;        /* 标题缩小 */
             font-weight: 800;
             color: white;
-            margin-bottom: 8px;
-            letter-spacing: -0.5px;
+            margin-bottom: 20px;    /* 与按钮间距稍大一点，但整体紧凑 */
+            letter-spacing: -0.3px;
             text-shadow: 0 2px 10px rgba(0,0,0,0.3);
-        }
-
-        .sub {
-            color: rgba(255,255,255,0.8);
-            margin-bottom: 40px;
-            font-size: 15px;
-            font-weight: 500;
         }
 
         .btn {
             display: block;
-            padding: 16px 20px;
-            margin: 16px 0;
+            padding: 14px 20px;     /* 按钮内边距微调 */
+            margin: 12px 0;         /* 按钮间距减小 */
             background: #007aff;
             color: white;
-            font-size: 18px;
+            font-size: 17px;
             font-weight: 600;
-            border-radius: 60px;
+            border-radius: 48px;     /* 圆角略减 */
             text-decoration: none;
             transition: all 0.2s cubic-bezier(0.2, 0.9, 0.4, 1.1);
             box-shadow: 0 4px 12px rgba(0,122,255,0.3);
@@ -124,20 +117,23 @@
         }
 
         .footer {
-            margin-top: 32px;
-            font-size: 12px;
-            color: rgba(255,255,255,0.6);
+            margin-top: 20px;       /* 减小上边距 */
+            font-size: 11px;
+            color: rgba(255,255,255,0.5);
         }
 
         @media (max-width: 480px) {
+            body {
+                padding: 16px;
+            }
             .container {
-                padding: 32px 24px;
+                padding: 24px 20px;
             }
             h1 {
-                font-size: 32px;
+                font-size: 28px;
             }
             .btn {
-                padding: 14px 16px;
+                padding: 12px 16px;
                 font-size: 16px;
             }
         }
@@ -148,10 +144,8 @@
     <div class="container">
         <div class="icon"></div>
         <div class="slogan">🍭 不要为了越狱而放弃升级的乐趣</div>
-        <h1>XY's Repo</h1>
-        <div class="sub">iOS 越狱插件源 · 纯净稳定</div>
+        <h1>XY's 越狱插件源</h1>
         
-        <!-- 注意：源地址已改为 https://may-20th.github.io/ -->
         <a class="btn" href="sileo://source/https://may-20th.github.io/">
             添加到 Sileo
         </a>
