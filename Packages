@@ -460,6 +460,21 @@ Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 Name: ScreenShell Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
 
+Package: com.baiy.bubblerename
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy <961666883>
+Installed-Size: 3400
+Depends: mobilesubstrate
+Filename: debs/baiyi.一键命名气泡-arm64.deb
+Size: 1242596
+MD5sum: e87b736f5f05009be29628c86b8af1c0
+SHA1: ff101a5e54670415bbbb363fa47e61b39f4e2c90
+SHA256: e480ba70dcc2b7798c4422f26fe6c44975358f11060926ccdf1cbcfcdced370c
+Section: Tweaks
+Author: 白衣
+Name: 一键命名气泡
+
 Package: com.baiy.keyboardhook
 Version: 2.0-6+debug
 Architecture: iphoneos-arm64
