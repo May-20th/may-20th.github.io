@@ -30,6 +30,22 @@ Description: Fix Apple watch connection issues
 Author: 577FKJ
 Name: WatchFix
 
+Package: cn.fkj233.watchfix
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: 577FKJ
+Installed-Size: 4608
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/fkj.watchfix_2.0.0-arm64.deb
+Size: 599878
+MD5sum: 00854eb5aca5ec5b94ad068f24c69171
+SHA1: 07c4a4d5b15de2285489279db6f3e12b5e944f27
+SHA256: 42db1fd1d8330177eece20d3171a1cbe71c9d9cb70b8a49d225de409f7f7b41d
+Section: Tweaks
+Description: Fix Apple watch connection issues
+Author: 577FKJ
+Name: WatchFix
+
 Package: com.Axs.classickeyboardxs
 Version: 1.1-9
 Architecture: iphoneos-arm64
@@ -1444,6 +1460,22 @@ Author: 橙子
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccloader.png
 Name: CCLoader(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccloader/js.json
+
+Package: com.sini921.disabledcirclebackground
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/sini.disabledcirclebackground_0.0.1-arm64.deb
+Size: 3500
+MD5sum: 33324a9beae12c61a4e1798206f074c7
+SHA1: 90a7857e0c91b148e3a6c66882b9aad745630945
+SHA256: ca5121c4fdd10cbc7cef8bb1315c540dea45fc23f93619fbffce111a44c234dc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: SINI
+Name: DisabledCircleBackground(rootless)
 
 Package: com.sini921.lockscreenhelper
 Version: 0.0.1-10
