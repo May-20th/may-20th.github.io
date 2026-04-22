@@ -396,6 +396,25 @@ Icon: https://axs66.github.io/pro/icon/dy.png
 Name: AwemePro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
 
+Package: com.axs.awemepro
+Version: 5.2.0-118
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1296
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/axs.AwemePro_5.2.0-118-arm64.deb
+Size: 254016
+MD5sum: 8de820fa8e89edd2b1d3dc0a01181892
+SHA1: af4e2721705671ac6539acafbb2e799a68ab0e9b
+SHA256: e9bf7370b3255cf04664a986db00f9f712d518ce35f5f26f9889743e5f5930d9
+Section: Tweaks
+Priority: optional
+Description: 一个简单的抖音自用插件，仅在37.9.0版本编译，无效请卸载!
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/dy.png
+Name: AwemePro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
+
 Package: com.axs.ios16dao
 Version: 5.2.0-161
 Architecture: iphoneos-arm64
@@ -942,6 +961,23 @@ Size: 352110
 MD5sum: 6d3f7e5f5c2197124fed520704efb7be
 SHA1: 0fe74f55572dae78471b4d7b8b7bbdbe3413d89c
 SHA256: b535ab5feb7f5d5fb4f24d1f04e38dfcbd667edd4de117085826fdd20f71996a
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Fouad Raheb
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/fouad.appdata_1.9.5-arm64.deb
+Size: 359134
+MD5sum: b282e4190d6a1298c4ebae00237a2252
+SHA1: a3d5ab4c6c766b1765819401f0a2824bfef7d0a7
+SHA256: 978926c95730c441303b5d05c09444a3b8eeb00e8864bb56c829dc89876be07f
 Section: Tweaks
 Description: 从主屏幕查看和管理应用数据
 Author: Fouad Raheb
@@ -2294,7 +2330,7 @@ Version: 5.0.0
 Architecture: iphoneos-arm64
 Maintainer: 苏苏 <kk99588077@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/susu.音乐专辑ReachPlayer_5.0.0-arm64.deb
+Filename: debs/com.yourepo.ok95.reachplayer_5.0.0_iphoneos-arm64.deb
 Size: 1259174
 MD5sum: 661d6e6bcb6511b4c3bfaf75efee2581
 SHA1: 6e7fd90867ade2c51df26b84e310cdb51bddee01
@@ -2309,7 +2345,7 @@ Version: 5.0.0
 Architecture: iphoneos-arm64
 Maintainer: 苏苏 <kk99588077@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/com.yourepo.ok95.reachplayer_5.0.0_iphoneos-arm64.deb
+Filename: debs/susu.音乐专辑ReachPlayer_5.0.0-arm64.deb
 Size: 1259174
 MD5sum: 661d6e6bcb6511b4c3bfaf75efee2581
 SHA1: 6e7fd90867ade2c51df26b84e310cdb51bddee01
