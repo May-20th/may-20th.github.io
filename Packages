@@ -2124,6 +2124,304 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/appstore.png
 Name: StoreSwitcher2
 
+Package: com.susu.suawemehook
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-1-arm64.deb
+Size: 20496
+MD5sum: dd6b2e8733cff98074edd2f13fdedd87
+SHA1: 1369ffee80a447deaddf197428eff643707efc85
+SHA256: 6b25a5faa1d38e4098f59a47ce6205893114b769cfa61b68c4b26b02fa2d3644
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-2-arm64.deb
+Size: 20922
+MD5sum: 178cb403429e0265078bdb6a538030f1
+SHA1: b4cbc40cfc139973836235196afb4af56bec4709
+SHA256: bf13253f4024f4277ca3988fc519b6031592baa5eaba8f47b1bf3758d38e1052
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-3-arm64.deb
+Size: 21000
+MD5sum: d98f87fea013093a08f953d2bd6cd27e
+SHA1: 3887374ae934f4d7d10c45a93d5345cb662abbd9
+SHA256: e4c459d58c800f3ab0aeb53dd61a90ce998127aa799b9efbf641536da14988db
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-4-arm64.deb
+Size: 21798
+MD5sum: fc83894a17d882968c7e455d23cc495b
+SHA1: ff4d0c2ec936555e944c53c2866b8597515039e9
+SHA256: dddf65b3becace6ade9609af9c0c5ea6048c5b7a9ae6ad793a6d35403f023053
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-5-arm64.deb
+Size: 22608
+MD5sum: 5ce42842b7cd37f37b028d97102f167e
+SHA1: 1b13aaab6f032d2c5d77f5b47836731fe64a0d3d
+SHA256: d758d18a8534e8afd05d42a520db2cb462b8f3a6499d56b0cc3d6e391fcf76ac
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-6-arm64.deb
+Size: 22668
+MD5sum: a911307f84bacdb821d21a104297ac28
+SHA1: 92bb3d6dfc49add6321e61c2c7ad37648990b25b
+SHA256: a1d61d64521e0bd0c923f00d336682fa85034b20d0ef749338f2c9bca8ea1070
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.2-7
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-7-arm64.deb
+Size: 22432
+MD5sum: 69a72ef178370f940c4e17f8ed26bd0f
+SHA1: 3cb1500db76d789e27f10f49b3d16c7da4de55dd
+SHA256: 468fa1d041dbb804239ac8f7711e7daa37e484f236b53248eb4f7d5477ae373c
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.2-8-arm64.deb
+Size: 22844
+MD5sum: a60c037b17a2d2d86627eb1a7b2be8cc
+SHA1: 3989fdc4e6a423e598887772b8e9cb913c67c286
+SHA256: d0423957f86b16afd45213c2f480ac66b2433b7d13a4fa976b7ee599da44733d
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化End_1.3-arm64.deb
+Size: 23046
+MD5sum: 7b3cc16edad4019b3cc9b2edb9bcc933
+SHA1: 9ca7b3578fd8df8c14cb3bd9ae65cc7bad6365bf
+SHA256: ccaeac8ec7880e377370e24f2e65d6b14e03cf1dddca9e62e80a0b24896c572b
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook End
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.3.1-arm64.deb
+Size: 23204
+MD5sum: 5464b79e36907c46da23821544c48ce7
+SHA1: 2c0a9c3401812cfcac0e41d2829e07c4a844f1cc
+SHA256: 81ac56c7721df199337eb47fe48cc4be0830bd9d7db65549bd7a7668ea3d29a3
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.3.2-arm64.deb
+Size: 23426
+MD5sum: 4606a27351c4db80cb9b27e6e0ae0a90
+SHA1: d4daaa430a423b955bf22507a2bfa97cd0620a9c
+SHA256: 248141c5ee648c68c2059b6422b141f152bc1ec9434fa95f167a384567e510af
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 332
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.3.3-arm64.deb
+Size: 31996
+MD5sum: cdfdb240ab0c5403e1d923cb292df966
+SHA1: f402c41fdb2a6243424ed406ade01ccb50443dab
+SHA256: 4eb463190f3039cb6edef4ed5030cbb0b8229fc2f6ac6cb0cd212cde4ee15948
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 332
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.3.5-arm64.deb
+Size: 31584
+MD5sum: 542e33df5fc34d3429fdcead1da33baf
+SHA1: f31fa0b8f912cc4d153713ab3233f36dce126e74
+SHA256: 7dd17af7f9b236236154046d97939a90635d7eedd231aa5903c2635d1136a41e
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 352
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.3.6-arm64.deb
+Size: 37462
+MD5sum: 48411fb7cde8cef1cab29d32b1782336
+SHA1: 28362b19d323974dd7d7130fbf8399f91e2a283a
+SHA256: 336c801e3bf218672a73ba6d91681aeb3c1dc26088717d4673e09fa73a20d2b7
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.3.7-arm64.deb
+Size: 42508
+MD5sum: cbbe41667c2245486abf5f5c1777ef09
+SHA1: f516ceb27ad0cfc7b883c98905917e1a103b6b33
+SHA256: 8d3069e5c5df039bf169b98c6e6fe7da0cc1d963769049d540a1e22c5044ce68
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.8
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/susu.抖音净化_1.3.8-arm64.deb
+Size: 46100
+MD5sum: 8708d59344a38cf22fa8f3c686577001
+SHA1: afebe437bb2d9e10dc3b0e4f2ac469e55eba2b6b
+SHA256: 2cfdcaa2528f7d73f96ec0f1c026f34ec836b60ddd5b60cae5949923c7456f7d
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
 Package: com.susu.sumusicplayercc
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -2172,6 +2470,23 @@ Section: Tweaks
 Description: 自定义应用图标
 Author: 苏苏
 Name: SuTheme
+
+Package: com.susu.suxhshook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/susu.小红书净化_1.0-arm64.deb
+Size: 12174
+MD5sum: 3400390ddad0208e8b1271a2fc2c5ddd
+SHA1: 25f4b363298ce58c8f25b09be0ccab23b66299f8
+SHA256: 113cc2d49708580ad15ce711ff74eab353def113562c405433a958cd18197f33
+Section: Tweaks
+Description: 小红书调整，关于页面双击版本号启用。原xhsplus
+Author: susu
+Icon: https://www.susubaby.top/images/xhs.png
+Name: SuXHSHook
 
 Package: com.susubody.latchkey
 Version: 2.3.2
