@@ -817,6 +817,23 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.fiore.calculatorhistory
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: debs/susu.计算器历史_1.8-arm64.deb
+Size: 23276
+MD5sum: 8e390a8415058b60441c755765555aed
+SHA1: d8d30b9de8870cc241189b2dfe27b9356ad050a4
+SHA256: 299593f0c7a20700301af91df42a74248c999d30ed628d658ce908de6a9fd6f9
+Section: Tweaks
+Description: 计算器获得历史记录!
+Author: fiore
+Icon: https://www.susubaby.top/images/jisuanqi.png
+Name: CalculatorHistory
+
 Package: com.hw.dzyjvip
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1015,6 +1032,37 @@ Section: Tweaks
 Description: 提取与修改 Assets.car 资源 (Filza 插件)
 Author: iosdump
 Name: FilzaCarPlugin
+
+Package: com.julioverne.spotilife
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: debs/susu.Spotify解锁_1.8-arm64.deb
+Size: 104056
+MD5sum: 55fe5bf85466ec1f9f4591ea8e9f10e8
+SHA1: 4a7870d48fb78616e72c815a3f773ec7c39ea1e1
+SHA256: af70a6f8c02e34c041ce35dab89a44b2c594b2257de0a0c3b37c1a24ec78dcb4
+Section: Tweaks
+Description: Spotify无限跳过，删除广告，解锁超高质量流。。。需要Spotify应用程序 (AppStore)
+Icon: https://www.susubaby.top/images/spotify.png
+Name: Spotilife
+
+Package: com.level3tjg.sposifyfix
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: level3tjg
+Depends: mobilesubstrate (>= 0.9.5000), com.spos
+Filename: debs/susu.Sposify Fix_0.0.6-arm64.deb
+Size: 15500
+MD5sum: c4a0bcfc15ed9c5250033206f8fa0d07
+SHA1: 785ab083932a0c90a2a4ae140b9a717cd94bec67
+SHA256: 9ade5a1ab4d9a3ccc2d234c25744c510caa8f215ec52ed91d8416bab5f0dde9e
+Section: Tweaks
+Description: Fix for Sposify for Spotify v8.6.30
+Author: level3tjg
+Icon: https://www.susubaby.top/images/spotify.png
+Name: Sposify Fix
 
 Package: com.link.aweme
 Version: 1.0.5
@@ -1873,6 +1921,23 @@ Description: Picta适配 Snapper3 的插件
 Author: SuSu
 Name: Picta
 
+Package: com.susu.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 212
+Depends: firmware (>= 11), mobilesubstrate
+Filename: debs/susu.App-Store账户切换_1.0.7-arm64.deb
+Size: 14996
+MD5sum: 113bb7a80a40fc2e54607ab337e83dd4
+SHA1: c997e1e33f801bf98cb26ff3a9dea154acc5b63e
+SHA256: 7600c8322e83fb9bb53cf3bb0bce61fbe3ac3f327aef6ae9619ed8a361c1ca2f
+Section: Tweaks
+Description: App Store 账户快速切换。苏苏修改编译，优化了账号切换逻辑
+Author: 苏苏
+Icon: https://www.susubaby.top/images/appstore.png
+Name: StoreSwitcher2
+
 Package: com.susu.sumusicplayercc
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -1921,6 +1986,23 @@ Section: Tweaks
 Description: 自定义应用图标
 Author: 苏苏
 Name: SuTheme
+
+Package: com.susubody.latchkey
+Version: 2.3.2
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/susu.自定义锁头_2.3.2-arm64.deb
+Size: 423112
+MD5sum: 23e7e78c4f956b106617d34f3d30f5e1
+SHA1: 1541d5e7604c8441e19943c9dedea7811fef5002
+SHA256: fb7360a66a97cd2782fe74b05861bf5134d50aefb87832f894c5f07c04955f98
+Section: Tweaks
+Description: 自定义锁头图标和位置
+Author: Maxwell Dausch
+Icon: https://www.susubaby.top/images/latchkey.png
+Name: Latchkey
 
 Package: com.swing.ddmcnoads
 Version: 1.0.0
