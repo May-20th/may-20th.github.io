@@ -1960,6 +1960,68 @@ Icon: https://www.susubaby.top/images/batteryestimate.png
 Name: iOS18BatteryEstimate
 Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
 
+Package: com.susu.nopreferencetips
+Version: 1.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: debs/susu.隐藏非官方电池提醒_1.0.2-1-arm64.deb
+Size: 5490
+MD5sum: 0ce92cbd9b971f37ba59ab19b88f4d1d
+SHA1: 673a3fe5e0fd1ef64830e67f0c82d30861db0ca5
+SHA256: d7709f58972fe0b08a39aa7a4bdfd409f6bbd9b4c505375abd0fe6e110f4a256
+Section: Tweaks
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 修复“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
+Package: com.susu.nopreferencetips
+Version: 1.0.3-7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: debs/susu.隐藏非官方电池提醒_1.0.3-7-arm64.deb
+Size: 7016
+MD5sum: 9198e72487653355fd91029282b03586
+SHA1: cbfe82bedeb2d1cdbbe90019ad08d60be42621bf
+SHA256: 93794d19ace9c58fa17717f7f90b2658158f722d131ff1586b630496d2190f5d
+Section: Tweaks
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 支持iOS15-iOS16
+   * 修复“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
+Package: com.susu.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: debs/susu.隐藏非官方电池提醒_1.0.4-arm64.deb
+Size: 5386
+MD5sum: b9e7e36b4800edff79ce0540e800e81d
+SHA1: d6a55d46e3233007838ecdb4e13a13914f580f89
+SHA256: f5830ad34a7c4b1e63cd2af2dac0d8da13d949481b56dfb145fd9d704592003d
+Section: Tweaks
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 支持 iOS15-iOS16
+   * 移除“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
 Package: com.susu.photos
 Version: 1.0.0
 Architecture: iphoneos-arm64
