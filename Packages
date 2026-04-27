@@ -377,6 +377,24 @@ Icon: https://repo.abox.plus/api/packageinfo/com.apple.zhihu/icon.png
 Name: 知乎净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.zhihu.json
 
+Package: com.axs.appiconbundles
+Version: 5.2.0-30
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/axs.appicon_5.2.0-30-arm64.deb
+Size: 33936
+MD5sum: 9fad688b34cb0bf23304d67f531415be
+SHA1: f666bf520fe4625ffa77077294eb7871b151cb2c
+SHA256: a87f671e0669516bb41630f5717fa64d9e8f9bbfd4e318cfb0c0b0b0ee8cb1ac
+Section: Tweaks
+Description: Replace SpringBoard home screen and Dock app icons from theme folders under /var/mobile/Axs/IconBundles by bundle identifier file names.
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appicon.png
+Name: AppIcon
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appicon/js.json
+
 Package: com.axs.awemepro
 Version: 5.2.0-106
 Architecture: iphoneos-arm64
