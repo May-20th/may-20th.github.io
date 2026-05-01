@@ -395,6 +395,24 @@ Icon: https://axs66.github.io/pro/icon/appicon.png
 Name: AppIcon
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appicon/js.json
 
+Package: com.axs.appiconbundles
+Version: 5.2.0-86
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 468
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/axs.appiconbundles_5.2.0-86-arm64.deb
+Size: 47136
+MD5sum: 1f5619581a7c52946463396aaab63a54
+SHA1: f289b650edcd856f7904deaaf0cb0c67991d01a4
+SHA256: c90e6b7f8b20ea45f5e011e58f1488b75cb48ca2e3837d788d26bf3283366914
+Section: Tweaks
+Description: Replace SpringBoard home screen and Dock app icons from theme folders under /var/mobile/Axs/IconBundles by bundle identifier file names.
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appicon.png
+Name: AppIcon
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appicon/js.json
+
 Package: com.axs.awemepro
 Version: 5.2.0-106
 Architecture: iphoneos-arm64
