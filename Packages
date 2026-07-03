@@ -4127,6 +4127,22 @@ Author: Spark & Dennis D. Bednarz
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard
 
+Package: com.susu.batteryestimate
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/susu.batteryestimate_0.0.1-arm64.deb
+Size: 21348
+MD5sum: 24166b8d33c971f8dc4ce245e7b19269
+SHA1: ae1303957d73b0fef9d0fc534bf195af70be8a0e
+SHA256: 285494befffaf52dbd68d05a4d70e0b1cb06742c85892a825e39347636b825a9
+Section: Tweaks
+Description: 锁屏界面一个电池信息模块，点击可以复制设备电池当前信息。
+Author: SuSu
+Name: BatteryEstimate
+
 Package: com.susu.ccuiplayer
 Version: 1.0.7
 Architecture: iphoneos-arm64
