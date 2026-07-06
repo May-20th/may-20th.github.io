@@ -4878,6 +4878,22 @@ Author: Maxwell Dausch
 Icon: https://www.susubaby.top/images/latchkey.png
 Name: Latchkey
 
+Package: com.susudear.susuocr
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader, com.jontelang.snapper3 (>= 1.1.1)
+Filename: debs/susu.susuocr_0.0.1-arm64.deb
+Size: 64296
+MD5sum: d59d71b9c406af3fe78b5cb8a46e6d16
+SHA1: 8f2ce9443b88fef5937f2e98af037716fe7175d9
+SHA256: 641a2ec1da3d7b590b5c89930bed2c285310ab1d1a2a436a5c9404193b1b5820
+Section: Tweaks
+Description: Snapper 3 OCR plugin using cloud PaddleOCR API.
+Author: SuSuDear
+Name: SuSuOCR
+
 Package: com.swing.ddmcnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
