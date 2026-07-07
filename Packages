@@ -1710,6 +1710,22 @@ Description: 移除123盘启动广告及一些内置广告弹窗等   QQ 群：2
 Author: ColorBlack
 Name: 123PanNoAds
 
+Package: com.colorblack.qqreader.nosplash
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/colorblack.QQ阅读去开屏_1.0.2-arm64.deb
+Size: 10922
+MD5sum: c16ae7a86dae940afa73fc2c266b0be2
+SHA1: 1544b59e1aa361fff730801ec6601b2cd69d2981
+SHA256: 1659fbe918278d7348b55daa9beb600f315704a09709d2709d66838da45cc10b
+Section: Tweaks
+Description: QQ阅读去开屏广告，由群友（Edison"）自费单独定制，感兴趣可加 QQ群：205928931
+Author: colorblack
+Name: QQyuedu_NoAd
+
 Package: com.colorblack.shouji360noad
 Version: 0.0.3
 Architecture: iphoneos-arm64
