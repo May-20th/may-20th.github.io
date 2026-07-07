@@ -4885,10 +4885,10 @@ Maintainer: SuSuDear
 Installed-Size: 544
 Depends: mobilesubstrate, preferenceloader, com.jontelang.snapper3 (>= 1.1.1)
 Filename: debs/susu.susuocr_0.0.1-arm64.deb
-Size: 66254
-MD5sum: 99b5fdfa027aa03f5cc1e60898e4bc84
-SHA1: 4d52399a8b38f3b9cecb7dda17dfc122f098f843
-SHA256: 16315c249973e115fd65617c1d09300c3f7d3133dc4252c835aeeae4f873821e
+Size: 65930
+MD5sum: ebd5241051e17d08e3ad3b6aeba610d0
+SHA1: e40ba37b23a492c91a0fffff546ccbd8da102f33
+SHA256: 61779b1b993def771888930be85948255b5f4ff43d48d8068f9e83366bd0c931
 Section: Tweaks
 Description: Snapper 3 OCR plugin using cloud PaddleOCR API.
 Author: SuSuDear
