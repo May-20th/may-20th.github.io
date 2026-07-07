@@ -3039,6 +3039,23 @@ Icon: https://axs66.github.io/repo/icon/vitreux.png
 Name: Vitreux 液态玻璃
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/vitreux/js.json
 
+Package: com.muirey03.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2488
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: debs/susu.Cr4shed_4.3.2-arm64.deb
+Size: 228780
+MD5sum: 30cff024e7e1abc9b424aa7c5f4d4209
+SHA1: 9014f4ee066a9d64238f39a796221f7e9eefb445
+SHA256: 32915f874a32cba8941a9da78f1dc184d106ee255d9a05055effc3bf92b5bcfe
+Section: Tweaks
+Description: 系统崩溃报告器
+Author: Muirey03
+Icon: https://www.susubaby.top/images/cr4shed.png
+Name: Cr4shed
+
 Package: com.necromancy.tweak
 Version: 1.2.6
 Architecture: iphoneos-arm64
@@ -3159,6 +3176,24 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: hang
 Name: plugingroup
+
+Package: com.ps.apppad.susu
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: debs/susu.AppPad_1.1.4-arm64.deb
+Size: 6592
+MD5sum: 23cf58e195383eacdb99e65559e48cc0
+SHA1: af6d57f613cb2349cde6fb53efb6666bacd57b5b
+SHA256: a959db66387371d4953c4979c0bde997dedff4ba7f4a832a9f9c68875e09280e
+Section: Tweaks
+Description: 在ipad上任意应用强制全屏/强制竖横屏 还可作用于分屏插件的随机bug
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/apppad.PNG
+Name: AppPad
 
 Package: com.rain.120hzpro
 Version: 2.0.9-4-26+debug
@@ -5891,6 +5926,24 @@ Section: Tweaks
 Description: 微信净化. 还原聊天本质, 干净的微信给你. 仅支持8.0.29及以上版本, 设置位于微信-设置
 Author: Netskao
 Name: 微信净化
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: debs/susu.CocoaTop64_2.2.4-arm64.deb
+Size: 233692
+MD5sum: 99ba4b51409b28ea5c1e503b7f56412d
+SHA1: e8361ac1642b7b31b26da8ec5b9e6ac1bc5a2afb
+SHA256: 27303534ce790f1e417dfd1c5951b413f656e90a2aaa5eecfe4763c4773d8ad8
+Section: Tweaks
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://www.susubaby.top/images/CocoaTop.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
 Package: xhs.x
 Version: 1.2.0
