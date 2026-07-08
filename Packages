@@ -4945,6 +4945,23 @@ Description: Snapper 3 OCR plugin using cloud PaddleOCR API.
 Author: SuSuDear
 Name: SuSuOCR
 
+Package: com.susudear.susuocr
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader, com.jontelang.snapper3 (>= 1.1.1)
+Filename: debs/SuSu.OCR_1.0.0-arm64.deb
+Size: 67902
+MD5sum: 528e145afc7d2d41762d65458f3450ac
+SHA1: f33cfc369f472a38f36e93685132388cc19b0373
+SHA256: 246db27b8202269b98a7053a4288dfc71f605134d4380686599b0d1f9eb96f50
+Section: Tweaks
+Description: 百度OCR识别提取文字，百度翻译，需要自备API，需要安装Snapper3插件，或不支持盗版。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/susuocr.png
+Name: SuSuOCR
+
 Package: com.swing.ddmcnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
