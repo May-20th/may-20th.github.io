@@ -4243,6 +4243,23 @@ Description: 控制中心音频窗口背景插件
 Author: SuSu
 Name: CCUIPlayer
 
+Package: com.susu.collection
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 520
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/susu.SuCollection_1.1-arm64.deb
+Size: 56444
+MD5sum: 95cda364d5d23acbc886eac7e34c64f5
+SHA1: 1659e7d32782e4a0ce0aa6b57366048a3cc586ab
+SHA256: 45c644268c37c17b8f20213585527a84ed1d299bec051ffe49a8f9122bca5c48
+Section: Tweaks
+Description: 自用合集插件
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/SuCollection.png
+Name: SuCollection
+
 Package: com.susu.fuckwechatads
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -4530,6 +4547,23 @@ Section: Tweaks
 Description: Picta适配 Snapper3 的插件
 Author: SuSu
 Name: Picta
+
+Package: com.susu.snapper3.pictapro
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 180
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: debs/susu.PictaPro_1.0.1-arm64.deb
+Size: 10620
+MD5sum: 642e9176c818d33172e5a64406364120
+SHA1: db788e2d87875b5eb379ca0907701cce7ba80edb
+SHA256: d2c94af2fd040bc74674621dad7e701e15a992f3cc6569ce2c4ed1d93e31f5f4
+Section: Tweaks
+Description: PictaPro适配 Snapper3 的插件
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/PictaPro.png
+Name: PictaPro
 
 Package: com.susu.storeswitcher2
 Version: 1.0.7
