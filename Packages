@@ -2661,6 +2661,22 @@ Description: 支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。�
 Author: iosdump
 Name: JumpSelect
 
+Package: com.iosdump.memorycontrol
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 676
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/iosdump.memorycontrol_0.0.2-arm64.deb
+Size: 72390
+MD5sum: a5c7a0d8451a37af24afc19552e4a726
+SHA1: c5db9787d3209fbc65c98d85d231cea972b290d9
+SHA256: 79ee370c001ae4af51946ef2e4b0479caa60ccc25462dafbd51d93cc606accf4
+Section: Tweaks
+Description: iOS 14-17 进程内存与优先级调整
+Author: iosdump
+Name: MemoryControlX
+
 Package: com.iosdump.shellx
 Version: 0.0.2
 Architecture: iphoneos-arm64
