@@ -1886,6 +1886,22 @@ Description: 微信输入法 Google 风格毛玻璃键盘配色，适配深色�
 Author: colorblack
 Name: 微信输入法_Google配色
 
+Package: com.colorblack.wetypecolorgoogle
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: debs/colorblack.微信输入法-Google毛玻璃配色_1.1.5-arm64.deb
+Size: 30232
+MD5sum: a752ea1e359525fe357be23f26a4539d
+SHA1: 0eacf88cfc18e9ee0b292942b70aecb53f52cb94
+SHA256: 3e1e31c0540a1c05f9db97cc12390130f9fd1302589dc9bb91e7e6788e922240
+Section: Tweaks
+Description: 微信输入法 Google 风格毛玻璃键盘配色，适配深色、浅色模式；测试输入法版本 3.5.0。QQ群：205928931
+Author: colorblack
+Name: 微信输入法_Google配色
+
 Package: com.colorblack.wetypematerialglass
 Version: 1.2.6
 Architecture: iphoneos-arm64
