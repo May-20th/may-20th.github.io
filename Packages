@@ -3168,6 +3168,22 @@ Description: 安全后台留存：经 root 确认的 Jetsam 参数调整与完�
 Author: colorBlack
 Name: Necromancy
 
+Package: com.necromancy.tweak
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: colorBlack
+Installed-Size: 1204
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/colorblack.Necromancy_1.3.3-arm64.deb
+Size: 337908
+MD5sum: 587284ad25322d6b07996b74ab78d87b
+SHA1: ce503c8391f500b15dc52b128a5c6df839a6eb08
+SHA256: cf3efd634072ca659f6724bd03e9b411a3c93eda05baac78a1f607bf37a77342
+Section: Tweaks
+Description: 从1.3.1版本后，都是精简版，保留了核心功能，简化了设置项，简单易用。前面专家模式太复杂了。 QQ群 205928931
+Author: colorBlack
+Name: Necromancy
+
 Package: com.netskao.ibispaintxcrack
 Version: 1.1-1
 Architecture: iphoneos-arm64
