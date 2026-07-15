@@ -5840,6 +5840,22 @@ Description: 灵动岛音乐进度环增强插件
 Author: 夜辰
 Name: 灵动岛进度环
 
+Package: com.ylr.wcsurfacetrim
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 272
+Depends: firmware (>= 15.0)
+Filename: debs/ylr.wcsurfacetrim_1.0-arm64.deb
+Size: 62062
+MD5sum: 6be320a582f8a43e0c139cc2037f76d2
+SHA1: 6e4ae61a4cf4ad8ea605db638216ab6264dfc86a
+SHA256: 66b664ee2171f43ad4357331c0e316ee3e0c82b98190078d38a10a0a27dc4dbc
+Section: Tweaks
+Description: 禁传播
+Author: ylr
+Name: 微信广而告之精简
+
 Package: com.ylr.weifengadclean
 Version: 1.5.5
 Architecture: iphoneos-arm64
