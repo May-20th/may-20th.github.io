@@ -1582,6 +1582,22 @@ Description: 点击底部小白条返回，如在二级，三级页面是返回�
 Author: Color Black
 Name: Bottom-x
 
+Package: com.colorblack.bottomx
+Version: 0.2.69
+Architecture: iphoneos-arm64
+Maintainer: Color Black
+Installed-Size: 3024
+Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 14.0)
+Filename: debs/colorblack.Bottomx_TrollStoreInjection_0.2.69-arm64.deb
+Size: 729326
+MD5sum: 01a4647c0b9d0875207a5ad718dbf84d
+SHA1: d54e523e5bdf08ef545573db6b4254a0972036ba
+SHA256: 177c1e1511fc8807b2e62e20b46c17de4a8d0840f2b8d2134177f54e0f117215
+Section: Tweaks
+Description: 点击底部小白条逐级返回，到app最顶层就会返回桌面，新增学习返回模式，视觉返回保留。; 感兴趣可以加 QQ 群 2059 28931
+Author: Color Black
+Name: Bottom-x
+
 Package: com.colorblack.dingdongcleaner
 Version: 0.0.11
 Architecture: iphoneos-arm64
@@ -5862,7 +5878,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
+Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
@@ -5878,7 +5894,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
+Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
