@@ -2148,6 +2148,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: hang
 Name: 航の表情自定义
 
+Package: com.huami.chatcapture
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 560
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/huami.ChatCapture_1.0-2-arm64.deb
+Size: 110514
+MD5sum: 5a538ca43f0e683ec4217d2c354c436b
+SHA1: 8951a9d6e6b1cff4c6d10991c7b48d8b0ea9725a
+SHA256: d45212da93e4c1db7ba07569748b0673738f756bd02715f3804ff9395f9c9a3c
+Section: Tweaks
+Description: Capture selected WeChat messages with their original chat appearance
+Author: huami
+Name: ChatCapture
+
 Package: com.huami.dyyy
 Version: 2.2-9
 Architecture: iphoneos-arm64
