@@ -2196,6 +2196,22 @@ Description: Capture selected WeChat messages with their original chat appearanc
 Author: huami
 Name: ChatCapture
 
+Package: com.huami.chatcapture
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 772
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/huami.ChatCapture_1.0-4-arm64.deb
+Size: 174596
+MD5sum: 8e2090a8225a6285619e2e0e558a843a
+SHA1: b9dacd92343fd70596b6322612b90d2eb6568fa5
+SHA256: d7ba3fa5effbba03f7af21660462fb53db2f8f99475c12545c3628c05759aeae
+Section: Tweaks
+Description: Capture selected WeChat messages with their original chat appearance
+Author: huami
+Name: ChatCapture
+
 Package: com.huami.dyyy
 Version: 2.2-9
 Architecture: iphoneos-arm64
