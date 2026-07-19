@@ -2149,6 +2149,22 @@ Author: hang
 Name: 航の表情自定义
 
 Package: com.huami.chatcapture
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 560
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/huami.ChatCapture_1.0-1-arm64.deb
+Size: 116714
+MD5sum: d1ab3fb4a9cbddd4843e1386c14138f5
+SHA1: 90dd04ed1882d60823b6cc3e4b53e01ca68ed876
+SHA256: bf69104521c248ab2a41e76888222035fd56f9db31ee3846875299c70e0b14e1
+Section: Tweaks
+Description: Capture selected WeChat messages with their original chat appearance
+Author: huami
+Name: ChatCapture
+
+Package: com.huami.chatcapture
 Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: huami
