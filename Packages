@@ -164,6 +164,24 @@ Icon: https://axs66.github.io/pro/icon/lightisle.png
 Name: LightIsle手电筒
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/lightisle/js.json
 
+Package: com.Axs.wcsurfacetrim
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 272
+Depends: firmware (>= 15.0)
+Filename: debs/ylr.微信去广告（新）_1.0-arm64.deb
+Size: 62636
+MD5sum: d005711c1aa9833827d4729c2d2f858c
+SHA1: fed9225598c26cf71b35476c4fe687c7df065a73
+SHA256: c2e5fde855f4f57068ebb8f97759fec294b700f097be040611a215e9f8ca7548
+Section: Tweaks
+Description: 禁广告，无效请卸载
+Author: ylr
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信去广告（新）
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcsurfacetrim/js.json
+
 Package: com.Doki.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
