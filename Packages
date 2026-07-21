@@ -3666,6 +3666,25 @@ Tag: role::hacker, purpose::extension
 Author: Rain
 Name: Rain的通话
 
+Package: com.rain.raincall
+Version: 2.6-2-14
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 2224
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/Rain.通话-2.6-2-14-arm64.deb
+Size: 357708
+MD5sum: 5ae6394dd20fc4d3540c6d055ea7bc7e
+SHA1: 762914df5a68c4e4bb829e96018844d10c7f3ff3
+SHA256: b708342871158c12465cc3bb3b2628bab52f2b6b9bf95041e2c0553f6c1cddf7
+Section: Tweaks
+Description: Rain的通话录音插件 - 支持蜂窝通话和 VoIP 通话录音
+ 通过 ATAudioTap 实现通话录音，支持微信/QQ/钉钉/Telegram/Line/FaceTime VoIP 通话录音
+ 支持自动录音、混音合并、AI 分析、通话字幕、关键词高亮、双语字幕、日历集成、自动分类、质量监控、通话后复盘、通话时光机
+Tag: role::hacker, purpose::extension
+Author: Rain
+Name: Rain的通话
+
 Package: com.rain.raincontainer
 Version: 2.9.0-7+debug
 Architecture: iphoneos-arm64
@@ -3693,6 +3712,22 @@ Size: 408772
 MD5sum: 70ccdf496f58cf23deddbd6e60c1b4a1
 SHA1: 3791d8e068f183375310b7197264be1f030820b3
 SHA256: c52bdde3163a1b600b95536a75410354a094de3321470473d584106e56cefa36
+Section: Tweaks
+Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。1.2.0新增：通知连击特效、屏幕边缘氛围光、音乐律动脉冲、双击智能提取验证码。
+Author: Rain
+Name: Rain的灵动卡片
+
+Package: com.rain.raindyn
+Version: 1.2.0-37+debug
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 2392
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Filename: debs/Rain.灵动卡片-1.2.0-37+debug-arm64.deb
+Size: 455076
+MD5sum: 3c9d28282424d20d2e86764174873a4e
+SHA1: cbb0b59ab1648e1122825519d5fa0efb88115a92
+SHA256: bb9534a1bac03a50a4d877e123d367555dc560f3396a150958b20fd9be0c023b
 Section: Tweaks
 Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。1.2.0新增：通知连击特效、屏幕边缘氛围光、音乐律动脉冲、双击智能提取验证码。
 Author: Rain
