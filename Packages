@@ -1616,6 +1616,22 @@ Description: 点击底部小白条逐级返回，到app最顶层就会返回桌�
 Author: Color Black
 Name: Bottom-x
 
+Package: com.colorblack.bottomx
+Version: 0.2.70
+Architecture: iphoneos-arm64
+Maintainer: Color Black
+Installed-Size: 3428
+Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 14.0)
+Filename: debs/colorblck.Bottomx_0.2.70-arm64.deb
+Size: 828312
+MD5sum: 0c786f36fd89d4abd4953a36faab1eac
+SHA1: e38aa848a41439eaded24c7523f2d20a013d3e3a
+SHA256: e75b40ccc860c28be1eb2624c6e27a3262f195d80c60c45336d237ad85a82923
+Section: Tweaks
+Description: 点击底部小白条逐级返回，到app最顶层就会返回桌面，新增学习返回模式，视觉返回保留。; 感兴趣可以加 QQ 群 2059 28931
+Author: Color Black
+Name: Bottom-x
+
 Package: com.colorblack.dingdongcleaner
 Version: 0.0.11
 Architecture: iphoneos-arm64
