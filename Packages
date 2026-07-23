@@ -2149,6 +2149,23 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.example.wifileasekeeper
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 1060
+Depends: firmware (>= 15.0), preferenceloader, mobilesubstrate (>= 0.9.5000)
+Filename: debs/colorblack.wifi锁屏不断连_1.0.10-arm64.deb
+Size: 305086
+MD5sum: 5bd007f7508eda8bd9d4dbb4ee5bc32b
+SHA1: 3fd7e2139d49b6ca26dca14fa8d9fe4431aabc90
+SHA256: 8768a1623b9f4c3152bc070af7ca73cc4c6c8399a1ea2decc68d8ac7422b285c
+Section: Tweaks
+Priority: optional
+Description: 仅为白名单 Wi-Fi 防休眠,锁屏8小时耗电4%左右,(本插件实际为解决 连安卓热点苹果锁屏会断开 wifi的痛点) QQ群 205928931
+Author: colorblack
+Name: wifi 锁屏不断连
+
 Package: com.fiore.calculatorhistory
 Version: 1.8
 Architecture: iphoneos-arm64
