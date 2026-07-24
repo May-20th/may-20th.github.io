@@ -5764,6 +5764,22 @@ Description: WXKeyboardUIHook
 Author: TiaoTiao
 Name: WXKeyboardUIHook
 
+Package: com.wefind.tweak
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: WeTweak
+Installed-Size: 2312
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/wetweak.wefind_1.0.0-arm64.deb
+Size: 637542
+MD5sum: fec8be58ec323d84863800f0e693a334
+SHA1: d5aefecd747b5dd476e24e240c955e31c2741943
+SHA256: c35ad9bf45e63a38b8e468c7f645d947eee2f3b6d9448a9e202c417d7ea6a870
+Section: Tweaks
+Description: WeChat Plugin Search.
+Author: WeTweak
+Name: WeFind
+
 Package: com.wkk.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
@@ -6143,7 +6159,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
+Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
@@ -6159,7 +6175,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
+Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
