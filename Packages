@@ -2166,6 +2166,23 @@ Description: 仅为白名单 Wi-Fi 防休眠,锁屏8小时耗电4%左右,(本插
 Author: colorblack
 Name: wifi 锁屏不断连
 
+Package: com.example.wifileasekeeper
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 1060
+Depends: firmware (>= 15.0), preferenceloader, mobilesubstrate (>= 0.9.5000)
+Filename: debs/colorblack.wifi锁屏不断连_1.0.11-arm64.deb
+Size: 304784
+MD5sum: 466cc66dd47e80a7a9d5e354a7ba3607
+SHA1: e3246bf19ef3cd616ad7cf3ebf96cc9545bc9fab
+SHA256: 344194b327624144bfb7a9ec002ec4692da9d3076e48a0a8f5537f61e25190bd
+Section: Tweaks
+Priority: optional
+Description: 仅为白名单 Wi-Fi 防休眠,锁屏8小时耗电4%左右,(本插件实际为解决 连安卓热点苹果锁屏会断开 wifi的痛点) QQ群 205928931
+Author: colorblack
+Name: wifi 锁屏不断连
+
 Package: com.fiore.calculatorhistory
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -6126,7 +6143,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
+Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
@@ -6142,7 +6159,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
+Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
