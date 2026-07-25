@@ -2312,6 +2312,22 @@ Description: Capture selected WeChat messages with their original chat appearanc
 Author: huami
 Name: ChatCapture
 
+Package: com.huami.chatcapture
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1760
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/huami.ChatCapture_1.0-7-arm64.deb
+Size: 422260
+MD5sum: e3eeef7ba70a0067448e088f09fdb4c4
+SHA1: 654ec3726ed86c498f50a6d74a117a403dba31f3
+SHA256: 077885042d330c25916fd103a4a81765c9ff66520293cfdddab79cea1c748e45
+Section: Tweaks
+Description: Capture selected WeChat messages with their original chat appearance
+Author: huami
+Name: ChatCapture
+
 Package: com.huami.dyyy
 Version: 2.2-9
 Architecture: iphoneos-arm64
@@ -6159,7 +6175,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
+Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
@@ -6175,7 +6191,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
+Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
