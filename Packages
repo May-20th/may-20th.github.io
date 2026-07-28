@@ -2199,6 +2199,23 @@ Description: 仅为白名单 Wi-Fi 防休眠,锁屏8小时耗电4%左右,(本插
 Author: colorblack
 Name: wifi 锁屏不断连
 
+Package: com.example.wifileasekeeper
+Version: 1.0.12
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 1096
+Depends: firmware (>= 15.0), preferenceloader, mobilesubstrate (>= 0.9.5000)
+Filename: debs/colorblack.wifi锁屏不断连_1.0.12-arm64.deb
+Size: 311542
+MD5sum: 307fb6e73152eb05b5411e40d9c6d7c7
+SHA1: 33a7eb6f7ffbc1a783c8d1a5896717223a699e0e
+SHA256: aacc607199981b06b0e539f5e365f81df2f8d5fbfa7b90812828a7b3b7f35708
+Section: Tweaks
+Priority: optional
+Description: 仅为白名单 Wi-Fi 防休眠,锁屏8小时耗电4%左右,(本插件实际为解决 连安卓热点苹果锁屏会断开 wifi的痛点) QQ群 205928931
+Author: colorblack
+Name: wifi 锁屏不断连
+
 Package: com.fiore.calculatorhistory
 Version: 1.8
 Architecture: iphoneos-arm64
