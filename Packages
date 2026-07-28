@@ -1406,6 +1406,22 @@ Description: 隐藏原生键盘部分毛玻璃
 Author: Charlie Leung
 Name: KeyboardEffectHider
 
+Package: com.charlieleung.snapvision
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 1032
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/charlieleung.snapvision_0.0.1-arm64.deb
+Size: 171368
+MD5sum: 947923af69b8f48ba2da0bfe7f1f07cf
+SHA1: cbfadb31bc3b11b4e1f0c751a36895b12c87053f
+SHA256: 702dc1a3add597fb4471f832814c313c6b7c75a7bc6d21f36be2dd6387a3933b
+Section: Tweaks
+Description: An awesome Orion tweak!
+Author: Charlie Leung
+Name: SnapVision
+
 Package: com.charlieleung.trollopenjb
 Version: 1.2.8
 Architecture: iphoneos-arm64
