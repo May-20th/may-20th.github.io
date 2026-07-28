@@ -3528,6 +3528,23 @@ Author: Netskao
 Name: 爱笔思画X Crack
 Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.ibispaintxcrack
 
+Package: com.netskao.imgplaycrack
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 852
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/netskao.imgplaycrack_1.1-8-arm64.deb
+Size: 293872
+MD5sum: b230cdb82d2119a57488e3fdaaca06d6
+SHA1: a4fa6f4a9c0bdd787bf3c09837789bb5bb43b02f
+SHA256: 808d112441b4b3a7eced87faa419dd5e11357adbef029f6c1fc730e5b3b29c9e
+Section: Tweaks
+Description: ImgPlay Crack, Supports version 6.7.0 only
+Author: Netskao
+Name: ImgPlay Crack
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.imgplaycrack
+
 Package: com.netskao.swiftgramcrack
 Version: 1.1-7
 Architecture: iphoneos-arm64
