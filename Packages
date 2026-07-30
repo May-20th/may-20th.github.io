@@ -3358,6 +3358,22 @@ Description: Spotify无限跳过，删除广告，解锁超高质量流。。。
 Icon: https://www.susubaby.top/images/spotify.png
 Name: Spotilife
 
+Package: com.junzai.jellyanimation
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: ZENGBAIJUN
+Installed-Size: 444
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/junzai.jellyanimation_3.0-arm64.deb
+Size: 24896
+MD5sum: 9a88d495228a484545bf694495c81f9e
+SHA1: dadc8f784cfe9eee7ed6259b707074cb5e14e2b4
+SHA256: 3220a9dac0f9822d9661bfb433c5c7c0e0e88ed38c613ead130350ea440ff62f
+Section: Tweaks
+Description: 控制中心全局果冻弹性动画
+Author: ZENGBAIJUN
+Name: JellyAnimation
+
 Package: com.jz.fz
 Version: 1.4.0-24+debug
 Architecture: iphoneos-arm64
