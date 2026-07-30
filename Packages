@@ -1182,6 +1182,22 @@ Description: 解除温控，一切从简即可。支持命令行切换模式：i
 Author: be-huge & doimty
 Name: insulation
 
+Package: com.be-huge.insulation
+Version: 0.1.38
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 796
+Depends: firmware (>= 15.0)
+Filename: debs/behuge.insulation_0.1.38-arm64.deb
+Size: 58330
+MD5sum: 7d0a67ebef366650f1395cf06b839cbc
+SHA1: d617686b379bfc8048a7eeeba4653cbaaf3a3eac
+SHA256: 4322d327c014093512b1c29246908a2c58ddf257db29d1548d2c079019568a46
+Section: Tweaks
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Author: be-huge & doimty
+Name: insulation
+
 Package: com.binglan.dynamicfx
 Version: 1.0.7
 Architecture: iphoneos-arm64
