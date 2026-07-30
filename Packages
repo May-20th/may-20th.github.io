@@ -2400,6 +2400,25 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
+Installed-Size: 3028
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0_11-arm64.deb
+Size: 659522
+MD5sum: 41d24d2ff41cae26962b6fd968348177
+SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
+SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
 Installed-Size: 2980
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/huami.dyyy_2.3-0-arm64.deb
@@ -6026,6 +6045,22 @@ Section: Tweaks
 Description: WXKeyboardUIHook
 Author: TiaoTiao
 Name: WXKeyboardUIHook
+
+Package: com.wechat.x
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: WeTweak
+Installed-Size: 10196
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/wetweak.wechat.x_1.0.0-arm64.deb
+Size: 2759010
+MD5sum: 430ca644ab1055f30e66362b76a20062
+SHA1: 85348007ef004528bfd3875c3413f27394219813
+SHA256: 1d258f5b1324c4785fff2e9e82467e07937780179893fce8ea5b2d5fd2a9cbb7
+Section: Tweaks
+Description: 解锁微信的未知可能
+Author: WeTweak
+Name: We·X
 
 Package: com.wefind.tweak
 Version: 1.0.0
