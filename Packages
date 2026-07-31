@@ -4204,6 +4204,25 @@ Tag: role::hacker, purpose::extension
 Author: Rain
 Name: Rain的Mhz
 
+Package: com.rain.rainmhz
+Version: 6.13.0-1
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 1116
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist (>= 1.0.4)
+Filename: debs/Rain.Mhz-6.13.0-1-arm64.deb
+Size: 172852
+MD5sum: d18c9ed029d879d8ffa91f49ad8e3d3c
+SHA1: ff56a78ca7e93086a22d97ccd605a9bf77e4e5b1
+SHA256: 864a5983e59d895354a7081bf4b7979ea0ba85759226a4f227e271de8bdec4c3
+Section: Tweaks
+Description: Rain的CPU性能与稳帧控制插件
+ 通过IOKit控制Apple ARM DVFS，支持低发热、均衡、极限性能、智能与稳帧模式
+ 包含动态仪表盘、分级设置、场景预设、温控、性能监控与智能后台管控
+Tag: role::hacker, purpose::extension
+Author: Rain
+Name: Rain的Mhz
+
 Package: com.rain.rainscreenframe
 Version: 1.3.1-56+debug
 Architecture: iphoneos-arm64
