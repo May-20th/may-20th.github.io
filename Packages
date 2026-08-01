@@ -3863,6 +3863,23 @@ Author: Netskao
 Name: ImgPlay Crack
 Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.imgplaycrack
 
+Package: com.netskao.imgplaycrack
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 884
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/netskao.imgplaycrack_1.1-9-arm64.deb
+Size: 305676
+MD5sum: 5dcb70008df5ea5ca27d3a177331d428
+SHA1: 9470fe01c5eff8ca3db349a636b9bb167cc4eab4
+SHA256: 9567189f3b11d4d6305d8132cf313142af5dc8b99ffe8fd83ffadae515f28a23
+Section: Tweaks
+Description: ImgPlay Crack
+Author: Netskao
+Name: ImgPlay Crack
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.imgplaycrack
+
 Package: com.netskao.swiftgramcrack
 Version: 1.1-7
 Architecture: iphoneos-arm64
