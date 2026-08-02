@@ -2568,6 +2568,44 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
+Installed-Size: 3208
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#18-arm64.deb
+Size: 705678
+MD5sum: 7f2e8b1e72435c7b080e616916409ef8
+SHA1: e5d886b6a285bc68b0fec4659de54156855208fb
+SHA256: ca34beef8eb71ddc78b02070efd9878cc7519acb2b8f5f4ef2ab3c4e2609dc25
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 3112
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#14-arm64.deb
+Size: 678058
+MD5sum: ac73cdea0ea2052046daaa6f1ca3d252
+SHA1: e1b5667f0d89f8b583f8055fcb9776af0f7807c9
+SHA256: 397f384f4128c3ebefba1ab3aaab30678c3f81c7e53c3131a82ebafe8ff0dfb2
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
 Installed-Size: 2980
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/huami.dyyy_2.3-0#9-arm64.deb
