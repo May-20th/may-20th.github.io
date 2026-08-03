@@ -3918,6 +3918,23 @@ Author: Netskao
 Name: ImgPlay Crack
 Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.imgplaycrack
 
+Package: com.netskao.qqnotiavatar
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/netskao.QQNotiAvatar-1.2-3-arm64.deb
+Size: 32356
+MD5sum: ac7f449d970a3c9d8a89f505ccdec7f5
+SHA1: 40a0612bcb56a561cb4ff09835ae0364ac4d00c0
+SHA256: 2cd92196a0276405288673b1d6295a00e4ad3648e1673c0a96c1c62a1e0419c0
+Section: Tweaks
+Description: Display Notification Avatars for QQ App using iOS15+ APIs
+Author: Netskao
+Name: QQNotiAvatar
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.qqnotiavatar
+
 Package: com.netskao.swiftgramcrack
 Version: 1.1-7
 Architecture: iphoneos-arm64
@@ -5924,6 +5941,23 @@ Size: 77296
 MD5sum: aa33fac548f1161bf2973c6d316ef303
 SHA1: 56e89b62c44a81f0816c5c7dda622a3be75e47c2
 SHA256: 38bf6aa1e38957159d3479fe1fbcb362c46a1b0db263e8a3a686f279bb03fe78
+Section: Tweaks
+Description: 百度OCR识别提取文字，百度翻译，需要自备API，需要安装Snapper3插件，或不支持盗版。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/susuocr.png
+Name: SuSuOCR
+
+Package: com.susudear.susuocr
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 600
+Depends: mobilesubstrate, preferenceloader, com.jontelang.snapper3 (>= 1.1.1)
+Filename: debs/SuSu.OCR-1.0.5-arm64.deb
+Size: 78862
+MD5sum: 6ebbbed27c980e2ccce36b362980d9b2
+SHA1: 1e3488aef0c023d56e717d56ac9a9142eb8ab3a3
+SHA256: bda821c13999b3b6c7f4afffd28e2e2e3d74e9a2d5306e84bf7511bb989d669a
 Section: Tweaks
 Description: 百度OCR识别提取文字，百度翻译，需要自备API，需要安装Snapper3插件，或不支持盗版。
 Author: SuSuDear
