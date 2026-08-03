@@ -4040,6 +4040,23 @@ Description: 强制 120Hz 高帧率
 Author: rain
 Name: rain的120hz Pro
 
+Package: com.rain.120hzstable
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.rain.120hzpro
+Filename: debs/Rain.Flow 120Hz-1.3.0-arm64.deb
+Size: 63566
+MD5sum: ca2482ab7c80bfbc3117c92db95e21bb
+SHA1: eda8676614b8409d49854d2901da4eca28ad80f0
+SHA256: b0cb50db13376645287571fd847a032f1dc90fac1b7ad8b3813d68a215e92180
+Section: Tweaks
+Description: 专注核心 80Hz/120Hz 调度的精简方案；适合不需要 Pro 扩展功能、注重流畅稳定与低负担的用户。支持 iOS 15.0 及以上。
+Author: Rain
+Name: RainFlow 120Hz
+
 Package: com.rain.dock
 Version: 3.6.1
 Architecture: iphoneos-arm64
