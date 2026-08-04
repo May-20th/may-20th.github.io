@@ -6924,6 +6924,22 @@ Architecture: iphoneos-arm64
 Maintainer: iosdump
 Installed-Size: 212
 Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/mineek.appstoretroller-0.0.2-1+debug-arm64.deb
+Size: 14670
+MD5sum: 56d7f6c79b5dec6e85b3a8e5bc9c25c3
+SHA1: 4aaad3ccf81d51409a176c2c22cec0b01a8c216d
+SHA256: 14aa46347c06b0b984174b8f0cce978acc10f7d13f7e92ebbdc3c9c07035a1db
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak! 将设置移至桌面AppStore长按快捷菜单
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/mineek.appstoretroller_0.0.2-1+debug-arm64.deb
 Size: 14670
 MD5sum: 56d7f6c79b5dec6e85b3a8e5bc9c25c3
