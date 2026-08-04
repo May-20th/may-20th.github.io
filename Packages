@@ -3711,6 +3711,27 @@ Author: level3tjg
 Icon: https://www.susubaby.top/images/spotify.png
 Name: Sposify Fix
 
+Package: com.liam.chatgbefrees
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Liam
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.liam.chatgbefree
+Filename: debs/liam.ChatGBeFree 绕过 GPT-1.0.0-arm64.deb
+Size: 3712
+MD5sum: b7bca0b11ce09c220ac9df57439636b5
+SHA1: 96fef5f6890273633aac7de1e735954c7d8a7262
+SHA256: a249a0494d80578fb8514b51e5e80271e8b1baaae22166b06731dd2d3524e879
+Section: Tweaks
+Description: 让 iOS 16 可以使用旧版 ChatGPT
+ * 绕过 ChatGPT 应用中强制的升级界面
+ * Bypass the forced 'sunset' upgrade screen in the ChatGPT app.
+Author: Liam
+Icon: https://TrollStoreX.Github.io/sileodepiction/ChatGBeFree/icon.png
+Name: ChatGBeFree 绕过 GPT
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ChatGBeFree/js.json
+
 Package: com.link.aweme
 Version: 1.0.5
 Architecture: iphoneos-arm64
