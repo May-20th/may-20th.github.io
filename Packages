@@ -2281,6 +2281,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: hang
 Name: 航の表情自定义
 
+Package: com.hang.zzzj
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm64
+Maintainer: hang
+Installed-Size: 180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/hang.转转找机_0.0.1-8+debug-arm64.deb
+Size: 35898
+MD5sum: 0a46cd640e82c3d1881dfff01993ba83
+SHA1: 8d6f754d2b985542e7c1f461e08be623a4757320
+SHA256: f6756b6c384c3cf318d53a266627fc4ab6f0026920644ede1def5d62d7d8a792
+Section: Tweaks
+Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系统版本/成色筛选，带复制链接
+Author: hang
+Name: 转转找鸡
+
 Package: com.huami.chatcapture
 Version: 1.0-1
 Architecture: iphoneos-arm64
