@@ -2016,6 +2016,22 @@ Description: 微信输入法启用毛玻璃效果，测试输入法版本号 3.5
 Author: colorblack
 Name: 微信输入法_毛玻璃效果
 
+Package: com.colorblack.xbnoads
+Version: 1.15.0
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: debs/colorblack.学习打印_1.15.0-arm64.deb
+Size: 29870
+MD5sum: ccb139cc001f27e5a1d8db9f449fade8
+SHA1: 8ac313c510d49876244289fa7c96d8450473998e
+SHA256: 9e8dd7d39b4596547057d44159de9341409618c72a493d1417761584bdb0f820
+Section: Tweaks
+Description: 小白学习打印 4.45.0 去开屏、首页广告、升级/活动弹窗及页面推广； 关闭原生开屏加载完成后的无需额外等待。软件广告有些毒瘤，QQ群：205928931
+Author: colorblack
+Name: 小白学习打印 NoAds
+
 Package: com.colorblack.xcfnoad
 Version: 1.0.0-9+debug
 Architecture: iphoneos-arm64
@@ -2031,6 +2047,22 @@ Section: Tweaks
 Description: Disable Splash Ads in Xiachufang.
 Author: colorblack
 Name: XCFNoAd
+
+Package: com.colorblack.xiaoxiongyouhao.nosplashad
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/colorblack.小熊油耗_1.0.0-arm64.deb
+Size: 9748
+MD5sum: d57e6e83ea7f40141bc97ddc69c5bfd4
+SHA1: bf833001b5944c857a1d59bae0091747035048d0
+SHA256: bd8da0f4b81c45bf370526e6e744e51b25069b03199ec27b13c16eabb8ad6c1b
+Section: Tweaks
+Description: 移除小熊油耗启动开屏广告，测试版本号 3.8.3 感兴趣可加 QQ群：205928931
+Author: colorblack
+Name: 小熊油耗 NoAd
 
 Package: com.colorblack.youdaoyunbiji
 Version: 0.0.1-11+debug
