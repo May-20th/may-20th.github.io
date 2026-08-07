@@ -6092,6 +6092,23 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot Edit
 
+Package: com.susudear.stayshot.markup
+Version: 1.5.4
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 572
+Depends: com.susudear.stayshot (>= 0.4.3), mobilesubstrate, firmware (>= 15.1)
+Filename: debs/susud.stayshot.markup_1.5.4-arm64.deb
+Size: 132098
+MD5sum: 7bc542178bf51fce1a633135ceeb4313
+SHA1: 7547a18ed79697b8059295cd978bfdf2fd95c5f8
+SHA256: 624843a69adb15cd7ddf5a4aaa58c7dc8f4b65aa3cd285ce0d20ebf3f5536099
+Section: Tweaks
+Description: Edit frozen screenshots with arrows, doodles, highlights, mosaics, and rectangles.
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot Edit
+
 Package: com.susudear.susuocr
 Version: 0.0.1
 Architecture: iphoneos-arm64
