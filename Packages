@@ -2736,6 +2736,23 @@ Description: 解锁会员 - TG：@HelloWorld_1024
 Author: 🅷🆆
 Name: 🅷🆆 地震预警
 
+Package: com.initnil.medibangprocrack
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INIT
+Installed-Size: 916
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: debs/initnil.绘爆Paletta Crack-1.1-1-arm64.deb
+Size: 314504
+MD5sum: 5cc13f5de285a0f54b02631f67d0fb6f
+SHA1: 752e84ad0fd946acd2f287e44c9b07e62abadbcc
+SHA256: 1bc136b87e4184af21c49bfb77fc14c0406f558f509363f6a8f15e24b1110a7b
+Section: Tweaks
+Description: 绘爆Paletta解锁全功能
+Author: INITNIL
+Name: 绘爆Paletta Crack
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.initnil.medibangprocrack
+
 Package: com.ios16dao
 Version: 5.2.0-100
 Architecture: iphoneos-arm64
@@ -6089,6 +6106,26 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot
 
+Package: com.susudear.stayshot
+Version: 0.4.6
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2280
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: debs/susu.stayshot_0.4.6-arm64.deb
+Size: 225042
+MD5sum: 33fcbb85f21d1c65d1d7b95432cc7587
+SHA1: da46f02ade9a27f969885a7d89099d2df1b29008
+SHA256: 6805af06fbf9b96a287b67e0a2bed92a9e67992856e83f54597f73608b400bb4
+Section: Tweaks
+Description: Pin cropped screenshots on screen with Snapper 3 compatible entry points and extensions.
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot
+
 Package: com.susudear.stayshot.long-screenshot
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -6168,6 +6205,23 @@ Size: 132364
 MD5sum: 0016a79addf39e4c3944c6b40ef07ccb
 SHA1: 9ba416db3d44460f110b7e1e5e83c5b407d5ea45
 SHA256: 7918b61fd3428522ad24041dad5a3cf436b3ec6b2e2e77b139c4f5bb39820740
+Section: Tweaks
+Description: Edit frozen screenshots with arrows, doodles, highlights, mosaics, and rectangles.
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot Edit
+
+Package: com.susudear.stayshot.markup
+Version: 1.5.7
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 572
+Depends: com.susudear.stayshot (>= 0.4.3), mobilesubstrate, firmware (>= 15.1)
+Filename: debs/susu.stayshot.markup_1.5.7-arm64.deb
+Size: 133902
+MD5sum: 3a666a1878595546e56f980c4d317a7f
+SHA1: 7cd3aaa1e294e5a6f3078c612d5859a028ec40fa
+SHA256: 06fa02956662eff47736aaf1202271007b8c4a0e6fd3735f9f0a08a5ac2858d6
 Section: Tweaks
 Description: Edit frozen screenshots with arrows, doodles, highlights, mosaics, and rectangles.
 Author: SuSuDear
