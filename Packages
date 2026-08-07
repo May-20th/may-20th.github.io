@@ -128,6 +128,22 @@ Description: Fix Apple watch connection issues
 Author: 577FKJ
 Name: WatchFix
 
+Package: com.34306.watched
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/watched_2.0-arm64.deb
+Size: 5602
+MD5sum: 460801249d001dcb607e1ec5b5840234
+SHA1: b6cbec4549a23be442d6b1e740ec64d34c32fa34
+SHA256: e5f5137fc1e85270ff4f125d707cd9c1680cc9304017031e351d669d1dbe2593
+Section: Tweaks
+Description: Pair your Apple Watch on a newer watchOS than this iOS supports
+Author: 34306
+Name: watched
+
 Package: com.Axs.classickeyboardxs
 Version: 1.1-9
 Architecture: iphoneos-arm64
