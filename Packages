@@ -6313,6 +6313,23 @@ Icon: https://repo.susubaby.cn/icons/susuocr.png
 Name: SuSuOCR
 
 Package: com.susudear.susuocr
+Version: 1.0.21
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/susu.susuocr_1.0.21-arm64.deb
+Size: 126892
+MD5sum: 353216617a521ea08f754741b981a6ba
+SHA1: 11cfb9cbe3876f35f153598c173aa126a16a998f
+SHA256: bdb7af58dce416c6653e76abf1cbf5346dae360a61de7e4a9b3b576f00ef71f8
+Section: Tweaks
+Description: 百度 OCR 识别提取文字、百度翻译和 AI 截图处理，需要自备 API。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/susuocr.png
+Name: SuSuOCR
+
+Package: com.susudear.susuocr
 Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: SuSuDear
