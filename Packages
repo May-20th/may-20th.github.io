@@ -6126,6 +6126,26 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot
 
+Package: com.susudear.stayshot
+Version: 0.4.7
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2236
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: debs/susu.stayshot_0.4.7-arm64.deb
+Size: 208440
+MD5sum: d7b5a793b8bde431e3f2f0b25fe74a89
+SHA1: d58941b1e617630bcf04c654782cf01e9bdc1127
+SHA256: 6641cdbf79a552396344f8e027f29eeb53ecf34f63869be3fa7d660d034e2bd1
+Section: Tweaks
+Description: Pin cropped screenshots on screen with Snapper 3 compatible entry points and extensions.
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot
+
 Package: com.susudear.stayshot.long-screenshot
 Version: 1.2.3
 Architecture: iphoneos-arm64
