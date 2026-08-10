@@ -6286,6 +6286,26 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot
 
+Package: com.susudear.stayshot
+Version: 0.5.1
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2284
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: debs/susudear.stayshot_0.5.1-arm64.deb
+Size: 215238
+MD5sum: f3e3af1f9453f8f594f59d5bffc1c690
+SHA1: 00cbb6e1b7b7046d3c551f49638b550663013bba
+SHA256: c42324a970d9510b32313273a0f520c264b69fe8485669ef38d0cb75fd00b72b
+Section: Tweaks
+Description: Pin cropped screenshots on screen with Snapper 3 compatible entry points and extensions.
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot
+
 Package: com.susudear.stayshot.long-screenshot
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -6399,6 +6419,23 @@ Size: 134536
 MD5sum: 5da15e69065993256a8684d887c2e1d8
 SHA1: 31328f372bd29f263d54b50091551bd789285b1b
 SHA256: bdc15f21a8c0dc1889ed2330c277edd14698391bf2aa59f0e5d3f33398fb368a
+Section: Tweaks
+Description: Edit frozen screenshots with arrows, doodles, highlights, mosaics, and rectangles.
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot Edit
+
+Package: com.susudear.stayshot.markup
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 636
+Depends: com.susudear.stayshot (>= 0.5.1), mobilesubstrate, firmware (>= 15.1)
+Filename: debs/susu.stayshot.markup_1.6.0-arm64.deb
+Size: 149324
+MD5sum: 056c7bf2959ff97f34613976dc814eaf
+SHA1: 89ce02d5106c1f0e72dbd71b5a9953b94dacc737
+SHA256: 8924978900a22c6fced9a482c066d6557edb285801e6e811c36224f15c29bcf2
 Section: Tweaks
 Description: Edit frozen screenshots with arrows, doodles, highlights, mosaics, and rectangles.
 Author: SuSuDear
