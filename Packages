@@ -5407,6 +5407,25 @@ Author: Spark
 Name: Laetus
 
 Package: com.spark.snowboard
+Version: 1.5.26-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3236
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/spark.SnowBoard-1.5.26-Beta4-arm64.deb
+Size: 1120268
+MD5sum: 9109ec3d0b2bca55154f15610c8b61ba
+SHA1: 1548df152c15da2d898f19e618fb6af4bdee5d85
+SHA256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
+Package: com.spark.snowboard
 Version: 1.5.50
 Architecture: iphoneos-arm64
 Maintainer: Spark
