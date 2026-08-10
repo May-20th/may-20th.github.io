@@ -1438,6 +1438,22 @@ Description: 让简单截图，拥有更多可能。
 Author: 冰蓝
 Name: 全局水印Pro
 
+Package: com.chargelimiter.mod
+Version: 1.14.1
+Architecture: iphoneos-arm64
+Maintainer: tune
+Depends: firmware (>= 13.0)
+Filename: debs/ChargeLimiter_1.14.1-arm64.deb
+Size: 682460
+MD5sum: 5d23ac96b9412bb5440ab5fe115efead
+SHA1: 180db99d807a864ef2a912ba2255e80be82ff7d7
+SHA256: 5721c27db7dcf1a0afc98730c1e60ee9a60d74128ad3c50423ff125ebba629d3
+Section: Tweaks
+Priority: optional
+Description: 优化了一下界面
+Author: tune
+Name: Modified ChargeLimiter
+
 Package: com.charlieleung.keyboardeffecthider
 Version: 1.0.0
 Architecture: iphoneos-arm64
