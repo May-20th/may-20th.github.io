@@ -6416,6 +6416,27 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot
 
+Package: com.susudear.stayshot
+Version: 0.5.2
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2324
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: debs/susu.StayShot-0.5.2-arm64.deb
+Size: 226294
+MD5sum: c83f34fb2aa225d6ca63b05448a1d335
+SHA1: dadfcd71ca6ba26b9f5f29ebfd21b16ce3199fd9
+SHA256: 6c84bcb4803caa6d85c4d7ca6bfc4b229055b41c8f95e742afbd0a31a80788d9
+Section: Tweaks
+Description: StayShot 独立的 iOS 截图工具，支持普通模式、冻结模式、区域截图、截图历史和屏幕浮窗。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot
+Sileodepiction: https://repo.susubaby.cn/json/stayshot.json
+
 Package: com.susudear.stayshot.long-screenshot
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -6427,6 +6448,23 @@ Size: 117356
 MD5sum: e788af142f4ce8edb766d8b9f237e30a
 SHA1: d16378ddbdace1229d7924620099ee4e9788c8b0
 SHA256: e48f0803fb5689838991db01b8372d7bd75515cd8716367e6652a234cc7a024c
+Section: Tweaks
+Description: Long screenshot action and capture controller for StayShot.
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot Long Screenshot
+
+Package: com.susudear.stayshot.long-screenshot
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 784
+Depends: com.susudear.stayshot (>= 0.2.4), mobilesubstrate, firmware (>= 15.1), dev.theos.orion (>= 1.0.0)
+Filename: debs/susu.StayShot Long Screenshot-1.5.0-arm64.deb
+Size: 156110
+MD5sum: 2895c02c0aaf8c23bb763a54588a07d8
+SHA1: 5f75abb8a41b46ddfa185920c437a43f58f06f43
+SHA256: 75cef11271d41803771fc0696345d8fef49de97efda7c8654efa604d6424122d
 Section: Tweaks
 Description: Long screenshot action and capture controller for StayShot.
 Author: SuSuDear
@@ -6551,6 +6589,24 @@ Description: Edit frozen screenshots with arrows, doodles, highlights, mosaics, 
 Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot Edit
+
+Package: com.susudear.stayshot.markup
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 640
+Depends: com.susudear.stayshot (>= 0.5.1), mobilesubstrate, firmware (>= 15.1)
+Filename: debs/susu.StayShot Edit-1.6.1-arm64.deb
+Size: 152460
+MD5sum: 0524b3b2d6cb8cc3f4c6dfc244491296
+SHA1: 9776d5bc813f0137eea2fbc31d39dc2992fe6adc
+SHA256: 9ca6bb6dc4a4806a3aa1b0e544d86cbc7e6e05d5d6d6a3a82e8a47939c2e951a
+Section: Tweaks
+Description: StayShot Edit 的冻结截图编辑扩展，支持箭头、涂鸦、高亮、马赛克和方框，并支持复制或保存编辑结果。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot Edit
+Sileodepiction: https://repo.susubaby.cn/json/stayshotedit.json
 
 Package: com.susudear.susuocr
 Version: 0.0.1
