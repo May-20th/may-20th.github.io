@@ -128,6 +128,22 @@ Description: Fix Apple watch connection issues
 Author: 577FKJ
 Name: WatchFix
 
+Package: cn.llld.biaoji
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X: h_h_x_t
+Installed-Size: 112
+Depends: mobilesubstrate
+Filename: debs/cn.llld.biaoji_1.2_iphoneos-arm64.deb
+Size: 19232
+MD5sum: cd6564c0cf4fe516398adbd059eb8a3e
+SHA1: a763c2e566dd4f800bad842aabad8b9a16e9bc53
+SHA256: ff078a0ddf6b1411f64ec11dfc1536f205b7f1e066a87489e306123badf30e68
+Section: Tweaks
+Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行箭头，打码，复制，方块，涂鸦，保存等，免去了装第三方软件或者跳转程序的繁琐，14-17可用，改屏幕图标在插件目录下/var/jb/Library/MobileSubstrate/DynamicLibraries/biaoji/pencil.tip.crop.circle.png，设置里图标名为Settings-biaoji.png
+Author: 来了老弟 X: h_h_x_t
+Name: 截图标记-rootless
+
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
