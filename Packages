@@ -4446,6 +4446,38 @@ Description: A modern clipboard history manager for iOS with pasted crash fixes 
 Author: newbie and Codex
 Name: iOSCopy
 
+Package: com.ngkhoi.26cam-legacy
+Version: 0.0.2-beta
+Architecture: iphoneos-arm64
+Maintainer: ngkhoi
+Installed-Size: 808
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.ngkhoi.26cam-legacy_0.0.2-beta_iphoneos-arm64.deb
+Size: 122312
+MD5sum: 0d765069fd3327c95f90059f2afdb1fd
+SHA1: 24affcbf84e06694749f6f079c8fef1af9a8e26e
+SHA256: d2b02762491e06c97bd5eb873ed17198f7dfc9ad7896a81db96a11ad8df19959
+Section: Tweaks
+Description: iOS 26 camera style tweak (requires dylv's liquidass for Liquid Glass), currently supports devices between iPhone X and iPhone SE 1st Gen (Rootless).
+Author: ngkhoi
+Name: 26Cam (Legacy)
+
+Package: com.ngkhoi.26cam-legacy
+Version: 0.0.3-beta
+Architecture: iphoneos-arm64
+Maintainer: ngkhoi
+Installed-Size: 520
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.ngkhoi.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
+Size: 81428
+MD5sum: dc2b3a3fdb1c07cf3bf763c48264d542
+SHA1: abd5cfde51ad7fd79d0a001bca2aa668320be145
+SHA256: d216b0b4dfb4ab8153ade31e4a87b71809136841ebde65ff26defa685785ec62
+Section: Tweaks
+Description: iOS 26 camera style tweak (requires dylv's liquidass for Liquid Glass), currently supports devices between iPhone X and iPhone SE 1st Gen (Rootless).
+Author: ngkhoi
+Name: 26Cam (Legacy)
+
 Package: com.niceios.mrshi-rootless
 Version: 1.0.0.2-235
 Architecture: iphoneos-arm64
@@ -7299,6 +7331,22 @@ Section: Tweaks
 Description: WeChat Plugin Search.
 Author: WeTweak
 Name: WeFind
+
+Package: com.wings.rtc
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: wings
+Installed-Size: 344
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: debs/com.wings.rtc_1.0.0_iphoneos-arm64.deb
+Size: 6304
+MD5sum: 96583ba4d1e1c4560f2bbba8468d5e23
+SHA1: d491f6b72eb2cbe333f024c8e9e39587e4bc48e8
+SHA256: b5ddce52ca906674d8dac4d87ecb8dc4e30c5525570955027ccc55653ee68e3e
+Section: Tweaks
+Description: Why are my screen corners rounded?
+Author: wings
+Name: RoundTheCorners
 
 Package: com.wkk.lynxtwo
 Version: 2.5.4
