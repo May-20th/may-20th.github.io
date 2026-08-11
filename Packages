@@ -7947,22 +7947,6 @@ Author: dylv
 Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
 Name: Liquid (Gl)ass
 
-Package: dylv.liquidass
-Version: 7.2.alpha
-Architecture: iphoneos-arm64
-Maintainer: dylv
-Installed-Size: 1340
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: debs/dylv.liquidass_7.2.alpha-arm64.deb
-Size: 273718
-MD5sum: ae51201d3aa600b010161d64ee2e3bb7
-SHA1: 4e4298353fabf6c80d2e64776a19dbcc5e5066b3
-SHA256: 2ed4f888c38ede3f67d318d59102f2d91883ee529b43abb55c98dc6c3da75ac6
-Section: Tweaks
-Description: ass
-Author: dylv
-Name: Liquid (Gl)ass
-
 Package: flex3
 Version: 1:3~Beta90
 Architecture: iphoneos-arm64
