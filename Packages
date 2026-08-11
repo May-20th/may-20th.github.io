@@ -7667,6 +7667,40 @@ Description: 12306 去广告 (适配隐根 RootHide)
 Author: yourname
 Name: 12306NoAd
 
+Package: com.zqbb.savephotos
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.zqbb.savephotos_1.1_iphoneos-arm64.deb
+Size: 4424
+MD5sum: e4683961afaae9dc20e4522e1353b441
+SHA1: 31a49568a84e3318f8f4ccf73e85e4ad3caa03f6
+SHA256: 82d9daaf5ec6e593ac484f52fd1213592422a9f3115017d24198ad5ac9ee2c07
+Section: Tweaks
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Name: Hello Snapper
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
+Package: com.zqbb.savephotos
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.zqbb.savephotos_1.1-1_iphoneos-arm64.deb
+Size: 4178
+MD5sum: ae71de4c4e424fb49a5d48b28b3fc7e3
+SHA1: 98561d3b8e68809b0885f2eaf4d7b199ba9ec726
+SHA256: 66a3166fc534c114b3a6a874091ced0dc93d5b98071b07f87795e66229d98b3c
+Section: Tweaks
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Name: Hello Snapper3
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
 Package: com.zuner.lunajumpad
 Version: 1.4
 Architecture: iphoneos-arm64
