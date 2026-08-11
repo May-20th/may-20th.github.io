@@ -7866,6 +7866,40 @@ Author: Mineek
 Name: appstoretroller
 
 Package: dylv.liquidass
+Version: 0.0.9a
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 3756
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/dylv.liquidass_0.0.9a_iphoneos-arm64.deb
+Size: 1368404
+MD5sum: 32084de76771871ba53e5ddbf9064d9b
+SHA1: 397e767befd4f356ef5fba836cc0df45e03fa42a
+SHA256: 76debe662ea9309d82dfb1171e138586ace8de9ef18b6e9a9e091dc041ecb657
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+
+Package: dylv.liquidass
+Version: 0.1.0b
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 3596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Filename: debs/dylv.liquidass_0.1.0b_iphoneos-arm64.deb
+Size: 1304024
+MD5sum: 1d71b14a72cbd5b6f40f3c7625a800fc
+SHA1: 0cc3c538c9312d9c638fa8c29ad1da0f66993170
+SHA256: e1945e07441cc249add8f8e22cbde53ba71b7f0314ca40aa2571265746fb7a32
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+
+Package: dylv.liquidass
 Version: 7.2.alpha
 Architecture: iphoneos-arm64
 Maintainer: dylv
