@@ -6586,6 +6586,27 @@ Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot
 Sileodepiction: https://repo.susubaby.cn/json/stayshot.json
 
+Package: com.susudear.stayshot
+Version: 0.5.3
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: debs/com.susudear.stayshot_0.5.3_iphoneos-arm64.deb
+Size: 228584
+MD5sum: be61341ccf776e9b601fc2a17e3e7b35
+SHA1: 07d139aef290a8d8485ce5d44909580e1eac726d
+SHA256: e71a5153ec09b4951d130531b8da9a73b8b2f2ef48163e00519ee98c9bae1876
+Section: Tweaks
+Description: StayShot 独立的 iOS 截图工具，支持普通模式、冻结模式、区域截图、截图历史和屏幕浮窗。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot
+Sileodepiction: https://repo.susubaby.cn/json/stayshot.json
+
 Package: com.susudear.stayshot.long-screenshot
 Version: 1.2.3
 Architecture: iphoneos-arm64
