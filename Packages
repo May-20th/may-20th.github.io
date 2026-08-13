@@ -4850,6 +4850,22 @@ Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳
 Author: Rain
 Name: Rain的套壳截图
 
+Package: com.rain.rainscreenframe
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 1928
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rain.rainscreenframe_1.3.9_iphoneos-arm64.deb
+Size: 389566
+MD5sum: 22f8ab1eaa7545076b685281b51bb052
+SHA1: ae1850090e0ab048d336aefa3db33a478cfc7d33
+SHA256: 8536ad77fd668391275a4a1dca95f47477ae6d3b123635746dbd9db1cb3e98b7
+Section: Tweaks
+Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳、圆角卡片、截图标注、截图拼接、截图转GIF、自定义水印、截图转PDF、截图对比
+Author: Rain
+Name: Rain的套壳截图
+
 Package: com.rain.rainscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
