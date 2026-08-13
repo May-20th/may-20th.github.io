@@ -7386,6 +7386,25 @@ Description: Why are my screen corners rounded?
 Author: wings
 Name: RoundTheCorners
 
+Package: com.witchan.ios-mcp
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: witchan
+Installed-Size: 5740
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.witchan.iphone-mcp
+Replaces: com.witchan.iphone-mcp
+Provides: com.witchan.iphone-mcp
+Filename: debs/com.witchan.ios-mcp_1.2.2_iphoneos-arm64.deb
+Size: 1956630
+MD5sum: 0e2fd66febfe8f41db85caa3b893b610
+SHA1: feb6005cf083d9b4a127994c8f19b1fce9df40d6
+SHA256: 0030a77e83f5103348121fb13e22f0c0ec9391a0555544aed5152e0204211d92
+Section: Tweaks
+Description: MCP server for AI-driven iOS device control. Supports HID buttons, touch, screenshots, clipboard, app management, accessibility tree, and text input.
+Author: witchan
+Name: iOS MCP
+
 Package: com.wkk.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
