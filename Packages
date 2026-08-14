@@ -2599,13 +2599,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2900
+Installed-Size: 2832
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#5-arm64.deb
-Size: 639268
-MD5sum: cfebe32bd38e7acc3ea88adf8b6b0142
-SHA1: 0d195bd558f0b151c458b4b8781178111e249be8
-SHA256: 1096d7aa505b015a9418481cb6385ddf7e548497585fd3b74cb8d6129b23c524
+Filename: debs/huami.dyyy_2.3-0#4-arm64.deb
+Size: 620702
+MD5sum: 0b16ee9b9ebfc0d0843c0f794708000f
+SHA1: 3c72f7d9ca7051f7647bf44ca07bf30da24df6ba
+SHA256: 455c784819a827fbb194dfd7f9396eb231317a660d503f5efd970d37449d3b1e
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2625,6 +2625,44 @@ Size: 649702
 MD5sum: bb2459d4b2b15080fcdc071a8704deee
 SHA1: 6a1f781816671b3da9de32cc05369068527882d7
 SHA256: e50235ca075aae4be91b1fe3fbf286f2db7e5183a833952c6d1d90e6a673d05d
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#10-arm64.deb
+Size: 655448
+MD5sum: aa9b6759ab009d93af262f8863c1e054
+SHA1: 43f30ac9075c89a617fa36cf245efcf3416b0df6
+SHA256: e6e4df5088897cfcfaf7ac82d1d4d1bbd71ab8fc3816fe880ccdce27f45f49d8
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 3208
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#18-arm64.deb
+Size: 705678
+MD5sum: 7f2e8b1e72435c7b080e616916409ef8
+SHA1: e5d886b6a285bc68b0fec4659de54156855208fb
+SHA256: ca34beef8eb71ddc78b02070efd9878cc7519acb2b8f5f4ef2ab3c4e2609dc25
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2675,51 +2713,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2980
+Installed-Size: 2900
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#10-arm64.deb
-Size: 655448
-MD5sum: aa9b6759ab009d93af262f8863c1e054
-SHA1: 43f30ac9075c89a617fa36cf245efcf3416b0df6
-SHA256: e6e4df5088897cfcfaf7ac82d1d4d1bbd71ab8fc3816fe880ccdce27f45f49d8
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 3048
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#12-arm64.deb
-Size: 672552
-MD5sum: b6ab6c035dc86a725c13ffdbe2b9dd2a
-SHA1: e94f2454817daf817996c9b57468b2d9fb2d8557
-SHA256: aa5fc511ff0b0bfa0ce2f40b7a260f5ea0680c66819943197cc0ab7a2a95e23c
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 3028
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#11-arm64.deb
-Size: 659522
-MD5sum: 41d24d2ff41cae26962b6fd968348177
-SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
-SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
+Filename: debs/huami.dyyy_2.3-0#5-arm64.deb
+Size: 639268
+MD5sum: cfebe32bd38e7acc3ea88adf8b6b0142
+SHA1: 0d195bd558f0b151c458b4b8781178111e249be8
+SHA256: 1096d7aa505b015a9418481cb6385ddf7e548497585fd3b74cb8d6129b23c524
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2751,13 +2751,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3208
+Installed-Size: 3112
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#18-arm64.deb
-Size: 705678
-MD5sum: 7f2e8b1e72435c7b080e616916409ef8
-SHA1: e5d886b6a285bc68b0fec4659de54156855208fb
-SHA256: ca34beef8eb71ddc78b02070efd9878cc7519acb2b8f5f4ef2ab3c4e2609dc25
+Filename: debs/huami.dyyy_2.3-0#14-arm64.deb
+Size: 678058
+MD5sum: ac73cdea0ea2052046daaa6f1ca3d252
+SHA1: e1b5667f0d89f8b583f8055fcb9776af0f7807c9
+SHA256: 397f384f4128c3ebefba1ab3aaab30678c3f81c7e53c3131a82ebafe8ff0dfb2
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2770,13 +2770,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3112
+Installed-Size: 3028
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#14-arm64.deb
-Size: 678058
-MD5sum: ac73cdea0ea2052046daaa6f1ca3d252
-SHA1: e1b5667f0d89f8b583f8055fcb9776af0f7807c9
-SHA256: 397f384f4128c3ebefba1ab3aaab30678c3f81c7e53c3131a82ebafe8ff0dfb2
+Filename: debs/huami.dyyy_2.3-0#11-arm64.deb
+Size: 659522
+MD5sum: 41d24d2ff41cae26962b6fd968348177
+SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
+SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2808,13 +2808,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2832
+Installed-Size: 3048
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#4-arm64.deb
-Size: 620702
-MD5sum: 0b16ee9b9ebfc0d0843c0f794708000f
-SHA1: 3c72f7d9ca7051f7647bf44ca07bf30da24df6ba
-SHA256: 455c784819a827fbb194dfd7f9396eb231317a660d503f5efd970d37449d3b1e
+Filename: debs/huami.dyyy_2.3-0#12-arm64.deb
+Size: 672552
+MD5sum: b6ab6c035dc86a725c13ffdbe2b9dd2a
+SHA1: e94f2454817daf817996c9b57468b2d9fb2d8557
+SHA256: aa5fc511ff0b0bfa0ce2f40b7a260f5ea0680c66819943197cc0ab7a2a95e23c
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2894,7 +2894,7 @@ Architecture: iphoneos-arm64
 Maintainer: iosdump
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs/iosdump.AirDrop-0.0.1-arm64.deb
+Filename: debs/iosdump.airdrop_0.0.1-arm64.deb
 Size: 3390
 MD5sum: 79a93b17f1202f6eb669f751a330b80f
 SHA1: f44e503f79593bf7c02ec944fc40ec6caa88ffc0
@@ -2910,7 +2910,7 @@ Architecture: iphoneos-arm64
 Maintainer: iosdump
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs/iosdump.airdrop_0.0.1-arm64.deb
+Filename: debs/iosdump.AirDrop-0.0.1-arm64.deb
 Size: 3390
 MD5sum: 79a93b17f1202f6eb669f751a330b80f
 SHA1: f44e503f79593bf7c02ec944fc40ec6caa88ffc0
@@ -4861,6 +4861,22 @@ Size: 389566
 MD5sum: 22f8ab1eaa7545076b685281b51bb052
 SHA1: ae1850090e0ab048d336aefa3db33a478cfc7d33
 SHA256: 8536ad77fd668391275a4a1dca95f47477ae6d3b123635746dbd9db1cb3e98b7
+Section: Tweaks
+Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳、圆角卡片、截图标注、截图拼接、截图转GIF、自定义水印、截图转PDF、截图对比
+Author: Rain
+Name: Rain的套壳截图
+
+Package: com.rain.rainscreenframe
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 1928
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rain.rainscreenframe_1.4.7_iphoneos-arm64.deb
+Size: 394168
+MD5sum: c42faaadf29e2037c71dfca404c230aa
+SHA1: e07b07e83e2e99b63af992c93ae582f55642f262
+SHA256: 116161b1c0cc15ee731440770d8c7db6b91c46d4a8d290881865762490aeef30
 Section: Tweaks
 Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳、圆角卡片、截图标注、截图拼接、截图转GIF、自定义水印、截图转PDF、截图对比
 Author: Rain
@@ -7800,7 +7816,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
+Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
@@ -7816,7 +7832,7 @@ Architecture: iphoneos-arm64
 Maintainer: ylr
 Installed-Size: 492
 Depends: mobilesubstrate
-Filename: debs/ylr.威锋去广告_1.5.5-arm64.deb
+Filename: debs/ylr.weifengadclean_1.5.5-arm64.deb
 Size: 88706
 MD5sum: 5bacc423431ce022275f0d42678ce177
 SHA1: e2abf2288da2ffb74967930f65c362e77519634c
