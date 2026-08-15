@@ -4631,6 +4631,22 @@ Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池�
 Author: Rain
 Name: Rain的Dock
 
+Package: com.rain.dynamicbattery
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rain.dynamicbattery_1.3.1_iphoneos-arm64.deb
+Size: 97706
+MD5sum: eff4d3c48d42d8e9de4e1d94915d4ee3
+SHA1: 10ef17d0be161816ec17a8ef24ba3ef73f4a13d3
+SHA256: 8bf79e10e1e18605d387eea8fe484e05126f0ee36c13705d71367e57375bef08
+Section: Tweaks
+Description: 智能环岛、自定义电池面板与动态皮肤。适配 iPhone 15 Pro Max、iPhone 15 Pro、iPhone 15 Plus、iPhone 15。
+Author: Rain
+Name: Rain的灵动电量
+
 Package: com.rain.magicsms
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm64
