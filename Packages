@@ -2675,13 +2675,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3308
+Installed-Size: 3372
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.huami.dyyy_2.3-0_iphoneos-arm64.deb
-Size: 737426
-MD5sum: 8957bf80a739203db2994ce8c7b0f535
-SHA1: cc14b1e9e3ebef18cd6c9b688cc9c0bac87f5f07
-SHA256: 2afc66f67e95c688f42d44664c7a4816a162c4187bcc1fe26386a1fabf96cc81
+Size: 743086
+MD5sum: 40df297740bd43a98eb599a838735c9c
+SHA1: 997a2e27bd175d2026315150e8a3639c627ccc72
+SHA256: 5a5474bf1051ab020a2dad6fa62f6e0d1c25d035ca4746fb50a5dd05dfdc2b8a
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
