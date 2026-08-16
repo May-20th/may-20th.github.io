@@ -4647,6 +4647,22 @@ Description: 智能环岛、自定义电池面板与动态皮肤。适配 iPhone
 Author: Rain
 Name: Rain的灵动电量
 
+Package: com.rain.dynamicbattery
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rain.dynamicbattery_1.5.0_iphoneos-arm64.deb
+Size: 131618
+MD5sum: 710b97f8b32e5e324e10805c79a7563b
+SHA1: 0fd4fdd3091413f371e799dd586c2f94054cbc27
+SHA256: 788ce4170458a49969402df937aeee68454f9e88fd1805b49bffffa37f084015
+Section: Tweaks
+Description: 智能环岛、耗电黑匣子与电池寿命护照。适配 iPhone 15 Pro Max、iPhone 15 Pro、iPhone 15 Plus、iPhone 15。
+Author: Rain
+Name: Rain的灵动电量
+
 Package: com.rain.magicsms
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm64
