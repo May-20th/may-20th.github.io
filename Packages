@@ -2279,6 +2279,42 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData(rootless)
 
+Package: com.dao.griddy
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: debs/com.dao.griddy_1.0.6_iphoneos-arm64.deb
+Size: 19820
+MD5sum: 8e5b62e49adeaae3b1f3458ef37328cb
+SHA1: 8a64359dfce5faf23dbe3d5c0a5fa75082c97457
+SHA256: 5cc2c542f19f3116ed1ba19d9d5a4dffe3fae4dac61387e4db6eeb0e9aeabaf7
+Section: Tweaks
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Author: mikifp
+Name: Griddy 随意摆(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.dao.griddy
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: debs/com.dao.griddy_1.1_iphoneos-arm64.deb
+Size: 27538
+MD5sum: ee395e38c23831f90b66421038f31216
+SHA1: 6b0e9dd94ad544e496d2bdbbd937aa8531e2c6cf
+SHA256: 155f298ae0bfa014ec6fd7f4ad4f6fa2f47b3c614fadafd9f7179ddb33ec62e0
+Section: Tweaks
+Description: 让你的程序图标在桌面随意摆放；适iOS15-17+。
+Author: mikifp
+Name: Griddy 随意摆(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
 Package: com.dao.lockdown
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -4286,6 +4322,22 @@ Section: Tweaks
 Description: 独立语音包管理插件
 Author: Meo
 Name: WCVoice
+
+Package: com.mikifp.griddy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.mikifp.griddy_1.0_iphoneos-arm64.deb
+Size: 16284
+MD5sum: 5fcbe8fa1a0cf7b5e7200945c4bd826a
+SHA1: a6217f73e4e4023127dbd58a0c1e25ffbac46e1f
+SHA256: 9bb07eee61dfbd2a1afc9afa8abc568722bc7fc5093bbece8b85267d9082d34f
+Section: Tweaks
+Description: Make your icons hit the griddy
+Author: mikifp
+Name: Griddy
 
 Package: com.mtac.vitreux
 Version: 1.4
