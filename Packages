@@ -4357,6 +4357,22 @@ Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
 Name: Mikkyy 主題管理
 Sileodepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
 
+Package: com.meo.kslite
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: meo
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.meo.kslite_1.1.1_iphoneos-arm64.deb
+Size: 37128
+MD5sum: 9f69c235e1e8c4f62650ad9fcd8d5ac0
+SHA1: fb3c70e5bbf9822d8b41710930d2ed1d57d6dbe7
+SHA256: e97b3833fd2641f5b4a94c70653fbcec0d8f69d7c5e3b2851e2e3cca853d7bbb
+Section: Tweaks
+Description: KSLite
+Author: meo
+Name: KSLite
+
 Package: com.meo.wcvoice
 Version: 1.0.0
 Architecture: iphoneos-arm64
