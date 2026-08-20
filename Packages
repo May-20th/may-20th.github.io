@@ -300,6 +300,54 @@ Icon: https://repo.abox.plus/api/packageinfo/com.apple.bilibili/icon.png
 Name: 哔哩哔哩净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.bilibili.json
 
+Package: com.apple.mobilecal
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: debs/bsnh.日历去横线_1.0.0-1.deb
+Size: 5262
+MD5sum: 72c89b97665e35a98fcaecad9515de40
+SHA1: 9e31665c624710cff67ff3f4123489e6f4726d50
+SHA256: f3e49fcdd608cf7c519eec5c7af10bdea04cf20beea0bfe24db7cdb067519a42
+Section: Tweaks
+Description: 日历去横线
+Author: 半生年华
+Name: 日历去横线
+
+Package: com.apple.mobilenotes
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/bsnh.备忘录去横线_1.0.0-1.deb
+Size: 3248
+MD5sum: ebe3eb02bdc2705f749ed82d93ff8764
+SHA1: b6a945e5d02fb1b94edea5c97bce3d65322f0de0
+SHA256: 4cdfd931572015018cde46f0762c1ebe4ab14de99650191a7631e91dc42e6630
+Section: Tweaks
+Description: 备忘录去横线
+Author: 半生年华
+Name: 备忘录去横线
+
+Package: com.apple.mobiletimer
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/bsnh.闹钟去横线_1.0.0-1.deb
+Size: 4740
+MD5sum: 157c01de6283041bd3231efbc87fc4a3
+SHA1: 083a105968460825f866bfeaa8477736df337e94
+SHA256: ec43e85b6431b40dd8e423c5b47bf8e97d8a5bb2889135f7caa9736b36c91a33
+Section: Tweaks
+Description: 闹钟去横线
+Author: 半生年华
+Name: 闹钟去横线
+
 Package: com.apple.neteasemusic
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -470,6 +518,22 @@ Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.qqmu
 Icon: https://repo.abox.plus/api/packageinfo/com.apple.qqmusic/icon.png
 Name: QQ音乐净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.qqmusic.json
+
+Package: com.apple.reminders
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/bsnh.提醒事项去横线_1.0.0-1.deb
+Size: 3352
+MD5sum: f5593c20b8105cd7215e11e4305090cc
+SHA1: 24c5459e684502ee5ceb18d6f510e116b9b728b3
+SHA256: 1b95f511b0f9f85ddffab55e2b65c12bf47f788a9bb0f60355354113e90b7aec
+Section: Tweaks
+Description: 提醒事项去横线
+Author: 半生年华
+Name: 提醒事项去横线
 
 Package: com.apple.wechat.noads
 Version: 1.2.0
