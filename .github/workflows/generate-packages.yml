@@ -7,6 +7,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -27,7 +29,7 @@ jobs:
           sed -E 's/^Section:.*$/Section: Tweaks/' Packages.raw > Packages
           zstd -f Packages -o Packages.zst
           rm -f Packages.raw
-      - name: Generate Release 【自定义源名称、简介、图标】
+      - name: Generate Release
         run: |
           cat > Release << EOF
 Origin:                 𝑿𝒀
