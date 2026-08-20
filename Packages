@@ -2432,6 +2432,25 @@ Author: roothide
 Name: lockdown(rootless)
 
 Package: com.dao.pulloverx
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2_iphoneos-arm64.deb
+Size: 175270
+MD5sum: a5ee76732e4e9e3d571a6cc640a705b8
+SHA1: dcc8c9892214656f763c9efdc64a73810bbb3028
+SHA256: c01aeeb230da5b977500d2aa978f303ef619c0bbeb54647c1f72a909d6731b06
+Section: Tweaks
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Author: mlgm
+Name: PullOverX(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
 Version: 2.2.2
 Architecture: iphoneos-arm64
 Maintainer: daodao
