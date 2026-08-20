@@ -1,9 +1,0 @@
-Origin:                𝑿𝒀
-Label:                𝑿𝒀
-Suite: stable
-Codename: stable
-Version: 1.0
-Architectures: iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: 𝑿𝒀
-Icon: file:///CydiaIcon.png
