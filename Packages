@@ -2397,6 +2397,24 @@ Name: Griddy 随意摆(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
 Package: com.dao.griddy
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: debs/com.dao.griddy_1.2_iphoneos-arm64.deb
+Size: 27566
+MD5sum: 15b00ab6dddac26d19dcf4160f19638b
+SHA1: 8b60a6fa44196f289dfad358f3df2126a86a2567
+SHA256: 7d59ede193489f30e5f6667cd0461ee22fd3f47afe370a7eb07a67f620d6520b
+Section: Tweaks
+Description: 让你的程序图标在桌面随意摆放。
+Author: mikifp
+Name: Griddy 随意摆(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.dao.griddy
 Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: mikifp
