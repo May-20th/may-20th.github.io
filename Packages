@@ -2431,6 +2431,25 @@ Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent �
 Author: roothide
 Name: lockdown(rootless)
 
+Package: com.dao.pulloverx
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.2_iphoneos-arm64.deb
+Size: 175822
+MD5sum: c449f2e3cc2ee7708d298d1f554ea95c
+SHA1: 1f2141fa004164ca68e03bcc8fd2c78813c5d09a
+SHA256: f4524fbb4d7094b4ca3cdb050c49e9ea947daac716aed73eb6a2ce33afea0d07
+Section: Tweaks
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Author: mlgm
+Name: PullOverX(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
 Package: com.doimty.promotion
 Version: 1.0.6
 Architecture: iphoneos-arm64
