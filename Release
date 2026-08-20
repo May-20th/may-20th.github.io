@@ -6,4 +6,4 @@ Version: 1.0
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 𝑿𝒀
-Icon: CydiaIcon.png
+Icon: file:///CydiaIcon.png
