@@ -1671,6 +1671,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
 Name: Physpringboard 图标重力感应
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
 
+Package: com.codex.lockwidgettobottom
+Version: 4.1.33
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/mallin.LockWidgetToBottom_4.1.33-arm64.deb
+Size: 434276
+MD5sum: 9d0b49ebc8426ee96e388e8be17185d6
+SHA1: 673b8c7dd496c3195d0df364dfe67b73faa37c71
+SHA256: 458b614a308f93c579123ccc06b5498a141f904ef607a0640088a1918636c0c6
+Section: Tweaks
+Description: 1. iOS16–17 系统锁屏界面调整，对“日历文字”、“大号时间”“快捷图标”和“来信消息”可以单独位置和大小调整；
+ 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
+ 3. QQ群：1095225014。
+Author: Mallin
+Name: LockWidgetToBottom 诊断版
+
 Package: com.colorblack.alinfcwakefix
 Version: 0.0.35
 Architecture: iphoneos-arm64
