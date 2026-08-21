@@ -6831,6 +6831,22 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/SuCrash.png
 Name: SuSuCrash
 
+Package: com.susudear.screencore
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 1720
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/susu.screencore_0.1.0-arm64.deb
+Size: 249730
+MD5sum: b196a928241e171e6e03cb777df4d72c
+SHA1: 7c1cef46259024c9fef88df69287d21a2cec26da
+SHA256: 5e544e7ffc6e03a115e1b2172111c402e19505999adebc93db6b23ed427c619b
+Section: Tweaks
+Description: ARC application gesture layer for SpringBoard.
+Author: SuSu
+Name: ScreenCore
+
 Package: com.susudear.stayshot
 Version: 0.2.8
 Architecture: iphoneos-arm64
