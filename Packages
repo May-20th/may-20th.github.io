@@ -1960,6 +1960,22 @@ Description: Remove the launch screen ad in JianXun.
 Author: colorblack
 Name: JianXun No Launch Ad
 
+Package: com.colorblack.kdsnoads
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/colorblack.凯迪仕_1.0.1-arm64.deb
+Size: 6918
+MD5sum: 690994ef001cbda318ec6b609a535a32
+SHA1: 68be77aa82f18319ec83fcf54b61c64423aaee6b
+SHA256: 0b8171482939c9081b5491f4fd7329f45126912bbd7953631f775d7796d37c1a
+Section: Tweaks
+Description: 凯迪仕智能去云存储促销弹窗两种不同弹窗和悬浮客服广告， QQ群：205928931
+Author: colorblack
+Name: 凯迪仕去广告 NoAds
+
 Package: com.colorblack.kiwinoad
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm64
