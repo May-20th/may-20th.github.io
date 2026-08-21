@@ -6813,6 +6813,24 @@ Author: Maxwell Dausch
 Icon: https://www.susubaby.top/images/latchkey.png
 Name: Latchkey
 
+Package: com.susudear.crash
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2732
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.susudear.crash_1.0.6_iphoneos-arm64.deb
+Size: 586256
+MD5sum: cdd9de935fce7a0c63ef1a33990fab5a
+SHA1: 9cf75aa59584da52b356b1d0abb5fdec6e21982e
+SHA256: e7fceebfa31a6cbdd2d94728e7d08aac3c91639ef345e2410d97aa56c28674b4
+Section: Tweaks
+Description: 轻量级崩溃日志查看器
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/SuCrash.png
+Name: SuSuCrash
+
 Package: com.susudear.stayshot
 Version: 0.2.8
 Architecture: iphoneos-arm64
