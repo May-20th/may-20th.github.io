@@ -6945,6 +6945,22 @@ Description: ARC application gesture layer for SpringBoard.
 Author: SuSu
 Name: ScreenCore
 
+Package: com.susudear.screencore
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 1740
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_0.2.0_iphoneos-arm64.deb
+Size: 255586
+MD5sum: d7c50866b97241da81fb16eeedcdd965
+SHA1: 67b33dff6d2247c5c731b073a01be56ec7937110
+SHA256: 353142f4a64c3fe91a761f3bb9179037326f7b1618253c7f68410e4c28b34ace
+Section: Tweaks
+Description: 分屏而已
+Author: SuSu
+Name: ScreenCore
+
 Package: com.susudear.stayshot
 Version: 0.2.8
 Architecture: iphoneos-arm64
