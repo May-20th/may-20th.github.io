@@ -240,6 +240,22 @@ Description: Remove the background of the widgets on the home screen.
 Author: Lessica <82flex@gmail.com>
 Name: Remove Widget Background
 
+Package: com.82flex.removewidgetbg
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: debs/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64.deb
+Size: 31010
+MD5sum: ff9a047cb3da42a6aef6d164228e4a97
+SHA1: 23b05c496309feeb704a60c73831f88fd1f3c70c
+SHA256: f59108ea37bc6c13a59c8d6673ec8bf4c545c83b1c6828dff3c21a36f4de14ff
+Section: Tweaks
+Description: Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Name: Remove Widget Background
+
 Package: com.Axs.classickeyboardxs
 Version: 1.1-9
 Architecture: iphoneos-arm64
