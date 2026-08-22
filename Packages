@@ -4177,6 +4177,23 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图等
 Author: iosdump
 Name: SHELLX
 
+Package: com.iosdump.shellx
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 6492
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_2.3.1_iphoneos-arm64.deb
+Size: 2839578
+MD5sum: 72e454ad9102e88cf272df8cf0cff0df
+SHA1: 97b4591654982e5d62270efb2cea6a4c32867833
+SHA256: 80b70cff135a1f380afaa83ec11e9c31cd7a8b50baca6fb48ffa17040cea667e
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
 Package: com.iosdump.trollcmtweak
 Version: 1.1.4
 Architecture: iphoneos-arm64
