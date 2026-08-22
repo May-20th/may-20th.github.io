@@ -6961,6 +6961,22 @@ Description: 分屏而已
 Author: SuSu
 Name: ScreenCore
 
+Package: com.susudear.screencore
+Version: 0.2.2
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 1788
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_0.2.2_iphoneos-arm64.deb
+Size: 258096
+MD5sum: 0b6e7670ddba0b40f4d4647c93bfe044
+SHA1: fc07a98bce9b82876b042de9b9fe24ce354a5a4c
+SHA256: f06561ff93ecd5a2920888843e5134a36c4402dbb01ef9bdfd13e89d2da33423
+Section: Tweaks
+Description: 分屏而已
+Author: SuSu
+Name: ScreenCore
+
 Package: com.susudear.stayshot
 Version: 0.2.8
 Architecture: iphoneos-arm64
