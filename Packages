@@ -1630,6 +1630,22 @@ Description: 让简单截图，拥有更多可能。
 Author: 冰蓝
 Name: 全局水印Pro
 
+Package: com.ceshi
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: hang
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/hang.气泡阴影_2.7-arm64.deb
+Size: 108864
+MD5sum: 5d865ad6a055642f895cd4d435dded49
+SHA1: c108ef34f600f7369dff2ac4135b721108166e7f
+SHA256: f46ff93b866a84b45778cbc5abdf1f807443f6b804846588570a586fdec2d937
+Section: Tweaks
+Description: 微信
+Author: hang
+Name: 气泡阴影
+
 Package: com.chargelimiter.mod
 Version: 1.14.1
 Architecture: iphoneos-arm64
