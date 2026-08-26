@@ -1652,6 +1652,22 @@ Architecture: iphoneos-arm64
 Maintainer: hang
 Installed-Size: 584
 Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/hang.气泡阴影_2.9-arm64.deb
+Size: 111006
+MD5sum: b2d1ac501745709ec007c4d4bf51d8b1
+SHA1: c920ce40468b0219c8846c5ccea220749898bc15
+SHA256: 487b8b39711f0581fe45b0f1670e8ab0b2893df8854bc4d88168025d7cbefec9
+Section: Tweaks
+Description: 微信
+Author: hang
+Name: 气泡阴影
+
+Package: com.ceshi
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: hang
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.ceshi_2.9_iphoneos-arm64.deb
 Size: 111006
 MD5sum: b2d1ac501745709ec007c4d4bf51d8b1
