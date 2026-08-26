@@ -3617,6 +3617,40 @@ Author: iosdump
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 
+Package: com.iosdump.appdata
+Version: 2.7.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.0_iphoneos-arm64.deb
+Size: 2087954
+MD5sum: f5819ac1c23fef18c31dff18f14bb71e
+SHA1: f2912bf737589732d2ba60fce1dc2d1b64b3aade
+SHA256: a3e3ad6ccb4d9f5f692abb417f4c99b9c08f4a7475db60629f68bcbb8e7cc885
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.1_iphoneos-arm64.deb
+Size: 2091120
+MD5sum: 3acf5c048675db86660d4e611ef095c9
+SHA1: 7c5521cf2f18ee3c957acaebd0880e268258467f
+SHA256: 083005ad3105d11bf5a9f388da31922e673aa95644cc17181878bc3f0d358483
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
 Package: com.iosdump.appmute
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4255,6 +4289,23 @@ Size: 2885438
 MD5sum: f451bc24b1c7a4c6d73b6281cd3ffd06
 SHA1: 9fbda3ab6d9f90ced370ba7ae68aebbfbc93a337
 SHA256: 0697b2fd6b6b45b13ff64da71d2b7c448a3758a1371e2d57c6b46b5322a3201e
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 6936
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_2.5.1_iphoneos-arm64.deb
+Size: 3097560
+MD5sum: 28d3822bc50edd361ce41832f6ac5266
+SHA1: 1a20ea3d836d27cd165d3bf3810ff843639939cf
+SHA256: 8e251b32c5d6f9bde1b69bb9670c61a75b74fe6ebc505052cdc4a97870a67ec1
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
 Author: iosdump
