@@ -8142,6 +8142,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 米家优化
 
+Package: com.wkk.recordeyex
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/wkk.recordeyex_1.0-3-arm64.deb
+Size: 56928
+MD5sum: a20f81f338eaa4ac3bf13eb12fa3fc7c
+SHA1: f1fa857f6d3516b1aa0efa02fcf0036c92c416e9
+SHA256: ccef05ef3644862970a774d9dcc72e3578e0ef0a8783d821b03dcae432525adb
+Section: Tweaks
+Description: 自定义快捷录屏的灵动岛录制指示点。
+Author: wkk
+Name: RecordEyeX
+
 Package: com.wkk.wcfrostedglass
 Version: 1.0.5
 Architecture: iphoneos-arm64
