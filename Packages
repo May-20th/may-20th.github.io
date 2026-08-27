@@ -5665,6 +5665,22 @@ Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需
 Author: Simon
 Name: 灵动岛跳舞动画PLUS
 
+Package: com.simon.spectrums
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_1.0_iphoneos-arm64.deb
+Size: 96806
+MD5sum: 52f858c0ab6158d10925bf9130e98aa2
+SHA1: dc8003166a4596cdbdc6e06f8411b2488a6d1711
+SHA256: 7a7af166a7b75b530dfd5cb65cebbb939176c0f715653352f6940fefd6eca2b7
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
 Package: com.sini.zfbhook
 Version: 1.5.5
 Architecture: iphoneos-arm64
