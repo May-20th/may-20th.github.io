@@ -8067,6 +8067,70 @@ Description: MCP server for AI-driven iOS device control. Supports HID buttons, 
 Author: witchan
 Name: iOS MCP
 
+Package: com.wkk.aihuishounolaunchad
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.aihuishounolaunchad_1.0-1_iphoneos-arm64.deb
+Size: 3248
+MD5sum: c3f3d570f4456150c41c941ea82057a5
+SHA1: b89dfc19e8145e61d021149b53b52d5ea3e8e336
+SHA256: 6567a8703dd075d44711e8f3945212cf486dd700af9a562c5ef60c444b3e86ac
+Section: Tweaks
+Description: 去除爱回收 App 开屏广告。
+Author: wkk
+Name: 爱回收去广告
+
+Package: com.wkk.baidu.netdisk
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.wkk.baidu.netdisk_1.0_iphoneos-arm64.deb
+Size: 9558
+MD5sum: 379f7ed843c543e8f21128521578b21b
+SHA1: ae99b651f90080331b8b1e5977de313c9fbe111a
+SHA256: 63c531c4eabb62ff0f642d5db357785c7eafeaa3a6c14912c4cc550086009434
+Section: Tweaks
+Description: 去除百度网盘开屏广告，并为本地下载文件添加导出按钮
+Author: wkk
+Name: 百度网盘
+
+Package: com.wkk.dqnoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.dqnoad_1.0_iphoneos-arm64.deb
+Size: 6136
+MD5sum: 861fda88805b26bb6f11db2833da1156
+SHA1: 5383d73a6962ef5a969411b406f294a6f3bf0c86
+SHA256: cab501683b471d2caa6acf44c0ed1e6cd192f98b554b8efcb764154b3fd90e54
+Section: Tweaks
+Description: 去除懂球帝开屏、信息流、详情页等广告
+Author: wkk
+Name: 懂球帝去广告
+
+Package: com.wkk.leisunoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.leisunoad_1.0_iphoneos-arm64.deb
+Size: 4270
+MD5sum: f40894414a28d3653b85baae7210c878
+SHA1: c72ce3ca2303fae17a9e658db2e72dfaac1f485f
+SHA256: f4720344f96def0f3ff0e618974f6c86c6a1862f18374a8674f9537e0098736b
+Section: Tweaks
+Description: 去除雷速体育开屏、Banner、信息流、插屏等广告
+Author: wkk
+Name: 雷速体育去广告
+
 Package: com.wkk.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
@@ -8101,6 +8165,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 米家优化
 
+Package: com.wkk.nemusicnolaunchad
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.nemusicnolaunchad_1.0-1_iphoneos-arm64.deb
+Size: 4442
+MD5sum: ea9e07af6d7286e0f1fb5dcd313cf2bd
+SHA1: 33ff57be39363e22bdb4ecc0390736d7319e7287
+SHA256: 271b6debc589829ef407d1d69070ba3a6d350b53097f33c74591b82098edd160
+Section: Tweaks
+Description: 去除网易云音乐开屏广告、评论区广告，并自动领取激励视频听歌时长。
+Author: wkk
+Name: 网易云音乐去广告
+
 Package: com.wkk.recordeyex
 Version: 1.0-3
 Architecture: iphoneos-arm64
@@ -8133,6 +8213,22 @@ Description: 自定义快捷录屏的灵动岛录制指示点。
 Author: wkk
 Name: RecordEyeX
 
+Package: com.wkk.tiebanoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.tiebanoad_1.0_iphoneos-arm64.deb
+Size: 3656
+MD5sum: c3de43af38ddd3418551970905529e8e
+SHA1: f122ed2eedb64f5d6b56faaccc13af259cdbf126
+SHA256: 518fd72c64b27db5f647288e2da777b2cd7599b239492fbba9c9d5c394964c00
+Section: Tweaks
+Description: 去除百度贴吧开屏广告
+Author: wkk
+Name: 贴吧去广告
+
 Package: com.wkk.wcfrostedglass
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -8149,6 +8245,22 @@ Description: 微信界面上下添加毛玻璃效果。
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
+
+Package: com.wkk.xianyuad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.xianyuad_1.0_iphoneos-arm64.deb
+Size: 3514
+MD5sum: fbe085e2126702761c9d314dcdac2fd1
+SHA1: e877067e6a7670641dd03aeec9ce1784e5225c2c
+SHA256: 51a112bbc2c9dc801325f5103a565b5f4b08d5c5f87695bce488699c8e3733ac
+Section: Tweaks
+Description: 仅移除闲鱼开屏广告
+Author: wkk
+Name: 闲鱼去开屏广告
 
 Package: com.xuuz.cadvip
 Version: 0.0.1
