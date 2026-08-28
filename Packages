@@ -2412,6 +2412,26 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dylv.liquidglass
+Version: 0.1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 4848
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.iosdump.customccbg
+Replaces: com.iosdump.customccbg
+Provides: com.iosdump.customccbg
+Filename: debs/com.dylv.liquidglass_0.1.2.1_iphoneos-arm64.deb
+Size: 1660034
+MD5sum: da9a0ad598264861753639307d23fb89
+SHA1: f7f9e0ddd2fcf0fbe23b5172b189ab84893bebd8
+SHA256: ca2f3d9ad536d0f71decc347414986ec29d04970d1d36e7ca5115d21f17cc271
+Section: Tweaks
+Description: 液态玻璃体玻璃，基于LiquidAss项目修改
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: 液态玻璃
+
 Package: com.example.wifileasekeeper
 Version: 1.0.10
 Architecture: iphoneos-arm64
