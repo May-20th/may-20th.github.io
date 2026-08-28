@@ -8117,6 +8117,22 @@ Description: 自定义快捷录屏的灵动岛录制指示点。
 Author: wkk
 Name: RecordEyeX
 
+Package: com.wkk.recordeyex
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64.deb
+Size: 61884
+MD5sum: 88096b3fb345bd2162a2e4740a8e72a8
+SHA1: 43d14ccfeed0ea34bf98756f0a022d0a2036dbcd
+SHA256: b7cdedbac44c54527e85e423243af6b16d4b0e784a2e12e7dd25186a4b7b8581
+Section: Tweaks
+Description: 自定义快捷录屏的灵动岛录制指示点。
+Author: wkk
+Name: RecordEyeX
+
 Package: com.wkk.wcfrostedglass
 Version: 1.0.5
 Architecture: iphoneos-arm64
