@@ -1800,6 +1800,23 @@ Description: 1. iOS16–17 系统锁屏界面调整，对“日历文字”、�
 Author: Mallin
 Name: LockWidgetToBottom 诊断版
 
+Package: com.codex.lockwidgettobottom
+Version: 4.1.49
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.codex.lockwidgettobottom_4.1.49_iphoneos-arm64.deb
+Size: 1153170
+MD5sum: b323bb906a66a15fcae78eb13c68c0f0
+SHA1: 34d02f85cf33879533a90b161cd32b01dccc9649
+SHA256: d65f8f2798d75d7525f80697b3903f3b6358154c7aa8a61240688527c655ecd3
+Section: Tweaks
+Description: 1. iOS15–17 系统锁屏界面调整，对“日历文字”、“大号时间”“快捷图标”和“来信消息”可以单独位置和大小调整；
+ 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
+ 3. QQ群：1095225014。
+Author: Mallin
+Name: LockWidgetToBottom 诊断版
+
 Package: com.colorblack.alinfcwakefix
 Version: 0.0.35
 Architecture: iphoneos-arm64
@@ -2913,6 +2930,24 @@ Section: Tweaks
 Description: Capture selected WeChat messages with their original chat appearance
 Author: huami
 Name: ChatCapture
+
+Package: com.huami.chatcaptureplus
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: huami, Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
+Replaces: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
+Filename: debs/com.huami.chatcaptureplus_4.0_iphoneos-arm64.deb
+Size: 869056
+MD5sum: b3e5e5751aabd4fe4fa496bfb04b7abf
+SHA1: 82278951f872802690cf2c269c6c8d5de5a5df1e
+SHA256: e3699dbebbb943643fdaf1aa6327831046f45bdc761b31060e7d2fbf04cfa8a6
+Section: Tweaks
+Description: 一款用于聊天界面多选(长)截图自动拼接的小插件，增加时间标签与快捷截图按钮     • 支持聊天页右上角快捷截图（新）     • 支持按选择拼接截图     • 支持快捷分享给联系人     • 支持聊天背景图展示配置     • 支持隐藏群成员名字标签     • 支持选择是否显示群名、输入框     • 适配主题情况下的导航栏资源裁剪等布局     • 支持选择成员显示名类型（备注、网名、群名）  注意：此插件默认开启  触发方式如下：点击聊天页右上角截图按钮，或多选消息后点击「更多」→ 截图；齿轮图标进入设置。
+Tag: role::enduser
+Author: huami, Mallin
+Name: ChatCapture+
 
 Package: com.huami.dyyy
 Version: 2.2-9
@@ -4520,6 +4555,48 @@ Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS1
 Author: iosdump
 Name: Zone
 
+Package: com.jontelang.snapper3plus
+Version: 4.1.19
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
+Replaces: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
+Provides: com.jontelang.snapper3, cn.llld.bioaji
+Filename: debs/com.jontelang.snapper3plus_4.1.19_iphoneos-arm64.deb
+Size: 1610012
+MD5sum: a413a78c3278147a42384e95ccc7ed92
+SHA1: b434f4bddc5c4d3e3dbccd1fbaef132a5d102f8f
+SHA256: 4f4eb2c9090f471b6816048858ce7a6d1e42cdb8511361c28d04f0d107d6f6de
+Section: Tweaks
+Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二次界面）；
+ 2. 标记功能丰富，包括了画笔、文字、箭头和马赛克功能，具备实时调整颜色功能；
+ 3. 对截图历史的窗口恢复到Snapper2版本的大窗口。
+ 4. QQ群：1095225014
+Author: Mallin
+Name: Snapper3+
+
+Package: com.jontelang.snapper3plus
+Version: 4.1.20
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
+Replaces: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
+Provides: com.jontelang.snapper3, cn.llld.bioaji
+Filename: debs/com.jontelang.snapper3plus_4.1.20_iphoneos-arm64.deb
+Size: 1625546
+MD5sum: e902931bf0683abf6541e65150ef3518
+SHA1: 9c74e857070c928224fc9a094fd0d1ac8de2b2a6
+SHA256: 41bce3fd28505d9ec5a9c901f2c0b143a031bfbc602a0f0b2cbc48ddc7b6d3eb
+Section: Tweaks
+Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二次界面）；
+ 2. 标记功能丰富，包括了画笔、文字、箭头和马赛克功能，具备实时调整颜色功能；
+ 3. 对截图历史的窗口恢复到Snapper2版本的大窗口。
+ 4. QQ群：1095225014
+Author: Mallin
+Name: Snapper3+
+
 Package: com.julioverne.spotilife
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -4776,6 +4853,40 @@ Author: m4fn3
 Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
 Name: Mikkyy 主題管理
 Sileodepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
+
+Package: com.mallin.lockwidgettobottom
+Version: 4.2.44
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.lockwidgettobottom_4.2.44_iphoneos-arm64.deb
+Size: 1388882
+MD5sum: 079e492c48692e63f24a560952f3c549
+SHA1: 9e3be79a49bd889336f44b6571627ade66e37215
+SHA256: 96188c888f648219a6c799badf37f3378ff8d796b29a87d6f5b5af745abd6b47
+Section: Tweaks
+Description: 1. iOS15–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
+ 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
+ 3. QQ群：1095225014。
+Author: Mallin
+Name: LockWidgetToBottom 诊断版
+
+Package: com.mallin.lockwidgettobottom
+Version: 4.2.45
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.lockwidgettobottom_4.2.45_iphoneos-arm64.deb
+Size: 1389532
+MD5sum: faf7d671779a114351ea8fc135163d8f
+SHA1: 4cb7ea2a60c262556deaec3d380ee68d95c77210
+SHA256: 20d8f208494a46ea907beba66c880b07c0d95afe3ea1dd1dfa2e01ae6d61887e
+Section: Tweaks
+Description: 1. iOS15–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
+ 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
+ 3. QQ群：1095225014。
+Author: Mallin
+Name: LockWidgetToBottom 诊断版
 
 Package: com.meo.kslite
 Version: 1.1.1
