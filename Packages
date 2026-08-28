@@ -669,42 +669,6 @@ Icon: https://repo.abox.plus/api/packageinfo/com.apple.zhihu/icon.png
 Name: 知乎净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.zhihu.json
 
-Package: com.axs.callershow
-Version: 5.2.0-47
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 520
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/axs.callershow来电背景_5.2.0-47-arm64.deb
-Size: 46200
-MD5sum: cb8343c8296b2981a28bc0929ed2dafe
-SHA1: 34d596c5d9bb07df3acfa417f37ee32a8b94b214
-SHA256: f80090b86d8bc39b0970b13aaaaf4655dd1325f17a88c20fd7d3e33848277a50
-Section: Tweaks
-Description: 为来电、去电添加循环视频背景，支持系统电话、微信CK语音。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/callershow.png
-Name: CallerShow
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/callershow/js.json
-
-Package: com.axs.controlcentre
-Version: 5.2.0-26
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 472
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
-Filename: debs/axs.controlcentre_5.2.0-26-arm64.deb
-Size: 51782
-MD5sum: e8a84c61f1f8279c4d9e7f16640ceb65
-SHA1: 783261f0bb028b5424fbc36bced62f030b8f94eb
-SHA256: 188c76f2533283bc9ba55e3dfbbbffdca5969581fd65c999ec4e8180e82a7859
-Section: Tweaks
-Description: 一个简单的控制中心美化插件.
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/controlcentre.png
-Name: ControlCentre
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/controlcentre/js.json
-
 Package: com.axs.ios16dao
 Version: 5.2.0-161
 Architecture: iphoneos-arm64
@@ -762,86 +726,6 @@ Author: Axs
 Icon: https://axs66.github.io/pro/icon/notifyisland.png
 Name: NotifyIsland
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/notifyisland/js.json
-
-Package: com.axs.screenshellpro
-Version: 5.2.0-61
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 540
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/axs.全局水印_5.2.0-61-arm64.deb
-Size: 51728
-MD5sum: 6ae4d8266a96dcd5264efc6d33c813a6
-SHA1: 629fc1fee0fc7288ad0d2beec4b3ba4c88e5f7ea
-SHA256: feceb46e0afeb5672dcebcedaa44fe2dcc0373b93f8a5ef02b8f6e13089580c4
-Section: Tweaks
-Description: 专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。插件需要授权才能使用。授权请联系微信：VCR66T
- * 1. 录屏套壳渲染极快。
- * 2. 渲染过程中手机不发烫。
- * 3. 插件不需要任何依赖。
- * 4. 本插件是目前市面上最好的录屏套壳渲染工具。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/screenshellpro.png
-Name: ScreenShell Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
-
-Package: com.axs.switchicon
-Version: 5.2.0-131
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 836
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/axs.switchicon_5.2.0-131-arm64.deb
-Size: 122528
-MD5sum: ab68e821f2630db3ae297f49732e978a
-SHA1: 54b7b2d01ec634d93b465c5f5b565030f11b8f76
-SHA256: 35de138df50dae2c4c160bfbd63bd0189d31d2cda2ca8f14836cca8962f53dc4
-Section: Tweaks
-Description: 一个强大的全局 UISwitch 开关控件，让原生开关显示更有个性；付费插件，需要请联系微信：VCR66T
- * 一、纯代码开关组
- * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
- * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
- * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
- * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
- * 二、素材开关组
- * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
- * 2. 支持创建多套，在插件面板自由切换。
- * 三、温馨提示
- * 1. 早买早享受，后续免费更新；
- * 2. 后续增加新样式，新用户可能面临涨价。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/switchicon.png
-Name: Switch Icon
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
-
-Package: com.axs.switchicon
-Version: 5.2.0-139
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 836
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/axs.switchicon_5.2.0-139-arm64.deb
-Size: 121964
-MD5sum: c2d76fca14d1dd6f12c323e134b421eb
-SHA1: 835865a37a145a1368ff97a703aca3a0c2448029
-SHA256: 2d227ad5d01509c83af4fc03fb5de63bd1503af622f9a9b28ed51b3319278394
-Section: Tweaks
-Description: 一个强大的全局 UISwitch 开关控件，让原生开关显示更有个性；付费插件，需要请联系微信：VCR66T
- * 一、纯代码开关组
- * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
- * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
- * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
- * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
- * 二、素材开关组
- * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
- * 2. 支持创建多套，在插件面板自由切换。
- * 三、温馨提示
- * 1. 早买早享受，后续免费更新；
- * 2. 后续增加新样式，新用户可能面临涨价。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/switchicon.png
-Name: Switch Icon
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
 
 Package: com.ayao.doubaopowerbutton
 Version: 0.0.6
