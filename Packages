@@ -4299,6 +4299,27 @@ Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二
 Author: Mallin
 Name: Snapper3+
 
+Package: com.jontelang.snapper3plus
+Version: 4.1.23
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
+Replaces: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
+Provides: com.jontelang.snapper3, cn.llld.bioaji
+Filename: debs/com.jontelang.snapper3plus_4.1.23_iphoneos-arm64.deb
+Size: 1632544
+MD5sum: e64c00d2ba3191eb189a1fe8a758a683
+SHA1: 9f0ef7acab16fb962a44780f4854cc751683fab6
+SHA256: a4ac4b324437fd0a2cea24740e8e99c88c733946b0f35a798653e4ef0ded412a
+Section: Tweaks
+Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二次界面）；
+ 2. 标记功能丰富，包括了画笔、文字、箭头和马赛克功能，具备实时调整颜色功能；
+ 3. 对截图历史的窗口恢复到Snapper2版本的大窗口。
+ 4. QQ群：1095225014
+Author: Mallin
+Name: Snapper3+
+
 Package: com.julioverne.spotilife
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -4601,6 +4622,23 @@ Size: 290370
 MD5sum: 0ce9d534258f638d1ba2a6877a811dce
 SHA1: 79dd9ebafba7a77c44c19eb47f2cf18b276b2cac
 SHA256: d1384f7d9c9db2a5732291758b547573b9419f8c19ffc6cf409e9a3ecada67e2
+Section: Tweaks
+Description: 1. 该补丁是基于Snapper3 1.2.1版本进行适配的，适配后可以达到与Snapper 3+一样的效果。
+ 2. QQ群：1095225014。
+Author: Mallin
+Name: Snapper 3 Patch
+
+Package: com.mallin.snapper3patch
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper3plus
+Filename: debs/com.mallin.snapper3patch_1.1.7_iphoneos-arm64.deb
+Size: 294336
+MD5sum: d686a0375465ebbfc8f41cfa5eb98707
+SHA1: e19c20a09bd9c5d00e37801cfae1ce6731cff69a
+SHA256: 625818f91f5a9d25b731560f8c11ff120e44137d18cb647a0179d1133f5585fd
 Section: Tweaks
 Description: 1. 该补丁是基于Snapper3 1.2.1版本进行适配的，适配后可以达到与Snapper 3+一样的效果。
  2. QQ群：1095225014。
