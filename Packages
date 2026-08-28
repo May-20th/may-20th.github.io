@@ -8131,6 +8131,23 @@ Description: 去除雷速体育开屏、Banner、信息流、插屏等广告
 Author: wkk
 Name: 雷速体育去广告
 
+Package: com.wkk.lstimeseconds
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.wkk.lstimeseconds_1.0-3_iphoneos-arm64.deb
+Size: 8128
+MD5sum: ef52e83af9c71664c116cd54788f8498
+SHA1: 44cab5d206b6aa782bdaae2d47635fd10ec18498
+SHA256: 6280629b523fab8eb0806f16dd1cbd40d682dde05031f17bd5073db7ed844cdb
+Section: Tweaks
+Description: 锁屏时间增加秒数显示，支持 iOS15-17。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: LSTimeSeconds15-17
+
 Package: com.wkk.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
