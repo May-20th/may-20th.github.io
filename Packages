@@ -274,24 +274,6 @@ Icon: https://axs66.github.io/repo/icon/classickeyboardxs.png
 Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
-Package: com.Axs.lightisle
-Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: 旧约
-Installed-Size: 1304
-Depends: mobilesubstrate, preferenceloader, firmware (>= 16.1)
-Filename: debs/axs.灵动岛手电筒_1.0.0-2-arm64.deb
-Size: 953728
-MD5sum: d7de10d50519f18e14bb4e6b5efd2e87
-SHA1: bbd326c180d35cca12a18e61b62752d6efa04e11
-SHA256: 1f557d12f5aeb88024eaf1a92cd8af9f7d5f1ed1497df69ecd4dd94fbcd0c268
-Section: Tweaks
-Description: 为iOS16添加灵岛手电筒控制
-Author: 旧约
-Icon: https://axs66.github.io/pro/icon/lightisle.png
-Name: LightIsle手电筒
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/lightisle/js.json
-
 Package: com.Axs.wcsurfacetrim
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -668,46 +650,6 @@ Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.zhih
 Icon: https://repo.abox.plus/api/packageinfo/com.apple.zhihu/icon.png
 Name: 知乎净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.zhihu.json
-
-Package: com.axs.ios16dao
-Version: 5.2.0-161
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 608
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/axs.灵动岛ios16_5.2.0-161-arm64.deb
-Size: 67044
-MD5sum: fc419fa2e9f9dab18cf651fa200adcd1
-SHA1: cdebcd1c14b05c49d45c49db6b731d0e7faa242c
-SHA256: 88029d37d2e1cd21874a88e96103f2a60357a0178e215f41de9a73e028cc1c07
-Section: Tweaks
-Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。集成授权校验联系:VCR66T
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
-Name: ios16灵动岛
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
-
-Package: com.axs.notifyisland
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 444
-Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
-Filename: debs/axs.灵动通知_1.1.1-arm64.deb
-Size: 53540
-MD5sum: d8bbe0be7653f9b0c0ba6d9dfdc9c5c8
-SHA1: e18e166ecad5126f8f6ba073cc2300433c2c3a1c
-SHA256: fbf778849b8cdcff3698d4f81d1c14fe8d144a15cea237e8c6e870aeb61a2365
-Section: Tweaks
-Description: 灵动通知，功能介绍:
-  * 1.在灵动岛上显示精美的消息通知；
-  * 2.支持自定义背景（视频、图片、纯代码格式）；
-  * 3.支持自定义尺寸、字体及垂直偏移；
-  * 4.支持点击岛上消息跳转app。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/notifyisland.png
-Name: NotifyIsland
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/notifyisland/js.json
 
 Package: com.ayao.doubaopowerbutton
 Version: 0.0.6
@@ -2999,38 +2941,6 @@ Author: INITNIL
 Name: 绘爆Paletta Crack
 Sileodepiction: https://jailrepo.initnil.com/api?Package=com.initnil.medibangprocrack
 
-Package: com.ios16dao
-Version: 5.2.0-100
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 516
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/axs.灵动岛ios16_5.2.0-100-arm64.deb
-Size: 55764
-MD5sum: 2223ae925766ac95bac914aad5bad9bd
-SHA1: 583a0efa498d77c13836c366207c043c9157097e
-SHA256: 29ad6b936e75a59678568d63c6f0482aa1e2a931afc5804e5e2308e46880e9c5
-Section: Tweaks
-Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。
-Author: Axs
-Name: ios16灵动岛
-
-Package: com.ios16dao
-Version: 5.2.0-125
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 524
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/axs.灵动岛ios16_5.2.0-125-arm64.deb
-Size: 55708
-MD5sum: 0560396e617a7c7edab8e5a66fbed437
-SHA1: be2133020b7de62fd1df486805f9a025acff4d2a
-SHA256: 3f9efc6b1e62564c9ff75624e04e06d22a4b0e0ae7c8ed2d57c5136fdd64018c
-Section: Tweaks
-Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。
-Author: Axs
-Name: ios16灵动岛
-
 Package: com.iosdump.airdrop
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4966,6 +4876,22 @@ Author: MrShi
 Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
 Name: MrShi(Rootless)
 Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
+
+Package: com.pipboy.tweak
+Version: 1.0.22
+Architecture: iphoneos-arm64
+Maintainer: PipBoy Dev
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.pipboy.tweak_1.0.22_iphoneos-arm64.deb
+Size: 67474
+MD5sum: 930a48b6d59150fa7d87183d9819429e
+SHA1: 876998baaeff7b6e45b50cf43fb646386855598e
+SHA256: 51c0cd48a2e104b8bbf9827bbd78aacf022d1c60d53e289a6dce4a8e76d35a06
+Section: Tweaks
+Description: 自娱自乐插件 - 关闭所有后台、内存/存储显示、白名单锁定、双击锁屏、显示网速等
+Author: PipBoy Dev
+Name: 哔哔小子
 
 Package: com.plugingroup
 Version: 0.0.1-4+debug
