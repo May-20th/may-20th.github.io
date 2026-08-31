@@ -7779,6 +7779,24 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/susuocr.png
 Name: SuSuOCR
 
+Package: com.susudear.themecore
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSuDear
+Installed-Size: 684
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.1.0_iphoneos-arm64e.deb
+Size: 116924
+MD5sum: 413b8d51fdac0a2d1135a946e8660c62
+SHA1: c97bbb5122eb1455caf0d0dfb3fe3bc84e6d837f
+SHA256: 055c87ce9b42d22f9edeeae7c79a4ab5f227708c06eac3fed80ffd792d5b3a4c
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
 Package: com.swing.ddmcnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
