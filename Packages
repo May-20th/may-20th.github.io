@@ -128,6 +128,24 @@ Description: Fix Apple watch connection issues
 Author: 577FKJ
 Name: WatchFix
 
+Package: cn.llld.appfix
+Version: 0.0.36
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1452
+Depends: firmware (>= 14.0), ellekit | mobilesubstrate
+Filename: debs/cn.llld.appfix_0.0.36_iphoneos-arm64.deb
+Size: 455664
+MD5sum: 5bcf265cd31b674f83981e66dbcfe6e3
+SHA1: 466c34c5e6514bc8091f4d519840b3d076798cdd
+SHA256: 35a8339ec6132066bf6f5f5c03225ff0643a1f521742d0f3a1bb561d602df796
+Section: Tweaks
+Description: appfix 应用修改器 ———  系统应用，用户应用，越狱应用的调整工具（Flex3 思路重写增强），支持自定义脚本代码，配置导出导入，一键开关，视图层级可视化 等等，不收费。
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Icon: file:///var/jb/Applications/appfix.app/AppIcon60@3x.png
+Name: 应用修改器
+
 Package: cn.llld.biaoji
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -7359,6 +7377,40 @@ Size: 353164
 MD5sum: 5166a5ecc98758baf10f7ae30d5e379d
 SHA1: afcfee075af099da893522da46efb1c2811d0608
 SHA256: 9617ff4a1468b7b0fb06a3f2d54ed373f5f257ed1a6ebb530c524210c58ee309
+Section: Tweaks
+Description: 分屏而已
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Name: ScreenCore
+
+Package: com.susudear.screencore
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_1.0.6_iphoneos-arm64.deb
+Size: 366028
+MD5sum: 227769c701b71e70f52f3d5ad2899672
+SHA1: a3f014d38ce7a9e756eca211ac748d81c14c453d
+SHA256: 94b28a9a384cd559472921d749b2acaac7d232f0332f0c226fa7b408ee18c103
+Section: Tweaks
+Description: 分屏而已
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Name: ScreenCore
+
+Package: com.susudear.screencore
+Version: 1.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_1.0.6-1_iphoneos-arm64.deb
+Size: 365726
+MD5sum: f293f661c7e167bdf6e4ffc53c31fb63
+SHA1: 384e723e3e91d5e73f1fd6567e17059cb617df87
+SHA256: 2649a5624d58011facfe4cb968682e6563fbf2fee34f77b8dc1acb0313f6bf75
 Section: Tweaks
 Description: 分屏而已
 Author: SuSu
