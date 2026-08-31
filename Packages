@@ -4687,6 +4687,48 @@ Author: Mallin
 Icon: https://mallinrepo.pages.dev/depictions/wechategroups/icon.png
 Name: WeChatGroups
 
+Package: com.mallin.wcpulseplus
+Version: 2.2.43
+Architecture: iphoneos-arm64
+Maintainer: Mallin <mallin@example.local>
+Installed-Size: 1004
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.mallin.wcpulseplus_2.2.43_iphoneos-arm64.deb
+Size: 335734
+MD5sum: 7812d2e73954645c3e0729f38960438c
+SHA1: d119c19055a31e444824705eb1e1778e3b76961b
+SHA256: 41f2ad7826d5cc86b482088bc8b6ac07c6b5507da26b5490a247180d14393909
+Section: Tweaks
+Homepage: https://local.mallin/wechategroups
+Description: 需要配合 huami 作者的 WCPulse 最新插件使用，折叠聊天顶栏识别修复诊断版本。
+ 1. 支持长按顶栏分组（自定义）直接进入该分组成员编辑界面；
+ 2. 支持在个人聊天详情页面和微信群聊天信息界面右上角添加“分组”功能；
+ 3. 分组内联系人或微信群设置消息免打扰且来新消息时，在对应顶栏分组正下方显示橙色小圆点提示；
+ 4. 顶栏分组内来新消息时自动跳到对应分组。
+ 5. 支持在非“全部”分组内隐藏“公众号”和“文件传输助手”。
+ 6. 微信聊天列表上划实现顶栏分组吸顶不消失，下滑恢复，并可通过右上角“+”菜单启用或关闭；
+Tag: role::enduser
+Author: Mallin
+Icon: https://mallinrepo.pages.dev/depictions/wechategroups/icon.png
+Name: WeChatGroups
+
+Package: com.mallin.wechatpinnedorder
+Version: 2.3.2
+Architecture: iphoneos-arm64
+Maintainer: Mallin <mallin@example.local>
+Installed-Size: 656
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.wechatpinnedorder_2.3.2_iphoneos-arm64.deb
+Size: 207612
+MD5sum: 80135d0737650516026fb6cbf159938d
+SHA1: e62a47802a529ecb61a6efcc3e6a2ac4c25d9ec6
+SHA256: 33d27a834ada36894f4d263693378d1212037eb3cad9e4feab19950ced211c96
+Section: Tweaks
+Description: 固定微信聊天首页的置顶会话顺序，收到新消息后排序保持不变。使用方法：点击右上角+号进入“置顶排序”，识别当前所有置顶项后拖动排序并保存即可。
+Tag: role::enduser
+Author: Mallin
+Name: WeChatPinnedOrder 诊断版
+
 Package: com.meo.kslite
 Version: 1.1.1
 Architecture: iphoneos-arm64
