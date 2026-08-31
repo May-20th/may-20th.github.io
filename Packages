@@ -9302,6 +9302,45 @@ Icon: https://www.susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
+Package: wiki.qaq.inspector
+Version: 0.1.4
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 9304
+Depends: firmware (>= 16.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.1.4_iphoneos-arm64e.deb
+Size: 3574698
+MD5sum: caff77f512592f071ba576283ee47f00
+SHA1: 7227ccae9bda4efad31bb70f58619539f023aef2
+SHA256: b0c0a693afadbbfaf48405eb1ee424ac7bfe9fc802f9e5ed1c8a2c5f786aff8a
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for roothide jailbreaks
+ Inspector samples every process on the device once a second and shows what the system is really doing.
+ .
+ ### Process list
+ .
+ - CPU share, memory footprint, thread count, PID, and owning user, refreshed every second
+ - Search by name or PID; sort by CPU, memory, PID, or name
+ - Filter down to system (root), user (mobile), or app processes
+ - Pause live updates to hold a moment still
+ .
+ ### Per-process detail
+ .
+ - Resource use: CPU time, memory footprint, resident and virtual size, disk and network I/O
+ - Executable path, arguments, sandbox status, and app bundle metadata
+ - Separate screens for threads, open files and sockets, Mach ports, and loaded modules — each with its own search, sort order, and share action
+ - Export the complete detail set as a property list for later analysis
+ - Ask a process to quit (SIGTERM), or force quit it (SIGKILL)
+ .
+ ### Command line
+ .
+ `cocoainspector` answers the same queries for scripting — `list`, `inspect`, `details`, `watch`, `signal`, and `self-test` — served by `cocoainspectord`, an on-demand LaunchDaemon that holds one session at a time.
+ .
+ Localized into English, Simplified Chinese, Japanese, Russian, German, French, Spanish, and Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Name: Inspector
+
 Package: xhs.x
 Version: 1.2.0
 Architecture: iphoneos-arm64
