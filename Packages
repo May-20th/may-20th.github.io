@@ -4713,6 +4713,23 @@ Icon: https://mallinrepo.pages.dev/depictions/wechategroups/icon.png
 Name: WeChatGroups
 
 Package: com.mallin.wechatpinnedorder
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: Mallin <mallin@example.local>
+Installed-Size: 560
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.wechatpinnedorder_1.6.0_iphoneos-arm64.deb
+Size: 150982
+MD5sum: 8a6cfd8a8069857bff9b5cac86071fb0
+SHA1: e74c0fd6a2cdfe6dcd35b1dece3794807a539632
+SHA256: 281293f6f30723e71347b6d3090e7f734bc04ee0be4e77cb8f29d799723c94c7
+Section: Tweaks
+Description: 固定微信聊天首页置顶会话的排列位置，并支持自定义上下顺序。置顶项目较多时，收到新消息的会话不会再自动移到置顶区域最上方。
+Tag: role::enduser
+Author: Mallin
+Name: WeChatPinnedOrder
+
+Package: com.mallin.wechatpinnedorder
 Version: 2.3.2
 Architecture: iphoneos-arm64
 Maintainer: Mallin <mallin@example.local>
