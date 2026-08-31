@@ -7037,6 +7037,23 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/SuCrash.png
 Name: SuSuCrash
 
+Package: com.susudear.dylayoutfix
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.susudear.dylayoutfix_1.2.2_iphoneos-arm64.deb
+Size: 4540
+MD5sum: 192d4b549a8045d2b7778b7fa9be1911
+SHA1: 19c8ac5c26d878be8ccc16b63aa56fc1ce43fe8d
+SHA256: cc3e94c0b21fdd8a59c9f194fb2da5b84f7312d64935d0562b13c837c17310f9
+Section: Tweaks
+Priority: optional
+Description: 抖音布局问题修复，如果你使用了DYYY 的首页全屏，那么你不需要安装此插件
+Author: SuSuDear
+Name: DYLayoutFix
+
 Package: com.susudear.screencore
 Version: 0.1.0
 Architecture: iphoneos-arm64
