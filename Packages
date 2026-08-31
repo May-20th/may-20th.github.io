@@ -7925,6 +7925,40 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/ThemeCore.png
 Name: ThemeCore
 
+Package: com.susudear.themecore
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.1.0_iphoneos-arm64.deb
+Size: 118644
+MD5sum: 4884ae2e9714b9773f6a769e53d9b490
+SHA1: 0e934402ef07b5ef5ba2d9c1cfa1a97153f6b38d
+SHA256: 6c8840e1b72f4e8f6b2158144cedc0600d141c5dccf0560354cc30cefbce03e8
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.2.0_iphoneos-arm64.deb
+Size: 118652
+MD5sum: 3874ed4114b7b5a0347e0dc627d95fb9
+SHA1: f4990040d6f83d6d7f17cf9c2270e5ac12cd10ee
+SHA256: 771ac58f7987360e461dc7a7cb6f8438bfc0773d418399a2c3f7a50c2b8d2780
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
 Package: com.swing.ddmcnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
