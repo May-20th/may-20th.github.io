@@ -4601,6 +4601,21 @@ Description: 将控制中心主副卡显示为自己喜欢的图片 可自定义
 Author: liuf <1602389262>
 Name: Liuf's 主副卡
 
+Package: com.llld.wechatplus
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: 小叮当
+Depends: mobilesubstrate
+Filename: debs/com.llld.wechatplus_0.1.0_iphoneos-arm64.deb
+Size: 9740
+MD5sum: 60f4bc53854fd198b60fadbb25954d87
+SHA1: fbf921e498458bc8ac07c6fad98f4e04e5dcdf90
+SHA256: bca4532992cf1033a2334dfb5d2158c8f88253fbfd8c759707d3519d9397998f
+Section: Tweaks
+Description: 微信群聊批量拍一拍全部成员
+Author: 小叮当
+Name: 小叮当拍一拍全部
+
 Package: com.m4fn3.mikkyy
 Version: 1.0.0
 Architecture: iphoneos-arm64
