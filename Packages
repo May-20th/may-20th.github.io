@@ -326,6 +326,31 @@ Description: 让你的键盘更加花里胡哨！
 Author: Doki
 Name: 键盘DIY颜色
 
+Package: com.aa22qq.lockeventringer
+Version: 9.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 740
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.aa22qq.lockeventringer_9.0.0-2+debug_iphoneos-arm64.deb
+Size: 21024
+MD5sum: fa66947d8780b9c75555c21e72d1f63f
+SHA1: 76dcc5a19c29b5df7b7feaf56b9fcd4a57e9f484
+SHA256: 1b54c00700adeffc5ffc84dd7fda9a56a5532c7e59b54cace7231558b550de2a
+Section: Tweaks
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
+Author: aa22qq
+Name: LockEventRinger静音控制
+
 Package: com.apple.appstorenoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
