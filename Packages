@@ -4764,6 +4764,27 @@ Tag: role::enduser
 Author: Mallin
 Name: WeChatPinnedOrder 诊断版
 
+Package: com.mallin.wechatpinnedorder
+Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: Mallin <mallin@example.local>
+Installed-Size: 708
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.wechatpinnedorder_3.1.2_iphoneos-arm64.deb
+Size: 240110
+MD5sum: 88560b123aea30a0cea006946c6380bf
+SHA1: 31f4f2134e369533ffccb2a424f711475779a903
+SHA256: f6e8f105b54ec344be40eb7eae6a6c9dfebc3fa83dcc52d9f8079b3b087bfe45
+Section: Tweaks
+Description: 1. 该插件功能是固定微信聊天首页（或者分组）的置顶会话顺序，收到新消息后排序保持不变；
+ 2. 兼容WCPulse最新版1.7-2；
+ 3. 安装WCPulse后可以实现每个分组内的置顶排序，分组之间互不干扰；
+ 4. 使用方法：点击右上角+号进入“置顶排序”，识别当前所有（或当前分组）置顶项后拖动排序并保存既可；
+ 5. QQ1群：1095225014  QQ群2:1105316125
+Tag: role::enduser
+Author: Mallin
+Name: WeChatPinnedOrder 诊断版
+
 Package: com.meo.kslite
 Version: 1.1.1
 Architecture: iphoneos-arm64
