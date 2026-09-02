@@ -8790,6 +8790,38 @@ Description: 仅移除闲鱼开屏广告
 Author: wkk
 Name: 闲鱼去开屏广告
 
+Package: com.xlzs001.dystorage
+Version: 1.2.72
+Architecture: iphoneos-arm64
+Maintainer: DYStorage Contributors
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: debs/com.xlzs001.dystorage_1.2.72_iphoneos-arm64.deb
+Size: 27802
+MD5sum: efdf1397e4a44e605ea8ae27140a424e
+SHA1: 6543c50b4a765fa075a37330c6754b968269f906
+SHA256: 8b2752d8a6e69987c22fa093652e58f5b3f9b4b1f798575cb7a052172bcf8590
+Section: Tweaks
+Description: Organizes compatible third-party Douyin tweak settings in one entry.
+Author: DYStorage Contributors
+Name: DYStorage
+
+Package: com.xlzs001.dystorage
+Version: 1.2.75
+Architecture: iphoneos-arm64
+Maintainer: DYStorage Contributors
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: debs/com.xlzs001.dystorage_1.2.75_iphoneos-arm64.deb
+Size: 27674
+MD5sum: c2b2e20cd779c9264efb608aeb74e891
+SHA1: e294c647d8bcb33852f4a69a08ee263e3c954166
+SHA256: ce8aa3f4acf99697391634d5676e4a5429044477bf7af6d9de7e5d63e379208f
+Section: Tweaks
+Description: Organizes compatible third-party Douyin tweak settings in one entry.
+Author: DYStorage Contributors
+Name: DYStorage
+
 Package: com.xuuz.cadvip
 Version: 0.0.1
 Architecture: iphoneos-arm64
