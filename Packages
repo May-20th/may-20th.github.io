@@ -2987,6 +2987,45 @@ Description: 解锁会员 - TG：@HelloWorld_1024
 Author: 🅷🆆
 Name: 🅷🆆 地震预警
 
+Package: com.initnil.flreadercrack
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INITNIL
+Installed-Size: 576
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.netskao.flreadercrack
+Replaces: com.netskao.flreadercrack
+Filename: debs/com.initnil.flreadercrack_1.1-1_iphoneos-arm64.deb
+Size: 203924
+MD5sum: d015532cbeb020a24f37451d335666a4
+SHA1: 4ac0308464ea4a676562c187dfda7ed98337805a
+SHA256: d5763a2a913a19ae00f69674590709df9fa37f590e77a98b80282e1514eaacb2
+Section: Tweaks
+Description: 千阅解锁全功能
+Author: INITNIL
+Markdowndescription: 千阅解锁全功能<br><br>• v1.1-1: 修复自签疯狂弹出AppleID登陆的问题
+Name: 千阅 Crack
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.initnil.flreadercrack
+
+Package: com.initnil.imgplaycrack
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INITNIL
+Installed-Size: 964
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.imgplaycrack
+Replaces: com.netskao.imgplaycrack
+Filename: debs/com.initnil.imgplaycrack_1.1-1_iphoneos-arm64.deb
+Size: 333096
+MD5sum: ac6c2b2284523e4c1e1d226d737dc292
+SHA1: 8947fcb16f673a09bd870ceddb70c1cb06fa7c40
+SHA256: ee85aa2aa6bf4732f8b710b3b6c5de9a0747ad8a9357e0f2a883c9867f45c79f
+Section: Tweaks
+Description: ImgPlay Crack
+Author: INITNIL
+Name: ImgPlay Crack
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.initnil.imgplaycrack
+
 Package: com.initnil.medibangprocrack
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -4735,6 +4774,23 @@ Description: 1. iOS15–17 系统锁屏界面调整，对“数字时间”、�
  3. QQ群：1095225014。
 Author: Mallin
 Name: LockWidgetToBottom 诊断版
+
+Package: com.mallin.lockwidgettobottom
+Version: 4.2.45-35
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/com.mallin.lockwidgettobottom_4.2.45-35_iphoneos-arm64.deb
+Size: 1507822
+MD5sum: fcaa4612a8e0a131efc5b828af4839fb
+SHA1: 04a51fee7924ff6f2dfe4b7d5873781dcf9457b2
+SHA256: 12a8a4fb50255a0ec65e09323fc1c473c8f03dcc5fc32c57e2419341115a257e
+Section: Tweaks
+Description: 1. iOS16–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
+ 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
+ 3. QQ群：1095225014。
+Author: Mallin
+Name: LockWidgetToBottom
 
 Package: com.mallin.photonoautoalbums
 Version: 3.0
