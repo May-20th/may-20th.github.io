@@ -9908,6 +9908,33 @@ Description: Live process inspector for roothide jailbreaks
 Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Name: Inspector
 
+Package: wiki.qaq.inspector
+Version: 0.3.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 5572
+Depends: firmware (>= 16.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.3.0_iphoneos-arm64.deb
+Size: 2417108
+MD5sum: e44534fb5d40c226b5cb5a738dfe4f09
+SHA1: 605591993920790a9db754979d4a6352a8b9c567
+SHA256: e9392fdd8de588762a345a430a0476a2b4982a090901d6bcdc1908e894303acc
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `cocoainspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/CocoaInspector/icon.png
+Name: Inspector
+
 Package: xhs.x
 Version: 1.2.0
 Architecture: iphoneos-arm64
