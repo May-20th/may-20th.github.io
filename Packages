@@ -9903,6 +9903,52 @@ Icon: https://www.susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
+Package: wiki.qaq.fila
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 85648
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.2.0_iphoneos-arm64.deb
+Size: 22063150
+MD5sum: 1db920684dc9509afe16826d46886e43
+SHA1: dd310bcbde2f8c28e611b827b5e20f283361a052
+SHA256: 35570320415f6505f2e8e5b01a147b3944a8a0bd2da3d48e530cf7b20ee00d4c
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless jailbreaks
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+
+Package: wiki.qaq.ighostvt
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 19252
+Depends: firmware (>= 15.0), uikittools
+Filename: debs/wiki.qaq.ighostvt_0.9.0_iphoneos-arm64.deb
+Size: 9002420
+MD5sum: b0e43a433945f9d8a3879ba5b0354544
+SHA1: d4efc0acc9a7af510abd1e3125b0a9038bbcfd81
+SHA256: 99f0731323040bf6f6b507d3e92df82ff1ea13138053720da4c193ee68a63d21
+Section: Tweaks
+Priority: optional
+Description: Ghostty-powered terminal for iOS and visionOS
+ A real terminal on your device, drawn by the same engine as Ghostty on the
+ desktop. Your shell keeps running in the background, so a build you started
+ is still going when you switch apps and still there when you come back.
+ Runs on iPhone, iPad and Apple Vision Pro.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
+Name: iGhostVT
+
 Package: wiki.qaq.inspector
 Version: 0.1.4
 Architecture: iphoneos-arm64e
@@ -9953,6 +9999,33 @@ Size: 2417108
 MD5sum: e44534fb5d40c226b5cb5a738dfe4f09
 SHA1: 605591993920790a9db754979d4a6352a8b9c567
 SHA256: e9392fdd8de588762a345a430a0476a2b4982a090901d6bcdc1908e894303acc
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `cocoainspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/CocoaInspector/icon.png
+Name: Inspector
+
+Package: wiki.qaq.inspector
+Version: 0.4.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 5572
+Depends: firmware (>= 16.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.4.0_iphoneos-arm64.deb
+Size: 2416566
+MD5sum: db993a6423ef6699b73b13c7aea5821e
+SHA1: f38fa434529869d2b03fc2fae041b6840803038b
+SHA256: 786eba5542f044bf6f618955be2c4a781532b8fef80f82a1e920715c1fb18cff
 Section: Tweaks
 Priority: optional
 Description: Live process inspector for rootless jailbreaks
