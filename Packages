@@ -10030,6 +10030,30 @@ Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Icon: https://owngoal-dev.github.io/Fila/icon.png
 Name: Fila
 
+Package: wiki.qaq.fila
+Version: 0.3.6
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 86216
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.3.6_iphoneos-arm64.deb
+Size: 22182206
+MD5sum: f02a6607f101241990b07183444797f0
+SHA1: f3f95054b62f49c38987c10c0ab5e80823eac7b2
+SHA256: 84faeff76a1660ba129f45f17cb98b18a181344ffb51fe7c1284070ddc4a9d68
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+
 Package: wiki.qaq.ighostvt
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -10129,6 +10153,33 @@ Size: 2416566
 MD5sum: db993a6423ef6699b73b13c7aea5821e
 SHA1: f38fa434529869d2b03fc2fae041b6840803038b
 SHA256: 786eba5542f044bf6f618955be2c4a781532b8fef80f82a1e920715c1fb18cff
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `cocoainspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/CocoaInspector/icon.png
+Name: Inspector
+
+Package: wiki.qaq.inspector
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 5572
+Depends: firmware (>= 16.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.4.1_iphoneos-arm64.deb
+Size: 2416602
+MD5sum: 47adff27869102dde0ad7c903e440c92
+SHA1: 609c714877b4a634a26d62aa2ddeaa8f1f8755ec
+SHA256: 9dec4ec8d65ccb3e8bae51baca76bb46c9b6d35119a6e6ec67a8dac572e60f2a
 Section: Tweaks
 Priority: optional
 Description: Live process inspector for rootless jailbreaks
