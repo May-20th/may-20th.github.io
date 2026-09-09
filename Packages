@@ -371,6 +371,26 @@ Tag: role::enduser
 Author: ColorBlack
 Name: Flex 4 Beta
 
+Package: com.adlayer.rootless
+Version: 0.1.99+rootless
+Architecture: iphoneos-arm64
+Maintainer: Flex 4 Beta Contributors
+Installed-Size: 3084
+Depends: firmware (>= 15.0), firmware (<< 17.4), ellekit, libflex
+Conflicts: com.adlayer.roothide
+Replaces: com.adlayer
+Provides: com.adlayer
+Filename: debs/com.adlayer.rootless_0.1.99+rootless_iphoneos-arm64.deb
+Size: 1901738
+MD5sum: 19de38d23395ca314da32401b4ef13ae
+SHA1: 2e5ef13733bf459932dfaf5bd20c2cfc3c09d4bc
+SHA256: ee73b1839731285f051b6b16f50594eea36d7ef4f21f68d14fd7ebc25ace53af
+Section: Tweaks
+Description: Flex 4 Beta：越狱环境下的 UIKit 视图层级过滤与开屏倒计时辅助工具。
+Tag: role::enduser
+Author: ColorBlack
+Name: Flex 4 Beta
+
 Package: com.apple.appstorenoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
