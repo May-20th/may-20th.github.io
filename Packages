@@ -2579,6 +2579,22 @@ Author: fiore
 Icon: https://www.susubaby.top/images/jisuanqi.png
 Name: CalculatorHistory
 
+Package: com.hang.bdwp
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hang.bdwp_1.0.1_iphoneos-arm64.deb
+Size: 15316
+MD5sum: 2a619e62663cf992e544c96adebe982d
+SHA1: 6faa2bfeddc7cd814f63dcee1aecfd1514d597d2
+SHA256: faa2f61c1183edd6654132b0a483ac0699d1f72614dd6d04d03b170da80a658d
+Section: Tweaks
+Description: 最新版本测试
+Author: 航
+Name: 航の百度网盘去广告
+
 Package: com.hang.biaoqingg
 Version: 0.0.1-48+debug
 Architecture: iphoneos-arm64
@@ -2594,6 +2610,38 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: hang
 Name: 航の表情自定义
+
+Package: com.hang.douyinclockdock
+Version: 0.0.64
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 1228
+Depends: mobilesubstrate
+Filename: debs/com.hang.douyinclockdock_0.0.64_iphoneos-arm64e.deb
+Size: 319992
+MD5sum: e5ddbd34dc8669f3a1d79f213cd77263
+SHA1: 693f28e549ec194397dfb1b64daf549c8064f61e
+SHA256: 5646cad58ac4a281873d8584c1f5f52b0f509956f6d7b6232dedded581708a3c
+Section: Tweaks
+Description: dyyy魔改版
+Author: 航
+Name: 抖音Pro
+
+Package: com.hang.jxedtad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hang.jxedtad_1.0_iphoneos-arm64.deb
+Size: 12228
+MD5sum: f8a44ea5bd879fb39c7ccb2c4b20e109
+SHA1: c587c5b88622ca3f5fd3bc67bc2d8f3fb5c8d3c0
+SHA256: 131d763963df02145f351987a0fd6c24b486b883733ea26a05940f67e488ba3c
+Section: Tweaks
+Description: 测试版本；18.6.1
+Author: 航
+Name: 航の驾校一点通去广告
 
 Package: com.hang.zzzj
 Version: 0.0.1-8+debug
