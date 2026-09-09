@@ -5076,6 +5076,21 @@ Description: 独立语音包管理插件
 Author: Meo
 Name: WCVoice
 
+Package: com.mg.adskip
+Version: 3.3.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 144
+Filename: debs/com.mg.adskip_3.3.0_iphoneos-arm64.deb
+Size: 23898
+MD5sum: dbe2c7b95b5d9b971b61d823e4273948
+SHA1: ba99d9cb90e09334341650cf6e3b3e2e4235f41b
+SHA256: 448b96f1b318fbfeb54470c00cf65d81c15e310fb7046ff0fae45551a2175832
+Section: Tweaks
+Description: 跳过开屏广告，无黑名单·事件驱动秒跳·容器门控两级词表+防摇一摇+摇一摇带按钮秒跳+防误点广告主图+结构防自点，不影响无广告应用。
+Author: M哥
+Name: 广告跳过
+
 Package: com.mg.adskips
 Version: 2.1.0
 Architecture: iphoneos-arm64
