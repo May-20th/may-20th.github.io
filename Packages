@@ -10121,6 +10121,23 @@ Description: Show estimate time left to full charge on your lock screen
 Author: waruhachi
 Name: Jikan
 
+Package: netskao.ppxnoads
+Version: 1.5-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 344
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/netskao.ppxnoads_1.5-5_iphoneos-arm64.deb
+Size: 76552
+MD5sum: b43c06119764ef5d2b66b45448a8b2db
+SHA1: 56b25b067c4108c1160b1b6f102b290edbeeeef6
+SHA256: 1e9eb10156686bf765e65a70e0541e9e91571e93a220354af7b6b4c7347a0a5c
+Section: Tweaks
+Description: 皮皮虾去除启动广告，去除评论广告，去除视频流广告，去除推荐信息流中直播，去除长视频播放完后结尾广告，去除视频流中皮皮虾官方活动横幅，去除随机弹出评分提示和版本内测更新提示，去除部分视频左下角商品广告，去除测试版更新提示，去除AppStore评分提示，去除青少年提示，修改非详情页面时始终显示插眼而非弹幕开关，所有视频可保存为动态壁纸，保存视频和图片去水印，保存视频和图片去水印，使用原始按钮保存即可(播放时和查看时就有水印的视频不属于去水印范围)，仅支持4.7.5及以上版本
+Author: Netskao
+Icon: https://huayuarc.github.io/icon/huayuarc.jpg
+Name: 皮皮虾 NoAds
+
 Package: netskao.wcpureextension
 Version: 2026.04
 Architecture: iphoneos-arm64
