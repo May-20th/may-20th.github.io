@@ -10307,6 +10307,28 @@ Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
 Name: iGhostVT
 
+Package: wiki.qaq.ighostvt
+Version: 0.9.1
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 19268
+Depends: firmware (>= 15.0), uikittools
+Filename: debs/wiki.qaq.ighostvt_0.9.1_iphoneos-arm64.deb
+Size: 9001418
+MD5sum: 5fd52e118f61443bd4b3536ae5aa39ac
+SHA1: a327e752a65ae0f76e420015478def5ecd559e4e
+SHA256: b606e776d28b7127e42a50ed37ba8af6b7926718e6af6dde311e8ba950d6c713
+Section: Tweaks
+Priority: optional
+Description: Ghostty-powered terminal for iOS and visionOS
+ A real terminal on your device, drawn by the same engine as Ghostty on the
+ desktop. Your shell keeps running in the background, so a build you started
+ is still going when you switch apps and still there when you come back.
+ Runs on iPhone, iPad and Apple Vision Pro.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
+Name: iGhostVT
+
 Package: wiki.qaq.inspector
 Version: 0.1.4
 Architecture: iphoneos-arm64e
