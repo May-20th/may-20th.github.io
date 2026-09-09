@@ -2611,6 +2611,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: hang
 Name: 航の表情自定义
 
+Package: com.hang.cmccad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hang.cmccad_1.0_iphoneos-arm64.deb
+Size: 8130
+MD5sum: fe8a8d6f04488d79f4cfa7df1fd08ad9
+SHA1: 8818c8e82dc34b814f535098b4030891ac99b71b
+SHA256: 2f62dc5d82c98e6cebee6e75b08692edca100c56ff2d9bd771fa572a909b4f2c
+Section: Tweaks
+Description: 测试版本；12.5.2
+Author: 航
+Name: 航の中国移动去广告
+
 Package: com.hang.douyinclockdock
 Version: 0.0.64
 Architecture: iphoneos-arm64e
