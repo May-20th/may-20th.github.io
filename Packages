@@ -1993,6 +1993,22 @@ Description: QQ阅读去开屏广告，由群友（Edison"）自费单独定制�
 Author: colorblack
 Name: QQyuedu_NoAd
 
+Package: com.colorblack.shakeadblocker
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: colorblack
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.colorblack.shakeadblocker_1.0.0-1+debug_iphoneos-arm.deb
+Size: 8904
+MD5sum: e03fb8de8ce5bda601061b1cf3ecf8fd
+SHA1: c87232c6c457e6e227e2a5c724f51e499fbc8760
+SHA256: 45086c2492deb04f0a53f4129f87999c11910597296e93d88cfd034f49e1db90
+Section: Tweaks
+Description: 屏蔽iOS应用启动时的摇一摇广告跳转功能，启动后10秒内禁用陀螺仪响应，之后恢复正常使用
+Author: colorblack
+Name: ShakeAdBlocker
+
 Package: com.colorblack.shouji360noad
 Version: 0.0.3
 Architecture: iphoneos-arm64
