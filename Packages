@@ -4962,6 +4962,23 @@ Description: 1. iOS16–17 系统锁屏界面调整，对“数字时间”、�
 Author: Mallin
 Name: LockWidgetToBottom
 
+Package: com.mallin.lockwidgettobottom
+Version: 4.2.45-48
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/com.mallin.lockwidgettobottom_4.2.45-48_iphoneos-arm64.deb
+Size: 1626996
+MD5sum: 2cc18beec1b14bc65c21d7e6cd9c4721
+SHA1: 9959febe0111ecc170e29a51ebde31e96eaff8d6
+SHA256: bbb39f8bba3a097e960444e27555044b2a452ff438146ea990c56734bdeb9b27
+Section: Tweaks
+Description: 1. iOS16–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
+ 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
+ 3. QQ群：1095225014。
+Author: Mallin
+Name: LockWidgetToBottom
+
 Package: com.mallin.photonoautoalbums
 Version: 3.0
 Architecture: iphoneos-arm64
