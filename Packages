@@ -4687,6 +4687,23 @@ Description: 侧边栏分组
 Author: Junzai
 Name: Fenzu
 
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
 Package: com.level3tjg.sposifyfix
 Version: 0.0.6
 Architecture: iphoneos-arm64
@@ -9198,6 +9215,23 @@ Section: Tweaks
 Description: 去除雷速体育开屏、Banner、信息流、插屏等广告
 Author: wkk
 Name: 雷速体育去广告
+
+Package: com.wkk.lookinloader
+Version: 1.2.8-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 4332
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: debs/com.wkk.lookinloader_1.2.8-2_iphoneos-arm64.deb
+Size: 525328
+MD5sum: 7d101251b791ccaf54591979fa575797
+SHA1: 65d3460333e78a3fc2e1cb7f0db6b9c43f279cc3
+SHA256: 5ada175421891d9b0b3dc5280fcc74fb780606d0d7dd3a5d09c71da8de769a5d
+Section: Tweaks
+Description: Lookin UI调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
+Name: LookinLoader
 
 Package: com.wkk.lstimeseconds
 Version: 1.0-3
