@@ -10319,6 +10319,30 @@ Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Icon: https://owngoal-dev.github.io/Fila/icon.png
 Name: Fila
 
+Package: wiki.qaq.fila
+Version: 0.4.4
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 95624
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.4.4_iphoneos-arm64.deb
+Size: 25003522
+MD5sum: 350cd0d7401e0488d4e082cd8d963386
+SHA1: 2d5c725b4a919d1be28c0488f966842a2cd1b505
+SHA256: 7810d63bdad8af0aaa4d2d2aa4a3317d8a81c7297183e3eb0a46fc3b0feed699
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+
 Package: wiki.qaq.ighostvt
 Version: 0.9.0
 Architecture: iphoneos-arm64
