@@ -6717,6 +6717,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Name: FolderPro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
+Package: com.sini921.liquidswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 588
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.sini921.liquidswitch_0.0.1-1_iphoneos-arm64.deb
+Size: 104090
+MD5sum: 556aab0f1ccae5e9eb5410ce34edd921
+SHA1: aad1de45106185cd460a2b4bee03cead5cbe35ff
+SHA256: b56fc2f0b19f30bce30b072a2046fb43b26f5f4a274ac7c6527b20c04a7d4683
+Section: Tweaks
+Description: 液态玻璃开关
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/liquidswitch.png
+Name: LiquidSwitch(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/liquidswitch/js.json
+
 Package: com.sini921.lockscreenhelper
 Version: 0.0.1-10
 Architecture: iphoneos-arm64
