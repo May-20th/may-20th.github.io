@@ -6752,6 +6752,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/liquidswitch.png
 Name: LiquidSwitch(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/liquidswitch/js.json
 
+Package: com.sini921.liquidswitch
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.sini921.liquidswitch_0.0.1-2_iphoneos-arm64.deb
+Size: 108274
+MD5sum: b88cac677c005607645beb6941a3c843
+SHA1: 45f60125006471a958469bb42db1de500039e616
+SHA256: 0bd074811e7850fd2ebf8c0a83c850e7b580fa369ea4cdd8b80fef7fe11d0df4
+Section: Tweaks
+Description: 液态玻璃开关
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/liquidswitch.png
+Name: LiquidSwitch(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/liquidswitch/js.json
+
 Package: com.sini921.lockscreenhelper
 Version: 0.0.1-10
 Architecture: iphoneos-arm64
