@@ -3601,6 +3601,23 @@ Author: iosdump
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 
+Package: com.iosdump.appdata
+Version: 2.7.3
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.3_iphoneos-arm64.deb
+Size: 2077070
+MD5sum: 92f9b4f84c0b842021d4ea320edebf62
+SHA1: aabfda4f5e055cc11c5c162983f2012a4f600c2b
+SHA256: 2dd3ed65fde9310febb24996a3688d174d099d671e067c6ae55d1b73e7c7efa0
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
 Package: com.iosdump.appmute
 Version: 0.0.1
 Architecture: iphoneos-arm64
