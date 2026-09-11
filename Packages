@@ -9396,6 +9396,22 @@ Description: 去除懂球帝开屏、信息流、详情页等广告
 Author: wkk
 Name: 懂球帝去广告
 
+Package: com.wkk.jiakaobaodiannoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.jiakaobaodiannoad_1.0_iphoneos-arm64.deb
+Size: 4002
+MD5sum: 22a017f805afd2e18d502f0b2e37c77b
+SHA1: ab35306ef9c35c3252df9a2b4a8e46d57d9cda14
+SHA256: d628229adb4c89d1d44adcc5de82de484229728de006a330f7290f7660eed933
+Section: Tweaks
+Description: 去除驾考宝典开屏广告及应用内广告
+Author: wkk
+Name: 驾考宝典去广告
+
 Package: com.wkk.leisunoad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9463,6 +9479,22 @@ Author: MTAC
 Icon: https://s1.imagehub.cc/images/2025/01/23/16cac85a9470fec0d2ed4cb0af1eac4f.png
 Name: Lynx 2
 
+Package: com.wkk.markinoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.markinoad_1.0_iphoneos-arm64.deb
+Size: 6176
+MD5sum: 48fa07e3c5df81d30979cfbd33eb9b44
+SHA1: b0be37f297011c6ecdf09994370864293ad9799a
+SHA256: 134b444cf3cb224705b691b71981303625cb93657a985c133c5c42b2a0ac9c18
+Section: Tweaks
+Description: 去除马克水印相机开屏广告及应用内广告
+Author: wkk
+Name: 马克水印相机去广告
+
 Package: com.wkk.mjhook
 Version: 1.0-2
 Architecture: iphoneos-arm64
@@ -9528,6 +9560,22 @@ Description: 自定义快捷录屏的灵动岛录制指示点。
 Author: wkk
 Name: RecordEyeX
 
+Package: com.wkk.tallynoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.tallynoad_1.0_iphoneos-arm64.deb
+Size: 4708
+MD5sum: d3029171fafd6e256d7476b8f7457197
+SHA1: 3e624ade39947d6c4cfc3e45f17af9fe9c59baed
+SHA256: ba9ea901337c66b315726cc78d94e24cc69a8e9893c7ca7c5713016e6e240f8b
+Section: Tweaks
+Description: 去除鲨鱼记账（com.yanglei.tally）开屏广告
+Author: wkk
+Name: 鲨鱼记账去广告
+
 Package: com.wkk.tiebanoad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9576,6 +9624,22 @@ Section: Tweaks
 Description: 仅移除闲鱼开屏广告
 Author: wkk
 Name: 闲鱼去开屏广告
+
+Package: com.wkk.zhibo8noad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.zhibo8noad_1.0_iphoneos-arm64.deb
+Size: 5024
+MD5sum: 608b300c5e09c51e11857daa53a13b0f
+SHA1: 92f11339821df7f178535913d31c17e1d1d7bad8
+SHA256: f099bccdc82d3dc59f6c60e4cbf83304eabd0018490a36b1f241e2482436a173
+Section: Tweaks
+Description: 去除直播吧开屏广告及应用内广告
+Author: wkk
+Name: 直播吧去广告
 
 Package: com.xlzs001.dystorage
 Version: 1.2.72
