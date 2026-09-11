@@ -5637,22 +5637,6 @@ Description: 专注核心 80Hz/120Hz 调度的精简方案；适合不需要 Pro
 Author: Rain
 Name: RainFlow 120Hz
 
-Package: com.rain.actionbutton
-Version: 0.5.2
-Architecture: iphoneos-arm64e
-Maintainer: Rain
-Installed-Size: 852
-Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0)
-Filename: debs/com.rain.actionbutton_0.5.2_iphoneos-arm64e.deb
-Size: 93220
-MD5sum: adfff5cd2cf51da1f83a29fe3465e001
-SHA1: beed20ec137b119781538a98a92201b5ef10e1fd
-SHA256: ffa03a6bee21db462f73495ebb8368b16403a9e139cc02bd4c978932c86cf348
-Section: Tweaks
-Description: 为 iPhone 15 Pro/Pro Max 操作按钮提供三页面板，包含剪贴板、自定义背景和系统动作。仅支持 iOS 17.0-17.3.1。
-Author: Rain
-Name: Rain的操作按钮
-
 Package: com.rain.actionbuttonpro
 Version: 2.6.2
 Architecture: iphoneos-arm64
