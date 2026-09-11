@@ -9608,6 +9608,21 @@ Description: 去除网易云音乐开屏广告、评论区广告，并自动领�
 Author: wkk
 Name: 网易云音乐去广告
 
+Package: com.wkk.piyologdead
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 136
+Depends: firmware (>= 15.0)
+Filename: debs/com.wkk.piyologdead_1.0_iphoneos-arm64.deb
+Size: 3652
+MD5sum: 3eaebf3adcc73674eee41990686808ee
+SHA1: 0af29985c9125db326cc96fd28b67d2141981d38
+SHA256: 5130415c9ed3b666487527dce3c8b5165909981d823420380d0c258b64b236c5
+Description: Piyo日志 (jp.co.sakabou.piyolog) 开屏广告与应用内广告去除
+Author: wkk
+Name: Piyo日志去广告
+
 Package: com.wkk.recordeyex
 Version: 1.0-3
 Architecture: iphoneos-arm64
