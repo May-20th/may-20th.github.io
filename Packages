@@ -10542,6 +10542,22 @@ Description: 微信净化. 还原聊天本质, 干净的微信给你. 仅支持8
 Author: Netskao
 Name: 微信净化
 
+Package: qqantirecall.x
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 1148
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/qqantirecall.x_1.6.2_iphoneos-arm64.deb
+Size: 382180
+MD5sum: ad5f1e24df24e1fc520b259852ce16e0
+SHA1: ceb29227958f6861568094916a38ec88633d21e8
+SHA256: f17e08be1c9c824db8c9438a0729869204c915404c0a8c67b2b61fd6fffb3aa8
+Section: Tweaks
+Description: 模块入口位于QQ内设置: NTQQ_AntiRecall
+Author: 𝙓
+Name: NTQQ_AntiRecall
+
 Package: ru.domo.cocoatop64
 Version: 2.2.4
 Architecture: iphoneos-arm64
