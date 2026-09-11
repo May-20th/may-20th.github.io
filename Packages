@@ -4932,6 +4932,23 @@ Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
 Name: Mikkyy 主題管理
 Sileodepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
 
+Package: com.mallin.lockwidgettobottom
+Version: 4.2.54
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.lockwidgettobottom_4.2.54_iphoneos-arm64.deb
+Size: 545904
+MD5sum: 241a72739dec82fc7d8fa72e6874347d
+SHA1: 4ece80cb788ec39394672cc53fc074dd2332fe86
+SHA256: 36e68a16d823f0a142820485dc3e48a1612a7246f7f370bfa8fd56d63571b394
+Section: Tweaks
+Description: 1. iOS15–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
+ 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
+ 3. QQ群：1095225014。
+Author: Mallin
+Name: LockWidgetToBottom 诊断版
+
 Package: com.mallin.photonoautoalbums
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -10193,6 +10210,22 @@ Section: Tweaks
 Description: 朋友需要，如有传播请立刻卸载！
 Author: ylr
 Name: 威锋广而告之精简
+
+Package: com.yourcompany.color
+Version: 0.0.1-15+debug
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yourcompany.color_0.0.1-15+debug_iphoneos-arm64.deb
+Size: 4932
+MD5sum: 11afea9bee9176ac608334b7dc75e7c9
+SHA1: ed49c649b5a67858b7e1086196c4871761b7c82d
+SHA256: e4555207e8c9b48623dcff70d2b72db5b85a40cdc88d5f09eec563527903ae48
+Section: Tweaks
+Description: 很棒的取色器!
+Author: 航
+Name: 航的取色器
 
 Package: com.yourepo.ok95.reachplayer
 Version: 5.0.0
