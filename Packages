@@ -9740,6 +9740,21 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
+Package: com.wkk.wearfitprodead
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 136
+Depends: firmware (>= 15.0)
+Filename: debs/com.wkk.wearfitprodead_1.0_iphoneos-arm64.deb
+Size: 4302
+MD5sum: 5bf93c8d58e73a1610c5474b260432d0
+SHA1: a32c3e927bedb5b766fa1198fc807551de330998
+SHA256: 7a7c1d24b14ca8c68a1ed4c3e1bd9fdcb115ef163d11aae88a52d1ed850ab822
+Description: Wearfit Pro (com.wakeup.wearfitProCN) 开屏广告与应用内广告去除
+Author: wkk
+Name: WearfitPro去广告
+
 Package: com.wkk.xianyuad
 Version: 1.0
 Architecture: iphoneos-arm64
