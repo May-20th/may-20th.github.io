@@ -5232,6 +5232,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AdSkip/icon.png
 Name: AdSkip 跳过启动广告
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AdSkip/js.json
 
+Package: com.mg.dsx
+Version: 0.5.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.mg.dsx_0.5.0_iphoneos-arm64.deb
+Size: 3122
+MD5sum: 27a675cea2cdd03657c44e8333658f7c
+SHA1: c9390177432d0f206aa664b24ceaa18f78a8ab9d
+SHA256: 5b1a0c4c224ee631f81bc225ac4c2237decf0e865eda6fc06df65de31d42c996
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 大师兄影视（去必读通告弹窗）
+Author: M哥
+Name: dsx
+
 Package: com.mikifp.griddy
 Version: 1.0
 Architecture: iphoneos-arm64
