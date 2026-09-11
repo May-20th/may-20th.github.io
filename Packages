@@ -9393,6 +9393,57 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 提升3dtouch唤醒速度
 
+Package: com.wkk.SBLockhook
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.SBLockhook_1.0-3_iphoneos-arm64.deb
+Size: 4052
+MD5sum: 5b5dbf9838bee5123f304abd5ae62786
+SHA1: 7214a9172bc48fe6bbb10197466fa24fe31c230f
+SHA256: e06aa21856d77a97b5ae44717a1a47bef5c851c44361c8bc52250c1a697912f6
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏呼出手电筒
+
+Package: com.wkk.SBUIFlashhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.SBUIFlashhook_1.0-1_iphoneos-arm64.deb
+Size: 4136
+MD5sum: 452145b57bb38bc06b5484164d775855
+SHA1: 27bc1bfabf7f8b7b8a2ea7891aa802d553363851
+SHA256: b220d2041a7a1054462d8d2c8e61c8d06923df37bc1b33816675327d5e1e6992
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按音量加呼出手电筒
+
+Package: com.wkk.SSScchook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.SSScchook_1.0-2_iphoneos-arm64.deb
+Size: 3820
+MD5sum: 875a94f4e5a22d8e74473b659acd56e7
+SHA1: fddf9e56771e30d2be89b879c8bf554025026cda
+SHA256: 21926de1b6373696111f3ddfbe1bd28dde00af467b5fade188426793c7231996
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏截图且标记
+
 Package: com.wkk.aihuishounolaunchad
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -9424,6 +9475,23 @@ Section: Tweaks
 Description: 去除百度网盘开屏广告，并为本地下载文件添加导出按钮
 Author: wkk
 Name: 百度网盘
+
+Package: com.wkk.dllhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.dllhook_1.0-1_iphoneos-arm64.deb
+Size: 3812
+MD5sum: 8991e9ea6bb201d34237b7251e56818f
+SHA1: 883296ecd9d34363b4e2dce3aecbac9ed3b05e4d
+SHA256: 56626f6bb171baa82d65d015550f04e6b0d7c1dd9379f8f171050d1cd21d13fe
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏自动低电量
 
 Package: com.wkk.dockhook
 Version: 1.0-6
@@ -9506,6 +9574,23 @@ Section: Tweaks
 Description: 去除雷速体育开屏、Banner、信息流、插屏等广告
 Author: wkk
 Name: 雷速体育去广告
+
+Package: com.wkk.liquidglassswitchX
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.liquidglassswitchX_1.0-2_iphoneos-arm64.deb
+Size: 74956
+MD5sum: d159a27635a63069e657c3da328595d9
+SHA1: 2d0c83b4f1076c17e497fcaac8e528096509c06a
+SHA256: fb8684715bda50fa154cb53c4e0e411f2676481e7eba89698ac67c25dd5871e2
+Section: Tweaks
+Description: 全局液态玻璃开关样式。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 液态玻璃Switch
 
 Package: com.wkk.lookinloader
 Version: 1.2.8-2
