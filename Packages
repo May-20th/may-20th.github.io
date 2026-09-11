@@ -5655,24 +5655,6 @@ Name: Rain的操作按钮
 
 Package: com.rain.actionbuttonpro
 Version: 2.6.2
-Architecture: iphoneos-arm64e
-Maintainer: Rain
-Installed-Size: 1552
-Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0)
-Conflicts: com.rain.actionbutton
-Replaces: com.rain.actionbutton
-Filename: debs/com.rain.actionbuttonpro_2.6.2_iphoneos-arm64e.deb
-Size: 269188
-MD5sum: ca4930c4be850dd36731d4bd47b455b8
-SHA1: 9b0690fd25ac69fa075f9687574feb239c1977dc
-SHA256: 9cf041cfc99430d6e32312ac953c825ec345acb4b3e5d85a7bb6934b8893f896
-Section: Tweaks
-Description: 为操作按钮打造的多功能快捷面板，支持 URL 快捷面板、支付宝与微信扫码付款、自定义 URL、App 自动取色、液态玻璃、屏幕记忆和智能剪贴板。支持 iOS 17.0-17.3.1。
-Author: Rain
-Name: Rain的操作按钮 Pro
-
-Package: com.rain.actionbuttonpro
-Version: 2.6.2
 Architecture: iphoneos-arm64
 Maintainer: Rain
 Installed-Size: 1552
