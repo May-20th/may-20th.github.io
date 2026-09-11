@@ -1575,40 +1575,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
 Name: Physpringboard 图标重力感应
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
 
-Package: com.codex.lockwidgettobottom
-Version: 4.1.33
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
-Filename: debs/mallin.LockWidgetToBottom_4.1.33-arm64.deb
-Size: 434276
-MD5sum: 9d0b49ebc8426ee96e388e8be17185d6
-SHA1: 673b8c7dd496c3195d0df364dfe67b73faa37c71
-SHA256: 458b614a308f93c579123ccc06b5498a141f904ef607a0640088a1918636c0c6
-Section: Tweaks
-Description: 1. iOS16–17 系统锁屏界面调整，对“日历文字”、“大号时间”“快捷图标”和“来信消息”可以单独位置和大小调整；
- 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
- 3. QQ群：1095225014。
-Author: Mallin
-Name: LockWidgetToBottom 诊断版
-
-Package: com.codex.lockwidgettobottom
-Version: 4.1.49
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/com.codex.lockwidgettobottom_4.1.49_iphoneos-arm64.deb
-Size: 1153170
-MD5sum: b323bb906a66a15fcae78eb13c68c0f0
-SHA1: 34d02f85cf33879533a90b161cd32b01dccc9649
-SHA256: d65f8f2798d75d7525f80697b3903f3b6358154c7aa8a61240688527c655ecd3
-Section: Tweaks
-Description: 1. iOS15–17 系统锁屏界面调整，对“日历文字”、“大号时间”“快捷图标”和“来信消息”可以单独位置和大小调整；
- 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
- 3. QQ群：1095225014。
-Author: Mallin
-Name: LockWidgetToBottom 诊断版
-
 Package: com.colorblack.alinfcwakefix
 Version: 0.0.35
 Architecture: iphoneos-arm64
@@ -4967,87 +4933,21 @@ Name: Mikkyy 主題管理
 Sileodepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
 
 Package: com.mallin.lockwidgettobottom
-Version: 4.2.44
+Version: 4.2.54
 Architecture: iphoneos-arm64
 Maintainer: Mallin
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/com.mallin.lockwidgettobottom_4.2.44_iphoneos-arm64.deb
-Size: 1388882
-MD5sum: 079e492c48692e63f24a560952f3c549
-SHA1: 9e3be79a49bd889336f44b6571627ade66e37215
-SHA256: 96188c888f648219a6c799badf37f3378ff8d796b29a87d6f5b5af745abd6b47
+Filename: debs/com.mallin.lockwidgettobottom_4.2.54_iphoneos-arm64.deb
+Size: 545904
+MD5sum: 241a72739dec82fc7d8fa72e6874347d
+SHA1: 4ece80cb788ec39394672cc53fc074dd2332fe86
+SHA256: 36e68a16d823f0a142820485dc3e48a1612a7246f7f370bfa8fd56d63571b394
 Section: Tweaks
 Description: 1. iOS15–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
  2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
  3. QQ群：1095225014。
 Author: Mallin
 Name: LockWidgetToBottom 诊断版
-
-Package: com.mallin.lockwidgettobottom
-Version: 4.2.45
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/com.mallin.lockwidgettobottom_4.2.45_iphoneos-arm64.deb
-Size: 1389532
-MD5sum: faf7d671779a114351ea8fc135163d8f
-SHA1: 4cb7ea2a60c262556deaec3d380ee68d95c77210
-SHA256: 20d8f208494a46ea907beba66c880b07c0d95afe3ea1dd1dfa2e01ae6d61887e
-Section: Tweaks
-Description: 1. iOS15–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
- 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
- 3. QQ群：1095225014。
-Author: Mallin
-Name: LockWidgetToBottom 诊断版
-
-Package: com.mallin.lockwidgettobottom
-Version: 4.2.45-35
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
-Filename: debs/com.mallin.lockwidgettobottom_4.2.45-35_iphoneos-arm64.deb
-Size: 1507822
-MD5sum: fcaa4612a8e0a131efc5b828af4839fb
-SHA1: 04a51fee7924ff6f2dfe4b7d5873781dcf9457b2
-SHA256: 12a8a4fb50255a0ec65e09323fc1c473c8f03dcc5fc32c57e2419341115a257e
-Section: Tweaks
-Description: 1. iOS16–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
- 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
- 3. QQ群：1095225014。
-Author: Mallin
-Name: LockWidgetToBottom
-
-Package: com.mallin.lockwidgettobottom
-Version: 4.2.45-48
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
-Filename: debs/com.mallin.lockwidgettobottom_4.2.45-48_iphoneos-arm64.deb
-Size: 1626996
-MD5sum: 2cc18beec1b14bc65c21d7e6cd9c4721
-SHA1: 9959febe0111ecc170e29a51ebde31e96eaff8d6
-SHA256: bbb39f8bba3a097e960444e27555044b2a452ff438146ea990c56734bdeb9b27
-Section: Tweaks
-Description: 1. iOS16–17 系统锁屏界面调整，对“数字时间”、“日历文字”、“小组件”和“卡片类”可以单独位置和大小调整；
- 2. 特别针对锁屏时间显示做了升级，还原iOS26系统的锁屏字体显示；
- 3. QQ群：1095225014。
-Author: Mallin
-Name: LockWidgetToBottom
-
-Package: com.mallin.lockwidgettobottom
-Version: 4.3-9
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/com.mallin.lockwidgettobottom_4.3-9_iphoneos-arm64.deb
-Size: 1652052
-MD5sum: 43c6facf8a2b6693e9962c1b4b8d6a5b
-SHA1: 882a354c730fdb6e6d8b3e95e7e5e39713d585a3
-SHA256: d7a64c14e3ba5672ba385d565719a2454a4b04514b3d970276e81e8d5d7e4931
-Section: Tweaks
-Description: 写给已经在使用LockWidgetToBottom插件的狱友，该版本未做任何修改，不用更新安装！用于通知各位。如果该插件您在使用过程中觉得不好用或者用途不大等问题，您现在可以通过原插件里面的“联系方式”找到我，我没有跑路，我会为您退全款，同时插件的服务到此为止，原插件和之前版本的插件仍可继续使用，后续更新您自觉别更新就是。解除群之前我也@大家之前插件我会继续维护，有问题随时私信。至于为啥解除QQ群1（群2和群3都还存在），是因为一两颗老鼠屎坏了一锅粥，是的如果这一两颗老鼠屎看到了也别叽歪，说的就是你，别用着我的插件还骂人，我有定价权，我也没有强买强卖，想白嫖就直说，一分钱一分货。至于我插件是什么开源抄袭别人的大家自辩，同时插件一些bug我也在修复过程中。还有说有人卖别人插件的被我踢群，目前就踢了一个，是群里多人向我反馈后经过我核查确实是，同时该人也没买我插件后我才踢群的，至于后来另一位叫我踢群，我没有踢，这位老鼠屎见图认识一下。
-Author: Mallin
-Name: LockWidgetToBottom
 
 Package: com.mallin.photonoautoalbums
 Version: 3.0
