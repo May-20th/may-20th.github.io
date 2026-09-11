@@ -10850,6 +10850,30 @@ Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Icon: https://owngoal-dev.github.io/Fila/icon.png
 Name: Fila
 
+Package: wiki.qaq.fila
+Version: 0.5.4
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 93368
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.5.4_iphoneos-arm64.deb
+Size: 23207294
+MD5sum: f7636a6aa45f26f868e930e8a40ae359
+SHA1: 041c2b9e5b95e007a4c1930ad08d5573c714fcef
+SHA256: 0b90c5dccaf64a5650756e036cae31c4ce889aa3cc01d16399b460ffc17a2617
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+
 Package: wiki.qaq.ighostvt
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -10883,6 +10907,28 @@ Size: 9001418
 MD5sum: 5fd52e118f61443bd4b3536ae5aa39ac
 SHA1: a327e752a65ae0f76e420015478def5ecd559e4e
 SHA256: b606e776d28b7127e42a50ed37ba8af6b7926718e6af6dde311e8ba950d6c713
+Section: Tweaks
+Priority: optional
+Description: Ghostty-powered terminal for iOS and visionOS
+ A real terminal on your device, drawn by the same engine as Ghostty on the
+ desktop. Your shell keeps running in the background, so a build you started
+ is still going when you switch apps and still there when you come back.
+ Runs on iPhone, iPad and Apple Vision Pro.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
+Name: iGhostVT
+
+Package: wiki.qaq.ighostvt
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 19272
+Depends: firmware (>= 15.0), uikittools
+Filename: debs/wiki.qaq.ighostvt_0.9.2_iphoneos-arm64.deb
+Size: 9005150
+MD5sum: 59a66cf174b348d4d83bf15af253edb9
+SHA1: e6e7484ecb04453a07718c945327027730e06d6f
+SHA256: 5c68bc06535f24df1bab3eca2dd98ea65120c9a1d7c61fa1de85ae3bad5dd96a
 Section: Tweaks
 Priority: optional
 Description: Ghostty-powered terminal for iOS and visionOS
@@ -10959,6 +11005,33 @@ Size: 2416602
 MD5sum: 47adff27869102dde0ad7c903e440c92
 SHA1: 609c714877b4a634a26d62aa2ddeaa8f1f8755ec
 SHA256: 9dec4ec8d65ccb3e8bae51baca76bb46c9b6d35119a6e6ec67a8dac572e60f2a
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `cocoainspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/CocoaInspector/icon.png
+Name: Inspector
+
+Package: wiki.qaq.inspector
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 5588
+Depends: firmware (>= 16.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.4.2_iphoneos-arm64.deb
+Size: 2421088
+MD5sum: 60d48ec83c8ba0344ad0ad3049f10b90
+SHA1: 91ff98f7a5f03f36bb0d793b221a4dd5696af02a
+SHA256: a6ea0dc4abcc911487f1e0c64fbea1153c540a5d5f47289c4c708f79f9e98b6c
 Section: Tweaks
 Priority: optional
 Description: Live process inspector for rootless jailbreaks
