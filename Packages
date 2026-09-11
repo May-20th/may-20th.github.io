@@ -9376,6 +9376,23 @@ Description: MCP server for AI-driven iOS device control. Supports HID buttons, 
 Author: witchan
 Name: iOS MCP
 
+Package: com.wkk.3dddhook
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64.deb
+Size: 4548
+MD5sum: 8c03248a295ae101deec748560693ae5
+SHA1: e6c83bd26be178f51e7711bee80399d83f54ac70
+SHA256: de1811ee92e808474b17e3479801c6ff5b176d88ea2b29320d5b4e18989f9e8d
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 提升3dtouch唤醒速度
+
 Package: com.wkk.aihuishounolaunchad
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -9407,6 +9424,40 @@ Section: Tweaks
 Description: 去除百度网盘开屏广告，并为本地下载文件添加导出按钮
 Author: wkk
 Name: 百度网盘
+
+Package: com.wkk.dockhook
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.dockhook_1.0-6_iphoneos-arm64.deb
+Size: 7888
+MD5sum: a3f5e73fa726222fee31351dc4fcc312
+SHA1: bbe5a4e664940c485d4fb963efc1aac8ab9a9cc3
+SHA256: 6eb9763605e0180afb40a26d9a67a32b2bc47227129294373f2f414fb217b144
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Dock倒影（高斯模糊）
+
+Package: com.wkk.dockhook2
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.dockhook2_1.0-6_iphoneos-arm64.deb
+Size: 7092
+MD5sum: 285b6f2ea77d4d50bddea0e0199d5c09
+SHA1: aad3e7f150fb0dc9ce154e35db3f9ce67d2ca4e6
+SHA256: d3d93212b0c8f679e24b899cba8f852dc7ee32d823960e8f7c714a25cc8adb0d
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Dock倒影（超清）
 
 Package: com.wkk.dqnoad
 Version: 1.0
@@ -9588,6 +9639,23 @@ Description: 自定义快捷录屏的灵动岛录制指示点。
 Author: wkk
 Name: RecordEyeX
 
+Package: com.wkk.sbiconhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64.deb
+Size: 3452
+MD5sum: 5d4bd8adfda4008c1e50abf0263ff785
+SHA1: fbaa7ffa83fb2330e1075765807f8acb16ee6585
+SHA256: 7e533b7046dedd12d1fc55a50861d5bd7229bf0e16dbf1ae151a075825b2c984
+Section: Tweaks
+Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SpringboardFly
+
 Package: com.wkk.tallynoad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9619,6 +9687,23 @@ Section: Tweaks
 Description: 去除百度贴吧开屏广告
 Author: wkk
 Name: 贴吧去广告
+
+Package: com.wkk.tmtzhook
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.tmtzhook_1.0-8_iphoneos-arm64.deb
+Size: 5280
+MD5sum: a1d846643a88509d6468b718f3a0572d
+SHA1: 08fe6676e02a644832cba6e6b8e5037b928927f3
+SHA256: 6c01401f11fad691cc46f41e1f064f1edf0cd971110c775d5a8bbc64eb8a4b5a
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 透明通知
 
 Package: com.wkk.wcfrostedglass
 Version: 1.0.5
