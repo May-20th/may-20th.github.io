@@ -9741,6 +9741,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SpringboardFly
 
+Package: com.wkk.ssppphook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.ssppphook_1.0-1_iphoneos-arm64.deb
+Size: 3700
+MD5sum: 432380fb97e21f016794d3b896a48991
+SHA1: fa273b1ea8de3ad355c203797890683fd7f2146e
+SHA256: 2665b14f2edf064c66854a794c87dff1a59006156582d35086a67671203f9c11
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键假录屏
+
 Package: com.wkk.tallynoad
 Version: 1.0
 Architecture: iphoneos-arm64
