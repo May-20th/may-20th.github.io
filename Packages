@@ -5034,6 +5034,21 @@ Description: 1. iOS16–17 系统锁屏界面调整，对“数字时间”、�
 Author: Mallin
 Name: LockWidgetToBottom
 
+Package: com.mallin.lockwidgettobottom
+Version: 4.3-9
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.lockwidgettobottom_4.3-9_iphoneos-arm64.deb
+Size: 1652052
+MD5sum: 43c6facf8a2b6693e9962c1b4b8d6a5b
+SHA1: 882a354c730fdb6e6d8b3e95e7e5e39713d585a3
+SHA256: d7a64c14e3ba5672ba385d565719a2454a4b04514b3d970276e81e8d5d7e4931
+Section: Tweaks
+Description: 写给已经在使用LockWidgetToBottom插件的狱友，该版本未做任何修改，不用更新安装！用于通知各位。如果该插件您在使用过程中觉得不好用或者用途不大等问题，您现在可以通过原插件里面的“联系方式”找到我，我没有跑路，我会为您退全款，同时插件的服务到此为止，原插件和之前版本的插件仍可继续使用，后续更新您自觉别更新就是。解除群之前我也@大家之前插件我会继续维护，有问题随时私信。至于为啥解除QQ群1（群2和群3都还存在），是因为一两颗老鼠屎坏了一锅粥，是的如果这一两颗老鼠屎看到了也别叽歪，说的就是你，别用着我的插件还骂人，我有定价权，我也没有强买强卖，想白嫖就直说，一分钱一分货。至于我插件是什么开源抄袭别人的大家自辩，同时插件一些bug我也在修复过程中。还有说有人卖别人插件的被我踢群，目前就踢了一个，是群里多人向我反馈后经过我核查确实是，同时该人也没买我插件后我才踢群的，至于后来另一位叫我踢群，我没有踢，这位老鼠屎见图认识一下。
+Author: Mallin
+Name: LockWidgetToBottom
+
 Package: com.mallin.photonoautoalbums
 Version: 3.0
 Architecture: iphoneos-arm64
