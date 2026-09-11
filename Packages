@@ -194,6 +194,22 @@ Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行
 Author: 来了老弟 X: h_h_x_t
 Name: 截图标记-rootless
 
+Package: cn.llld.notes-fix
+Version: 1.0.4-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: debs/cn.llld.notes-fix_1.0.4-1+debug_iphoneos-arm64.deb
+Size: 22498
+MD5sum: 473d6233db93444fdb82af86bf1ba892
+SHA1: 9fef5241504ae1bc3b53445efb868ed54717c124
+SHA256: 623f7b4826290fe98bb4dff5ae0c23cfe181dcc08194ffb5240f6a6a9e7580c8
+Section: Tweaks
+Description: MobileNotes memo feature controls: disable URL navigation and auto-link detection, and hide the editor toolbar.备忘录增强禁用URL，显示字符等
+Author: 来了老弟 X：h_h_x_t
+Name: 备忘录增强
+
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
