@@ -2733,6 +2733,22 @@ Description: 测试版本；18.6.1
 Author: 航
 Name: 航の驾校一点通去广告
 
+Package: com.hang.qqzaixian
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hang.qqzaixian_1.0_iphoneos-arm64.deb
+Size: 28938
+MD5sum: 4a0421fec2e88f9eb52c88318a16f355
+SHA1: d6df28fd78560802b533f5765138763132397f0c
+SHA256: 5846e3f47b5ecdda0262f6c97ec143473406ea4367810dc44bb193faf3de89ec
+Section: Tweaks
+Description: QQ在线模拟，18系列需要正式上线才生效，双指捏合。
+Author: 航
+Name: QQ设备模拟
+
 Package: com.hang.zzzj
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm64
