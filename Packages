@@ -10230,6 +10230,22 @@ Description: 自用 功能默认开启 | 去除启动广告 首页一些无用�
 Author: x✨
 Name: 高德地图优化
 
+Package: com.yaowell.hideavcontrols
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: yaowell
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.yaowell.hideavcontrols_1.0_iphoneos-arm64e.deb
+Size: 4592
+MD5sum: dc90714d6cfb4083b379d0064195b8c1
+SHA1: 0a42b0c05c24ac422f891e41bfe40c8f4d12056a
+SHA256: 817cee25b5c7e011045fa14b6cb8ad6076f90b3c438dfa885b81f83ad06d66b3
+Section: Tweaks
+Description: 隐藏控制中心顶部的麦克风模式与视频效果模块 / Hide Microphone Mode and Video Effects in Control Center
+Author: yaowell
+Name: HideAVControls
+
 Package: com.yechen.dynamicislandring
 Version: 1.1.0
 Architecture: iphoneos-arm64
