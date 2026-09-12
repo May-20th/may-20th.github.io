@@ -5053,6 +5053,24 @@ Tag: role::enduser
 Author: Mallin
 Name: PhotoNoAutoAlbums 免费
 
+Package: com.mallin.photonoautoalbums
+Version: 3.27
+Architecture: iphoneos-arm64
+Maintainer: Mallin <mallin@example.local>
+Installed-Size: 1056
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.photonoautoalbums_3.27_iphoneos-arm64.deb
+Size: 238554
+MD5sum: 28a5b9a9d265f9d9d892d273e4c90aae
+SHA1: 47de5054360d8ee7d5264e9c2e776cf5dfff9d54
+SHA256: 76f981b6842511f1fd17fb14b1672b12cde479d3b530303655bb910260eb4685
+Section: Tweaks
+Homepage: https://local.mallin/PhotoNoAutoAlbums
+Description: 禁止APP在照片内自动新建相册。
+Tag: role::enduser
+Author: Mallin
+Name: PhotoNoAutoAlbums 免费
+
 Package: com.mallin.snapper3patch
 Version: 1.1.6
 Architecture: iphoneos-arm64
