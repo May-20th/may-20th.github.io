@@ -9529,6 +9529,20 @@ Description: 去除懂球帝开屏、信息流、详情页等广告
 Author: wkk
 Name: 懂球帝去广告
 
+Package: com.wkk.fetc-etc-adfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.fetc-etc-adfree_1.0_iphoneos-arm64.deb
+Size: 5866
+MD5sum: dadbd51703e61297f67018713d950fab
+SHA1: f6b7e5b57e7b814250c86cbb71a2d2bd4154ac88
+SHA256: 8a8952aaaa5f27e655e8e9184814a7cd781a1d220ea392eb99765fa7d600f9b7
+Description: 移除遠通電收ETC（com.FarEasternElectronic.ETC）底部轮播广告
+Author: wkk
+Name: 遠通電收ETC去广告
+
 Package: com.wkk.jiakaobaodiannoad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9544,6 +9558,21 @@ Section: Tweaks
 Description: 去除驾考宝典开屏广告及应用内广告
 Author: wkk
 Name: 驾考宝典去广告
+
+Package: com.wkk.lanfanadfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Filename: debs/com.wkk.lanfanadfree_1.0_iphoneos-arm64.deb
+Size: 4078
+MD5sum: c699969bb2641dc6d1fbb6dba9ea2244
+SHA1: 8eab1d1933577c9be0d1d77a525dca47a5e7787f
+SHA256: 99e23df98b03b0531f935fa65ebb3d43bbf42f102ec8497f28b954e8e7cc5849
+Section: Tweaks
+Description: 懒饭 (com.xiachufang.lanfan) 开屏广告去除
+Author: wkk
+Name: 懒饭去广告
 
 Package: com.wkk.leisunoad
 Version: 1.0
