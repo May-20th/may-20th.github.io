@@ -9562,20 +9562,6 @@ Description: 去除懂球帝开屏、信息流、详情页等广告
 Author: wkk
 Name: 懂球帝去广告
 
-Package: com.wkk.fetc-etc-adfree
-Version: 1.0
-Architecture: iphoneos-arm64
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: debs/com.wkk.fetc-etc-adfree_1.0_iphoneos-arm64.deb
-Size: 5866
-MD5sum: dadbd51703e61297f67018713d950fab
-SHA1: f6b7e5b57e7b814250c86cbb71a2d2bd4154ac88
-SHA256: 8a8952aaaa5f27e655e8e9184814a7cd781a1d220ea392eb99765fa7d600f9b7
-Description: 移除遠通電收ETC（com.FarEasternElectronic.ETC）底部轮播广告
-Author: wkk
-Name: 遠通電收ETC去广告
-
 Package: com.wkk.jiakaobaodiannoad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9740,21 +9726,6 @@ Description: 去除网易云音乐开屏广告、评论区广告，并自动领�
 Author: wkk
 Name: 网易云音乐去广告
 
-Package: com.wkk.piyologdead
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 136
-Depends: firmware (>= 15.0)
-Filename: debs/com.wkk.piyologdead_1.0_iphoneos-arm64.deb
-Size: 3652
-MD5sum: 3eaebf3adcc73674eee41990686808ee
-SHA1: 0af29985c9125db326cc96fd28b67d2141981d38
-SHA256: 5130415c9ed3b666487527dce3c8b5165909981d823420380d0c258b64b236c5
-Description: Piyo日志 (jp.co.sakabou.piyolog) 开屏广告与应用内广告去除
-Author: wkk
-Name: Piyo日志去广告
-
 Package: com.wkk.recordeyex
 Version: 1.0-3
 Architecture: iphoneos-arm64
@@ -9886,21 +9857,6 @@ Description: 微信界面上下添加毛玻璃效果。
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
-
-Package: com.wkk.wearfitprodead
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 136
-Depends: firmware (>= 15.0)
-Filename: debs/com.wkk.wearfitprodead_1.0_iphoneos-arm64.deb
-Size: 4302
-MD5sum: 5bf93c8d58e73a1610c5474b260432d0
-SHA1: a32c3e927bedb5b766fa1198fc807551de330998
-SHA256: 7a7c1d24b14ca8c68a1ed4c3e1bd9fdcb115ef163d11aae88a52d1ed850ab822
-Description: Wearfit Pro (com.wakeup.wearfitProCN) 开屏广告与应用内广告去除
-Author: wkk
-Name: WearfitPro去广告
 
 Package: com.wkk.xianyuad
 Version: 1.0
