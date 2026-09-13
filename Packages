@@ -5109,6 +5109,25 @@ Author: Mallin
 Icon: https://mallinrepo.pages.dev/depictions/photonoautoalbums/icon.png
 Name: PhotoNoAutoAlbums 免费
 
+Package: com.mallin.photonoautoalbums
+Version: 3.30
+Architecture: iphoneos-arm64
+Maintainer: Mallin <mallin@example.local>
+Installed-Size: 1104
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.mallin.photonoautoalbums_3.30_iphoneos-arm64.deb
+Size: 260480
+MD5sum: ef8d264d34bc7481345b21ede44589b8
+SHA1: 0cfcb1c47ee2e2dfc5874aa143b29c79306c5f95
+SHA256: 7bfdf7f686dfa08c8b03f97cfddd38beb99fccf0c8c94fad727fbfb9f0c69c8f
+Section: Tweaks
+Homepage: https://local.mallin/PhotoNoAutoAlbums
+Description: 禁止APP在照片内自动新建相册。
+Tag: role::enduser
+Author: Mallin
+Icon: https://mallinrepo.pages.dev/depictions/photonoautoalbums/icon.png
+Name: PhotoNoAutoAlbums 免费
+
 Package: com.mallin.snapper3patch
 Version: 1.1.6
 Architecture: iphoneos-arm64
