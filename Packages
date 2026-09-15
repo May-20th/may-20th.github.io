@@ -10769,6 +10769,94 @@ Description: Combined battery, Wi-Fi and dual-line cellular status icon.
 Author: Banana
 Name: iPhoneDuoIcon
 
+Package: iya.banana.lenticularwallpaper
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: banana
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: debs/iya.banana.lenticularwallpaper_0.0.9_iphoneos-arm64.deb
+Size: 78704
+MD5sum: b4d69fe7732e4c12a3301ad821cdc2e1
+SHA1: a74e02b451c7f87f86b5d81f24e913d49ad16269
+SHA256: 02dada89d5598e8ed42e511c6d7d674f9edf7132a04a2a6573c4b616f6c45879
+Section: Tweaks
+Description: 趣味壁纸，为 SpringBoard 提供重力感应的多层、APNG、转场与光照壁纸效果。 / Fun Wallpaper with gravity-driven layered, APNG, transition, and lighting effects for SpringBoard.
+Author: banana
+Name: Lenticular Wallpaper
+
+Package: iya.banana.openspace
+Version: 0.1.3
+Architecture: iphoneos-arm64
+Maintainer: banana
+Installed-Size: 1248
+Depends: firmware (>= 17.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: iya.banana.ios18sb
+Replaces: iya.banana.ios18sb
+Filename: debs/iya.banana.openspace_0.1.3_iphoneos-arm64.deb
+Size: 361510
+MD5sum: de90e5ac48e5016af081437145ee632f
+SHA1: 89bc01bb337a73a230a2a0d548afd172aec65f86
+SHA256: e99770dc5676175bb9eb3ca28f91f99ef1211a0657738a70bf1884eb6ff728f6
+Section: Tweaks
+Description: Bring free Home Screen placement and native widget resizing to iOS 17 while preserving the system layout.
+Author: banana
+Name: OpenSpace
+
+Package: iya.banana.spatialscene
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: banana
+Installed-Size: 12948
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: debs/iya.banana.spatialscene_1.1.6_iphoneos-arm64.deb
+Size: 6326926
+MD5sum: 481b5c7b52aa163a2dfa280393f63613
+SHA1: cb54b4b4dfb2afb29c9eafd7cf917dafa4d935b9
+SHA256: 912834f7b32324a0e0e4adadfb0ba9e211d9000b1445036c74037e78f3fb66fd
+Section: Tweaks
+Description: 空间场景锁屏壁纸，由 SpatialScene App 导入、预览与管理。 / Spatial lock-screen scenes imported, previewed, and managed by the SpatialScene app.
+Author: banana
+Name: SpatialScene
+
+Package: iya.iapple.liquidass
+Version: 0.1.1b+banana33
+Architecture: iphoneos-arm64
+Maintainer: dylv & banana
+Installed-Size: 8720
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Conflicts: dylv.liquidass, dylv.liquidass.zh-hans
+Replaces: dylv.liquidass, dylv.liquidass.zh-hans
+Provides: dylv.liquidass
+Filename: debs/iya.iapple.liquidass_0.1.1b+banana33_iphoneos-arm64.deb
+Size: 3736192
+MD5sum: 40824995690cfc5b05a9d34e2dd467ea
+SHA1: 1b44382245718bfb938cde7e2cf5f1c5dfcbe38e
+SHA256: 7e990eec015313cddaa06b04257969d4a73b88a1167fe6dd2d95be62aaf39054
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv & banana
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+
+Package: iya.iapple.siri
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Thijs mussig
+Installed-Size: 2252
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Filename: debs/iya.iapple.siri_1.1.3_iphoneos-arm64.deb
+Size: 986524
+MD5sum: 558324492bde647dca1dc35ff31ea8ef
+SHA1: 8d51e6806565b7b57bf4b74458d352d8fc6efeea
+SHA256: 13fca93f398ddc4d26ea3a7131f44ecd5d2c1e4b7ed8c852207415b20aebe439
+Section: Tweaks
+Description: Customize Siri with NewSiri edge lighting or the SiriAI glass interface.
+Author: Thijs mussig, Banana
+Name: LiquidSiri
+
 Package: mikotohelper
 Version: 1.3.6
 Architecture: iphoneos-arm64
