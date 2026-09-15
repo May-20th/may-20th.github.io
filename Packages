@@ -10834,6 +10834,23 @@ Description: Combined battery, Wi-Fi and dual-line cellular status icon.
 Author: Banana
 Name: iPhoneDuoIcon
 
+Package: iya.banana.iphoneduoicon
+Version: 0.1.20
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 700
+Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: debs/iya.banana.iphoneduoicon_0.1.20_iphoneos-arm64.deb
+Size: 99126
+MD5sum: a8df30fdab83ab535a1a94417f3f6f1b
+SHA1: f55e685d80a72d8c2c02db3ca4f27814669460bf
+SHA256: ce2e307b3c3f92d643d4c6d24cfb41faa2f8ee660f71eba50b04971a4f53132c
+Section: Tweaks
+Description: Combined battery, Wi-Fi and dual-line cellular status icon.
+Author: Banana
+Name: iPhoneDuoIcon
+
 Package: iya.banana.lenticularwallpaper
 Version: 0.0.9
 Architecture: iphoneos-arm64
