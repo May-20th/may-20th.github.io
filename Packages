@@ -10736,6 +10736,39 @@ Description: 开发您自己的调整并在Flex社区云上共享。Dopamine2.0�
 Author: John Coates
 Name: Flex 3 Beta90
 
+Package: iya.banana.dynamicmusicbg
+Version: 1.0.15
+Architecture: iphoneos-arm64
+Maintainer: banana
+Installed-Size: 500
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/iya.banana.dynamicmusicbg_1.0.15_iphoneos-arm64.deb
+Size: 59926
+MD5sum: f671720f4574ab1a0428d1738ea6141d
+SHA1: 4c47b4d577207220411c1b479f5e33cde37dd674
+SHA256: abb8fbe8a4778c97c2c7132eeca43bd959f1bb5f5ae704ce7df4d529788191d3
+Section: Tweaks
+Description: Album-art-driven animated color fields for Lock Screen Now Playing on iOS 15 through iOS 18.
+Author: banana
+Name: DynamicMusicBG
+
+Package: iya.banana.iphoneduoicon
+Version: 0.1.19
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 636
+Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: debs/iya.banana.iphoneduoicon_0.1.19_iphoneos-arm64.deb
+Size: 88746
+MD5sum: 3aeddb7bda89a3f0ce78de4729b277ab
+SHA1: 5bf982b2e3be1dcb18049c4229571336728b1866
+SHA256: 1c1f2fe62881dc78c76a13153f8c1d537a9c74fb4bcfb95de89ef08cf0b9e281
+Section: Tweaks
+Description: Combined battery, Wi-Fi and dual-line cellular status icon.
+Author: Banana
+Name: iPhoneDuoIcon
+
 Package: mikotohelper
 Version: 1.3.6
 Architecture: iphoneos-arm64
