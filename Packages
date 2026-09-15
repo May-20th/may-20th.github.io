@@ -4902,6 +4902,21 @@ Description: 侧边栏分组
 Author: Junzai
 Name: Fenzu
 
+Package: com.kalert.tweak
+Version: 5.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: tanxiaolin
+Installed-Size: 456
+Filename: debs/com.kalert.tweak_5.0.2-1+debug_iphoneos-arm.deb
+Size: 58532
+MD5sum: adf3d6f05b4a5c7523e967384a049186
+SHA1: 84831557137feada4a4ed750ee821fa9ab4f7e57
+SHA256: 78ddbfdd38801eb55c4140688462bc7d23fa548f74d521ce4b0c21b1bd42fd03
+Section: Tweaks
+Description: KAlert popup tweak
+Author: tanxiaolin
+Name: KAlert
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
