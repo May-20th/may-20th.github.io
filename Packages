@@ -4866,6 +4866,24 @@ Description: 侧边栏分组
 Author: Junzai
 Name: Fenzu
 
+Package: com.jz.fz
+Version: 5.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Junzai
+Installed-Size: 17468
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.monk.wclgbubbleliquidglass
+Replaces: com.monk.wclgbubbleliquidglass
+Filename: debs/com.jz.fz_5.0.0-1+debug_iphoneos-arm64.deb
+Size: 2421624
+MD5sum: 325768ee44e777c1aac44280b2ac69ec
+SHA1: 2752ae0deab2292517a2669667c070db282b479f
+SHA256: e0fc97bba1b8974d519c0b25f5936316927cf5e990a5cbc4fdba3ee334a59e96
+Section: Tweaks
+Description: 侧边栏分组
+Author: Junzai
+Name: Fenzu
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
