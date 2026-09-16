@@ -10901,6 +10901,39 @@ Description: Combined battery, Wi-Fi and dual-line cellular status icon.
 Author: Banana
 Name: iPhoneDuoIcon
 
+Package: iya.banana.iphoneduoicon
+Version: 0.1.24
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 864
+Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: debs/iya.banana.iphoneduoicon_0.1.24_iphoneos-arm64.deb
+Size: 148620
+MD5sum: ba61e9a07a0495ba046d56fe7356e99c
+SHA1: 3bd0f6b09e8ae451f23f48537368959e51ab8784
+SHA256: af6e345f031c6bdc4032a41f66314990ade423c577f3cb4bb2f128458958d932
+Section: Tweaks
+Description: Combined battery, Wi-Fi and dual-line cellular status icon.
+Author: Banana
+Name: iPhoneDuoIcon
+
+Package: iya.banana.jumpguard
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: hades
+Installed-Size: 560
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: debs/iya.banana.jumpguard_0.1.2_iphoneos-arm64.deb
+Size: 66794
+MD5sum: 6ddf955e98f3702385a618b1cbf952c5
+SHA1: f7a8ace0da2088211d49941cca00013b82907916
+SHA256: 8c083eae79014b3ce5027dbb07b4a4ddb4b936855591f32b4f9605303105ae7e
+Section: Tweaks
+Description: Confirm or block cross-app launch requests on RootHide iOS.
+Author: hades
+Name: JumpGuard
+
 Package: iya.banana.lenticularwallpaper
 Version: 0.0.9
 Architecture: iphoneos-arm64
