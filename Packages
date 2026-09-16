@@ -228,6 +228,22 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
 Name: Hello App
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
+Package: com.34306.duobar
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.34306.duobar_1.1.6_iphoneos-arm64.deb
+Size: 23636
+MD5sum: 7da5a4a386d9ab46bc0066bcefcde675
+SHA1: 5ace7219eb8a4c2b10fd941caa185d990d147e71
+SHA256: 3b00d3a76e940a8c37ffe88f812e813af2c049cc884ed277f12472d65ec91ee1
+Section: Tweaks
+Description: Combined iPhone Duo-style status bar indicator (Wi-Fi + Cellular + Battery in one circle)
+Author: 34306
+Name: DuoBar
+
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
