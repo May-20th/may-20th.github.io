@@ -1472,24 +1472,6 @@ Description: 让简单截图，拥有更多可能。
 Author: 冰蓝
 Name: 全局水印Pro
 
-Package: com.callassist.caiphoneduostatus
-Version: 1.5.10
-Architecture: iphoneos-arm64e
-Maintainer: 热心网友CallAssist
-Installed-Size: 204
-Depends: firmware (>= 16.0)
-Conflicts: com.xybp888.caanimatedstatus
-Replaces: com.xybp888.caanimatedstatus
-Filename: debs/com.callassist.caiphoneduostatus_1.5.10_iphoneos-arm64e.deb
-Size: 18876
-MD5sum: f74550c327bbf48da1525176d8e32e31
-SHA1: 8f2e7291e0abbe5772604f9f9f736139b11b9c03
-SHA256: 0ecc1cdcb4a569f539356f6006449eded72310e887ffac36cd1e229b5f068306
-Section: Tweaks
-Description: 本插件仅为体验版,不得用于商业收费,插件本身也不会收取任何费用,如遇收费,请立即拒绝,本插件发布后不会再进行更新,所以不用提要求和bug报告,如果不满意请自行卸载,信号,WIFI,数据,电量均为安装设备的真实交互
-Author: 热心网友CallAssist
-Name: CAiPhoneDuoStatus
-
 Package: com.ceshi
 Version: 2.7
 Architecture: iphoneos-arm64
@@ -2735,22 +2717,6 @@ Description: 测试版本；12.5.2
 Author: 航
 Name: 航の中国移动去广告
 
-Package: com.hang.douyinclockdock
-Version: 0.0.64
-Architecture: iphoneos-arm64e
-Maintainer: 航
-Installed-Size: 1228
-Depends: mobilesubstrate
-Filename: debs/com.hang.douyinclockdock_0.0.64_iphoneos-arm64e.deb
-Size: 319992
-MD5sum: e5ddbd34dc8669f3a1d79f213cd77263
-SHA1: 693f28e549ec194397dfb1b64daf549c8064f61e
-SHA256: 5646cad58ac4a281873d8584c1f5f52b0f509956f6d7b6232dedded581708a3c
-Section: Tweaks
-Description: dyyy魔改版
-Author: 航
-Name: 抖音Pro
-
 Package: com.hang.jxedtad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3194,60 +3160,6 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
-
-Package: com.imkpatil.homebarsizer
-Version: 1.2
-Architecture: iphoneos-arm64e
-Maintainer: 灰灰
-Installed-Size: 160
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/com.imkpatil.homebarsizer_1.2_iphoneos-arm64e.deb
-Size: 9334
-MD5sum: 61010d81f6c4a4537c2f59c59e9b91fb
-SHA1: 19f36100810ca085768b6c2eb11f6ade072ca902
-SHA256: dd0478a8ecb83138e1c0f373bd26199646b00acd50ff9891347d0d964a0c23bf
-Section: Tweaks
-Description: 调节 iOS 底部 HomeBar 的宽度、高度和圆角。iOS 15+ roothide 适配版，设置即时生效。
-Tag: supports::roothide
-Author: 灰灰
-Icon: file:///Library/Application Support/HomeBarSizer/icon.png
-Name: HomeBarSizer
-
-Package: com.imkpatil.homebarsizer
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: doimty
-Installed-Size: 164
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/com.imkpatil.homebarsizer_1.3_iphoneos-arm64e.deb
-Size: 9678
-MD5sum: 47f679a88f9d2a6b24d4cec4c2ece712
-SHA1: 0e1439fad22c5628e438e947c069f0ea78792175
-SHA256: 6a14aa0ba41b3e92eedbab86781b15500ccf874b0a881d075104d41209f026da
-Section: Tweaks
-Description: 调节 iOS 底部 HomeBar 的宽度、高度和圆角。iOS 15+ roothide 适配版，设置即时生效。
-Tag: supports::roothide
-Author: doimty
-Icon: https://doimty.github.io/icons/com.imkpatil.homebarsizer.png
-Name: HomeBarSizer
-
-Package: com.imkpatil.homebarsizer
-Version: 1.3.3
-Architecture: iphoneos-arm64e
-Maintainer: doimty
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/com.imkpatil.homebarsizer_1.3.3_iphoneos-arm64e.deb
-Size: 16000
-MD5sum: 3d1e3b19826ef0b55e3760097e97ad69
-SHA1: 854185e5063659e8ceacfc297d9783e6a8addd8e
-SHA256: d27c26bc3728c924016fda95b2b204a7ea0688b058c3f04f81d0c4eab722d2fd
-Section: Tweaks
-Description: 调节 iOS 底部 HomeBar 的宽度、高度和圆角。iOS 15+ roothide 适配版，设置即时生效。
-Tag: supports::roothide
-Author: doimty
-Icon: https://doimty.github.io/icons/com.imkpatil.homebarsizer-1.3.2.png
-Name: HomeBarSizer
 
 Package: com.initnil.flreadercrack
 Version: 1.1-1
@@ -10615,38 +10527,6 @@ Section: Tweaks
 Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.4更新内容：修复问题
 Author: x✨
 Name: 高德地图优化
-
-Package: com.yaowell.hideavcontrols
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: yaowell
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/com.yaowell.hideavcontrols_1.0_iphoneos-arm64e.deb
-Size: 4592
-MD5sum: dc90714d6cfb4083b379d0064195b8c1
-SHA1: 0a42b0c05c24ac422f891e41bfe40c8f4d12056a
-SHA256: 817cee25b5c7e011045fa14b6cb8ad6076f90b3c438dfa885b81f83ad06d66b3
-Section: Tweaks
-Description: 隐藏控制中心顶部的麦克风模式与视频效果模块 / Hide Microphone Mode and Video Effects in Control Center
-Author: yaowell
-Name: HideAVControls
-
-Package: com.yaowell.hideavcontrols
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: yaowell
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/com.yaowell.hideavcontrols_1.0.1_iphoneos-arm64e.deb
-Size: 4858
-MD5sum: 04c498e5a774229a119cee5fd0302123
-SHA1: 2022dea20151d2506b8ec0535bafaf1d585b4015
-SHA256: 8fcc5c9ed80c5e18f91e9536857bef1542ccfd234922921cad9deff65c13e893
-Section: Tweaks
-Description: 隐藏控制中心顶部的麦克风模式与视频效果模块 / Hide Microphone Mode and Video Effects in Control Center
-Author: yaowell
-Name: HideAVControls
 
 Package: com.yechen.dynamicislandring
 Version: 1.1.0
