@@ -8613,6 +8613,23 @@ Author: SuSu
 Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 Name: ScreenCore
 
+Package: com.susudear.screencore
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 2836
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_1.1.8_iphoneos-arm64.deb
+Size: 443422
+MD5sum: 78f8b478de04c45b530504712bfbd84b
+SHA1: e65d1fabd22ba8d4b067265ef08fa9fd73349f27
+SHA256: 09ddcd6dbf998399f77d0c322da1a7f150f386fcabc6f371254e28159a1ccf66
+Section: Tweaks
+Description: 分屏而已
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Name: ScreenCore
+
 Package: com.susudear.stayshot
 Version: 0.2.8
 Architecture: iphoneos-arm64
@@ -9151,6 +9168,23 @@ SHA1: fb63619c968f9e73fa26f200af935ec1429b18b4
 SHA256: ac8321046953de53979669ea804913d26ac75366a8d6d61c936536a0731a826f
 Section: Tweaks
 Description: 百度OCR识别提取文字，百度翻译，需要自备API，需要安装Snapper3插件，或不支持盗版。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/susuocr.png
+Name: SuSuOCR
+
+Package: com.susudear.susuocr
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 1172
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.susudear.susuocr_1.1.0_iphoneos-arm64.deb
+Size: 195632
+MD5sum: 1c6c71847a900c96ff2ba0ba2016c3bb
+SHA1: 497595f58d41ccc49aa11294ca3e8921e891f907
+SHA256: 66a62fc730ad4e1e0b9a57ce1016db23a4eb5b9bfe3db23cad44e9d6ef92fd70
+Section: Tweaks
+Description: 内置百度 OCR、GLM 和 Qwen 流式普通翻译；保留自定义 OCR、百度翻译及 AI 截图处理。
 Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/susuocr.png
 Name: SuSuOCR
