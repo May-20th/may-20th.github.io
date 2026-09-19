@@ -5031,6 +5031,24 @@ Description: 微信群聊批量拍一拍全部成员
 Author: 小叮当
 Name: 小叮当拍一拍全部
 
+Package: com.local.alipay.identity-compat
+Version: 0.1.9
+Architecture: iphoneos-arm64
+Maintainer: Local Workspace
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: debs/com.local.alipay.identity-compat_0.1.9_iphoneos-arm64.deb
+Size: 29964
+MD5sum: a521511c82f1734e69006b58a00842a2
+SHA1: 34537bd1076090935c134359a1f53905c2c83cfd
+SHA256: 581c14abdd2549e9d2b131cce04a092f1f13fdc9c70b7cb1903abbbaa0b74dbc
+Section: Tweaks
+Priority: optional
+Description: 支付宝刷脸设备兼容与热更新冻结层（12.12.16）
+Author: Local Workspace
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
+Name: 支付宝身份验证兼容
+
 Package: com.m4fn3.mikkyy
 Version: 1.0.0
 Architecture: iphoneos-arm64
