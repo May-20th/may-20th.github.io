@@ -11152,6 +11152,23 @@ Description: Show estimate time left to full charge on your lock screen
 Author: waruhachi
 Name: Jikan
 
+Package: net.nyyh
+Version: 1.2.522-1+debug
+Architecture: iphoneos-arm64
+Maintainer: liuwenyi
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: debs/net.nyyh_1.2.522-1+debug_iphoneos-arm64.deb
+Size: 32628
+MD5sum: cbb89e7750c2ea92a9fcc6c01776d092
+SHA1: 888df298b90dda99566fbe7228d331e4e7b1dac9
+SHA256: a87cd9ed3a8af36551cd9ab5522728a8d538f4b1f4bcd9cb7a4efe165837cb26
+Section: Tweaks
+Description: 中国农业银行11.2.x 启动与越狱提示兼容插件，如无效果下载插件单独注入应用即可解决。
+Author: liuwenyi
+Icon: https://huayuarc.github.io/icon/nyyh.jpg
+Name: 中国农业银行闪退修复1.2.522
+
 Package: netskao.ppxnoads
 Version: 1.5-5
 Architecture: iphoneos-arm64
