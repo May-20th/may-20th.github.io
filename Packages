@@ -8762,6 +8762,27 @@ Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot
 Sileodepiction: https://repo.susubaby.cn/json/stayshot.json
 
+Package: com.susudear.stayshot
+Version: 0.5.4
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: debs/com.susudear.stayshot_0.5.4_iphoneos-arm64.deb
+Size: 230086
+MD5sum: 7aed3e97d7ff144e76858247e13bfcce
+SHA1: caca1054fbbb9d3ea0445cac7ff42a06ee34657f
+SHA256: 1993a8ab48ab27993ae60160f75ac2895f154e1ad4f9bba1d3e5247812a7a2bc
+Section: Tweaks
+Description: StayShot 独立的 iOS 截图工具，支持普通模式、冻结模式、区域截图、截图历史和屏幕浮窗。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot
+Sileodepiction: https://repo.susubaby.cn/json/stayshot.json
+
 Package: com.susudear.stayshot.long-screenshot
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -9113,6 +9134,23 @@ Size: 195632
 MD5sum: 1c6c71847a900c96ff2ba0ba2016c3bb
 SHA1: 497595f58d41ccc49aa11294ca3e8921e891f907
 SHA256: 66a62fc730ad4e1e0b9a57ce1016db23a4eb5b9bfe3db23cad44e9d6ef92fd70
+Section: Tweaks
+Description: 内置百度 OCR、GLM 和 Qwen 流式普通翻译；保留自定义 OCR、百度翻译及 AI 截图处理。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/susuocr.png
+Name: SuSuOCR
+
+Package: com.susudear.susuocr
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 1188
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.susudear.susuocr_1.1.1_iphoneos-arm64.deb
+Size: 196756
+MD5sum: 70d253abf6ca943f8c39d71221cfdac4
+SHA1: 2b2355a07036b469414b2a2e53681b55cba9e9a1
+SHA256: 1c937cdbf1fc73a1d0b9d9fd23bc552c90b54b6fbd8e1c4968e1acca3ebd9f9f
 Section: Tweaks
 Description: 内置百度 OCR、GLM 和 Qwen 流式普通翻译；保留自定义 OCR、百度翻译及 AI 截图处理。
 Author: SuSuDear
