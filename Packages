@@ -9242,6 +9242,23 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/ThemeCore.png
 Name: ThemeCore
 
+Package: com.susudear.themecore
+Version: 0.5.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.5.0_iphoneos-arm64.deb
+Size: 129302
+MD5sum: e4c9610b933e2b8202d434ec270ca59a
+SHA1: 9d453fe0f3c6de79f197c2868ba4dd1e45f57925
+SHA256: f5716bef079997f6f613f4e613d97417a76b695e965915669e6037866cad4c32
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
 Package: com.swing.ddmcnoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -11475,6 +11492,30 @@ Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Icon: https://owngoal-dev.github.io/Fila/icon.png
 Name: Fila
 
+Package: wiki.qaq.fila
+Version: 0.5.6
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 93432
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.5.6_iphoneos-arm64.deb
+Size: 23209986
+MD5sum: 0caa15b69678813cd6d53779c3266407
+SHA1: 3356e21d87d7363d62ee4e747c4d12ae178496e8
+SHA256: cc2af93e671d342b33787e22a4e601a634a1b1e25177fa972a56ba03cc3125da
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+
 Package: wiki.qaq.ighostvt
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -11655,6 +11696,33 @@ Size: 2421088
 MD5sum: 60d48ec83c8ba0344ad0ad3049f10b90
 SHA1: 91ff98f7a5f03f36bb0d793b221a4dd5696af02a
 SHA256: a6ea0dc4abcc911487f1e0c64fbea1153c540a5d5f47289c4c708f79f9e98b6c
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `cocoainspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/CocoaInspector/icon.png
+Name: Inspector
+
+Package: wiki.qaq.inspector
+Version: 0.5.1
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 20620
+Depends: firmware (>= 13.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.5.1_iphoneos-arm64.deb
+Size: 6947242
+MD5sum: 602bd4847c48cbfa51e348879ab2db00
+SHA1: 62d284b4ab051ce96c382835d3b2f819c9805218
+SHA256: d85b4818ed0fcf7dc125e5871b2d5e3c82810e08a19a51a70aebd783b543034c
 Section: Tweaks
 Priority: optional
 Description: Live process inspector for rootless jailbreaks
