@@ -8836,6 +8836,27 @@ Icon: https://repo.susubaby.cn/icons/StayShot.png
 Name: StayShot
 Sileodepiction: https://repo.susubaby.cn/json/stayshot.json
 
+Package: com.susudear.stayshot
+Version: 0.5.5
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: debs/com.susudear.stayshot_0.5.5_iphoneos-arm64.deb
+Size: 229490
+MD5sum: 9c92746b15251b65c5089ad1c7ff5aaf
+SHA1: 96b1324cf223ec0582a0b6121bf443aa1c14e179
+SHA256: 5c5265b6e61a64c3c256473cdf99bfe9a75dabcbee49d7c0e5da6ec151962b93
+Section: Tweaks
+Description: StayShot 独立的 iOS 截图工具，支持普通模式、冻结模式、区域截图、截图历史和屏幕浮窗。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/StayShot.png
+Name: StayShot
+Sileodepiction: https://repo.susubaby.cn/json/stayshot.json
+
 Package: com.susudear.stayshot.long-screenshot
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -10945,6 +10966,22 @@ Section: Tweaks
 Description: 开发您自己的调整并在Flex社区云上共享。Dopamine2.0可生效系统补丁，内置Legacy arm64e Support补丁，加入来了老弟的汉化，感谢他的付出。Xina2.0不要安装，不要安装！！！！
 Author: John Coates
 Name: Flex 3 Beta90
+
+Package: iya.banana.dockicon
+Version: 0.9.4
+Architecture: iphoneos-arm64
+Maintainer: hades
+Installed-Size: 1052
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 19.0)
+Filename: debs/iya.banana.dockicon_0.9.4_iphoneos-arm64.deb
+Size: 187704
+MD5sum: 5f94ee6bfab2abe891664bafb086419f
+SHA1: ddbf4ed5ed17f2810bc4f3398afb111e1df4c300
+SHA256: 9819f5e02f11140f8283dec07735d85cdf3289b1db27c98dfc22128330bf09f5
+Section: Tweaks
+Description: Dark icons on iOS 15-17 and photo wallpaper dimming on iOS 16-18.
+Author: hades
+Name: DarkIcon
 
 Package: iya.banana.dynamicmusicbg
 Version: 1.0.15
