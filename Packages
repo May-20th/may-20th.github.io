@@ -7370,6 +7370,22 @@ Description: 锁屏界面一个电池信息模块，点击可以复制设备电�
 Author: SuSu
 Name: BatteryEstimate
 
+Package: com.susu.batteryestimate
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: debs/com.susu.batteryestimate_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 35254
+MD5sum: 74e40ef3a32e22a20f81114fd5056938
+SHA1: 171cef32cf7859508d32d532eca470163743233c
+SHA256: fdbcd4c628c0571992c5c7e77a03ab48c665ba1eba40822fbd41663dbd48feff
+Section: Tweaks
+Description: 锁屏界面一个电池信息模块，点击可以复制设备电池当前信息。
+Author: SuSu
+Name: BatteryEstimate
+
 Package: com.susu.ccuiplayer
 Version: 1.0.7
 Architecture: iphoneos-arm64
