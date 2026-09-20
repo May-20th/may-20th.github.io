@@ -10002,23 +10002,6 @@ Description: 去除雷速体育开屏、Banner、信息流、插屏等广告
 Author: wkk
 Name: 雷速体育去广告
 
-Package: com.wkk.liquidglassswitchX
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 556
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.wkk.liquidglassswitchX_1.0-2_iphoneos-arm64.deb
-Size: 74956
-MD5sum: d159a27635a63069e657c3da328595d9
-SHA1: 2d0c83b4f1076c17e497fcaac8e528096509c06a
-SHA256: fb8684715bda50fa154cb53c4e0e411f2676481e7eba89698ac67c25dd5871e2
-Section: Tweaks
-Description: 全局液态玻璃开关样式。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 液态玻璃Switch
-
 Package: com.wkk.lookinloader
 Version: 1.2.8-2
 Architecture: iphoneos-arm64
@@ -10035,23 +10018,6 @@ Description: Lookin UI调试工具
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
 Name: LookinLoader
-
-Package: com.wkk.lstimeseconds
-Version: 1.0-3
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: debs/com.wkk.lstimeseconds_1.0-3_iphoneos-arm64.deb
-Size: 8128
-MD5sum: ef52e83af9c71664c116cd54788f8498
-SHA1: 44cab5d206b6aa782bdaae2d47635fd10ec18498
-SHA256: 6280629b523fab8eb0806f16dd1cbd40d682dde05031f17bd5073db7ed844cdb
-Section: Tweaks
-Description: 锁屏时间增加秒数显示，支持 iOS15-17。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: LSTimeSeconds15-17
 
 Package: com.wkk.lynxtwo
 Version: 2.5.4
