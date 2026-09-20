@@ -10983,6 +10983,22 @@ Description: Dark icons on iOS 15-17 and photo wallpaper dimming on iOS 16-18.
 Author: hades
 Name: DarkIcon
 
+Package: iya.banana.dockicon
+Version: 0.9.5
+Architecture: iphoneos-arm64
+Maintainer: hades
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 19.0)
+Filename: debs/iya.banana.dockicon_0.9.5_iphoneos-arm64.deb
+Size: 205820
+MD5sum: 9b16a30b9f69c0d160499a592b683b40
+SHA1: e70114c8eb1f909f7b17aeea568362e884270dc5
+SHA256: 18df85785732f11065230f2c8fceb2d296146f41bdf955c2b256658050799347
+Section: Tweaks
+Description: Dark icons on iOS 15-17 and photo wallpaper dimming on iOS 16-18.
+Author: hades
+Name: DarkIcon
+
 Package: iya.banana.dynamicmusicbg
 Version: 1.0.15
 Architecture: iphoneos-arm64
