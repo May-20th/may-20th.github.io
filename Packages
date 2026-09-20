@@ -10963,6 +10963,22 @@ Description: Dark icons on iOS 15-17 and photo wallpaper dimming on iOS 16-18.
 Author: hades
 Name: DarkIcon
 
+Package: iya.banana.dockicon
+Version: 0.9.7
+Architecture: iphoneos-arm64
+Maintainer: hades
+Installed-Size: 1008
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 19.0)
+Filename: debs/iya.banana.dockicon_0.9.7_iphoneos-arm64.deb
+Size: 213614
+MD5sum: 40668545a17add39e7f6fa963a50b80e
+SHA1: 35ef44f4f013f9cb346e1a2726e0eaf418d98bbf
+SHA256: a46f65711f41c1e1620b9405efc0b7b63064eab5a0e7091713d0a8a48efb610f
+Section: Tweaks
+Description: Dark icons on iOS 15-17 and photo wallpaper dimming on iOS 16-18.
+Author: hades
+Name: DarkIcon
+
 Package: iya.banana.dynamicmusicbg
 Version: 1.0.15
 Architecture: iphoneos-arm64
@@ -11612,6 +11628,32 @@ Icon: https://owngoal-dev.github.io/Fila/icon.png
 Name: Fila
 Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
 
+Package: wiki.qaq.fila
+Version: 0.5.9
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 93448
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.5.9_iphoneos-arm64.deb
+Size: 23212974
+MD5sum: 6810c01d09c0c8519c5423300b53750c
+SHA1: b2c5e4a694990850c7fbf69d82ba78af13cf2ab7
+SHA256: b89ba1a370422b41fb5b030a72768414e002508f84c13bd75f167d3b2b4b87a5
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Fila/
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
+
 Package: wiki.qaq.ighostvt
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -11711,6 +11753,30 @@ Size: 9002000
 MD5sum: 502ef0d32cd5d8055f83fe8fd4d05e86
 SHA1: a232cc3715d2462840e3f934d8dd779389efd416
 SHA256: 4770d1fff84063d08e769301d26b393b355aa7ed7a0b8e6e242dd0c926655acd
+Section: Tweaks
+Priority: optional
+Description: Ghostty-powered terminal for iOS and visionOS
+ A real terminal on your device, drawn by the same engine as Ghostty on the
+ desktop. Your shell keeps running in the background, so a build you started
+ is still going when you switch apps and still there when you come back.
+ Runs on iPhone, iPad and Apple Vision Pro.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/iGhostVT/
+Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
+Name: iGhostVT
+Sileodepiction: https://owngoal-dev.github.io/iGhostVT/depiction.json
+
+Package: wiki.qaq.ighostvt
+Version: 0.9.5
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 19272
+Depends: firmware (>= 15.0), uikittools
+Filename: debs/wiki.qaq.ighostvt_0.9.5_iphoneos-arm64.deb
+Size: 9001816
+MD5sum: 9e851ad1191344cc2cb632c23b3f7f98
+SHA1: 6e4b416fdb055eddf8a70aaf1ead40d1b5a6b2b4
+SHA256: a2ae10bc8aca4e27cd370b47b5184f79728e0a6a5b128f0c436af90a666aa707
 Section: Tweaks
 Priority: optional
 Description: Ghostty-powered terminal for iOS and visionOS
@@ -11870,6 +11936,35 @@ Size: 6950798
 MD5sum: 840d23d2f30a18d5345f1b1c856ec25e
 SHA1: f809148f442c8d7c4a55b8a38d2b032b8cfefef3
 SHA256: e8ecff0500ca04e357a6ae85a18c02ba181f49d99d3164d1fdc5bb2331449040
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `cocoainspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/CocoaInspector/
+Icon: https://owngoal-dev.github.io/CocoaInspector/icon.png
+Name: Inspector
+Sileodepiction: https://owngoal-dev.github.io/CocoaInspector/depiction.json
+
+Package: wiki.qaq.inspector
+Version: 0.5.5
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 20620
+Depends: firmware (>= 13.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.5.5_iphoneos-arm64.deb
+Size: 6950784
+MD5sum: 8d0dbccf3201bc78a65e74b5a2a7cc7e
+SHA1: 201d1e63d104a383c5d86725fe047e1d8121b15b
+SHA256: 8c736ee2f97a5abd946e63e9b5a89f11fec14f6022fba63243492554d3ce455c
 Section: Tweaks
 Priority: optional
 Description: Live process inspector for rootless jailbreaks
