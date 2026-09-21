@@ -11592,6 +11592,32 @@ Name: Fila
 Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
 
 Package: wiki.qaq.fila
+Version: 0.5.12
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 93448
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.5.12_iphoneos-arm64.deb
+Size: 23217402
+MD5sum: d191cc1405e134e3ec184f39b8d470d5
+SHA1: 5117677ab2202d7bca95e7ac0208a9714b188914
+SHA256: 25f16755f3e0cd03fcfa1a8e2345903cb711602a6e95eac880bbce5ff223ec5d
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Fila/
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
+
+Package: wiki.qaq.fila
 Version: 0.5.4
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
@@ -11851,6 +11877,30 @@ Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
 Name: iGhostVT
 Sileodepiction: https://owngoal-dev.github.io/iGhostVT/depiction.json
 
+Package: wiki.qaq.ighostvt
+Version: 0.9.7
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 19276
+Depends: firmware (>= 15.0), uikittools, launchctl, shell-cmds
+Filename: debs/wiki.qaq.ighostvt_0.9.7_iphoneos-arm64.deb
+Size: 9005206
+MD5sum: 5b8538b304f3f236dd0da89f71a47a1b
+SHA1: f9b8265669e2036775473a1731c287c3218dc7da
+SHA256: 32596fc0074603d10ad074288628b220ecee804495319c157f9dfefdb4e7c253
+Section: Tweaks
+Priority: optional
+Description: Ghostty-powered terminal for iOS and visionOS
+ A real terminal on your device, drawn by the same engine as Ghostty on the
+ desktop. Your shell keeps running in the background, so a build you started
+ is still going when you switch apps and still there when you come back.
+ Runs on iPhone, iPad and Apple Vision Pro.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/iGhostVT/
+Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
+Name: iGhostVT
+Sileodepiction: https://owngoal-dev.github.io/iGhostVT/depiction.json
+
 Package: wiki.qaq.inspector
 Version: 0.3.0
 Architecture: iphoneos-arm64
@@ -12043,6 +12093,35 @@ Depiction: https://owngoal-dev.github.io/CocoaInspector/
 Icon: https://owngoal-dev.github.io/CocoaInspector/icon.png
 Name: Inspector
 Sileodepiction: https://owngoal-dev.github.io/CocoaInspector/depiction.json
+
+Package: wiki.qaq.inspector
+Version: 0.5.8
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 20640
+Depends: firmware (>= 13.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.5.8_iphoneos-arm64.deb
+Size: 6955244
+MD5sum: 53954be2922113b79051bcfa7f237325
+SHA1: 396e8ef067c271809be26fc2cf0bdca5f8076df9
+SHA256: 85e4779ffc16a19f5ca140a967458224aeb267b65ecac1e2b646faedf1301520
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `inspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Inspector/
+Icon: https://owngoal-dev.github.io/Inspector/icon.png
+Name: Inspector
+Sileodepiction: https://owngoal-dev.github.io/Inspector/depiction.json
 
 Package: xhs.x
 Version: 1.2.0
