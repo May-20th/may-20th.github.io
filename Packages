@@ -12173,6 +12173,35 @@ Icon: https://owngoal-dev.github.io/Inspector/icon.png
 Name: Inspector
 Sileodepiction: https://owngoal-dev.github.io/Inspector/depiction.json
 
+Package: wiki.qaq.inspector
+Version: 0.5.9
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 20656
+Depends: firmware (>= 13.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.5.9_iphoneos-arm64.deb
+Size: 6961200
+MD5sum: 86699b0c4d62a48ab0ef12911fd1c344
+SHA1: c5a8dc5925fd8666992da4e0adb77da3b45f41c4
+SHA256: f950f5be1d56a7127084329c9048940e44c0abe9f30eec02d460e0e2cc94c413
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `inspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Inspector/
+Icon: https://owngoal-dev.github.io/Inspector/icon.png
+Name: Inspector
+Sileodepiction: https://owngoal-dev.github.io/Inspector/depiction.json
+
 Package: xhs.x
 Version: 1.2.0
 Architecture: iphoneos-arm64
