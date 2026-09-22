@@ -11618,6 +11618,32 @@ Name: Fila
 Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
 
 Package: wiki.qaq.fila
+Version: 0.5.13
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 93484
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.5.13_iphoneos-arm64.deb
+Size: 23218426
+MD5sum: d9fa162723634bbe3f928617293ccfa5
+SHA1: 2be491202df2c34e61872a0c0839107c224dc777
+SHA256: 0dc21991a1ad303b485cd55b43e813550190e2cd940cdbe0ee8a53574a611684
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Fila/
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
+
+Package: wiki.qaq.fila
 Version: 0.5.4
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
@@ -11888,6 +11914,30 @@ Size: 9005206
 MD5sum: 5b8538b304f3f236dd0da89f71a47a1b
 SHA1: f9b8265669e2036775473a1731c287c3218dc7da
 SHA256: 32596fc0074603d10ad074288628b220ecee804495319c157f9dfefdb4e7c253
+Section: Tweaks
+Priority: optional
+Description: Ghostty-powered terminal for iOS and visionOS
+ A real terminal on your device, drawn by the same engine as Ghostty on the
+ desktop. Your shell keeps running in the background, so a build you started
+ is still going when you switch apps and still there when you come back.
+ Runs on iPhone, iPad and Apple Vision Pro.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/iGhostVT/
+Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
+Name: iGhostVT
+Sileodepiction: https://owngoal-dev.github.io/iGhostVT/depiction.json
+
+Package: wiki.qaq.ighostvt
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 19308
+Depends: firmware (>= 15.0), uikittools, launchctl, shell-cmds
+Filename: debs/wiki.qaq.ighostvt_1.0.0_iphoneos-arm64.deb
+Size: 9020002
+MD5sum: b4faaa8c99fe2df060e6604d781cf321
+SHA1: 80d6b6e074bf87e9ad89f0c3db484fe1c1742bc5
+SHA256: f70cae4d39864e2324574c93cbd612efdc7019ac9618314278c6869cb834e927
 Section: Tweaks
 Priority: optional
 Description: Ghostty-powered terminal for iOS and visionOS
