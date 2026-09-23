@@ -2297,6 +2297,22 @@ Description: 有道云笔记启动屏广告跳过插件，适配隐根(RootHide)
 Author: colorblack
 Name: youdaoyunbiji-NoAd
 
+Package: com.crctdd.stayalivelite
+Version: 0.1.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 572
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader
+Filename: debs/com.crctdd.stayalivelite_0.1.3_iphoneos-arm64.deb
+Size: 82256
+MD5sum: 817a09cf44b482fec4cf8e085eafda02
+SHA1: 2971d223b057976654d2d20f7191ba20f175dbc5
+SHA256: e78254cd0531d75dfcf378af0658649127e9ddd11f2713cf5a349bd080aca4ba
+Section: Tweaks
+Description: 为指定App开启守护后台，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Author: crctdd
+Name: StayAlive Lite
+
 Package: com.dada.hidedoubaopip
 Version: 1.0.0
 Architecture: iphoneos-arm64
