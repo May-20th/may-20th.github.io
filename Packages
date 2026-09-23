@@ -10073,6 +10073,22 @@ Description: 去除懂球帝开屏、信息流、详情页等广告
 Author: wkk
 Name: 懂球帝去广告
 
+Package: com.wkk.glassalertx
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 272
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate
+Filename: debs/com.wkk.glassalertx_1.0-1_iphoneos-arm64.deb
+Size: 34756
+MD5sum: ca88a22ea56da9c9e9ddf15fc4505651
+SHA1: 1d961853a04f8da0bdb23ee62228288db3669989
+SHA256: 82cb302f87fc15d15e7b425403747d10b14a13af8a69f76f7cf2950456c63757
+Section: Tweaks
+Description: cool
+Author: wkk
+Name: GlassAlertX
+
 Package: com.wkk.jiakaobaodiannoad
 Version: 1.0
 Architecture: iphoneos-arm64
