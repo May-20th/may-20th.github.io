@@ -9828,23 +9828,6 @@ Description: MCP server for AI-driven iOS device control. Supports HID buttons, 
 Author: witchan
 Name: iOS MCP
 
-Package: com.wkk.3dddhook
-Version: 1.0-5
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64.deb
-Size: 4548
-MD5sum: 8c03248a295ae101deec748560693ae5
-SHA1: e6c83bd26be178f51e7711bee80399d83f54ac70
-SHA256: de1811ee92e808474b17e3479801c6ff5b176d88ea2b29320d5b4e18989f9e8d
-Section: Tweaks
-Description: cool
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 提升3dtouch唤醒速度
-
 Package: com.wkk.SBLockhook
 Version: 1.0-3
 Architecture: iphoneos-arm64
