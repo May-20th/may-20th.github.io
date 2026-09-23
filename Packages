@@ -134,7 +134,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X: h_h_x_t
 Installed-Size: 112
 Depends: mobilesubstrate
-Filename: debs/单排截图标记（功能少几个）-arm64.deb
+Filename: debs/cn.llld.biaoji_1.2_iphoneos-arm64.deb
 Size: 19232
 MD5sum: cd6564c0cf4fe516398adbd059eb8a3e
 SHA1: a763c2e566dd4f800bad842aabad8b9a16e9bc53
@@ -150,7 +150,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X: h_h_x_t
 Installed-Size: 112
 Depends: mobilesubstrate
-Filename: debs/cn.llld.biaoji_1.2_iphoneos-arm64.deb
+Filename: debs/单排截图标记（功能少几个）-arm64.deb
 Size: 19232
 MD5sum: cd6564c0cf4fe516398adbd059eb8a3e
 SHA1: a763c2e566dd4f800bad842aabad8b9a16e9bc53
@@ -1268,7 +1268,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 772
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/binglan.灵动岛背景_1.0.7-arm64.deb
+Filename: debs/binglan.dynamicfx_1.0.7-arm64.deb
 Size: 73168
 MD5sum: c98336dfe8dec7902e2cb19b9d4ab9c3
 SHA1: 09cfc11fc1753466dd0a190cd34ca4a86a783c19
@@ -1284,7 +1284,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 772
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/binglan.dynamicfx_1.0.7-arm64.deb
+Filename: debs/binglan.灵动岛背景_1.0.7-arm64.deb
 Size: 73168
 MD5sum: c98336dfe8dec7902e2cb19b9d4ab9c3
 SHA1: 09cfc11fc1753466dd0a190cd34ca4a86a783c19
@@ -1508,7 +1508,7 @@ Architecture: iphoneos-arm64
 Maintainer: hang
 Installed-Size: 584
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.ceshi_2.9_iphoneos-arm64.deb
+Filename: debs/hang.气泡阴影_2.9-arm64.deb
 Size: 111006
 MD5sum: b2d1ac501745709ec007c4d4bf51d8b1
 SHA1: c920ce40468b0219c8846c5ccea220749898bc15
@@ -1524,7 +1524,7 @@ Architecture: iphoneos-arm64
 Maintainer: hang
 Installed-Size: 584
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/hang.气泡阴影_2.9-arm64.deb
+Filename: debs/com.ceshi_2.9_iphoneos-arm64.deb
 Size: 111006
 MD5sum: b2d1ac501745709ec007c4d4bf51d8b1
 SHA1: c920ce40468b0219c8846c5ccea220749898bc15
@@ -2830,108 +2830,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2980
+Installed-Size: 3112
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#8-arm64.deb
-Size: 649702
-MD5sum: bb2459d4b2b15080fcdc071a8704deee
-SHA1: 6a1f781816671b3da9de32cc05369068527882d7
-SHA256: e50235ca075aae4be91b1fe3fbf286f2db7e5183a833952c6d1d90e6a673d05d
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2980
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#9-arm64.deb
-Size: 652372
-MD5sum: 2538435e34424860458231d0f8ec3930
-SHA1: 70ea59c6c1f72c31729de58ffa384f6c7d25ab56
-SHA256: d1602d7abd9b0db49282b25eafa5affeb7a20f8739a489aad2a4848055ba516a
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2964
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#7-arm64.deb
-Size: 651002
-MD5sum: 3e799b1a93f9d138044a890e14a78fc8
-SHA1: fa3c35d15924fea0d869a7609b3f38fd584326f6
-SHA256: b3b4594c3a6340c558bdb4bf8abc5d7b34dcd9150e87e52ddfe6128e593011d9
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 3028
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#11-arm64.deb
-Size: 659522
-MD5sum: 41d24d2ff41cae26962b6fd968348177
-SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
-SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2900
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#5-arm64.deb
-Size: 639268
-MD5sum: cfebe32bd38e7acc3ea88adf8b6b0142
-SHA1: 0d195bd558f0b151c458b4b8781178111e249be8
-SHA256: 1096d7aa505b015a9418481cb6385ddf7e548497585fd3b74cb8d6129b23c524
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 3048
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#12-arm64.deb
-Size: 672552
-MD5sum: b6ab6c035dc86a725c13ffdbe2b9dd2a
-SHA1: e94f2454817daf817996c9b57468b2d9fb2d8557
-SHA256: aa5fc511ff0b0bfa0ce2f40b7a260f5ea0680c66819943197cc0ab7a2a95e23c
+Filename: debs/huami.dyyy_2.3-0#14-arm64.deb
+Size: 678058
+MD5sum: ac73cdea0ea2052046daaa6f1ca3d252
+SHA1: e1b5667f0d89f8b583f8055fcb9776af0f7807c9
+SHA256: 397f384f4128c3ebefba1ab3aaab30678c3f81c7e53c3131a82ebafe8ff0dfb2
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2963,13 +2868,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3112
+Installed-Size: 2964
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#14-arm64.deb
-Size: 678058
-MD5sum: ac73cdea0ea2052046daaa6f1ca3d252
-SHA1: e1b5667f0d89f8b583f8055fcb9776af0f7807c9
-SHA256: 397f384f4128c3ebefba1ab3aaab30678c3f81c7e53c3131a82ebafe8ff0dfb2
+Filename: debs/huami.dyyy_2.3-0#7-arm64.deb
+Size: 651002
+MD5sum: 3e799b1a93f9d138044a890e14a78fc8
+SHA1: fa3c35d15924fea0d869a7609b3f38fd584326f6
+SHA256: b3b4594c3a6340c558bdb4bf8abc5d7b34dcd9150e87e52ddfe6128e593011d9
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2982,13 +2887,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3372
+Installed-Size: 3048
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.huami.dyyy_2.3-0_iphoneos-arm64.deb
-Size: 743086
-MD5sum: 40df297740bd43a98eb599a838735c9c
-SHA1: 997a2e27bd175d2026315150e8a3639c627ccc72
-SHA256: 5a5474bf1051ab020a2dad6fa62f6e0d1c25d035ca4746fb50a5dd05dfdc2b8a
+Filename: debs/huami.dyyy_2.3-0#12-arm64.deb
+Size: 672552
+MD5sum: b6ab6c035dc86a725c13ffdbe2b9dd2a
+SHA1: e94f2454817daf817996c9b57468b2d9fb2d8557
+SHA256: aa5fc511ff0b0bfa0ce2f40b7a260f5ea0680c66819943197cc0ab7a2a95e23c
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -3001,13 +2906,32 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2832
+Installed-Size: 3028
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#4-arm64.deb
-Size: 620702
-MD5sum: 0b16ee9b9ebfc0d0843c0f794708000f
-SHA1: 3c72f7d9ca7051f7647bf44ca07bf30da24df6ba
-SHA256: 455c784819a827fbb194dfd7f9396eb231317a660d503f5efd970d37449d3b1e
+Filename: debs/huami.dyyy_2.3-0#11-arm64.deb
+Size: 659522
+MD5sum: 41d24d2ff41cae26962b6fd968348177
+SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
+SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#8-arm64.deb
+Size: 649702
+MD5sum: bb2459d4b2b15080fcdc071a8704deee
+SHA1: 6a1f781816671b3da9de32cc05369068527882d7
+SHA256: e50235ca075aae4be91b1fe3fbf286f2db7e5183a833952c6d1d90e6a673d05d
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -3039,6 +2963,44 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
+Installed-Size: 3028
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0_11-arm64.deb
+Size: 659522
+MD5sum: 41d24d2ff41cae26962b6fd968348177
+SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
+SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2832
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#4-arm64.deb
+Size: 620702
+MD5sum: 0b16ee9b9ebfc0d0843c0f794708000f
+SHA1: 3c72f7d9ca7051f7647bf44ca07bf30da24df6ba
+SHA256: 455c784819a827fbb194dfd7f9396eb231317a660d503f5efd970d37449d3b1e
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
 Installed-Size: 3064
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/huami.dyyy_2.3-0#13-arm64.deb
@@ -3058,13 +3020,51 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3028
+Installed-Size: 2900
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0_11-arm64.deb
-Size: 659522
-MD5sum: 41d24d2ff41cae26962b6fd968348177
-SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
-SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
+Filename: debs/huami.dyyy_2.3-0#5-arm64.deb
+Size: 639268
+MD5sum: cfebe32bd38e7acc3ea88adf8b6b0142
+SHA1: 0d195bd558f0b151c458b4b8781178111e249be8
+SHA256: 1096d7aa505b015a9418481cb6385ddf7e548497585fd3b74cb8d6129b23c524
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#9-arm64.deb
+Size: 652372
+MD5sum: 2538435e34424860458231d0f8ec3930
+SHA1: 70ea59c6c1f72c31729de58ffa384f6c7d25ab56
+SHA256: d1602d7abd9b0db49282b25eafa5affeb7a20f8739a489aad2a4848055ba516a
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 3372
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.huami.dyyy_2.3-0_iphoneos-arm64.deb
+Size: 743086
+MD5sum: 40df297740bd43a98eb599a838735c9c
+SHA1: 997a2e27bd175d2026315150e8a3639c627ccc72
+SHA256: 5a5474bf1051ab020a2dad6fa62f6e0d1c25d035ca4746fb50a5dd05dfdc2b8a
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -3135,7 +3135,7 @@ Architecture: iphoneos-arm64
 Maintainer: iosdump
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs/iosdump.airdrop_0.0.1-arm64.deb
+Filename: debs/iosdump.AirDrop-0.0.1-arm64.deb
 Size: 3390
 MD5sum: 79a93b17f1202f6eb669f751a330b80f
 SHA1: f44e503f79593bf7c02ec944fc40ec6caa88ffc0
@@ -3151,7 +3151,7 @@ Architecture: iphoneos-arm64
 Maintainer: iosdump
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs/iosdump.AirDrop-0.0.1-arm64.deb
+Filename: debs/iosdump.airdrop_0.0.1-arm64.deb
 Size: 3390
 MD5sum: 79a93b17f1202f6eb669f751a330b80f
 SHA1: f44e503f79593bf7c02ec944fc40ec6caa88ffc0
@@ -4764,7 +4764,7 @@ Installed-Size: 12336
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.monk.wclgbubbleliquidglass
 Replaces: com.monk.wclgbubbleliquidglass
-Filename: debs/jz.fz_4.1.0-1-arm64.deb
+Filename: debs/junzai.分组_4.1.0-1-arm64.deb
 Size: 1708884
 MD5sum: 116afa96952dbf9a9d51d6bdf54048bc
 SHA1: 080b5aabb2d922c9f4cc718de1a111255c721db1
@@ -4782,7 +4782,7 @@ Installed-Size: 12336
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.monk.wclgbubbleliquidglass
 Replaces: com.monk.wclgbubbleliquidglass
-Filename: debs/junzai.分组_4.1.0-1-arm64.deb
+Filename: debs/jz.fz_4.1.0-1-arm64.deb
 Size: 1708884
 MD5sum: 116afa96952dbf9a9d51d6bdf54048bc
 SHA1: 080b5aabb2d922c9f4cc718de1a111255c721db1
@@ -5851,235 +5851,6 @@ Author: PoomSmart
 Icon: https://www.susubaby.top/images/apppad.PNG
 Name: AppPad
 
-Package: com.rain.120hzpro
-Version: 2.0.9-4-26+debug
-Architecture: iphoneos-arm64
-Maintainer: rain
-Installed-Size: 1468
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/rain.120hz Pro-2.0.9-4-26+debug-arm64.deb
-Size: 302434
-MD5sum: 70480c829009e4a446ecfb0a4d3202f5
-SHA1: de32d2878b625e9091ff1394edac833cea2ba6a2
-SHA256: d6919da239b8d14c0080ebd602d2ecfa7fb35b07f406d45f8b80341d3e7904d2
-Section: Tweaks
-Description: 强制 120Hz 高帧率
-Author: rain
-Name: rain的120hz Pro
-
-Package: com.rain.120hzstable
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.rain.120hzpro
-Filename: debs/Rain.Flow 120Hz-1.3.0-arm64.deb
-Size: 63566
-MD5sum: ca2482ab7c80bfbc3117c92db95e21bb
-SHA1: eda8676614b8409d49854d2901da4eca28ad80f0
-SHA256: b0cb50db13376645287571fd847a032f1dc90fac1b7ad8b3813d68a215e92180
-Section: Tweaks
-Description: 专注核心 80Hz/120Hz 调度的精简方案；适合不需要 Pro 扩展功能、注重流畅稳定与低负担的用户。支持 iOS 15.0 及以上。
-Author: Rain
-Name: RainFlow 120Hz
-
-Package: com.rain.120hzstable
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.rain.120hzpro
-Filename: debs/com.rain.120hzstable_1.3.0_iphoneos-arm64.deb
-Size: 63566
-MD5sum: ca2482ab7c80bfbc3117c92db95e21bb
-SHA1: eda8676614b8409d49854d2901da4eca28ad80f0
-SHA256: b0cb50db13376645287571fd847a032f1dc90fac1b7ad8b3813d68a215e92180
-Section: Tweaks
-Description: 专注核心 80Hz/120Hz 调度的精简方案；适合不需要 Pro 扩展功能、注重流畅稳定与低负担的用户。支持 iOS 15.0 及以上。
-Author: Rain
-Name: RainFlow 120Hz
-
-Package: com.rain.actionbuttonpro
-Version: 2.6.2
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1552
-Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0)
-Conflicts: com.rain.actionbutton
-Replaces: com.rain.actionbutton
-Filename: debs/com.rain.actionbuttonpro_2.6.2_iphoneos-arm64.deb
-Size: 268508
-MD5sum: 369c1b9609834f542957c2bad47e2d81
-SHA1: baf128a2a02f9b79c0575e521c0419b199ca37d2
-SHA256: 3f7ff37d71953b1dc8491de09fe45feff5eff9e3a3631d21103964c282f93389
-Section: Tweaks
-Description: 为操作按钮打造的多功能快捷面板，支持 URL 快捷面板、支付宝与微信扫码付款、自定义 URL、App 自动取色、液态玻璃、屏幕记忆和智能剪贴板。支持 iOS 17.0-17.3.1。
-Author: Rain
-Name: Rain的操作按钮 Pro
-
-Package: com.rain.dock
-Version: 3.6.1
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 712
-Depends: preferenceloader
-Filename: debs/rain.Dock-3.6.1-arm64.deb
-Size: 112970
-MD5sum: d357efe81c9d0a4792dfb7c25513daa4
-SHA1: b5cae4b81ae3d9275de0525f25f229c703d91901
-SHA256: b19a82f8a025c34bf0d1b2ccce3bcb24ee2506ebf9c4c7368765f0ae0223f804
-Section: Tweaks
-Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池条/快捷启动/手势操作/霓虹文字/矩阵雨/彩虹边框/生态缸
-Author: Rain
-Name: Rain的Dock
-
-Package: com.rain.dock
-Version: 3.6.2
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 732
-Depends: preferenceloader
-Filename: debs/rain.Dock-3.6.2-arm64.deb
-Size: 120928
-MD5sum: 23ecb8bc3af90af90538504e88c1bc55
-SHA1: d5bed2f466670b0b1551df14e6f6223bc8b04333
-SHA256: 7842d8defb2714f12f3ed3aaba4338c92b0a689a1da5f8fb1f7ca04569e819ae
-Section: Tweaks
-Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池条/快捷启动/手势操作/霓虹文字/矩阵雨/彩虹边框/生态缸
-Author: Rain
-Name: Rain的Dock
-
-Package: com.rain.dynamicbattery
-Version: 1.3.1
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 312
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.rain.dynamicbattery_1.3.1_iphoneos-arm64.deb
-Size: 97706
-MD5sum: eff4d3c48d42d8e9de4e1d94915d4ee3
-SHA1: 10ef17d0be161816ec17a8ef24ba3ef73f4a13d3
-SHA256: 8bf79e10e1e18605d387eea8fe484e05126f0ee36c13705d71367e57375bef08
-Section: Tweaks
-Description: 智能环岛、自定义电池面板与动态皮肤。适配 iPhone 15 Pro Max、iPhone 15 Pro、iPhone 15 Plus、iPhone 15。
-Author: Rain
-Name: Rain的灵动电量
-
-Package: com.rain.dynamicbattery
-Version: 1.5.0
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 412
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.rain.dynamicbattery_1.5.0_iphoneos-arm64.deb
-Size: 131618
-MD5sum: 710b97f8b32e5e324e10805c79a7563b
-SHA1: 0fd4fdd3091413f371e799dd586c2f94054cbc27
-SHA256: 788ce4170458a49969402df937aeee68454f9e88fd1805b49bffffa37f084015
-Section: Tweaks
-Description: 智能环岛、耗电黑匣子与电池寿命护照。适配 iPhone 15 Pro Max、iPhone 15 Pro、iPhone 15 Plus、iPhone 15。
-Author: Rain
-Name: Rain的灵动电量
-
-Package: com.rain.magicsms
-Version: 0.0.1-9+debug
-Architecture: iphoneos-arm64
-Maintainer: rain
-Installed-Size: 232
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rain.MagicSMS-0.0.1-9+debug-arm64.deb
-Size: 18382
-MD5sum: 693fd061a996c522e251d959195a7b08
-SHA1: ae414c0abfbf129b46b2174e0243cc841231e144
-SHA256: 392c306b07d2509aaba768f0c4c6593367734d1f4a8175352caca919a6ce2c00
-Section: Tweaks
-Description: 免责声明：不存在任何收费且严禁用于商业用途，仅供学习交流使用，严禁用于欺骗与误导，后果自负。本人不承担任何法律责任。信息搜索栏输入8开启/关闭
-Author: rain
-Name: MagicSMS
-
-Package: com.rain.model
-Version: 2.0.0-26+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1516
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/rain.设备-2.0.0-26+debug-arm64.deb
-Size: 246654
-MD5sum: f88f66ea057f45b705bfa07efa446ebf
-SHA1: eff27b43eabdd6b2efd6a4dacefb7369f46339d6
-SHA256: 93c5ca725b464e11c58de670dbf99f909a2d47b741fe1c5fb658a7fd93367d37
-Section: Tweaks
-Description: 超级设备型号伪装 - 支持MGCopyAnswer/GPU伪装/温控/UA同步/广告混淆/iPad互变/每App独立配置
-Author: Rain
-Name: Rain的设备
-
-Package: com.rain.photo
-Version: 1.0-12
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 360
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0)
-Filename: debs/rain.Rain-1.0-12-arm64.deb
-Size: 21240
-MD5sum: 5a6ffbc84302b118b9a9a597bc7bdb19
-SHA1: 066f626d3780c546a557a74b69b5dc16f2664e7e
-SHA256: 4773e18460bdc8d446db0da16e30facee6bcfd962d4c9712bdb74ccfe6f46eea
-Section: Tweaks
-Description: Rain Protect My Photos!
-Author: Rain
-Name: Rain
-
-Package: com.rain.photopro
-Version: 1.0-14
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 508
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0)
-Filename: debs/rain.Rain Pro-1.0-14-arm64.deb
-Size: 59614
-MD5sum: dcd9edb7f10edebc74b8c48d2fed7cad
-SHA1: 58fe4698e795f6421d8b523d2dea47baf9da0b47
-SHA256: b1c78845dadc3fd6e45d604b96559d687aeadf5e381ff69665eb5a87ee3c0ae6
-Section: Tweaks
-Description: Rain Pro - Protect My Photos!
-Author: Rain
-Name: Rain Pro
-
-Package: com.rain.processmonitor
-Version: 1.1.1-11+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1640
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/rain.应用_1.1.1-11+debug-arm64.deb
-Size: 344048
-MD5sum: fa2c8f31be814ae8a2fd46a703859f69
-SHA1: 981e05a140434a4b58e1e6615ce39540026b8545
-SHA256: 1a98631d555048243a68c8eb550e086bd9dc506edf973d7f5e1a52d2579e2e6d
-Section: Tweaks
-Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
-Author: Rain
-Name: Rain的应用
-
-Package: com.rain.rainback
-Version: 1.6.4-3+debug
-Architecture: iphoneos-arm64
-Maintainer: rain
-Installed-Size: 1124
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: debs/rain.返回-1.6.4-3+debug-arm64.deb
-Size: 170302
-MD5sum: a1447ef3a85a6c108624af1701627e20
-SHA1: 58eea1a266684b5eba415a484d7274cac6ba7493
-SHA256: 4a8ed8b8cfd59a53a2887f9a6102d443f305329da3b4635dcb517b97b647d483
-Section: Tweaks
-Description: 从屏幕边缘或任意位置滑动返回上一页面，支持灵敏度调节、全屏手势、墨水扩散、光剑切割、动态触觉、自定义音效、黑白名单。
-Tag: role::hacker, purpose::extension
-Author: rain
-Name: rain的返回
-
 Package: com.rain.raincall
 Version: 2.6-2-1
 Architecture: iphoneos-arm64
@@ -6098,240 +5869,6 @@ Description: Rain的通话录音插件 - 支持蜂窝通话和 VoIP 通话录音
 Tag: role::hacker, purpose::extension
 Author: Rain
 Name: Rain的通话
-
-Package: com.rain.raincall
-Version: 2.6-2-14
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 2224
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/Rain.通话-2.6-2-14-arm64.deb
-Size: 357708
-MD5sum: 5ae6394dd20fc4d3540c6d055ea7bc7e
-SHA1: 762914df5a68c4e4bb829e96018844d10c7f3ff3
-SHA256: b708342871158c12465cc3bb3b2628bab52f2b6b9bf95041e2c0553f6c1cddf7
-Section: Tweaks
-Description: Rain的通话录音插件 - 支持蜂窝通话和 VoIP 通话录音
- 通过 ATAudioTap 实现通话录音，支持微信/QQ/钉钉/Telegram/Line/FaceTime VoIP 通话录音
- 支持自动录音、混音合并、AI 分析、通话字幕、关键词高亮、双语字幕、日历集成、自动分类、质量监控、通话后复盘、通话时光机
-Tag: role::hacker, purpose::extension
-Author: Rain
-Name: Rain的通话
-
-Package: com.rain.raincontainer
-Version: 2.9.0-7+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1956
-Depends: mobilesubstrate, com.opa334.crane
-Filename: debs/rain.容器-2.9.0-7+debug-arm64.deb
-Size: 346986
-MD5sum: cc62bf75d214cff4b5aec04d9774f4d1
-SHA1: 227f08c06ee0a80b54fbcb0ba94aa1c5f53c2b16
-SHA256: f6a0a47aedec750b5fef1f84a705cc5bbcc6aa6b990a170554e6824c0aa24beb
-Section: Tweaks
-Description: 基于 Crane 开发，感谢作者 opa334 编译开发的优秀插件；需安装原版的 Crane 即可生效
-Author: Rain
-Name: Rain的容器
-
-Package: com.rain.raindyn
-Version: 1.2.0-18+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 2100
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Filename: debs/rain.灵动卡片-1.2.0-18+debug-arm64.deb
-Size: 408772
-MD5sum: 70ccdf496f58cf23deddbd6e60c1b4a1
-SHA1: 3791d8e068f183375310b7197264be1f030820b3
-SHA256: c52bdde3163a1b600b95536a75410354a094de3321470473d584106e56cefa36
-Section: Tweaks
-Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。1.2.0新增：通知连击特效、屏幕边缘氛围光、音乐律动脉冲、双击智能提取验证码。
-Author: Rain
-Name: Rain的灵动卡片
-
-Package: com.rain.raindyn
-Version: 1.2.0-37+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 2392
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Filename: debs/Rain.灵动卡片-1.2.0-37+debug-arm64.deb
-Size: 455076
-MD5sum: 3c9d28282424d20d2e86764174873a4e
-SHA1: cbb0b59ab1648e1122825519d5fa0efb88115a92
-SHA256: bb9534a1bac03a50a4d877e123d367555dc560f3396a150958b20fd9be0c023b
-Section: Tweaks
-Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。1.2.0新增：通知连击特效、屏幕边缘氛围光、音乐律动脉冲、双击智能提取验证码。
-Author: Rain
-Name: Rain的灵动卡片
-
-Package: com.rain.rainmhz
-Version: 3.0-1-2
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 620
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: debs/rain.Mhz-3.0-1-2-arm64.deb
-Size: 75546
-MD5sum: 1e4e8139313dbc18126813c4c96f1820
-SHA1: 2f52ad5974198f766b869ad762b294a48ed21eda
-SHA256: dc1aa074d4e2800db95e7876aba77e136e611d7d93fe33068b2584ef4d7ba538
-Section: Tweaks
-Description: Rain的CPU频率控制插件 - 14层策略锁定CPU性能状态
- 通过IOKit控制Apple ARM DVFS，支持低功耗/均衡/高性能模式
- 14层策略: 热节流绕过、P/E核独立调控、GPU联动调频、内存带宽控制、Jetsam内存提升
- 游戏模式、应用级智能调频、迷你跑分、实时仪表盘、电量预估
-Tag: role::hacker, purpose::extension
-Author: Rain
-Name: Rain的Mhz
-
-Package: com.rain.rainmhz
-Version: 6.13.0-1
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1116
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist (>= 1.0.4)
-Filename: debs/Rain.Mhz-6.13.0-1-arm64.deb
-Size: 172852
-MD5sum: d18c9ed029d879d8ffa91f49ad8e3d3c
-SHA1: ff56a78ca7e93086a22d97ccd605a9bf77e4e5b1
-SHA256: 864a5983e59d895354a7081bf4b7979ea0ba85759226a4f227e271de8bdec4c3
-Section: Tweaks
-Description: Rain的CPU性能与稳帧控制插件
- 通过IOKit控制Apple ARM DVFS，支持低发热、均衡、极限性能、智能与稳帧模式
- 包含动态仪表盘、分级设置、场景预设、温控、性能监控与智能后台管控
-Tag: role::hacker, purpose::extension
-Author: Rain
-Name: Rain的Mhz
-
-Package: com.rain.rainscreenframe
-Version: 1.3.1-56+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 2528
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/rain.套壳截图-1.3.1-56+debug-arm64.deb
-Size: 482526
-MD5sum: 410def66c29d8176a44a863c45b66cc7
-SHA1: 7cbf105a10ed561270eb924b86a72f5cd1aa8b45
-SHA256: 9c78120f907bf94d6e93145814ebc598c83638e4e88a50147d273e933c103b8f
-Section: Tweaks
-Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳、圆角卡片、截图标注、截图拼接、截图转GIF、自定义水印、截图转PDF、截图对比
-Author: Rain
-Name: Rain的套壳截图
-
-Package: com.rain.rainscreenframe
-Version: 1.3.9
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1928
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.rain.rainscreenframe_1.3.9_iphoneos-arm64.deb
-Size: 389566
-MD5sum: 22f8ab1eaa7545076b685281b51bb052
-SHA1: ae1850090e0ab048d336aefa3db33a478cfc7d33
-SHA256: 8536ad77fd668391275a4a1dca95f47477ae6d3b123635746dbd9db1cb3e98b7
-Section: Tweaks
-Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳、圆角卡片、截图标注、截图拼接、截图转GIF、自定义水印、截图转PDF、截图对比
-Author: Rain
-Name: Rain的套壳截图
-
-Package: com.rain.rainscreenframe
-Version: 1.4.7
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1928
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.rain.rainscreenframe_1.4.7_iphoneos-arm64.deb
-Size: 394168
-MD5sum: c42faaadf29e2037c71dfca404c230aa
-SHA1: e07b07e83e2e99b63af992c93ae582f55642f262
-SHA256: 116161b1c0cc15ee731440770d8c7db6b91c46d4a8d290881865762490aeef30
-Section: Tweaks
-Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳、圆角卡片、截图标注、截图拼接、截图转GIF、自定义水印、截图转PDF、截图对比
-Author: Rain
-Name: Rain的套壳截图
-
-Package: com.rain.rainscroll
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 412
-Depends: mobilesubstrate
-Filename: debs/rain.滚动-1.0.0-arm64.deb
-Size: 30548
-MD5sum: f360baa936469985eee742d087b9f421
-SHA1: dd2b8355a94b16c5e4bc3da72650d2d1daaac144
-SHA256: 4df63051e415bfe1bda21c4fedfa172dc8b87e1b4686018f1ee48f6440f46c45
-Section: Tweaks
-Description: Rain的滚动 v1.0 - 基础自动滚动/智能感知变速/智能吸附段落/潮汐节奏/触觉反馈/睡前阅读/倾斜重力操控/焦点引导线/进度浮窗，共9项功能。
-Author: Rain
-Name: Rain的滚动
-
-Package: com.rain.rainwindow
-Version: 1.1.2-56+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 4320
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/rain.窗口-1.1.2-56+debug-arm64.deb
-Size: 1043980
-MD5sum: 9c6e7f1356dc899018ed8df5d42ed861
-SHA1: 79c20817eba3370215ea0bf0764c45a4a80c7797
-SHA256: 961be72e015606ca3a6dafc58c8e835d2f902ff62d20bc06563e331e05d202f2
-Section: Tweaks
-Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
-Author: Rain
-Name: Rain的窗口
-
-Package: com.rain.reachnotify
-Version: 0.0.1-1-97+debug
-Architecture: iphoneos-arm64
-Maintainer: rain
-Installed-Size: 1696
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rain.通知-0.0.1-1-97+debug-arm64.deb
-Size: 367674
-MD5sum: 301cb19c5c77a880f51c7c8acb903b12
-SHA1: f6066d24671bc536f089621588d8bbda0c49c028
-SHA256: 040926b1bf17d38f9d6dd9c34262f8a9c34dd50cd78e2b98855f1de54c05075f
-Section: Tweaks
-Description: 通知显示增强，收到通知能看到图标。v1.7.0优化：宏重构配置加载、线程安全、LRU去重、气泡拖尾、Reachability偏移量可调。
-Author: rain
-Name: Rain的通知
-
-Package: com.rain.safari
-Version: 1.3-8-19
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 752
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/rain.SaFari-1.3-8-19-arm64.deb
-Size: 109902
-MD5sum: 84a44868aeef37100110ec4ba3517a96
-SHA1: fca668bcb2981364653d141c9c71b66a5975555a
-SHA256: d9d094bf5987202519872861b59773bcde24cb114b95df38f6b1c20b04eb2977
-Section: Tweaks
-Description: Rain的SaFari - Safari暗黑模式 & 广告拦截 & 主题定制 & 元素精准移除
-Author: Rain
-Name: Rain的SaFari
-
-Package: com.rain.wallpapergenerator
-Version: 1.0.0-15+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 672
-Depends: mobilesubstrate, preferenceloader, com.iosdump.zone
-Filename: debs/rain.锁屏壁纸-1.0.0-15+debug-arm64.deb
-Size: 96696
-MD5sum: 281245a9b720504104c4e234a775b24b
-SHA1: f7b5f6bd3292abff4bf52f85613c978dd42b9470
-SHA256: bd7ddb46c1c0df70cb7b35a955403b25add7ae878806091319ce00e98925d11e
-Section: Tweaks
-Description: 选择2-6张透明PNG图片，一键生成动态壁纸配合Zone插件使用
-Author: Rain
-Name: Rain的锁屏壁纸
 
 Package: com.removewidgetbg
 Version: 2.0
