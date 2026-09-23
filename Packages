@@ -9859,23 +9859,6 @@ Description: MCP server for AI-driven iOS device control. Supports HID buttons, 
 Author: witchan
 Name: iOS MCP
 
-Package: com.wkk.SBUIFlashhook
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.wkk.SBUIFlashhook_1.0-1_iphoneos-arm64.deb
-Size: 4136
-MD5sum: 452145b57bb38bc06b5484164d775855
-SHA1: 27bc1bfabf7f8b7b8a2ea7891aa802d553363851
-SHA256: b220d2041a7a1054462d8d2c8e61c8d06923df37bc1b33816675327d5e1e6992
-Section: Tweaks
-Description: cool
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 长按音量加呼出手电筒
-
 Package: com.wkk.aihuishounolaunchad
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -10084,23 +10067,6 @@ Section: Tweaks
 Description: 自定义快捷录屏的灵动岛录制指示点。
 Author: wkk
 Name: RecordEyeX
-
-Package: com.wkk.ssppphook
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.wkk.ssppphook_1.0-1_iphoneos-arm64.deb
-Size: 3700
-MD5sum: 432380fb97e21f016794d3b896a48991
-SHA1: fa273b1ea8de3ad355c203797890683fd7f2146e
-SHA256: 2665b14f2edf064c66854a794c87dff1a59006156582d35086a67671203f9c11
-Section: Tweaks
-Description: cool
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 长按锁屏键假录屏
 
 Package: com.wkk.tallynoad
 Version: 1.0
