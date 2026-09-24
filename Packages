@@ -11511,6 +11511,32 @@ Icon: https://owngoal-dev.github.io/Fila/icon.png
 Name: Fila
 Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
 
+Package: wiki.qaq.fila
+Version: 0.6.1
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 93544
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.6.1_iphoneos-arm64.deb
+Size: 23219858
+MD5sum: f60f04a88f298cfd96af400faf6a43d2
+SHA1: f6be869e277d4b789b4e7cb891c5d29095999a1c
+SHA256: d7427a0295c041bfc788697e6f8cff73923f7ee70bef58a521557bcf51dc14b5
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Fila/
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
+
 Package: wiki.qaq.ighostvt
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -12163,6 +12189,32 @@ Size: 5435684
 MD5sum: ceabdf208c769c12f493fbb0f9543217
 SHA1: 7ac3ada41f945d9ebd027b8c959ec3f3d62ef352
 SHA256: 5791041373acc0895dcf27c4a1410950b0cb5b6ff27f17c7862a594aff1ace44
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/Lakr233/Irisin
+Description: Modern package manager for rootless custom firmware
+ Browse your repositories, install and remove packages, keep tweaks updated
+ and read every depiction, on iPhone and iPad. The app runs without root;
+ installs go through a small on-demand root daemon whose helper installs
+ packages natively and registers apps with LaunchServices itself. No dpkg,
+ no uicache.
+Author: OwnGoal Studio <no-reply@owngoal.dev>
+Depiction: https://lakr233.github.io/Irisin/
+Icon: https://lakr233.github.io/Irisin/icon.png
+Name: Irisin
+Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
+
+Package: wiki.qaq.irisin
+Version: 4.5.7
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
+Installed-Size: 18188
+Depends: firmware (>= 16.0)
+Filename: debs/wiki.qaq.irisin_4.5.7_iphoneos-arm64.deb
+Size: 5454420
+MD5sum: 3697ce8f10825793f24d66e557d097ec
+SHA1: a1cedf03b9097f8674794d5eae31dd1cea2bd1c7
+SHA256: 7f18e87c4e184b6e0a5067d9237ee2aa32706c409487690f1ddffe2bb6439b63
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
