@@ -9490,6 +9490,21 @@ Description: 去除百度网盘开屏广告，并为本地下载文件添加导�
 Author: wkk
 Name: 百度网盘
 
+Package: com.wkk.cwzadfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.cwzadfree_1.0_iphoneos-arm64.deb
+Size: 6218
+MD5sum: 05331781d0a2d9fd7bbd38a3e737b376
+SHA1: e2e1b6be89ba00659749c2258631849b4f3d79f0
+SHA256: 1ca580a5bd71ca0129b80045ee7cf6baf933f8eb5504480503b8a90b3d008feb
+Section: Tweaks
+Description: 车旺大卡(cn.com.trafficguide.hyggpt)去广告 - 会员豁免开屏/热启动广告,截杀弹窗广告与插屏广告
+Author: wkk
+Name: 车旺大卡去广告
+
 Package: com.wkk.dqnoad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9505,6 +9520,52 @@ Section: Tweaks
 Description: 去除懂球帝开屏、信息流、详情页等广告
 Author: wkk
 Name: 懂球帝去广告
+
+Package: com.wkk.fanqiemusicadfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: debs/com.wkk.fanqiemusicadfree_1.0_iphoneos-arm64.deb
+Size: 33352
+MD5sum: b43d46f96c20ec5f8524cf5a8e9ece9a
+SHA1: b39a52a733c3d7a3de15eb9d57a1a9e6b40eccc8
+SHA256: 886de0dd764a415a0cb87be545d5f9dca8f384749b01013bc3de230c7acd3187
+Section: Tweaks
+Description: 去广告
+Author: wkk
+Name: 番茄音乐去广告
+
+Package: com.wkk.fcnoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.wkk.fcnoad_1.0_iphoneos-arm64.deb
+Size: 9326
+MD5sum: 376714ef295600279fd9437eaf469d2b
+SHA1: 5235cb78d6570d61a23adcd799ca30d398d79928
+SHA256: 7f13c6053260d31c26db24d224e7ee32733cbcf17f5cd5123c00edd42fc69362
+Section: Tweaks
+Description: 去除丰巢开屏广告与 App 内弹窗广告（首页 DSP 弹窗、收银台弹窗、生活服务首页弹窗、UBiMAX/WindMill 聚合插屏开屏）
+Author: wkk
+Name: 丰巢去广告
+
+Package: com.wkk.fetc-etc-adfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.fetc-etc-adfree_1.0_iphoneos-arm64.deb
+Size: 5866
+MD5sum: dadbd51703e61297f67018713d950fab
+SHA1: f6b7e5b57e7b814250c86cbb71a2d2bd4154ac88
+SHA256: 8a8952aaaa5f27e655e8e9184814a7cd781a1d220ea392eb99765fa7d600f9b7
+Description: 移除遠通電收ETC（com.FarEasternElectronic.ETC）底部轮播广告
+Author: wkk
+Name: 遠通電收ETC去广告
 
 Package: com.wkk.glassalertx
 Version: 1.0-1
@@ -9569,6 +9630,21 @@ Description: 去除雷速体育开屏、Banner、信息流、插屏等广告
 Author: wkk
 Name: 雷速体育去广告
 
+Package: com.wkk.lingjia-adblock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Filename: debs/com.wkk.lingjia-adblock_1.0_iphoneos-arm64.deb
+Size: 3524
+MD5sum: 05ed0955eb160fe7d52f1d063b5d2c06
+SHA1: c69d035fa0e699ac484fc38edea51a1b8f87dc8c
+SHA256: 6f638f3ea65f51712f3f6de1afe4b1ad7035d9ed8379ec83ca3f8dee873118da
+Section: Tweaks
+Description: 去除领+开屏广告
+Author: wkk
+Name: 领+去广告
+
 Package: com.wkk.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
@@ -9601,6 +9677,21 @@ Section: Tweaks
 Description: 去除马克水印相机开屏广告及应用内广告
 Author: wkk
 Name: 马克水印相机去广告
+
+Package: com.wkk.meiyouadremove
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.meiyouadremove_1.0_iphoneos-arm64.deb
+Size: 6946
+MD5sum: 8b98adcb9934029259ff483ad400a075
+SHA1: 374ab240de10f647f6941be649342aa84e8ddaf2
+SHA256: 8fdeaf869dc89824000b313be541af43a1a3caecedc14da97af1e2142d9732a1
+Description: 去广告
+Author: wkk
+Name: 美柚去广告
 
 Package: com.wkk.mjhook
 Version: 1.0-2
@@ -9635,6 +9726,37 @@ Description: 去除网易云音乐开屏广告、评论区广告，并自动领�
 Author: wkk
 Name: 网易云音乐去广告
 
+Package: com.wkk.piyologdead
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 136
+Depends: firmware (>= 15.0)
+Filename: debs/com.wkk.piyologdead_1.0_iphoneos-arm64.deb
+Size: 3652
+MD5sum: 3eaebf3adcc73674eee41990686808ee
+SHA1: 0af29985c9125db326cc96fd28b67d2141981d38
+SHA256: 5130415c9ed3b666487527dce3c8b5165909981d823420380d0c258b64b236c5
+Description: Piyo日志 (jp.co.sakabou.piyolog) 开屏广告与应用内广告去除
+Author: wkk
+Name: Piyo日志去广告
+
+Package: com.wkk.qdreaderadblock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: debs/com.wkk.qdreaderadblock_1.0_iphoneos-arm64.deb
+Size: 18590
+MD5sum: 50b841dda0d08c7279f64f34d4d4c5bd
+SHA1: bbdc8fdee9e57984205c95a7ee54efa7b762029b
+SHA256: 3789efd554f4ba22cb429c226f1c991f285039b419d2c9fc3f558c9ec15a1a5e
+Section: Tweaks
+Description: 去广告
+Author: wkk
+Name: 起点读书去广告
+
 Package: com.wkk.recordeyex
 Version: 1.0-3
 Architecture: iphoneos-arm64
@@ -9666,6 +9788,20 @@ Section: Tweaks
 Description: 自定义快捷录屏的灵动岛录制指示点。
 Author: wkk
 Name: RecordEyeX
+
+Package: com.wkk.speedcamera-adfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.speedcamera-adfree_1.0_iphoneos-arm64.deb
+Size: 4216
+MD5sum: 335ef843b77d6c93eb1a0909327e3d3f
+SHA1: cccc77344c5e55f461de341d1deccc0a788f0f27
+SHA256: 6a9d3b104f93361d4b661673886ecf4ed8b612f0f4e63c31f332da3c8de0b159
+Description: 移除測速照相（tw.com.ainvest.outpack）底部 AdMob Banner 广告
+Author: wkk
+Name: 測速照相去广告
 
 Package: com.wkk.tallynoad
 Version: 1.0
@@ -9716,6 +9852,37 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
+Package: com.wkk.wearfitprodead
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 136
+Depends: firmware (>= 15.0)
+Filename: debs/com.wkk.wearfitprodead_1.0_iphoneos-arm64.deb
+Size: 4302
+MD5sum: 5bf93c8d58e73a1610c5474b260432d0
+SHA1: a32c3e927bedb5b766fa1198fc807551de330998
+SHA256: 7a7c1d24b14ca8c68a1ed4c3e1bd9fdcb115ef163d11aae88a52d1ed850ab822
+Description: Wearfit Pro (com.wakeup.wearfitProCN) 开屏广告与应用内广告去除
+Author: wkk
+Name: WearfitPro去广告
+
+Package: com.wkk.weifengadblock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.weifengadblock_1.0_iphoneos-arm64.deb
+Size: 8230
+MD5sum: 66978a6030cd60fb46c5d3eca99f5052
+SHA1: fecac37cc95113cfe9c11b202a87deed1e85d16c
+SHA256: d39d2084c28f1a27b7a94d7da44bee51f89816f2bb4e2b3715e705df4f922e79
+Section: Tweaks
+Description: 去除威锋 App 的开屏、信息流、插屏及横幅广告
+Author: wkk
+Name: 威锋去广告
+
 Package: com.wkk.xianyuad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9731,6 +9898,21 @@ Section: Tweaks
 Description: 仅移除闲鱼开屏广告
 Author: wkk
 Name: 闲鱼去开屏广告
+
+Package: com.wkk.yupaoadfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.wkk.yupaoadfree_1.0_iphoneos-arm64.deb
+Size: 8552
+MD5sum: 9450ef6d5af3cc1c3d313773e212ff5a
+SHA1: c2f4adc190f31cdad4028e01942c007c5410f573
+SHA256: b5890d53d0ad3b7ce8f1f1487172d90cc2f860e13f513b8105b0e7bc4b5d5417
+Section: Tweaks
+Description: 鱼泡直聘(com.tuqiao.easyjob)去广告 - 移除开屏广告与浏览职位时的插屏广告
+Author: wkk
+Name: 鱼泡直聘去广告
 
 Package: com.wkk.zhibo8noad
 Version: 1.0
