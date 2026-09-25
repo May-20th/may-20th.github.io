@@ -11570,6 +11570,32 @@ Icon: https://owngoal-dev.github.io/Fila/icon.png
 Name: Fila
 Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
 
+Package: wiki.qaq.fila
+Version: 0.6.4
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 93764
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.6.4_iphoneos-arm64.deb
+Size: 23269536
+MD5sum: 7b81aa941f9dce459c8b5d5a4d87693f
+SHA1: c517a6b7e28b7414ece2f75398414af7232a8bf2
+SHA256: 5fcc8df7bccf43050ecf76be34f33e86b3b24482e672dbaf3bc977e9f86bf29a
+Section: Tweaks
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Fila/
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
+
 Package: wiki.qaq.ighostvt
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -11765,6 +11791,30 @@ Size: 9058400
 MD5sum: 8457264d350f9f7cc632f5a7e42db79a
 SHA1: 710d0c66531bb859ac69018833c9966c18fa64d5
 SHA256: 7139300f88bbf98eddd1105a1d85d5d8a88c1198ae25cc9a5c961d1d9a239dde
+Section: Tweaks
+Priority: optional
+Description: Ghostty-powered terminal for iOS and visionOS
+ A real terminal on your device, drawn by the same engine as Ghostty on the
+ desktop. Your shell keeps running in the background, so a build you started
+ is still going when you switch apps and still there when you come back.
+ Runs on iPhone, iPad and Apple Vision Pro.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/iGhostVT/
+Icon: https://owngoal-dev.github.io/iGhostVT/icon.png
+Name: iGhostVT
+Sileodepiction: https://owngoal-dev.github.io/iGhostVT/depiction.json
+
+Package: wiki.qaq.ighostvt
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 19496
+Depends: firmware (>= 15.0), uikittools, launchctl, shell-cmds
+Filename: debs/wiki.qaq.ighostvt_1.0.3_iphoneos-arm64.deb
+Size: 9084920
+MD5sum: f7f51e2b4140a4719fb702dd119e4a9e
+SHA1: fff21e323cd70765d37f84e206c593dc6fc8acde
+SHA256: 244972400cbc80412f8243ec54b3c5fb1bde1e29fd06d53e599a659f4d94e11a
 Section: Tweaks
 Priority: optional
 Description: Ghostty-powered terminal for iOS and visionOS
@@ -12029,6 +12079,35 @@ Icon: https://owngoal-dev.github.io/Inspector/icon.png
 Name: Inspector
 Sileodepiction: https://owngoal-dev.github.io/Inspector/depiction.json
 
+Package: wiki.qaq.inspector
+Version: 0.6.1
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 20736
+Depends: firmware (>= 13.0), uikittools, launchctl
+Filename: debs/wiki.qaq.inspector_0.6.1_iphoneos-arm64.deb
+Size: 6987512
+MD5sum: 8ead605c131cafcbd9ae4947b2fcf894
+SHA1: 61dfa8644f8c141c32f321f90ce79d46d1ad7486
+SHA256: e9243eb408672fa7c3c43674ce783f0941b1a2333bc21bf95b3e04251b8d9f67
+Section: Tweaks
+Priority: optional
+Description: Live process inspector for rootless jailbreaks
+ See what your device is actually doing. Every running process, refreshed once a
+ second, with its CPU share, memory, thread count and owner. Search by name or
+ PID, sort by any column, filter down to system, user or app processes, and
+ pause the list to hold a moment still. Open a process for its threads, open
+ files and sockets, Mach ports, loaded modules, sandbox status and disk and
+ network use, then quit it, force quit it, or export the whole report. The
+ `inspector` command answers the same questions from a terminal. Available
+ in English, Simplified Chinese, Japanese, Russian, German, French, Spanish and
+ Arabic.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Inspector/
+Icon: https://owngoal-dev.github.io/Inspector/icon.png
+Name: Inspector
+Sileodepiction: https://owngoal-dev.github.io/Inspector/depiction.json
+
 Package: wiki.qaq.irisin
 Version: 4.4.0
 Architecture: iphoneos-arm64
@@ -12144,6 +12223,32 @@ Size: 5507060
 MD5sum: 0e4301fae0f51054e49c0be8712f7d00
 SHA1: 112c8886f37a97e57fa6212534dce552586309a6
 SHA256: f794254bb6f369ac40de1f889a7e974cdcb27c0f2230e7fa71fd1263f943593d
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/Lakr233/Irisin
+Description: Modern package manager for rootless custom firmware
+ Browse your repositories, install and remove packages, keep tweaks updated
+ and read every depiction, on iPhone and iPad. The app runs without root;
+ installs go through a small on-demand root daemon whose helper installs
+ packages natively and registers apps with LaunchServices itself. No dpkg,
+ no uicache.
+Author: OwnGoal Studio <no-reply@owngoal.dev>
+Depiction: https://lakr233.github.io/Irisin/
+Icon: https://lakr233.github.io/Irisin/icon.png
+Name: Irisin
+Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
+
+Package: wiki.qaq.irisin
+Version: 4.5.11
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
+Installed-Size: 18288
+Depends: firmware (>= 16.0)
+Filename: debs/wiki.qaq.irisin_4.5.11_iphoneos-arm64.deb
+Size: 5507240
+MD5sum: c90f86ed744063c3bd689eede1726419
+SHA1: 470cd5668135191f3a49b84448198eb9223a1c37
+SHA256: 81c9b0b7419582a317651b2c7952e0560420f6c630d40837682abb7c127e5be9
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
