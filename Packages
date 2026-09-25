@@ -2352,6 +2352,22 @@ Description: 轻量后台守护插件，支持多种运行方式与任务角色�
 Author: crctdd
 Name: StayAlive Lite
 
+Package: com.crctdd.stayalivelite
+Version: 0.2.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1040
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.2.5_iphoneos-arm64.deb
+Size: 116384
+MD5sum: 3a49f0fa57d7061df38b461a83bc6967
+SHA1: ac65f1f064c0c77b6c6082b0863f1b9a146aa1bf
+SHA256: f0157a76a6ccbec7c1e5258fd97110ab1d6bdb8f981ec0a939d17ca462f47e9b
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
 Package: com.dada.hidedoubaopip
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -12215,6 +12231,32 @@ Size: 5454420
 MD5sum: 3697ce8f10825793f24d66e557d097ec
 SHA1: a1cedf03b9097f8674794d5eae31dd1cea2bd1c7
 SHA256: 7f18e87c4e184b6e0a5067d9237ee2aa32706c409487690f1ddffe2bb6439b63
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/Lakr233/Irisin
+Description: Modern package manager for rootless custom firmware
+ Browse your repositories, install and remove packages, keep tweaks updated
+ and read every depiction, on iPhone and iPad. The app runs without root;
+ installs go through a small on-demand root daemon whose helper installs
+ packages natively and registers apps with LaunchServices itself. No dpkg,
+ no uicache.
+Author: OwnGoal Studio <no-reply@owngoal.dev>
+Depiction: https://lakr233.github.io/Irisin/
+Icon: https://lakr233.github.io/Irisin/icon.png
+Name: Irisin
+Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
+
+Package: wiki.qaq.irisin
+Version: 4.5.8
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
+Installed-Size: 18200
+Depends: firmware (>= 16.0)
+Filename: debs/wiki.qaq.irisin_4.5.8_iphoneos-arm64.deb
+Size: 5458580
+MD5sum: 29c418c5f537dd779fbb574da8ff1889
+SHA1: 25ae6b92c3a1c0e41d32da000e4d366a2a8feea1
+SHA256: 9b873b0356f456ed404c9389d2d5ffc10ea9319e49227c7b95458cd99ce02d58
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
