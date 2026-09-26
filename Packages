@@ -3681,22 +3681,6 @@ Author: iosdump
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 
-Package: com.iosdump.appmute
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: iosdump
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: debs/iosdump.AppMute_0.0.1-arm64.deb
-Size: 11662
-MD5sum: fd12cb6ed8e64c8d4a742a7baa3ed5d7
-SHA1: 902e6316a9fa3dabd104bdbcc051fc0e8c39fbd2
-SHA256: a1ccf6cadb1c1b612693038cb708cdacba217168d72bc3e15a26d79baab87d93
-Section: Tweaks
-Description: 支持iOS14-17桌面长按图标快捷开启启动应用自动静音媒体音量开关。
-Author: iosdump
-Name: AppMute
-
 Package: com.iosdump.customcallbg
 Version: 0.0.1
 Architecture: iphoneos-arm64
