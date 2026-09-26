@@ -10949,30 +10949,6 @@ Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
 Package: wiki.qaq.fila
-Version: 0.5.6
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 93432
-Depends: firmware (>= 15.0), uikittools, launchctl
-Filename: debs/wiki.qaq.fila_0.5.6_iphoneos-arm64.deb
-Size: 23209986
-MD5sum: 0caa15b69678813cd6d53779c3266407
-SHA1: 3356e21d87d7363d62ee4e747c4d12ae178496e8
-SHA256: cc2af93e671d342b33787e22a4e601a634a1b1e25177fa972a56ba03cc3125da
-Section: Tweaks
-Priority: optional
-Description: Root file manager for rootless bootstraps
- Browse and edit every file on your device, not just the ones an app is allowed
- to see. Copy, move and rename with progress you can cancel, create and unpack
- zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
- preview images and video, open a terminal, and share a folder to your computer
- over WebDAV. Deleted files go to a trash you can restore from, and the files
- your device needs in order to boot cannot be deleted by mistake.
-Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Icon: https://owngoal-dev.github.io/Fila/icon.png
-Name: Fila
-
-Package: wiki.qaq.fila
 Version: 0.6.4
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
