@@ -210,22 +210,6 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
 Name: Hello App
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
-Package: com.34306.duobar
-Version: 1.1.6
-Architecture: iphoneos-arm64
-Maintainer: Little 34306
-Installed-Size: 388
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.34306.duobar_1.1.6_iphoneos-arm64.deb
-Size: 23636
-MD5sum: 7da5a4a386d9ab46bc0066bcefcde675
-SHA1: 5ace7219eb8a4c2b10fd941caa185d990d147e71
-SHA256: 3b00d3a76e940a8c37ffe88f812e813af2c049cc884ed277f12472d65ec91ee1
-Section: Tweaks
-Description: Combined iPhone Duo-style status bar indicator (Wi-Fi + Cellular + Battery in one circle)
-Author: 34306
-Name: DuoBar
-
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -5533,23 +5517,6 @@ Author: MTAC
 Icon: https://axs66.github.io/repo/icon/vitreux.png
 Name: Vitreux 液态玻璃
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/vitreux/js.json
-
-Package: com.muirey03.cr4shed
-Version: 4.3.2
-Architecture: iphoneos-arm64
-Maintainer: Muirey03
-Installed-Size: 2488
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
-Filename: debs/susu.Cr4shed_4.3.2-arm64.deb
-Size: 228780
-MD5sum: 30cff024e7e1abc9b424aa7c5f4d4209
-SHA1: 9014f4ee066a9d64238f39a796221f7e9eefb445
-SHA256: 32915f874a32cba8941a9da78f1dc184d106ee255d9a05055effc3bf92b5bcfe
-Section: Tweaks
-Description: 系统崩溃报告器
-Author: Muirey03
-Icon: https://www.susubaby.top/images/cr4shed.png
-Name: Cr4shed
 
 Package: com.necromancy.tweak
 Version: 1.2.6
