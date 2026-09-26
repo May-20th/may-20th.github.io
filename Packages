@@ -9860,6 +9860,22 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
+Package: com.wkk.weiboadfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 260
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.weiboadfree_1.0_iphoneos-arm64.deb
+Size: 28394
+MD5sum: 65d63c66ed87710b2f3a5d7475e93e49
+SHA1: 33ef374428e5991b1ded947e0cc8276eea748bd8
+SHA256: bd32dbcc409f06709d0855174cb638e756c0fe347414e21935ec4a5e9e116bc5
+Section: Tweaks
+Description: 去广告
+Author: wkk
+Name: 微博去广告
+
 Package: com.wkk.weifengadblock
 Version: 1.0
 Architecture: iphoneos-arm64
