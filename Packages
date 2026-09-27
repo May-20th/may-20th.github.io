@@ -1407,38 +1407,6 @@ Author: 冰蓝
 Name: 全局水印Pro
 
 Package: com.ceshi
-Version: 2.7
-Architecture: iphoneos-arm64
-Maintainer: hang
-Installed-Size: 584
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/hang.气泡阴影_2.7-arm64.deb
-Size: 108864
-MD5sum: 5d865ad6a055642f895cd4d435dded49
-SHA1: c108ef34f600f7369dff2ac4135b721108166e7f
-SHA256: f46ff93b866a84b45778cbc5abdf1f807443f6b804846588570a586fdec2d937
-Section: Tweaks
-Description: 微信
-Author: hang
-Name: 气泡阴影
-
-Package: com.ceshi
-Version: 2.9
-Architecture: iphoneos-arm64
-Maintainer: hang
-Installed-Size: 584
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/hang.气泡阴影_2.9-arm64.deb
-Size: 111006
-MD5sum: b2d1ac501745709ec007c4d4bf51d8b1
-SHA1: c920ce40468b0219c8846c5ccea220749898bc15
-SHA256: 487b8b39711f0581fe45b0f1670e8ab0b2893df8854bc4d88168025d7cbefec9
-Section: Tweaks
-Description: 微信
-Author: hang
-Name: 气泡阴影
-
-Package: com.ceshi
 Version: 2.9
 Architecture: iphoneos-arm64
 Maintainer: hang
@@ -2405,26 +2373,6 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
-Package: com.dylv.liquidglass
-Version: 0.1.2.1
-Architecture: iphoneos-arm64
-Maintainer: dylv
-Installed-Size: 4848
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Conflicts: com.iosdump.customccbg
-Replaces: com.iosdump.customccbg
-Provides: com.iosdump.customccbg
-Filename: debs/com.dylv.liquidglass_0.1.2.1_iphoneos-arm64.deb
-Size: 1660034
-MD5sum: da9a0ad598264861753639307d23fb89
-SHA1: f7f9e0ddd2fcf0fbe23b5172b189ab84893bebd8
-SHA256: ca2f3d9ad536d0f71decc347414986ec29d04970d1d36e7ca5115d21f17cc271
-Section: Tweaks
-Description: 液态玻璃体玻璃，基于LiquidAss项目修改
-Author: dylv
-Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
-Name: 液态玻璃
-
 Package: com.example.wifileasekeeper
 Version: 1.0.10
 Architecture: iphoneos-arm64
@@ -2492,86 +2440,6 @@ Description: 计算器获得历史记录!
 Author: fiore
 Icon: https://www.susubaby.top/images/jisuanqi.png
 Name: CalculatorHistory
-
-Package: com.hang.bdwp
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 航
-Installed-Size: 108
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.hang.bdwp_1.0.1_iphoneos-arm64.deb
-Size: 15316
-MD5sum: 2a619e62663cf992e544c96adebe982d
-SHA1: 6faa2bfeddc7cd814f63dcee1aecfd1514d597d2
-SHA256: faa2f61c1183edd6654132b0a483ac0699d1f72614dd6d04d03b170da80a658d
-Section: Tweaks
-Description: 最新版本测试
-Author: 航
-Name: 航の百度网盘去广告
-
-Package: com.hang.biaoqingg
-Version: 0.0.1-48+debug
-Architecture: iphoneos-arm64
-Maintainer: hang
-Installed-Size: 108
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/hang.表情自定义_0.0.1-48-arm64.deb
-Size: 18570
-MD5sum: 8a13793a6c54e6d501d57771edb4ff3b
-SHA1: 4ebad97ed1f582dfb782d9a20f1e72cdd19be55a
-SHA256: 9b7e7324225b063aa06cb3b632376fdacf3853aa35e861b1c48872193cdf4e06
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: hang
-Name: 航の表情自定义
-
-Package: com.hang.cmccad
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 航
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.hang.cmccad_1.0_iphoneos-arm64.deb
-Size: 8130
-MD5sum: fe8a8d6f04488d79f4cfa7df1fd08ad9
-SHA1: 8818c8e82dc34b814f535098b4030891ac99b71b
-SHA256: 2f62dc5d82c98e6cebee6e75b08692edca100c56ff2d9bd771fa572a909b4f2c
-Section: Tweaks
-Description: 测试版本；12.5.2
-Author: 航
-Name: 航の中国移动去广告
-
-Package: com.hang.jxedtad
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 航
-Installed-Size: 92
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.hang.jxedtad_1.0_iphoneos-arm64.deb
-Size: 12228
-MD5sum: f8a44ea5bd879fb39c7ccb2c4b20e109
-SHA1: c587c5b88622ca3f5fd3bc67bc2d8f3fb5c8d3c0
-SHA256: 131d763963df02145f351987a0fd6c24b486b883733ea26a05940f67e488ba3c
-Section: Tweaks
-Description: 测试版本；18.6.1
-Author: 航
-Name: 航の驾校一点通去广告
-
-Package: com.hang.qqzaixian
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 航
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.hang.qqzaixian_1.0_iphoneos-arm64.deb
-Size: 28938
-MD5sum: 4a0421fec2e88f9eb52c88318a16f355
-SHA1: d6df28fd78560802b533f5765138763132397f0c
-SHA256: 5846e3f47b5ecdda0262f6c97ec143473406ea4367810dc44bb193faf3de89ec
-Section: Tweaks
-Description: QQ在线模拟，18系列需要正式上线才生效，双指捏合。
-Author: 航
-Name: QQ设备模拟
 
 Package: com.hang.zzzj
 Version: 0.0.1-8+debug
@@ -4781,22 +4649,6 @@ Section: Tweaks
 Description: 夜辰私人定制 i!
 Author: liuf <1602389262>
 Name: 音乐播放器发光效果
-
-Package: com.liuf.zfk
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: liuf <1602389262>
-Installed-Size: 364
-Depends: mobilesubstrate
-Filename: debs/liuf.主副卡_1.0.0-arm64.deb
-Size: 15520
-MD5sum: e478e99303e56ca5d68625af930f488e
-SHA1: 4c9b41af25166e83be80dbee0a793088e6733f94
-SHA256: c551698076c3a145da934a0842d472e757cc6de0794123918b83be1df4f08ad4
-Section: Tweaks
-Description: 将控制中心主副卡显示为自己喜欢的图片 可自定义 有设置项可自定义高低上下!
-Author: liuf <1602389262>
-Name: Liuf's 主副卡
 
 Package: com.llld.wechatplus
 Version: 0.1.0
@@ -10585,26 +10437,6 @@ Section: Tweaks
 Description: 空间场景锁屏壁纸，由 SpatialScene App 导入、预览与管理。 / Spatial lock-screen scenes imported, previewed, and managed by the SpatialScene app.
 Author: banana
 Name: SpatialScene
-
-Package: iya.iapple.liquidass
-Version: 0.1.1b+banana33
-Architecture: iphoneos-arm64
-Maintainer: dylv & banana
-Installed-Size: 8720
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
-Conflicts: dylv.liquidass, dylv.liquidass.zh-hans
-Replaces: dylv.liquidass, dylv.liquidass.zh-hans
-Provides: dylv.liquidass
-Filename: debs/iya.iapple.liquidass_0.1.1b+banana33_iphoneos-arm64.deb
-Size: 3736192
-MD5sum: 40824995690cfc5b05a9d34e2dd467ea
-SHA1: 1b44382245718bfb938cde7e2cf5f1c5dfcbe38e
-SHA256: 7e990eec015313cddaa06b04257969d4a73b88a1167fe6dd2d95be62aaf39054
-Section: Tweaks
-Description: next level diarrhea
-Author: dylv & banana
-Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
-Name: Liquid (Gl)ass
 
 Package: iya.iapple.siri
 Version: 1.1.3
