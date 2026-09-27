@@ -5310,22 +5310,6 @@ Description: 七猫小说去广告
 Author: M哥
 Name: QMFree
 
-Package: com.mikifp.griddy
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: mikifp
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: debs/com.mikifp.griddy_1.0_iphoneos-arm64.deb
-Size: 16284
-MD5sum: 5fcbe8fa1a0cf7b5e7200945c4bd826a
-SHA1: a6217f73e4e4023127dbd58a0c1e25ffbac46e1f
-SHA256: 9bb07eee61dfbd2a1afc9afa8abc568722bc7fc5093bbece8b85267d9082d34f
-Section: Tweaks
-Description: Make your icons hit the griddy
-Author: mikifp
-Name: Griddy
-
 Package: com.mtac.vitreux
 Version: 1.4
 Architecture: iphoneos-arm64
