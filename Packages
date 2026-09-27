@@ -5286,22 +5286,6 @@ Author: newbie and Codex
 Name: iOSCopy
 
 Package: com.ngkhoi.26cam-legacy
-Version: 0.0.2-beta
-Architecture: iphoneos-arm64
-Maintainer: ngkhoi
-Installed-Size: 808
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.ngkhoi.26cam-legacy_0.0.2-beta_iphoneos-arm64.deb
-Size: 122312
-MD5sum: 0d765069fd3327c95f90059f2afdb1fd
-SHA1: 24affcbf84e06694749f6f079c8fef1af9a8e26e
-SHA256: d2b02762491e06c97bd5eb873ed17198f7dfc9ad7896a81db96a11ad8df19959
-Section: Tweaks
-Description: iOS 26 camera style tweak (requires dylv's liquidass for Liquid Glass), currently supports devices between iPhone X and iPhone SE 1st Gen (Rootless).
-Author: ngkhoi
-Name: 26Cam (Legacy)
-
-Package: com.ngkhoi.26cam-legacy
 Version: 0.0.3-beta
 Architecture: iphoneos-arm64
 Maintainer: ngkhoi
