@@ -3497,22 +3497,6 @@ Description: A modern clipboard history manager for iOS with pasted crash fixes 
 Author: newbie and Codex
 Name: iOSCopy
 
-Package: com.ngkhoi.26cam-legacy
-Version: 0.0.3-beta
-Architecture: iphoneos-arm64
-Maintainer: ngkhoi
-Installed-Size: 520
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.ngkhoi.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
-Size: 81428
-MD5sum: dc2b3a3fdb1c07cf3bf763c48264d542
-SHA1: abd5cfde51ad7fd79d0a001bca2aa668320be145
-SHA256: d216b0b4dfb4ab8153ade31e4a87b71809136841ebde65ff26defa685785ec62
-Section: Tweaks
-Description: iOS 26 camera style tweak (requires dylv's liquidass for Liquid Glass), currently supports devices between iPhone X and iPhone SE 1st Gen (Rootless).
-Author: ngkhoi
-Name: 26Cam (Legacy)
-
 Package: com.niceios.mrshi-rootless
 Version: 1.0.0.2-235
 Architecture: iphoneos-arm64
