@@ -144,22 +144,6 @@ Description: Pair your Apple Watch on a newer watchOS than this iOS supports
 Author: 34306
 Name: watched
 
-Package: com.82flex.removewidgetbg
-Version: 1.6
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 436
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: debs/com.82flex.removewidgetbg_1.6_iphoneos-arm64.deb
-Size: 30054
-MD5sum: 9635f8dd938958a3b11c7e39cd69f773
-SHA1: b118e41a656cc453b22d65cdbccbd7c14d4442b7
-SHA256: b5e06a669e6c90929fb270d00f74b29c195a32128295cd3282d3a5ae14bc1a2e
-Section: Tweaks
-Description: Remove the background of the widgets on the home screen.
-Author: Lessica <82flex@gmail.com>
-Name: Remove Widget Background
-
 Package: com.Axs.classickeyboardxs
 Version: 1.1-9
 Architecture: iphoneos-arm64
