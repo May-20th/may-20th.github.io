@@ -128,24 +128,6 @@ Description: MobileNotes memo feature controls: disable URL navigation and auto-
 Author: 来了老弟 X：h_h_x_t
 Name: 备忘录增强
 
-Package: cn.zqbb.disupdateapp
-Version: 2.0.0-6
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 692
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/cn.zqbb.disupdateapp_2.0.0-6_iphoneos-arm64.deb
-Size: 129654
-MD5sum: c75257b62eaea463a9ca9444e21c25ba
-SHA1: b37330e105bd3e812b5cd143c02d49d8ea55e464
-SHA256: acb6b6f4f96c61f9c061aca4cc4728211ecbfed74038c2167cc717aa335e6859
-Section: Tweaks
-Description: 屏蔽App Store更新提示(Block App Store Updates)!
-Author: zqbb
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
-Name: Hello App
-Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
-
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -10059,23 +10041,6 @@ Description: 12306 去广告 (适配隐根 RootHide)
 Author: yourname
 Name: 12306NoAd
 
-Package: com.zqbb.savephotos
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: debs/com.zqbb.savephotos_1.1_iphoneos-arm64.deb
-Size: 4424
-MD5sum: e4683961afaae9dc20e4522e1353b441
-SHA1: 31a49568a84e3318f8f4ccf73e85e4ad3caa03f6
-SHA256: 82d9daaf5ec6e593ac484f52fd1213592422a9f3115017d24198ad5ac9ee2c07
-Section: Tweaks
-Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
-Author: zqbb
-Name: Hello Snapper
-Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
-
 Package: com.zuner.lunajumpad
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -10560,128 +10525,6 @@ Section: Tweaks
 Description: 模块入口位于QQ内设置: NTQQ_AntiRecall
 Author: 𝙓
 Name: NTQQ_AntiRecall
-
-Package: ru.domo.cocoatop64
-Version: 2.2.4
-Architecture: iphoneos-arm64
-Maintainer: Hitori
-Depends: firmware (>= 15.0)
-Conflicts: ru.domo.cocoatop
-Filename: debs/susu.CocoaTop64_2.2.4-arm64.deb
-Size: 233692
-MD5sum: 99ba4b51409b28ea5c1e503b7f56412d
-SHA1: e8361ac1642b7b31b26da8ec5b9e6ac1bc5a2afb
-SHA256: 27303534ce790f1e417dfd1c5951b413f656e90a2aaa5eecfe4763c4773d8ad8
-Section: Tweaks
-Description: Process Viewer for iOS
-Author: Domo <domo@rambler.ru>
-Icon: https://www.susubaby.top/images/CocoaTop.png
-Name: CocoaTop64
-Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
-
-Package: wiki.qaq.fila
-Version: 0.6.4
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 93764
-Depends: firmware (>= 15.0), uikittools, launchctl
-Filename: debs/wiki.qaq.fila_0.6.4_iphoneos-arm64.deb
-Size: 23269536
-MD5sum: 7b81aa941f9dce459c8b5d5a4d87693f
-SHA1: c517a6b7e28b7414ece2f75398414af7232a8bf2
-SHA256: 5fcc8df7bccf43050ecf76be34f33e86b3b24482e672dbaf3bc977e9f86bf29a
-Section: Tweaks
-Priority: optional
-Description: Root file manager for rootless bootstraps
- Browse and edit every file on your device, not just the ones an app is allowed
- to see. Copy, move and rename with progress you can cancel, create and unpack
- zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
- preview images and video, open a terminal, and share a folder to your computer
- over WebDAV. Deleted files go to a trash you can restore from, and the files
- your device needs in order to boot cannot be deleted by mistake.
-Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Depiction: https://owngoal-dev.github.io/Fila/
-Icon: https://owngoal-dev.github.io/Fila/icon.png
-Name: Fila
-Sileodepiction: https://owngoal-dev.github.io/Fila/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 4.5.10
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 18288
-Depends: firmware (>= 16.0)
-Filename: debs/wiki.qaq.irisin_4.5.10_iphoneos-arm64.deb
-Size: 5507060
-MD5sum: 0e4301fae0f51054e49c0be8712f7d00
-SHA1: 112c8886f37a97e57fa6212534dce552586309a6
-SHA256: f794254bb6f369ac40de1f889a7e974cdcb27c0f2230e7fa71fd1263f943593d
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for rootless custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 4.5.11
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 18288
-Depends: firmware (>= 16.0)
-Filename: debs/wiki.qaq.irisin_4.5.11_iphoneos-arm64.deb
-Size: 5507240
-MD5sum: c90f86ed744063c3bd689eede1726419
-SHA1: 470cd5668135191f3a49b84448198eb9223a1c37
-SHA256: 81c9b0b7419582a317651b2c7952e0560420f6c630d40837682abb7c127e5be9
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for rootless custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 4.5.3
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 18024
-Depends: firmware (>= 16.0)
-Filename: debs/wiki.qaq.irisin_4.5.3_iphoneos-arm64.deb
-Size: 5399996
-MD5sum: c17b60b89d42df01a708e7838f39e6e1
-SHA1: 57e91176e8a307266270aba6042e2fad662de7fc
-SHA256: f034abaccefb2cea74c35806ed009bda68b2529e8fd9c89ee67abe141174b02a
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for rootless custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
 
 Package: wiki.qaq.irisin
 Version: 4.5.8
