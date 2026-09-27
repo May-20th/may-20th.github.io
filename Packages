@@ -1131,22 +1131,6 @@ Description: 隐藏原生键盘部分毛玻璃
 Author: Charlie Leung
 Name: KeyboardEffectHider
 
-Package: com.charlieleung.snapvision
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Charlie Leung
-Installed-Size: 1032
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/charlieleung.snapvision_0.0.1-arm64.deb
-Size: 171368
-MD5sum: 947923af69b8f48ba2da0bfe7f1f07cf
-SHA1: cbfadb31bc3b11b4e1f0c751a36895b12c87053f
-SHA256: 702dc1a3add597fb4471f832814c313c6b7c75a7bc6d21f36be2dd6387a3933b
-Section: Tweaks
-Description: An awesome Orion tweak!
-Author: Charlie Leung
-Name: SnapVision
-
 Package: com.charlieleung.trollopenjb
 Version: 1.2.8
 Architecture: iphoneos-arm64
@@ -2454,90 +2438,6 @@ Description: WeChat enhancement tweak with customizable interface, quick actions
 Author: Iris
 Name: WeChatNeo
 
-Package: com.jontelang.snapper3plus
-Version: 4.1.19
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Replaces: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Provides: com.jontelang.snapper3, cn.llld.bioaji
-Filename: debs/com.jontelang.snapper3plus_4.1.19_iphoneos-arm64.deb
-Size: 1610012
-MD5sum: a413a78c3278147a42384e95ccc7ed92
-SHA1: b434f4bddc5c4d3e3dbccd1fbaef132a5d102f8f
-SHA256: 4f4eb2c9090f471b6816048858ce7a6d1e42cdb8511361c28d04f0d107d6f6de
-Section: Tweaks
-Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二次界面）；
- 2. 标记功能丰富，包括了画笔、文字、箭头和马赛克功能，具备实时调整颜色功能；
- 3. 对截图历史的窗口恢复到Snapper2版本的大窗口。
- 4. QQ群：1095225014
-Author: Mallin
-Name: Snapper3+
-
-Package: com.jontelang.snapper3plus
-Version: 4.1.20
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Replaces: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Provides: com.jontelang.snapper3, cn.llld.bioaji
-Filename: debs/com.jontelang.snapper3plus_4.1.20_iphoneos-arm64.deb
-Size: 1625546
-MD5sum: e902931bf0683abf6541e65150ef3518
-SHA1: 9c74e857070c928224fc9a094fd0d1ac8de2b2a6
-SHA256: 41bce3fd28505d9ec5a9c901f2c0b143a031bfbc602a0f0b2cbc48ddc7b6d3eb
-Section: Tweaks
-Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二次界面）；
- 2. 标记功能丰富，包括了画笔、文字、箭头和马赛克功能，具备实时调整颜色功能；
- 3. 对截图历史的窗口恢复到Snapper2版本的大窗口。
- 4. QQ群：1095225014
-Author: Mallin
-Name: Snapper3+
-
-Package: com.jontelang.snapper3plus
-Version: 4.1.22
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Replaces: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Provides: com.jontelang.snapper3, cn.llld.bioaji
-Filename: debs/com.jontelang.snapper3plus_4.1.22_iphoneos-arm64.deb
-Size: 1628340
-MD5sum: a9325e1e88b2e424a76bd1da78fb9b4e
-SHA1: 2da057d65923db4c17b60eb88b93c80b3a68b606
-SHA256: b8ba9da5d35ee74c4dff955f131d7cdd782603dfaad4f87239cee2e4f5efbecb
-Section: Tweaks
-Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二次界面）；
- 2. 标记功能丰富，包括了画笔、文字、箭头和马赛克功能，具备实时调整颜色功能；
- 3. 对截图历史的窗口恢复到Snapper2版本的大窗口。
- 4. QQ群：1095225014
-Author: Mallin
-Name: Snapper3+
-
-Package: com.jontelang.snapper3plus
-Version: 4.1.23
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Replaces: com.jontelang.snapper3, com.local.snapper3plus, cn.llld.bioaji
-Provides: com.jontelang.snapper3, cn.llld.bioaji
-Filename: debs/com.jontelang.snapper3plus_4.1.23_iphoneos-arm64.deb
-Size: 1632544
-MD5sum: e64c00d2ba3191eb189a1fe8a758a683
-SHA1: 9f0ef7acab16fb962a44780f4854cc751683fab6
-SHA256: a4ac4b324437fd0a2cea24740e8e99c88c733946b0f35a798653e4ef0ded412a
-Section: Tweaks
-Description: 1. 增加标记功能（原生Snapper截图界面，不会进入二次界面）；
- 2. 标记功能丰富，包括了画笔、文字、箭头和马赛克功能，具备实时调整颜色功能；
- 3. 对截图历史的窗口恢复到Snapper2版本的大窗口。
- 4. QQ群：1095225014
-Author: Mallin
-Name: Snapper3+
-
 Package: com.julioverne.spotilife
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -2937,40 +2837,6 @@ Tag: role::enduser
 Author: Mallin
 Icon: https://mallinrepo.pages.dev/depictions/photonoautoalbums/icon.png
 Name: PhotoNoAutoAlbums 免费
-
-Package: com.mallin.snapper3patch
-Version: 1.1.6
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper3plus
-Filename: debs/com.mallin.snapper3patch_1.1.6_iphoneos-arm64.deb
-Size: 290370
-MD5sum: 0ce9d534258f638d1ba2a6877a811dce
-SHA1: 79dd9ebafba7a77c44c19eb47f2cf18b276b2cac
-SHA256: d1384f7d9c9db2a5732291758b547573b9419f8c19ffc6cf409e9a3ecada67e2
-Section: Tweaks
-Description: 1. 该补丁是基于Snapper3 1.2.1版本进行适配的，适配后可以达到与Snapper 3+一样的效果。
- 2. QQ群：1095225014。
-Author: Mallin
-Name: Snapper 3 Patch
-
-Package: com.mallin.snapper3patch
-Version: 1.1.7
-Architecture: iphoneos-arm64
-Maintainer: Mallin
-Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper3plus
-Filename: debs/com.mallin.snapper3patch_1.1.7_iphoneos-arm64.deb
-Size: 294336
-MD5sum: d686a0375465ebbfc8f41cfa5eb98707
-SHA1: e19c20a09bd9c5d00e37801cfae1ce6731cff69a
-SHA256: 625818f91f5a9d25b731560f8c11ff120e44137d18cb647a0179d1133f5585fd
-Section: Tweaks
-Description: 1. 该补丁是基于Snapper3 1.2.1版本进行适配的，适配后可以达到与Snapper 3+一样的效果。
- 2. QQ群：1095225014。
-Author: Mallin
-Name: Snapper 3 Patch
 
 Package: com.mallin.wechatpinnedorder
 Version: 1.6.0
