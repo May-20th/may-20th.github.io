@@ -2439,24 +2439,6 @@ Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系�
 Author: hang
 Name: 转转找鸡
 
-Package: com.huami.chatcaptureplus
-Version: 4.0
-Architecture: iphoneos-arm64
-Maintainer: huami, Mallin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
-Replaces: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
-Filename: debs/com.huami.chatcaptureplus_4.0_iphoneos-arm64.deb
-Size: 869056
-MD5sum: b3e5e5751aabd4fe4fa496bfb04b7abf
-SHA1: 82278951f872802690cf2c269c6c8d5de5a5df1e
-SHA256: e3699dbebbb943643fdaf1aa6327831046f45bdc761b31060e7d2fbf04cfa8a6
-Section: Tweaks
-Description: 一款用于聊天界面多选(长)截图自动拼接的小插件，增加时间标签与快捷截图按钮     • 支持聊天页右上角快捷截图（新）     • 支持按选择拼接截图     • 支持快捷分享给联系人     • 支持聊天背景图展示配置     • 支持隐藏群成员名字标签     • 支持选择是否显示群名、输入框     • 适配主题情况下的导航栏资源裁剪等布局     • 支持选择成员显示名类型（备注、网名、群名）  注意：此插件默认开启  触发方式如下：点击聊天页右上角截图按钮，或多选消息后点击「更多」→ 截图；齿轮图标进入设置。
-Tag: role::enduser
-Author: huami, Mallin
-Name: ChatCapture+
-
 Package: com.huami.dyyy
 Version: 2.2-9
 Architecture: iphoneos-arm64
