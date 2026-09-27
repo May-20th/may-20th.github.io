@@ -668,23 +668,6 @@ Icon: https://repo.abox.plus/api/packageinfo/com.apple.zhihu/icon.png
 Name: 知乎净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.zhihu.json
 
-Package: com.ayao.doubaopowerbutton
-Version: 0.0.6
-Architecture: iphoneos-arm64
-Maintainer: ayao
-Installed-Size: 168
-Depends: mobilesubstrate
-Replaces: com.yaofugen.doubaopowerbutton
-Filename: debs/ayao.doubaopowerbutton_0.0.6_-arm64.deb
-Size: 4894
-MD5sum: 215e4ca51e92eb8745e1eb7899089fef
-SHA1: df22d060d5025941858f68d0c65618a12195cbab
-SHA256: 0959a91c45f859f8cc104bd1a0691de84cbe9bfa0ee44397f7899e5ff286565d
-Section: Tweaks
-Description: 长按关机键触发豆包语音入口，并保留音量键加关机键的系统原始关机操作。
-Author: ayao
-Name: DoubaoPowerButton
-
 Package: com.baiy.bubblerename
 Version: 1.0.0
 Architecture: iphoneos-arm64
