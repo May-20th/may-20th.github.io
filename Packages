@@ -7752,6 +7752,22 @@ Description: 12306 去广告 (适配隐根 RootHide)
 Author: yourname
 Name: 12306NoAd
 
+Package: com.zero.123panclean.rootless
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: debs/com.zero.123panclean.rootless_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 28176
+MD5sum: 14a22fefaf1e0570463360658be01da7
+SHA1: d523a65fa01e18b051f88003bcdc6fc83312089e
+SHA256: 4be122481c0326de4e270289095f499ac76a6ff3e6d12da12a828c561ecef684
+Section: Tweaks
+Description: 123云盘去广告 + 启动加速
+Author: Zero
+Name: 123PanClean
+
 Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
