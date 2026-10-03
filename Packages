@@ -7807,14 +7807,30 @@ Maintainer: Zero
 Installed-Size: 92
 Depends: mobilesubstrate
 Filename: debs/com.zero.pddadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 12678
-MD5sum: c24ad48d02fe8d05aa63423a91d3eab5
-SHA1: 799e099e235ff6e28252471b5a5c2d2302797e42
-SHA256: 2626284fda1bcf2e0c178ca070e8080efb5727c2a0a66f61e4207056e9a3d328
+Size: 16362
+MD5sum: e7899cb365a2e69e33439f58fc693593
+SHA1: d5f01a3b78d4a2d07158a467c3db073a15aa88d8
+SHA256: 082b46e7f2c51b31dba64387f66cd2bc3c7523c3858fa8d61182219bfe816f53
 Section: Tweaks
 Description: 拼多多插件——净化底部 tab、去广告、设置面板
 Author: Zero
 Name: PDDAdBlock
+
+Package: com.zero.qdreaderadblock.rootless
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: debs/com.zero.qdreaderadblock.rootless_1.2.0_iphoneos-arm64.deb
+Size: 28690
+MD5sum: d9a0ca3a2f5d64aa4f08f6e1a035c792
+SHA1: 2d92b60da1dc1f95e1e4aa217343ba3ed04c0744
+SHA256: 9562ad17a430ea5df00d9d5771657c0a97fff3a83deacf903ea518521ee2f604
+Section: Tweaks
+Description: 起点读书净化插件
+Author: Zero
+Name: QDReaderAdBlock
 
 Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
@@ -7832,6 +7848,22 @@ Description: 淘宝清爽版（去广告 / 精简首页 / 精简底部 / 精简�
 Author: Zero
 Name: TaobaoAdBlock
 
+Package: com.zero.taobaoadblock.rootless
+Version: 3.5.3
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: debs/com.zero.taobaoadblock.rootless_3.5.3_iphoneos-arm64.deb
+Size: 20288
+MD5sum: 9f00b02cf6a846605f3f54f94d2cfb9a
+SHA1: d1a5657f3f79480cc794cfebafedd830177e2888
+SHA256: 477166e5e9a7d7070256fe023a500246cf48edd8d00426b8d3a9963354030943
+Section: Tweaks
+Description: 淘宝去广告 + 精简首页/我的页/底部
+Author: Zero
+Name: TaobaoAdBlock
+
 Package: com.zero.xianyudblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7839,10 +7871,10 @@ Maintainer: Zero
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: debs/com.zero.xianyudblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 21924
-MD5sum: 2fbfc869a34e0d0b207891509847e4cd
-SHA1: 1783a05f4acd36f320446d6a0b94832741de4805
-SHA256: 6a5fed96e4b14df5a0d4ccd9f15710d882e4be0befdcc8ff4763832fd5b459e2
+Size: 23970
+MD5sum: e2182fe2a5a0c75fc115202fd88fea24
+SHA1: 2683fdf5d0f7ee54ca801c881fd14c7949b182c8
+SHA256: 90404ba539f749350aa52d8223efb122214f2910a248a1d88bb28d0a44b74b41
 Section: Tweaks
 Description: 闲鱼去广告 / 清爽首页 / 精简我的页 / 精简底部 / 拦截开屏广告
 Author: Zero
