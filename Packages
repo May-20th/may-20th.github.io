@@ -8215,6 +8215,24 @@ Description: 自用
 Author: 𝙓
 Name: 小红薯
 
+Package: xhs.x
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 9060
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Replaces: com.xx.xhshook
+Filename: debs/xhs.x_2.0.6_iphoneos-arm64.deb
+Size: 3557072
+MD5sum: 16092f5b506cfbf7cd4882d020ff6407
+SHA1: 6158ac3a3cf0aad7f03c385a9c2d9e99bc500741
+SHA256: cad0b15bd2ad4f810bb220ac72f370733343a155761a08064b9b4bd295d5020d
+Section: Tweaks
+Description: 自用
+Author: 𝙓
+Name: 小红薯
+
 Package: xmmm.xmzs
 Version: 1.1-4C
 Architecture: iphoneos-arm64
