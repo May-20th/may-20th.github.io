@@ -7752,6 +7752,22 @@ Description: 12306 去广告 (适配隐根 RootHide)
 Author: yourname
 Name: 12306NoAd
 
+Package: com.zero.taobaoadblock.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: debs/com.zero.taobaoadblock.rootless_1.0.0_iphoneos-arm64.deb
+Size: 12454
+MD5sum: a128a72c73a0338081abe683cb14e6ad
+SHA1: b90cbbf299971c088bb1446a63cbeec406bb9b6b
+SHA256: 47dd0a0c1d6d7713087e4534cd6dca28bfb12a6b578b1b3ee7a9d909c64deae9
+Section: Tweaks
+Description: 淘宝清爽版（去广告 / 精简首页 / 精简底部 / 精简我的页面）
+Author: Zero
+Name: TaobaoAdBlock
+
 Package: com.zuner.lunajumpad
 Version: 1.4
 Architecture: iphoneos-arm64
