@@ -7768,6 +7768,38 @@ Description: 123云盘去广告 + 启动加速
 Author: Zero
 Name: 123PanClean
 
+Package: com.zero.jdadblock.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: debs/com.zero.jdadblock.rootless_1.0.0_iphoneos-arm64.deb
+Size: 18978
+MD5sum: 89fcdf878a1d1627646128cb6bc8d104
+SHA1: d78ab3e76e4945e8fa7a670049fd8d6f091c2b8b
+SHA256: cade6b8cf2865df012639e4a0732a55f0f0ec70bcd922f68ad91f1a9917c3178
+Section: Tweaks
+Description: 京东去广告/去推荐流插件
+Author: Zero
+Name: JDAdBlock
+
+Package: com.zero.pddadblock.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: debs/com.zero.pddadblock.rootless_1.0.0_iphoneos-arm64.deb
+Size: 12678
+MD5sum: c24ad48d02fe8d05aa63423a91d3eab5
+SHA1: 799e099e235ff6e28252471b5a5c2d2302797e42
+SHA256: 2626284fda1bcf2e0c178ca070e8080efb5727c2a0a66f61e4207056e9a3d328
+Section: Tweaks
+Description: 拼多多插件——净化底部 tab、去广告、设置面板
+Author: Zero
+Name: PDDAdBlock
+
 Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7783,6 +7815,22 @@ Section: Tweaks
 Description: 淘宝清爽版（去广告 / 精简首页 / 精简底部 / 精简我的页面）
 Author: Zero
 Name: TaobaoAdBlock
+
+Package: com.zero.xianyudblock.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.zero.xianyudblock.rootless_1.0.0_iphoneos-arm64.deb
+Size: 21924
+MD5sum: 2fbfc869a34e0d0b207891509847e4cd
+SHA1: 1783a05f4acd36f320446d6a0b94832741de4805
+SHA256: 6a5fed96e4b14df5a0d4ccd9f15710d882e4be0befdcc8ff4763832fd5b459e2
+Section: Tweaks
+Description: 闲鱼去广告 / 清爽首页 / 精简我的页 / 精简底部 / 拦截开屏广告
+Author: Zero
+Name: XianyuAdBlock
 
 Package: com.zuner.lunajumpad
 Version: 1.4
