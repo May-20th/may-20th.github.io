@@ -7836,15 +7836,15 @@ Package: com.zero.pddadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Zero
-Installed-Size: 92
+Installed-Size: 112
 Depends: mobilesubstrate
 Filename: debs/com.zero.pddadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 16362
-MD5sum: e7899cb365a2e69e33439f58fc693593
-SHA1: d5f01a3b78d4a2d07158a467c3db073a15aa88d8
-SHA256: 082b46e7f2c51b31dba64387f66cd2bc3c7523c3858fa8d61182219bfe816f53
+Size: 21340
+MD5sum: 813504ef70678d263b3c77cfa18faa94
+SHA1: 5e644d4f3643ece3d590e890f4435bf5d90eacb2
+SHA256: 343a22be95cb07ab406cf1f42980278b6999019cd5201df493217234e83b7aae
 Section: Tweaks
-Description: 拼多多插件——净化底部 tab、去广告、设置面板
+Description: 拼多多插件
 Author: Zero
 Name: PDDAdBlock
 
