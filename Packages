@@ -128,6 +128,22 @@ Description: MobileNotes memo feature controls: disable URL navigation and auto-
 Author: 来了老弟 X：h_h_x_t
 Name: 备忘录增强
 
+Package: cn.llld.zfbb
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/cn.llld.zfbb_1.5_iphoneos-arm64.deb
+Size: 20574
+MD5sum: d05c3f0664f52193954fbf15048d59ff
+SHA1: a25df2a8bcb5e08921f7b751171a4708689f0c82
+SHA256: 4e02f0badf1df90b88702959a0ce26fd3fed364b0a333caf1992ecfe714f96da
+Section: Tweaks
+Description: 可注入可越狱使用。自定义步数，精简主页显示内容，视频内容下载.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。250524:最好巨魔注入使用。260927:加个视频下载按钮
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
