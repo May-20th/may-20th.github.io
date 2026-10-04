@@ -7884,15 +7884,15 @@ Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Zero
-Installed-Size: 92
+Installed-Size: 112
 Depends: mobilesubstrate
 Filename: debs/com.zero.taobaoadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 12454
-MD5sum: a128a72c73a0338081abe683cb14e6ad
-SHA1: b90cbbf299971c088bb1446a63cbeec406bb9b6b
-SHA256: 47dd0a0c1d6d7713087e4534cd6dca28bfb12a6b578b1b3ee7a9d909c64deae9
+Size: 22448
+MD5sum: 592c5cdbd82e3b28addec9816522ed33
+SHA1: e85c1f773d68218aca77b6507e73dc044dd4fa97
+SHA256: 697d824e48d62b22cfb9ec63df79cbd6ee27bc4fc78abc81db7d7b2075c44573
 Section: Tweaks
-Description: 淘宝清爽版（去广告 / 精简首页 / 精简底部 / 精简我的页面）
+Description: 淘宝插件
 Author: Zero
 Name: TaobaoAdBlock
 
