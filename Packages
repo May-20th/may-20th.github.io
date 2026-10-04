@@ -7800,6 +7800,22 @@ Description: 支付宝插件 - 去广告 / 去更新 / 隐藏理财 tab
 Author: Zero
 Name: AlipayAdBlock
 
+Package: com.zero.fqxsadblock.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/com.zero.fqxsadblock.rootless_1.0.0_iphoneos-arm64.deb
+Size: 26602
+MD5sum: f713bde85f4de134329af91b774991ed
+SHA1: 26742f26b22267e3afa6df893388d5291337c161
+SHA256: 261de6a7cb40cd944b76e0c227ab2b501e3759c48939fe8545da7e81ff887bde
+Section: Tweaks
+Description: 番茄小说广告净化 + 信息流去除 + tab 精简
+Author: Zero
+Name: FQXSAdBlock
+
 Package: com.zero.jdadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
