@@ -7916,15 +7916,15 @@ Package: com.zero.xianyudblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Zero
-Installed-Size: 204
+Installed-Size: 108
 Depends: mobilesubstrate
 Filename: debs/com.zero.xianyudblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 23970
-MD5sum: e2182fe2a5a0c75fc115202fd88fea24
-SHA1: 2683fdf5d0f7ee54ca801c881fd14c7949b182c8
-SHA256: 90404ba539f749350aa52d8223efb122214f2910a248a1d88bb28d0a44b74b41
+Size: 20800
+MD5sum: fd7debeaa3580f2168913efcd3764ff7
+SHA1: c271cb1a6e233b17050b6853e2580b64c83ab01a
+SHA256: 71226a8a0686699a53d133756c014643228043a9978fb0fefd932db4ae622384
 Section: Tweaks
-Description: 闲鱼去广告 / 清爽首页 / 精简我的页 / 精简底部 / 拦截开屏广告
+Description: 闲鱼插件
 Author: Zero
 Name: XianyuAdBlock
 
