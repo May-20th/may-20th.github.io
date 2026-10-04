@@ -7864,6 +7864,22 @@ Description: 起点读书净化插件
 Author: Zero
 Name: QDReaderAdBlock
 
+Package: com.zero.qmxsadblock.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: debs/com.zero.qmxsadblock.rootless_1.0.0_iphoneos-arm64.deb
+Size: 16562
+MD5sum: c6fdf0e88dca1a37ae72c650027b7f82
+SHA1: 6100aea207e29c1eff17411fd301439e67bd0d95
+SHA256: 04ad8b92168cb48c98ba18c1767303ff19605c1efd148cd0ad7b6e80ba819b9b
+Section: Tweaks
+Description: 七猫小说去广告 + 加速启动 + 三屏蔽 + 本地VIP
+Author: Zero
+Name: QMXSAdBlock
+
 Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
