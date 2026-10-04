@@ -7820,15 +7820,15 @@ Package: com.zero.jdadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Zero
-Installed-Size: 108
+Installed-Size: 112
 Depends: mobilesubstrate
 Filename: debs/com.zero.jdadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 18978
-MD5sum: 89fcdf878a1d1627646128cb6bc8d104
-SHA1: d78ab3e76e4945e8fa7a670049fd8d6f091c2b8b
-SHA256: cade6b8cf2865df012639e4a0732a55f0f0ec70bcd922f68ad91f1a9917c3178
+Size: 22836
+MD5sum: ec2f9dc14d7dff9cf72cd756e03dabe8
+SHA1: 7435bb6ae5f15dacf21c0d4252499ee888f60389
+SHA256: fee9024a1f7dede1e056a5e7e1eded1cfe80384757f47f6cf8ee9774cade0196
 Section: Tweaks
-Description: 京东去广告/去推荐流插件
+Description: 京东插件
 Author: Zero
 Name: JDAdBlock
 
