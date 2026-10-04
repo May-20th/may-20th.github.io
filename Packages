@@ -7791,12 +7791,12 @@ Maintainer: Zero
 Installed-Size: 92
 Depends: mobilesubstrate
 Filename: debs/com.zero.alipayadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 13602
-MD5sum: 0229b7e45d871de28bb1ff77299eaf19
-SHA1: d3ca7db70390996a231600e02d94d552b2ff4a32
-SHA256: 5b82c8e5e2a565fe6085bef5cc5fcfb7cbb5e53d7302b018215ddf760013877a
+Size: 17114
+MD5sum: 34b4ae3ddfc9cbc15923281ff1ce12e3
+SHA1: 130b7f836b5d66ebbcbb29235e4d58f8dbb1a636
+SHA256: 3fa829e402b58a36a459fbbdae28fc6284cad6d6a112135d5437d51eb858d7e5
 Section: Tweaks
-Description: 支付宝插件 - 去广告 / 去更新 / 隐藏理财 tab
+Description: 支付宝插件
 Author: Zero
 Name: AlipayAdBlock
 
