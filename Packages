@@ -7823,12 +7823,12 @@ Maintainer: Zero
 Installed-Size: 92
 Depends: mobilesubstrate
 Filename: debs/com.zero.alipayadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 17114
-MD5sum: 34b4ae3ddfc9cbc15923281ff1ce12e3
-SHA1: 130b7f836b5d66ebbcbb29235e4d58f8dbb1a636
-SHA256: 3fa829e402b58a36a459fbbdae28fc6284cad6d6a112135d5437d51eb858d7e5
+Size: 17474
+MD5sum: 97362234c20c9f887fbba6afa8593070
+SHA1: 20415c29860ea213157bebec53f5e59bf9d658e1
+SHA256: cba339f39f24e1185b643937314c309df069e7663aee32d8b533ad61091b541f
 Section: Tweaks
-Description: 支付宝插件
+Description: 支付宝去广告 + 隐藏理财 tab + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: AlipayAdBlock
 
@@ -7836,15 +7836,15 @@ Package: com.zero.fqxsadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Zero
-Installed-Size: 236
+Installed-Size: 108
 Depends: mobilesubstrate
 Filename: debs/com.zero.fqxsadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 26602
-MD5sum: f713bde85f4de134329af91b774991ed
-SHA1: 26742f26b22267e3afa6df893388d5291337c161
-SHA256: 261de6a7cb40cd944b76e0c227ab2b501e3759c48939fe8545da7e81ff887bde
+Size: 19164
+MD5sum: c46dda01fa7af4f12dcae3422eb2cba1
+SHA1: 9969856311afe113f0416c3b00ce0a05b8debab9
+SHA256: 55353425b3c7d20dde4f24da954e20701976a0db513edbb9b3cdc0998dceae8d
 Section: Tweaks
-Description: 番茄小说广告净化 + 信息流去除 + tab 精简
+Description: 番茄小说去广告 + 精简底部 + 本地VIP + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: FQXSAdBlock
 
@@ -7871,12 +7871,12 @@ Maintainer: Zero
 Installed-Size: 112
 Depends: mobilesubstrate
 Filename: debs/com.zero.pddadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 21340
-MD5sum: 813504ef70678d263b3c77cfa18faa94
-SHA1: 5e644d4f3643ece3d590e890f4435bf5d90eacb2
-SHA256: 343a22be95cb07ab406cf1f42980278b6999019cd5201df493217234e83b7aae
+Size: 22106
+MD5sum: 9e32dbedc952910204a6ce2c9c8fd2f7
+SHA1: 648a3e37ed39f81233b2ff2d8210eef41e5f60a4
+SHA256: e9278782a611540de976a46cf48f6597a95ecf17a436c55798b3742ea240e730
 Section: Tweaks
-Description: 拼多多插件
+Description: 拼多多去广告 + 屏蔽更新/巨魔/越狱
 Author: Zero
 Name: PDDAdBlock
 
@@ -7919,12 +7919,12 @@ Maintainer: Zero
 Installed-Size: 92
 Depends: mobilesubstrate
 Filename: debs/com.zero.qmxsadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 16562
-MD5sum: c6fdf0e88dca1a37ae72c650027b7f82
-SHA1: 6100aea207e29c1eff17411fd301439e67bd0d95
-SHA256: 04ad8b92168cb48c98ba18c1767303ff19605c1efd148cd0ad7b6e80ba819b9b
+Size: 16878
+MD5sum: c4416a63456ef686fa765775f3b981df
+SHA1: 3d123fbfc60401b1a447be2214336a7fc69d4cee
+SHA256: 922ef8a1a72df293368ddd620d66d1b01903a9fdf1b485c9a841a74751ee92cc
 Section: Tweaks
-Description: 七猫小说去广告 + 加速启动 + 三屏蔽 + 本地VIP
+Description: 七猫免费小说去广告 + VIP + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: QMXSAdBlock
 
@@ -8390,6 +8390,24 @@ Size: 3691040
 MD5sum: c87559a2e63a6c0dc24d128c0867a9ec
 SHA1: 68a2213a24cf9250e71eeff1701ae55a5a39c1b7
 SHA256: bf8d826f460ecebfdb58b8e6cafc1d79c49cfced6d215741eb1eb8fbc6fdeb6a
+Section: Tweaks
+Description: 自用
+Author: 𝙓
+Name: 小红薯
+
+Package: xhs.x
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 9708
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Replaces: com.xx.xhshook
+Filename: debs/xhs.x_2.0.8_iphoneos-arm64.deb
+Size: 3807748
+MD5sum: a1dc0a6605889935aa35c92bd010610b
+SHA1: a6c2fe563b4967bb81186ed3cb4cacd429f58a6f
+SHA256: b7c26b8c08bb9744b0edfcdac6d3756e1768feb59ecd4969ad8d15b7fd057e16
 Section: Tweaks
 Description: 自用
 Author: 𝙓
