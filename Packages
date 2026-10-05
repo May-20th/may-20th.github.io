@@ -7769,6 +7769,22 @@ Author: yourname
 Name: 12306NoAd
 
 Package: com.zero.123panclean.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 96
+Depends: mobilesubstrate
+Filename: debs/com.zero.123panclean.rootless_1.0.0_iphoneos-arm64.deb
+Size: 17914
+MD5sum: 6745f8775a64e0fc108b47b5f5505b49
+SHA1: c19fbe8eadb81a5ff6bdda9000ef5f446339c07c
+SHA256: 826ba5ec1d1020ec153e6912a95b1ba1485d1d7bca441634c00b2b22cfdddc08
+Section: Tweaks
+Description: 123云盘去广告 + 启动加速 + 屏蔽更新/巨魔/越狱
+Author: Zero
+Name: 123PanClean
+
+Package: com.zero.123panclean.rootless
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm64
 Maintainer: Zero
@@ -7823,12 +7839,12 @@ Maintainer: Zero
 Installed-Size: 112
 Depends: mobilesubstrate
 Filename: debs/com.zero.jdadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 22836
-MD5sum: ec2f9dc14d7dff9cf72cd756e03dabe8
-SHA1: 7435bb6ae5f15dacf21c0d4252499ee888f60389
-SHA256: fee9024a1f7dede1e056a5e7e1eded1cfe80384757f47f6cf8ee9774cade0196
+Size: 23282
+MD5sum: 9fe8017e65c45b6298e161350803a5b2
+SHA1: f7ae14a3be6a38a95ba929af2efd72a52619c1a5
+SHA256: dc8fc76c84d2481ad6483a4d9a4fc3825a76c7ed4bf9c6cdb5efe9ff2f0264ea
 Section: Tweaks
-Description: 京东插件
+Description: 京东去广告 + 启动加速 + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: JDAdBlock
 
@@ -7847,6 +7863,22 @@ Section: Tweaks
 Description: 拼多多插件
 Author: Zero
 Name: PDDAdBlock
+
+Package: com.zero.qdreaderadblock.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Zero
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: debs/com.zero.qdreaderadblock.rootless_1.0.0_iphoneos-arm64.deb
+Size: 31924
+MD5sum: ce7421ac725dbe1ab0cfb62208f242c1
+SHA1: d1d1cef60cb67ff06937bbcc6fa973d859c61d79
+SHA256: 97846136d0dc405267cbae8e5e718bf2f80b9efa722579f3686523b718ca6ead
+Section: Tweaks
+Description: 起点读书插件
+Author: Zero
+Name: QDReaderAdBlock
 
 Package: com.zero.qdreaderadblock.rootless
 Version: 1.2.0
@@ -7887,12 +7919,12 @@ Maintainer: Zero
 Installed-Size: 112
 Depends: mobilesubstrate
 Filename: debs/com.zero.taobaoadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 22448
-MD5sum: 592c5cdbd82e3b28addec9816522ed33
-SHA1: e85c1f773d68218aca77b6507e73dc044dd4fa97
-SHA256: 697d824e48d62b22cfb9ec63df79cbd6ee27bc4fc78abc81db7d7b2075c44573
+Size: 22676
+MD5sum: 9da0bb25c6bb734364c343d81b0b16d9
+SHA1: bdfae5003693d96f588079de21732bc211ff1768
+SHA256: abbd2ef8093424163495090c4249ead592ed3de4d60ca763b0d4eda39b25ecb0
 Section: Tweaks
-Description: 淘宝插件
+Description: 淘宝去广告 + 启动加速 + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: TaobaoAdBlock
 
