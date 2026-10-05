@@ -6850,6 +6850,22 @@ Description: 去除丰巢开屏广告与 App 内弹窗广告（首页 DSP 弹窗
 Author: wkk
 Name: 丰巢去广告
 
+Package: com.wkk.hupuadfree
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 196
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.hupuadfree_1.0_iphoneos-arm64.deb
+Size: 4538
+MD5sum: 3d187487c0d26c1296855a211d375bad
+SHA1: e3e5a9d84afe8389b388d62b7738eddd4b49b942
+SHA256: 2f6aee9d1dbf7ae9b6718e724a96744a7a545005264585b0ea348aac43363c3b
+Section: Tweaks
+Description: 去广告
+Author: wkk
+Name: 虎扑去广告
+
 Package: com.wkk.jiakaobaodiannoad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -6885,15 +6901,15 @@ Package: com.wkk.leisunoad
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 168
+Installed-Size: 196
 Depends: mobilesubstrate
 Filename: debs/com.wkk.leisunoad_1.0_iphoneos-arm64.deb
-Size: 4270
-MD5sum: f40894414a28d3653b85baae7210c878
-SHA1: c72ce3ca2303fae17a9e658db2e72dfaac1f485f
-SHA256: f4720344f96def0f3ff0e618974f6c86c6a1862f18374a8674f9537e0098736b
+Size: 4940
+MD5sum: 0499c52b77d0a31104600fa34b576f3b
+SHA1: e35d910e70329d13bb45257403e1430b5ca14fea
+SHA256: 792088e197e70b3131d22f254244020e9d73efa9ca478e7d39a281c3b1a7e65d
 Section: Tweaks
-Description: 去除雷速体育开屏、Banner、信息流、插屏等广告
+Description: 去广告
 Author: wkk
 Name: 雷速体育去广告
 
