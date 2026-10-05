@@ -277,6 +277,22 @@ Tag: role::enduser
 Author: ColorBlack
 Name: Flex 4 Beta
 
+Package: com.amapclean.tweak
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: amapclean
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/com.amapclean.tweak_1.0.0_iphoneos-arm64.deb
+Size: 7908
+MD5sum: 5498e45be6d02b5b859ddfe15092e029
+SHA1: 87e4d5c6ad4e48d91073bd0174c15d0b38d42e22
+SHA256: bb650c4cef78efdf622f0bee21d1533f300aeb50c0516d3ba0911361c9f9f628
+Section: Tweaks
+Description: Amap cleaner
+Author: amapclean
+Name: amapclean
+
 Package: com.apple.appstorenoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7959,6 +7975,22 @@ Section: Tweaks
 Description: 淘宝去广告 + 精简首页/我的页/底部
 Author: Zero
 Name: TaobaoAdBlock
+
+Package: com.zero.tianqitong.vip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: zero
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/com.zero.tianqitong.vip_1.0.0_iphoneos-arm64.deb
+Size: 7130
+MD5sum: 6525095b94ebded1480f3fbe5cc36f84
+SHA1: a1d6f931131d8aaf95d1b432ed5d2248a763f265
+SHA256: 1ab59b493bb3bdc2c23969c7a376a7ad5bceee703edf3e5cf508def4558092d5
+Section: Tweaks
+Description: Sina Weather VIP Unlock by zero
+Author: zero
+Name: TianQiTongAdBlock
 
 Package: com.zero.xianyudblock.rootless
 Version: 1.0.0
