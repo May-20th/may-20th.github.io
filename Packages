@@ -7887,12 +7887,12 @@ Maintainer: Zero
 Installed-Size: 144
 Depends: mobilesubstrate
 Filename: debs/com.zero.qdreaderadblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 31924
-MD5sum: ce7421ac725dbe1ab0cfb62208f242c1
-SHA1: d1d1cef60cb67ff06937bbcc6fa973d859c61d79
-SHA256: 97846136d0dc405267cbae8e5e718bf2f80b9efa722579f3686523b718ca6ead
+Size: 32256
+MD5sum: 9efce8f9c365d2a0c84cd88cb66b907b
+SHA1: 3035741e0541871e20ef3c549e4dfc26389ed6b3
+SHA256: e54eb03e44a19648aecb21b75fae42367606bcdd5acd7dc62068779a94768411
 Section: Tweaks
-Description: 起点读书插件
+Description: 起点读书去广告 + 启动页颜色 + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: QDReaderAdBlock
 
@@ -7967,12 +7967,12 @@ Maintainer: Zero
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: debs/com.zero.xianyudblock.rootless_1.0.0_iphoneos-arm64.deb
-Size: 20800
-MD5sum: fd7debeaa3580f2168913efcd3764ff7
-SHA1: c271cb1a6e233b17050b6853e2580b64c83ab01a
-SHA256: 71226a8a0686699a53d133756c014643228043a9978fb0fefd932db4ae622384
+Size: 21326
+MD5sum: 636d090dc96e0b1891d676a489fce6d5
+SHA1: 035ff172578b20fb0bd9fb915b6598ddc616d52c
+SHA256: 6305bcbc94d8e6975c0a6c8046c3dcc73815963b004ebf389341cb192af67bc7
 Section: Tweaks
-Description: 闲鱼插件
+Description: 闲鱼去广告 + 清爽首页/精简底部/精简我的页面 + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: XianyuAdBlock
 
