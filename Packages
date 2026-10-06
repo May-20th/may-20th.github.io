@@ -7882,22 +7882,6 @@ Description: 番茄小说去广告 + 精简底部 + 本地VIP + 屏蔽更新/巨
 Author: Zero
 Name: FQXSAdBlock
 
-Package: com.zero.fqxscrack
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: zero
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: debs/com.zero.fqxscrack_1.0.0_iphoneos-arm64e.deb
-Size: 15124
-MD5sum: 1be60041be4dfa17cb729027a47e6156
-SHA1: fd2621a37d68a74b579ded513213dc4e4f1032c2
-SHA256: 4ad0a2ffb058fd15dc193b6909040880d3f6d6ae6a2dc338899217ebd65b5444
-Section: Tweaks
-Description: 番茄小说 VIP + 去广告 + 屏蔽检测
-Author: zero
-Name: fqxsCrack
-
 Package: com.zero.jdadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7977,22 +7961,6 @@ Section: Tweaks
 Description: 七猫免费小说去广告 + VIP + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: QMXSAdBlock
-
-Package: com.zero.qmxscrack
-Version: 1.2.0
-Architecture: iphoneos-arm64e
-Maintainer: zero
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: debs/com.zero.qmxscrack_1.2.0_iphoneos-arm64e.deb
-Size: 18744
-MD5sum: fd74cb2269c15af1ec18ddc039daffb6
-SHA1: 77f603f2ceec8761f207fc38cf541e9552980b81
-SHA256: 0f1d5718995e7e017bae98220dc408d36d9dd00ded745aa1425c5c153bb6feb4
-Section: Tweaks
-Description: 七猫小说 VIP + 去广告 + 去更新 + 屏蔽检测
-Author: zero
-Name: qmxsCrack
 
 Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
