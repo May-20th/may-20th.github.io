@@ -7884,6 +7884,22 @@ Description: 支付宝去广告 + 隐藏理财 tab + 屏蔽更新/巨魔/越狱�
 Author: Zero
 Name: AlipayAdBlock
 
+Package: com.zero.amapclean
+Version: 3.2-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: debs/com.zero.amapclean_3.2-1+debug_iphoneos-arm64e.deb
+Size: 23804
+MD5sum: 6b6d0326d4caccf2b08ed279edc42560
+SHA1: aebb8ae938523ece03a1331714d23994bd3bb308
+SHA256: da2489b6d35d2baab68da8f16c22f9081eb49e8e7ec47af4859c4911d40f4e32
+Section: Tweaks
+Description: 高德地图去广告（正式版）
+Author: zero
+Name: amapclean
+
 Package: com.zero.fqxsadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7964,6 +7980,22 @@ Description: 起点读书净化插件
 Author: Zero
 Name: QDReaderAdBlock
 
+Package: com.zero.qmxsadblock
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.zero.qmxsadblock_1.0.0_iphoneos-arm64e.deb
+Size: 18244
+MD5sum: d09e6ce957cd88b21120fb53170fad23
+SHA1: 0c7b9b7f0ccb98427a90f948e489e5d446fb8776
+SHA256: 8455e94eb72c10c6e35d51dc817e26dbe1b56d04d725edcbd984c1429ed079a7
+Section: Tweaks
+Description: 七猫小说 去广告
+Author: zero
+Name: 七猫小说去广告
+
 Package: com.zero.qmxsadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7979,6 +8011,22 @@ Section: Tweaks
 Description: 七猫免费小说去广告 + VIP + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: QMXSAdBlock
+
+Package: com.zero.riliadblock
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.zero.riliadblock_1.0.0_iphoneos-arm64e.deb
+Size: 16656
+MD5sum: 6930d5950fee16d201c4d36342ab1ee5
+SHA1: f8deded5edb050127b2c8c561cea6462e7b43735
+SHA256: ff9b1ba25c203965e49d62d4a05a6be14224e650b56137629841e97119d17030
+Section: Tweaks
+Description: 中华万年历 去广告
+Author: zero
+Name: riliAdBlock
 
 Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
@@ -8027,6 +8075,38 @@ Section: Tweaks
 Description: Sina Weather VIP Unlock by zero
 Author: zero
 Name: TianQiTongAdBlock
+
+Package: com.zero.xhhadblock
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.zero.xhhadblock_1.0.0_iphoneos-arm64e.deb
+Size: 15452
+MD5sum: 8d5e65bdf4f01c727cb20b2b344a2100
+SHA1: 3e62b0105ebe2c27957d30c9d530580127a19b0e
+SHA256: c6035ca82d5834f5c2fd44a3020ee9b6aed1de32f010556c5fe1cc1b13dc34d4
+Section: Tweaks
+Description: 小黑盒 去广告
+Author: zero
+Name: xhhAdBlock
+
+Package: com.zero.xianyudblock
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/com.zero.xianyudblock_1.0.0_iphoneos-arm64e.deb
+Size: 31276
+MD5sum: 6165f5d12505bea1f28f27c239078873
+SHA1: 1493cdb41d92358d57abc3fefd8228f50c3bdde8
+SHA256: fd67e2d43286a379e0d13a21e78aa7f7b567296a084bae615f36aafd3cafe5d2
+Section: Tweaks
+Description: 闲鱼 去广告
+Author: zero
+Name: 闲鱼去广告
 
 Package: com.zero.xianyudblock.rootless
 Version: 1.0.0
