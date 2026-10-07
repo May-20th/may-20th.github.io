@@ -3860,6 +3860,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Name: FolderPro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
+Package: com.sini921.kayokolite
+Version: 4.3.2-1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 3044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.sini921.kayokolite_4.3.2-1_iphoneos-arm64.deb
+Size: 794766
+MD5sum: 4af9a6a0f518243f29021ebb47eed4f2
+SHA1: dbc5135b3f88ebbe0fc77fc75dce4d6aa78b26fb
+SHA256: 096b35bb47ee9e823c5a8ae77dc48755f2a10637ddb0139666a2271e0947a516
+Section: Tweaks
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
 Package: com.sini921.liquidswitch
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
