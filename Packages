@@ -7981,6 +7981,22 @@ Description: 番茄小说去广告 + 精简底部 + 本地VIP + 屏蔽更新/巨
 Author: Zero
 Name: FQXSAdBlock
 
+Package: com.zero.jdadblock
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/com.zero.jdadblock_1.0.0_iphoneos-arm64e.deb
+Size: 32984
+MD5sum: c220240895bd5acf81b01e252c2da04e
+SHA1: 21043664405cf419c41a385e1e60271e08f9cc9a
+SHA256: 6a306544e1a60340d927c60f0a5b9875a7094fb0dc129c6378aa62de3260689b
+Section: Tweaks
+Description: 京东去广告正式版
+Author: zero
+Name: 京东去广告
+
 Package: com.zero.jdadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7996,6 +8012,22 @@ Section: Tweaks
 Description: 京东去广告 + 启动加速 + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: JDAdBlock
+
+Package: com.zero.pan123clean
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.zero.pan123clean_0.1.0_iphoneos-arm64e.deb
+Size: 17888
+MD5sum: 45cf54d91c3cd1b36096c1345fbebbdd
+SHA1: 958e6fa4c4ea199a51f141e2c2e94caa7dfd2b00
+SHA256: 8c72c7fcd3ceec2678857bbb023ff90cd5c72437759c31ab0bb1b31e798c1043
+Section: Tweaks
+Description: 123云盘去广告探测版
+Author: zero
+Name: 123云盘去广告
 
 Package: com.zero.pddadblock
 Version: 10.0.0-1+debug
@@ -8108,6 +8140,22 @@ Section: Tweaks
 Description: 中华万年历 去广告
 Author: zero
 Name: riliAdBlock
+
+Package: com.zero.taobaoadblock
+Version: 1.5.8
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/com.zero.taobaoadblock_1.5.8_iphoneos-arm64e.deb
+Size: 34248
+MD5sum: 3b262f91f4c3f0a028d37b5d1de85017
+SHA1: 2308220213b55bdee61770e7f596cd831a3475ab
+SHA256: 92ed0081400fb59576b08483b6b976191623e8e50ca104040bc8e58c5436ec38
+Section: Tweaks
+Description: 淘宝去广告 v1.5.8
+Author: zero
+Name: 淘宝去广告
 
 Package: com.zero.taobaoadblock.rootless
 Version: 1.0.0
