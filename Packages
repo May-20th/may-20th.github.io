@@ -7868,6 +7868,22 @@ Description: 123云盘去广告 + 启动加速
 Author: Zero
 Name: 123PanClean
 
+Package: com.zero.alipayadblock
+Version: 2.2-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/com.zero.alipayadblock_2.2-1+debug_iphoneos-arm64e.deb
+Size: 24816
+MD5sum: 24cdf3a5736bc2f2addbe968722e4b55
+SHA1: c2f11023aa64d209caf30ac3500fb6933d831f29
+SHA256: 3e5d12abb329bb7a7439dfaeefde7fa1df1e6cdf0772d8de18e55665b576aa39
+Section: Tweaks
+Description: 支付宝去广告（去启动广告 + 屏蔽更新 + 屏蔽越狱/巨魔检测 + 去除底部理财）
+Author: zero
+Name: 支付宝去广告
+
 Package: com.zero.alipayadblock.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
