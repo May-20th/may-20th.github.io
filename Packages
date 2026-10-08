@@ -7836,6 +7836,22 @@ Description: 12306 去广告 (适配隐根 RootHide)
 Author: yourname
 Name: 12306NoAd
 
+Package: com.zero.123panclean
+Version: 8.7-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: debs/com.zero.123panclean_8.7-1+debug_iphoneos-arm64e.deb
+Size: 40524
+MD5sum: f2d6b15213792755c0379b3187581aa9
+SHA1: 8cff47d76752526db5429c1b6c038f91df315a2f
+SHA256: 366edb7fec85618d2af29496b2bf757daa5cc1517429a7b87d0e06aa2d3d358d
+Section: Tweaks
+Description: 123云盘去广告（开屏 + 横幅 + 屏蔽更新 + 屏蔽越狱/巨魔）
+Author: zero
+Name: 123云盘去广告
+
 Package: com.zero.123panclean.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7947,6 +7963,22 @@ Section: Tweaks
 Description: 京东去广告 + 启动加速 + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: JDAdBlock
+
+Package: com.zero.pddadblock
+Version: 10.0.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.zero.pddadblock_10.0.0-1+debug_iphoneos-arm64e.deb
+Size: 48244
+MD5sum: 69950a0d954c77f3f5be5d2bc3017214
+SHA1: 269681a6eb818743a5c0ac79f353ab3afa78c539
+SHA256: fe076a2e2a0055dc7a5a4270f89956f3410a64d5393d98bc43e2ef4bfadf5d58
+Section: Tweaks
+Description: 拼多多去广告（正式版）
+Author: zero
+Name: 拼多多去广告
 
 Package: com.zero.pddadblock.rootless
 Version: 1.0.0
