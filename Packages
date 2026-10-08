@@ -6792,6 +6792,22 @@ Description: 解锁微信的未知可能
 Author: WeTweak
 Name: We·X
 
+Package: com.wechat.x
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: WeTweak
+Installed-Size: 39396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wechat.x_1.0.6_iphoneos-arm64.deb
+Size: 15927318
+MD5sum: 1124a6c711e7122986c4afa1098dd8d2
+SHA1: 6dd8209fcb024fd145254531d9d6118153a4f9f6
+SHA256: b839b14ab396842bde584b6099841620e92394e85743673ea352d3af30f03a79
+Section: Tweaks
+Description: 解锁微信的未知可能
+Author: WeTweak
+Name: We·X
+
 Package: com.wefind.tweak
 Version: 1.0.0
 Architecture: iphoneos-arm64
