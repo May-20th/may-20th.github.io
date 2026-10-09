@@ -8052,6 +8052,22 @@ Description: 番茄小说去广告 + 精简底部 + 本地VIP + 屏蔽更新/巨
 Author: Zero
 Name: FQXSAdBlock
 
+Package: com.zero.iplayerprobe
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.zero.iplayerprobe_1.0.0_iphoneos-arm64e.deb
+Size: 10392
+MD5sum: b6e5ca29c3cd585cf0b30c208588fea6
+SHA1: 6ca2a26061c74f1b17b807a248a7a2441f370657
+SHA256: 5672753e3164ea00396593f3c4674a0878653fe12918394e8906411fa78aa642
+Section: Tweaks
+Description: iPlayer Pro 全功能解锁
+Author: zero
+Name: iPlayer Pro
+
 Package: com.zero.jdadblock
 Version: 1.0.0
 Architecture: iphoneos-arm64e
