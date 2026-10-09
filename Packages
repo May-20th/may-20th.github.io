@@ -8406,6 +8406,22 @@ Description: 开发您自己的调整并在Flex社区云上共享。Dopamine2.0�
 Author: John Coates
 Name: Flex 3 Beta90
 
+Package: hongguofn
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 5hux1n
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/hongguofn_1.0.1_iphoneos-arm64.deb
+Size: 79264
+MD5sum: e5307874e19bb665b8b53a80e54fc81c
+SHA1: 82a1e0f237d1c0545fbc339217080d1ea996931d
+SHA256: 69e90b6695fc7f08139391e522a27f1e5ad283892621133451bf9ade0b385424
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
+Name: 红果净化
+
 Package: iya.banana.jumpguard
 Version: 0.1.2
 Architecture: iphoneos-arm64
