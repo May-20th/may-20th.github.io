@@ -8388,6 +8388,101 @@ Description: 禁止开屏广告、秒过激励广告
 Author: Zuner
 Name: LunaNoAd
 
+Package: fanqiefn
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 168
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: debs/fanqiefn_2.0.0_iphoneos-arm64.deb
+Size: 5626
+MD5sum: ff9dd8128c4a5d153ce0918a7b3904a6
+SHA1: 6053b8a9ab6cacb946ba1ebbd5b104d5d11596e3
+SHA256: 61a4bcf423fccedee93433521b2dffbce5109e2879880204bce636eba82d3e57
+Section: Tweaks
+Description: 阅读与听书广告净化、章末内容控制、福利模块隐藏、原生二级设置与总开关。
+Name: 番茄净化
+
+Package: fanqiefn
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 204
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: debs/fanqiefn_3.0.0_iphoneos-arm64.deb
+Size: 21090
+MD5sum: 7bcd63a217f0acb7141bcb1087f63330
+SHA1: 38dc6cf0e6db0849bb116704e4b7baa277d9fb1f
+SHA256: 27c902138a77f112002c446f0c5de6e3c7133a91ba2e565d0beece39e80b7897
+Section: Tweaks
+Homepage: https://fanqie.goforit.si/
+Description: 阅读与听书广告净化、章末内容控制、福利模块隐藏、原生二级设置与总开关。
+Name: 番茄净化
+
+Package: fanqiefn
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 204
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: debs/fanqiefn_3.0.1_iphoneos-arm64.deb
+Size: 23676
+MD5sum: d81a967c33130cc7a745ca8f7a8484f3
+SHA1: e6a9258345f65f9ffb828b0125155a99ec33545e
+SHA256: 5c3170fd7abb79b1b74895b9f4ed4350e80d4c561b4853396efe9925bc2964ce
+Section: Tweaks
+Homepage: https://fanqie.goforit.si/
+Description: 阅读与听书广告净化、章末内容控制、福利模块隐藏、原生二级设置与总开关。
+Name: 番茄净化
+
+Package: fanqiefn
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 240
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: debs/fanqiefn_3.0.2_iphoneos-arm64.deb
+Size: 26214
+MD5sum: 9713368ad822d805fea1c3bbf3ab43c1
+SHA1: 1d89883fbbf48c1596ec9e7be9959715b3c7b863
+SHA256: 63d2d6696cf6fd1792195ab8ae1fa80a6668457457d079b4dac4615bea325038
+Section: Tweaks
+Homepage: https://fanqie.goforit.si/
+Description: 阅读与听书广告净化、章末内容控制、福利模块隐藏、原生二级设置与总开关。
+Name: 番茄净化
+
+Package: fanqiefn
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 240
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: debs/fanqiefn_3.0.3_iphoneos-arm64.deb
+Size: 28966
+MD5sum: bce495a4fd0ac4a3eba5c2be0b770320
+SHA1: cba399e3563b5713ebfc6998320c92d0a6f15661
+SHA256: 2ad8369574ee82ede19809c922a388d585ad4f912b78b675cce8abbf47a8f6a1
+Section: Tweaks
+Homepage: https://fanqie.goforit.si/
+Description: 阅读与听书广告净化、章末内容控制、福利模块隐藏、原生二级设置与总开关。
+Name: 番茄净化
+
+Package: fanqiefn
+Version: 3.0.4
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 240
+Depends: firmware (>=15.0), mobilesubstrate
+Filename: debs/fanqiefn_3.0.4_iphoneos-arm64.deb
+Size: 29934
+MD5sum: 15fd1e97c548af750910d254ee7eae60
+SHA1: fa317f8c7d6ca7ab6adfad5a4d9df8d2395d1335
+SHA256: 4bb5f059020d0f782a4674f9bd7be8c7fd34aecab18f188168de838c5c891718
+Section: Tweaks
+Homepage: https://fanqie.goforit.si/
+Description: 阅读与听书广告净化、章末内容控制、福利模块隐藏、原生二级设置与总开关。
+Name: 番茄净化
+
 Package: flex3
 Version: 1:3~Beta90
 Architecture: iphoneos-arm64
@@ -8421,6 +8516,44 @@ Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
 Name: 红果净化
+
+Package: im.mjh.alipay2nfc
+Version: 3.5.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 364
+Depends: firmware (>=14.0), preferenceloader
+Conflicts: com.yourname.alipaynfcredirect
+Replaces: com.yourname.alipaynfcredirect
+Filename: debs/im.mjh.alipay2nfc_3.5.0_iphoneos-arm64.deb
+Size: 22864
+MD5sum: de94eed8e015ff62c18a34a16dcd5f74
+SHA1: 5a3abf2f7b4c03dfae0cd484b5526eb6e3fa8f64
+SHA256: fc7dc40c3a5546fa278de6f08ab69145af205b4f9467a7a646489e54bf491fb3
+Section: Tweaks
+Description: 让支付宝「碰一碰」唤起你指定的第二个支付宝客户端 — 多开账号也能用 NFC 付款。开源：https://github.com/5hux1n/Alipay2NFC
+Author: Junhong
+Name: Alipay2NFC
+
+Package: im.mjh.xianyuadblock
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 488
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Replaces: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Filename: debs/im.mjh.xianyuadblock_3.0.0_iphoneos-arm64.deb
+Size: 82860
+MD5sum: aa54b4c1f488707937f1311dc37b37d7
+SHA1: ab32495a024abd8452b4cbc795022f121c10578f
+SHA256: 73b635de04a813c9dcd81659c693727ce7cd0cc223ea27c6741364c706c542df
+Section: Tweaks
+Homepage: https://xianyu.goforit.si/
+Description: 闲鱼广告与页面净化、自动普通擦亮、会员经验领取、原样编辑商品及按日期查看运行记录。
+Author: Junhong
+Icon: https://apt.mjh.im/assets/im.mjh.xianyuadblock/icon.png
+Name: 闲鱼助手
 
 Package: iya.banana.jumpguard
 Version: 0.1.2
