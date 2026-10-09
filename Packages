@@ -3377,6 +3377,24 @@ Name: 支付宝步数(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zfbhook/js.json
 
 Package: com.sini921.ccborder
+Version: 1.1.2-42
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 1024
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: debs/com.sini921.ccborder_1.1.2-42_iphoneos-arm64.deb
+Size: 211748
+MD5sum: 6ee4ec2fe50ddf39455cd70aaf40e11b
+SHA1: e4b7890589289c67545f50d97ec9ecb70cba0c4c
+SHA256: 28e6c815869f9c9f63a9018203ad3fb4bafa69b06e603ea041598ba99005d198
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
+Package: com.sini921.ccborder
 Version: 1.1.2-43+beta2
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
@@ -3387,6 +3405,24 @@ Size: 220648
 MD5sum: c8bc475466297d9c380a459248446200
 SHA1: c9017c102e9ebe92c455398dd0b91e6f3c99a0cc
 SHA256: 3d1bfa21e380bc2888b5879ded84ee079c97c078ac170dad62cb1e133c5b6982
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
+Package: com.sini921.ccborder
+Version: 1.1.2-44
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 1028
+Depends: mobilesubstrate, firmware (>= 16.0), com.opa334.libsandy
+Filename: debs/com.sini921.ccborder_1.1.2-44_iphoneos-arm64.deb
+Size: 214490
+MD5sum: e0a2a4ce850726da68b4b2c2d52d651f
+SHA1: c4f6efa44383050a7c84fd14665ad6c73a64329b
+SHA256: 9d9bc29dd752ebb87a668f7bfc9549eed15b8711db5864947072b512aa000f13
 Section: Tweaks
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
@@ -3871,6 +3907,24 @@ Size: 794766
 MD5sum: 4af9a6a0f518243f29021ebb47eed4f2
 SHA1: dbc5135b3f88ebbe0fc77fc75dce4d6aa78b26fb
 SHA256: 096b35bb47ee9e823c5a8ae77dc48755f2a10637ddb0139666a2271e0947a516
+Section: Tweaks
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
+Package: com.sini921.kayokolite
+Version: 4.3.3-2
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 3060
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.sini921.kayokolite_4.3.3-2_iphoneos-arm64.deb
+Size: 796854
+MD5sum: b6835c5ba1ea684584996a22b13c434c
+SHA1: 688f4ed02c69f6c67a370ffeeb7898be8b38a0ba
+SHA256: b1689dbb7a5ceb5780f688fefcf45aa164bc253e10e2b8e331b921ef10fc29d0
 Section: Tweaks
 Description: 基于82Flex的Kayoko开源项目重新修改编译
 Author: SINI
