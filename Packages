@@ -3950,6 +3950,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
 Name: KayokoLite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
 
+Package: com.sini921.kayokolite
+Version: 4.3.3-5
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 3060
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.sini921.kayokolite_4.3.3-5_iphoneos-arm64.deb
+Size: 795586
+MD5sum: a499d658186ec24907568622799926f5
+SHA1: bf017f71571438661c6871f6dd7121d905d30b4e
+SHA256: 89f6ea7cc8bc6dc09c7df16d2663bd5232585f6d89e251d1d6db71f31eeded4a
+Section: Tweaks
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
 Package: com.sini921.liquidswitch
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
