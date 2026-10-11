@@ -8569,6 +8569,22 @@ Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
 Name: 红果净化
 
+Package: hongguofn
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 5hux1n
+Installed-Size: 552
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/hongguofn_1.0.3_iphoneos-arm64.deb
+Size: 102592
+MD5sum: 530cbb5760908f6eaeea3e17b5a48a2c
+SHA1: 17f26f257c1c81a398982d878ce7d43b1829a63c
+SHA256: 27d988d421b1fa5ad2c5fba70164e229a47b935c5ccfd90e87a4492a03045d05
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
+Name: 红果净化
+
 Package: im.mjh.alipay2nfc
 Version: 3.5.0
 Architecture: iphoneos-arm64
