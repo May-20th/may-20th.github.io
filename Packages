@@ -8042,6 +8042,22 @@ Description: 123云盘去广告 + 启动加速
 Author: Zero
 Name: 123PanClean
 
+Package: com.zero.addonsvip
+Version: 1.0.4-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zero
+Installed-Size: 172
+Depends: firmware (>= 16.0)
+Filename: debs/com.zero.addonsvip_1.0.4-1+debug_iphoneos-arm64e.deb
+Size: 8864
+MD5sum: d63198ad2dd2e045c1b6dbbc533d6f89
+SHA1: 2c244c952e034dc01cbf804042e1c4fbc7d5426f
+SHA256: 7da9692a5a19c06f0f50e9130b6a80e0df9a1b9b3849828a06d5dc7d077124c8
+Section: Tweaks
+Description: 解锁 Addons Pro高级版，免费禁止倒卖
+Author: zero
+Name: Addons解锁会员
+
 Package: com.zero.alipayadblock
 Version: 2.2-1+debug
 Architecture: iphoneos-arm64e
