@@ -7112,6 +7112,22 @@ Description: 去除丰巢开屏广告与 App 内弹窗广告（首页 DSP 弹窗
 Author: wkk
 Name: 丰巢去广告
 
+Package: com.wkk.glasssuitex
+Version: 1.1-0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 1980
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.wkk.glasssuitex_1.1-0_iphoneos-arm64.deb
+Size: 397064
+MD5sum: 1672ce147a407248027d12d2ab89160a
+SHA1: 03bbc8d330eff1e962cdd6bf824e0fb314308922
+SHA256: 084d138367bd656c548084c2240aeac7c7b1b3579acabe2adcb75ee7dcb1806c
+Section: Tweaks
+Description: cool
+Author: wkk
+Name: 全局弹窗
+
 Package: com.wkk.hupuadfree
 Version: 1.0
 Architecture: iphoneos-arm64
