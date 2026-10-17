@@ -2496,6 +2496,24 @@ Description: 侧边栏分组
 Author: Junzai
 Name: Fenzu
 
+Package: com.jz.fz
+Version: 5.9.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Junzai
+Installed-Size: 23536
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.monk.wclgbubbleliquidglass
+Replaces: com.monk.wclgbubbleliquidglass
+Filename: debs/com.jz.fz_5.9.0-1+debug_iphoneos-arm64.deb
+Size: 6329524
+MD5sum: 6833fab1f6be3cbcca14f7cbf4c27224
+SHA1: 2bd03a0dc9100f0dc1271837e31b8bbf186c6b1d
+SHA256: f3abf5f9c3bda407d6097fbdb5da26c5f5d453033b5334caecf6792f7091259d
+Section: Tweaks
+Description: 侧边栏分组
+Author: Junzai
+Name: Fenzu
+
 Package: com.kalert.tweak
 Version: 5.0.2-1+debug
 Architecture: iphoneos-arm
@@ -7368,6 +7386,22 @@ Description: 微信界面上下添加毛玻璃效果。
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
+
+Package: com.wkk.wechatmecorners
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2036
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.wechatmecorners_1.0-2_iphoneos-arm64.deb
+Size: 535696
+MD5sum: d88bf39745e658791092d89625ba2b3d
+SHA1: a33197c90f27ee9e22a1123ad55e73d0cfdfef43
+SHA256: 90e95438ffe823563ff25e3d88a2f37de3cd73ae8e0435359e33d9c138bb6119
+Section: Tweaks
+Description: cool
+Author: wkk
+Name: 微信圆角
 
 Package: com.wkk.weiboadfree
 Version: 1.0
