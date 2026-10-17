@@ -237,6 +237,26 @@ Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控�
 Author: aa22qq
 Name: LockEventRinger静音控制
 
+Package: com.adfree.pdd
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: adfree
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: debs/com.adfree.pdd_1.2.2_iphoneos-arm64.deb
+Size: 44832
+MD5sum: e5de3418492d759931d20eb6c76b3623
+SHA1: 68461ba1b9bb632d248624ec78b1761fe90e14ae
+SHA256: 65931aaa53b829f9a2f3c78d51d9009af8c5da75e6b32cc0b8f2cfa966cc7290
+Section: Tweaks
+Homepage: https://github.com/zero620/PddNoAds
+Description: 拼多多 PddNoAds 去广告插件 — 移除开屏广告、信息流/搜索推广条目、悬浮广告、
+  底部"多多视频/提前优惠"Tab、消息页顶部横幅、个人中心营销横幅、我的订单顶部横幅/秒杀券、
+  订单详情底部信息流推广、多页面推广模块; 越狱环境隐藏。
+  设置入口: 个人中心-设置-插件设置 (居中对齐, 与原生行一致)。
+Author: adfree
+Name: PddNoAds
+
 Package: com.adlayer.rootless
 Version: 0.1.98+rootless
 Architecture: iphoneos-arm64
