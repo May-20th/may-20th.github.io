@@ -8819,6 +8819,26 @@ Name: 闲鱼助手
 Sileodepiction: https://apt.mjh.im/depiction/native/im.mjh.xianyuadblock.json
 Tags: compatible_min::ios15.0
 
+Package: im.mjh.xianyuadblock
+Version: 3.1.1
+Architecture: iphoneos-arm64
+Maintainer: junhong
+Installed-Size: 1544
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Replaces: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Filename: debs/im.mjh.xianyuadblock_3.1.1_iphoneos-arm64.deb
+Size: 556142
+MD5sum: 3fd956f4467785305bd73dd372295f82
+SHA1: ac0189d2f93020a2c51d4d5d6b58d391633aff6d
+SHA256: 22e877b0afc2d8a134cfa44246e481e40b068c2e99f68494e964515c35687fd8
+Section: Tweaks
+Homepage: https://xianyu.goforit.si
+Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经验领取、任务控制及逐件运行记录。
+Author: junhong
+Icon: https://apt.mjh.im/assets/im.mjh.xianyuadblock/icon.png
+Name: 闲鱼助手
+
 Package: iya.banana.jumpguard
 Version: 0.1.2
 Architecture: iphoneos-arm64
