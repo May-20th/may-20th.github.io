@@ -1956,6 +1956,22 @@ Author: fiore
 Icon: https://www.susubaby.top/images/jisuanqi.png
 Name: CalculatorHistory
 
+Package: com.gu.xianyupick
+Version: 1.9.1
+Architecture: iphoneos-arm
+Maintainer: 故
+Depends: mobilesubstrate
+Filename: debs/com.gu.xianyupick_1.9.1_iphoneos-arm.deb
+Size: 153346
+MD5sum: 61c8a1b95aeaf654e7d0c246607c0bff
+SHA1: 61853cc463b5395e9f17991be2bf07a2bbc45b58
+SHA256: e60874e71d94f8fa4d1b28d5dd5bd7e0d947ec76dcceff3aab39b6b511941120
+Section: Tweaks
+Homepage: https://t.me/zakadeep_bot
+Description: 闲鱼商品嗅探 + 筛选捡漏工具。悬浮球面板可按机型/容量/系统版本/机身颜色/成色/价格/想要人数筛选，自动翻页、单条复制、点击直达商品。v1.9.1：激活弹窗精简（去掉机器码说明与操作提示两行文字，界面更干净）；卡密校验改为进算法层做严格对账——错码不再只是弹提示，而是当场终止，挡掉批量试码的脚本。抓取与筛选逻辑与 v1.9.0 完全一致。
+Author: 故
+Name: 闲鱼捡漏
+
 Package: com.hang.zzzj
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm64
