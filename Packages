@@ -2458,6 +2458,23 @@ Author: JKClub
 Icon: https://repo.susubaby.cn/icons/ojbkclub.png
 Name: JKClub
 
+Package: com.jkclub.app
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: JKClub
+Installed-Size: 1680
+Depends: firmware (>= 15.0)
+Filename: debs/com.jkclub.app_1.0.2_iphoneos-arm64.deb
+Size: 1030084
+MD5sum: da89870da16030e6142150f2c9e13f98
+SHA1: ba8f2f6c55ff08a3c08e8211953b6e6cbefab34e
+SHA256: e18c08b802a3dbd043a4a445b900388a78ea5c437d2f779906705cb5b4fff8af
+Section: Tweaks
+Description: Private device-bound package library for iOS 15 and later.
+Author: JKClub
+Icon: https://repo.susubaby.cn/icons/ojbkclub.png
+Name: JKClub
+
 Package: com.julioverne.spotilife
 Version: 1.8
 Architecture: iphoneos-arm64
