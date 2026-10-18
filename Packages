@@ -2377,6 +2377,23 @@ Description: WeChat enhancement tweak with customizable interface, quick actions
 Author: Iris
 Name: WeChatNeo
 
+Package: com.jkclub.app
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: JKClub
+Installed-Size: 1680
+Depends: firmware (>= 15.0)
+Filename: debs/com.jkclub.app_1.0_iphoneos-arm64.deb
+Size: 1024812
+MD5sum: b0f6c46398917dc1848b8b77c58e8963
+SHA1: 3e130f7d7ee9ee5135c6e095273f178c7acfaf83
+SHA256: edc961a281b661788e20972ac0c89c72a3cf2cfad2d34ccb77ff962282eef6e5
+Section: Tweaks
+Description: Private device-bound package library for iOS 15 and later.
+Author: JKClub
+Icon: https://repo.susubaby.cn/icons/ojbkclub.png
+Name: JKClub
+
 Package: com.julioverne.spotilife
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -8735,6 +8752,22 @@ Size: 30454
 MD5sum: ab384b00621c1c40e36997181ea4dcd1
 SHA1: 3865a99bcbc0d63d8ed8d4be47c40de641c6cb26
 SHA256: ba8b095fc9f13c3caf304849ca75e203941601e1858dac7f97d194b396810932
+Section: Tweaks
+Homepage: https://fanqie.goforit.si
+Description: 番茄小说通知/小组件伪装、阅读及听书广告净化、关闭章末圈子、评价邀请和听读赚钱挂件、会员状态伪装与原生设置开关，保留催更与更新历史
+Name: 番茄净化
+
+Package: fanqiefn
+Version: 3.1.0
+Architecture: iphoneos-arm64
+Maintainer: 5hux1n
+Installed-Size: 3008
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/fanqiefn_3.1.0_iphoneos-arm64.deb
+Size: 1335308
+MD5sum: b85bca5dc3c4c56e2a6d8adff0e77af7
+SHA1: 32146fe884206709b66a05c2fa6b9b04a9087195
+SHA256: 791ab069a5049bab1e559fcbec2257bab60e21e5f0517b8fecebc4228abecff2
 Section: Tweaks
 Homepage: https://fanqie.goforit.si
 Description: 番茄小说通知/小组件伪装、阅读及听书广告净化、关闭章末圈子、评价邀请和听读赚钱挂件、会员状态伪装与原生设置开关，保留催更与更新历史
