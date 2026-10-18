@@ -2345,6 +2345,22 @@ Description: 提取与修改 Assets.car 资源 (Filza 插件)
 Author: iosdump
 Name: FilzaCarPlugin
 
+Package: com.iosrxwy.vvebofix
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosrxwy
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: debs/com.iosrxwy.vvebofix_1.0.1_iphoneos-arm64.deb
+Size: 49604
+MD5sum: 8ffe9df1793670be2926cbd5adc166ba
+SHA1: 0a96f766ba1e5e2f777dd87f91285e35402fb096
+SHA256: 7537d780fb4e3f382b24a4fa5e85a3db0542f7eaa7a4122ae7e53eb1c5f3004a
+Section: Tweaks
+Description: 修复 VVebo 主页时间线，恢复专业版，把反馈入口改到作者频道。实况图可以点开播放，长按可以保存和分享。切换账号不再打开频道。三指双击打开设置，长按底栏编辑按钮打开或关闭设置。时间线、实况图、会员和 120Hz 默认开启
+Author: iosrxwy
+Name: VVeboFix
+
 Package: com.iosrxwy.weibonoads
 Version: 1.1-12
 Architecture: iphoneos-arm64
@@ -2358,6 +2374,54 @@ SHA1: 9dcfa12437271efa8b5791195c6f928641f9cbec
 SHA256: 85351ce3e06d1cb83d3732dd257a7ea3b70e5a686e66ef3909118c0516dc94de
 Section: Tweaks
 Description: 微博去广告。广告位默认开启，搜索广场和下拉刷新始终去掉。可隐藏任务中心、为你推荐、你可能感兴趣、评论橱窗、分享模块和底栏视频、消息。可自动签到已关注超话，支持机型伪装与强制 120Hz。三指双击打开设置，长按底栏「我」开关设置
+Author: iosrxwy
+Name: WeiboNoAds
+
+Package: com.iosrxwy.weibonoads
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: iosrxwy
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/com.iosrxwy.weibonoads_1.2.2_iphoneos-arm64.deb
+Size: 85324
+MD5sum: 6b435dd600cf62b1c2917a159120a949
+SHA1: 7ff2c69d930244c2496bfc3e91fb6ec648fe0b96
+SHA256: fd7a23194dda0db3c2067d102f400d33dd004b57dd86f1f6615f4b7b15eaa94c
+Section: Tweaks
+Description: 微博去广告。广告位默认开启，搜索广场和下拉刷新始终去掉。可隐藏任务中心、为你推荐、你可能感兴趣、评论橱窗、分享模块和底栏视频、消息。可自动签到已关注超话，支持机型伪装与强制 120Hz。三指双击打开设置，长按底栏「我」开关设置
+Author: iosrxwy
+Name: WeiboNoAds
+
+Package: com.iosrxwy.weibonoads
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: iosrxwy
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: debs/com.iosrxwy.weibonoads_1.2.3_iphoneos-arm64.deb
+Size: 106822
+MD5sum: abd6519c00f8f6b844ec8616f6609e23
+SHA1: 35db5c532d71993661495a70c840b0a0b8bf96f9
+SHA256: 09acc30d7695ede2739c68b1face40bedd079c6792c98082fbe7b33cde6e1099
+Section: Tweaks
+Description: 微博去广告。广告位默认开启，搜索广场和下拉刷新始终去掉。可隐藏任务中心、为你推荐、你可能感兴趣、评论橱窗、分享模块和底栏视频、消息。可自动签到已关注超话，支持机型伪装与强制 120Hz。闪退后，下次打开会提示并可以导出日志。三指双击打开设置，长按底栏「我」开关设置
+Author: iosrxwy
+Name: WeiboNoAds
+
+Package: com.iosrxwy.weibonoads
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: iosrxwy
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: debs/com.iosrxwy.weibonoads_1.2.4_iphoneos-arm64.deb
+Size: 106916
+MD5sum: 0ff02d5f3b15284871b7954786926d51
+SHA1: f70cef34a0496649f853781404ef2d04ab37c9e4
+SHA256: 32100eada8166662ba0be0ad978c7d7daf4c366d90490ca4eabf3ac3d5138770
+Section: Tweaks
+Description: 微博去广告。广告位默认开启，搜索广场和下拉刷新始终去掉。可隐藏任务中心、为你推荐、你可能感兴趣、评论橱窗、分享模块和底栏视频、消息。可自动签到已关注超话，支持机型伪装与强制 120Hz。闪退后，下次打开会提示并可以导出日志。三指双击打开设置，长按底栏「我」开关设置
 Author: iosrxwy
 Name: WeiboNoAds
 
