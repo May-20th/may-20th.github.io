@@ -2942,6 +2942,22 @@ Description: 独立语音包管理插件
 Author: Meo
 Name: WCVoice
 
+Package: com.mfcloudcalculate.123panadblock
+Version: 2.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Doubao
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/com.mfcloudcalculate.123panadblock_2.0.0-2+debug_iphoneos-arm64.deb
+Size: 23476
+MD5sum: 08e8631588b73a972b02320c6e24548d
+SHA1: 4f693bda6e725e73cbfb705cf4eaa55a49adad39
+SHA256: 574eccbb247aacbcae03f5cc276c68ed0d0c63aa347a57c12b39c060627496fa
+Section: Tweaks
+Description: Remove SDK ads (splash/banner/interstitial/rewarded/feed), unlock VIP, hide jailbreak, block update popups for 123云盘. No logging.
+Author: Doubao
+Name: 123Pan AdBlock
+
 Package: com.mg.adskip
 Version: 3.3.0
 Architecture: iphoneos-arm64
