@@ -8455,6 +8455,21 @@ Description: 京东去广告 + 启动加速 + 屏蔽更新/巨魔/越狱（一�
 Author: Zero
 Name: JDAdBlock
 
+Package: com.zero.jdnoads
+Version: 9.2.0
+Architecture: iphoneos-arm64
+Maintainer: zero
+Depends: mobilesubstrate
+Filename: debs/com.zero.jdnoads_9.2.0_iphoneos-arm64.deb
+Size: 42454
+MD5sum: 5f175ecd417f9106dfa43dbbc5aca3b7
+SHA1: 3f73cb99efeeab72f2f22f482395e2aed50b5051
+SHA256: d21a0a22d94b9679df3ebeb61c42771886611ed210599a1596e99d0d4c2c0343
+Section: Tweaks
+Description: 京东去广告 — 拦截 JDAds 广告框架 / 开屏广告 / 各页面广告位
+Author: zero
+Name: JdNoAds
+
 Package: com.zero.pan123clean
 Version: 0.1.0
 Architecture: iphoneos-arm64e
