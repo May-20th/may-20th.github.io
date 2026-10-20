@@ -8472,6 +8472,21 @@ Author: Zero
 Name: JDAdBlock
 
 Package: com.zero.jdnoads
+Version: 11.0.1
+Architecture: iphoneos-arm64
+Maintainer: zero
+Depends: mobilesubstrate
+Filename: debs/com.zero.jdnoads_11.0.1_iphoneos-arm64.deb
+Size: 50084
+MD5sum: 43e04dc8dbd7f54c56c875d540faf6fb
+SHA1: fa8b24a992990d8c75211057fc5796ded86d0170
+SHA256: 3c3b8061f34618b7253a5c69157978d59da04138a673f69b67f035393e885005
+Section: Tweaks
+Description: 京东去广告 — 开屏拦截 / 底部Tab精简 / 我的页精简 / 广告位精确屏蔽
+Author: zero
+Name: JdNoAds
+
+Package: com.zero.jdnoads
 Version: 9.2.0
 Architecture: iphoneos-arm64
 Maintainer: zero
