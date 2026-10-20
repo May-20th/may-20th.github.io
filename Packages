@@ -8709,6 +8709,21 @@ Description: Sina Weather VIP Unlock by zero
 Author: zero
 Name: TianQiTongAdBlock
 
+Package: com.zero.unicomnoads
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: zero
+Depends: mobilesubstrate
+Filename: debs/com.zero.unicomnoads_1.3.0_iphoneos-arm64.deb
+Size: 33384
+MD5sum: 2ff678a018868c7a7d9f3e2c730f4563
+SHA1: f1c0a77217e6a4ac4d30ac2cc7636e5890d8cfd4
+SHA256: cb1fc219c7612e2153e4c56153c55de5824a71689ef83e69629523722b668157
+Section: Tweaks
+Description: 中国联通去广告 — 穿山甲广告拦截 / 底部 Tab 精简
+Author: zero
+Name: UnicomNoAds
+
 Package: com.zero.xhhadblock
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -8756,6 +8771,21 @@ Section: Tweaks
 Description: 闲鱼去广告 + 清爽首页/精简底部/精简我的页面 + 屏蔽更新/巨魔/越狱（一版通吃）
 Author: Zero
 Name: XianyuAdBlock
+
+Package: com.zero.zfbnoads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: zero
+Depends: mobilesubstrate
+Filename: debs/com.zero.zfbnoads_1.0.0_iphoneos-arm64.deb
+Size: 26426
+MD5sum: 25c9f0e5ca14b395543ef59628eb6e00
+SHA1: c275b63efe666bea2092c52f559bed7431af67a6
+SHA256: e73438a91fa6f519c38000be86bdf94d2dd6654c946e595d4f5f7000578b4883
+Section: Tweaks
+Description: 支付宝去广告 — 开屏 / 弹窗 / 悬浮 / banner / 推荐位拦截
+Author: zero
+Name: ZfbNoAds
 
 Package: com.zuner.lunajumpad
 Version: 1.4
