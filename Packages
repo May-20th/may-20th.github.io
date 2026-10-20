@@ -8724,6 +8724,21 @@ Description: Sina Weather VIP Unlock by zero
 Author: zero
 Name: TianQiTongAdBlock
 
+Package: com.zero.turritplugins
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: zero
+Depends: mobilesubstrate
+Filename: debs/com.zero.turritplugins_1.0.1_iphoneos-arm64.deb
+Size: 21556
+MD5sum: 625ec41758a2c219ca0e48af22623bbe
+SHA1: 6572913454d69d7f6b31b3d651ce354cf8a84562
+SHA256: 5b986fb5de59d2d571e6696ca985692a1afc6f683c43f15589fdedc0300dd9e3
+Section: Tweaks
+Description: Turrit 插件（去除分隔符 / 隐藏在线 / 关闭已读 / 去广告 / 解除截图限制）
+Author: zero
+Name: TurritPlugins
+
 Package: com.zero.unicomnoads
 Version: 1.3.0
 Architecture: iphoneos-arm64
