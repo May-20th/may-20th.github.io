@@ -8391,6 +8391,21 @@ Description: 过滤高德地图开屏广告与各页面推广（Loon 规则转 d
 Author: zero
 Name: 高德地图去广告
 
+Package: com.zero.amapadblock
+Version: 3.5.0
+Architecture: iphoneos-arm64
+Maintainer: zero
+Depends: mobilesubstrate (>= 0.9.7100)
+Filename: debs/com.zero.amapadblock_3.5.0_iphoneos-arm64.deb
+Size: 41338
+MD5sum: c0403c5a9b1d0f4a4e7a7ac270d04b2e
+SHA1: cbb61f0626683d16d3c91e7809b24d09083bab13
+SHA256: 8fad16dcc6d9057d4fc491e0e026b380f983118a923143176d9d69a9c3df895d
+Section: Tweaks
+Description: 过滤高德地图开屏广告与各页面推广（Loon 规则转 deb，JSCore 原样执行）
+Author: zero
+Name: 高德地图去广告
+
 Package: com.zero.amapclean
 Version: 3.2-1+debug
 Architecture: iphoneos-arm64e
