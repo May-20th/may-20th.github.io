@@ -215,6 +215,23 @@ Description: Unlock dynamic refresh rate from 80Hz to 120Hz.
 Author: zqbb
 Name: Hello 120Hz（免授权）
 
+Package: cn.zqbb.hello.bundleid
+Version: 1.6.1-5
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 10780
+Filename: debs/cn.zqbb.hello.bundleid_1.6.1-5_iphoneos-arm64e.deb
+Size: 2961700
+MD5sum: 1f5e8449cbff8fdd0c590ab44f4b10fd
+SHA1: 9490ff94b3ac41ba64cd97d852200cb0265b0b43
+SHA256: 5820fd3fe6014fe73e814b13797c71934bab3164b73059cdb14d4953b4e41792
+Section: Tweaks
+Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
+Name: Hello BundleID（免授权）
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
+
 Package: cn.zqbb.holdcpu
 Version: 2.3.5-5.mg1
 Architecture: iphoneos-arm64e
