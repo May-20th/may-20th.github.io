@@ -162,6 +162,24 @@ Description: 可注入可越狱使用。自定义步数，精简主页显示内�
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
+Package: cn.octoforce.squidextender.roothide
+Version: 3.7.4+offline.1
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 10254
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
+Conflicts: cn.octoforce.squidextender, com.squidforce.squidextender
+Filename: debs/cn.octoforce.squidextender.roothide_3.7.4+offline.1_iphoneos-arm64e.deb
+Size: 2306812
+MD5sum: c0538acf10927677f2cc2d48ca02ac97
+SHA1: 9e35a4fc272e42d2ba6ff17772e2143e9fc02a8b
+SHA256: 6eb6ce1c198d556894a19cea02977269a4bdeb6bc35b9167c11640e828134599
+Section: Tweaks
+Description: Local device-bound license recovery for SquidExtender 3.7.4. No activation server required. Device validation pending.
+Author: SquidForce, Backup
+Name: 乌贼键盘隐根（免授权）
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro.roothide
 Version: 2.7.6-1
 Architecture: iphoneos-arm64e
@@ -1227,6 +1245,23 @@ Section: Tweaks
 Description: 让简单截图，拥有更多可能。
 Author: 冰蓝
 Name: 全局水印Pro
+
+Package: com.bvm.wuzeililiang
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.bvm.wuzeililiang_1.0.1-1_iphoneos-arm64e.deb
+Size: 38092
+MD5sum: edbdb03513b16f3880b7acd7cd0554d9
+SHA1: c5f46ce1816793ee2fc7ca995cb98b92e6e61289
+SHA256: 8026c0829fe9c7b5febe958a962814756ff9bd35ac0c2ff6b706e8e210400960
+Section: Tweaks
+Description: 乌贼三件套通杀插件，内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）
+Author: BVN
+Icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
+Name: 乌贼本地离线授权
 
 Package: com.bvn.squidforcecrack.rl
 Version: 1.0.1-1
