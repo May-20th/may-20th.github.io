@@ -232,6 +232,60 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
 Name: Hello BundleID（免授权）
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
 
+Package: cn.zqbb.hello.memorystatus
+Version: 3.9.0-6
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 11476
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl
+Filename: debs/cn.zqbb.hello.memorystatus_3.9.0-6_iphoneos-arm64e.deb
+Size: 3066828
+MD5sum: 016394ecd99a940c0f5303c2097deae0
+SHA1: e94c6f899e18bbd266a8ede68192ca065cf77c1c
+SHA256: 0fe9dde077b63f01f8d8eed5178ad8a167330e3791539edd5e2fdefae90e223e
+Section: Tweaks
+Description: Set memorystatus to avoid being killed by the system
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
+Name: Hello Memory Status（免授权）
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
+
+Package: cn.zqbb.hello.qactions
+Version: 1.3.0-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 2480
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: debs/cn.zqbb.hello.qactions_1.3.0-1_iphoneos-arm64e.deb
+Size: 667242
+MD5sum: d1c2eed2cf3ade05ff843098f4c4083b
+SHA1: c982092856fc14b17c174e7eb522322979baac6c
+SHA256: 89cfb0a5ae3e6ac02ea397be642c90f8c838100ff80966b3a3006bd494ce227f
+Section: Tweaks
+Description: 通过锁屏界面的手电筒和相机快速调用指定APP快捷操作，体验一键直达。
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.qactions
+Name: Hello QActions（免授权）
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.qactions
+
+Package: cn.zqbb.hello.quick.panel
+Version: 1.0.0-5
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 5488
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/cn.zqbb.hello.quick.panel_1.0.0-5_iphoneos-arm64e.deb
+Size: 1498378
+MD5sum: cc5516f764f067f89e9112e4ec73c075
+SHA1: dd1510cf7350561120519321710400d932b02e43
+SHA256: 2ea05f0bcfd5ac568b68fa84a3024ebe62b96dfe9ca739ffc9d516473f0f34bc
+Section: Tweaks
+Description: 快捷面板~
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+Name: Hello QuickPanel（免授权）
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
+
 Package: cn.zqbb.holdcpu
 Version: 2.3.5-5.mg1
 Architecture: iphoneos-arm64e
