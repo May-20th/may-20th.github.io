@@ -144,6 +144,23 @@ Description: 可注入可越狱使用。自定义步数，精简主页显示内�
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
+Package: cn.zqbb.fix120hz
+Version: 3.3.3-3
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/cn.zqbb.fix120hz_3.3.3-3_iphoneos-arm64e.deb
+Size: 44096
+MD5sum: 5007a856a3ae908531c271c629e380ca
+SHA1: a910279f68472ef29d919aff50706dcb48c1093e
+SHA256: 9e9b0b217cd2b0942e7f51ffc87f05e0a7fbceefd792fba310d58e51b8920789
+Section: Tweaks
+Description: Unlock dynamic refresh rate from 80Hz to 120Hz.
+Author: zqbb
+Name: Hello 120Hz（免授权）
+
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -4564,6 +4581,22 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/switchpro.png
 Name: SwitchPro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/switchpro/js.json
 
+Package: com.siwenjiajia.tweak
+Version: 28.54
+Architecture: iphoneos-arm64
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Conflicts: com.siwenjiajia.tweak.comm, com.siwenjiajia.tweak.free
+Filename: debs/com.siwenjiajia.tweak_28.54_iphoneos-arm64.deb
+Size: 3689024
+MD5sum: 8d7d13e9f0e88dec56c4afb67b09084e
+SHA1: f718e599d89977e937392a4285d3ccb895d44241
+SHA256: f07b073f8ad9b3418783a0143d5803803ac1dca01bf657cbf06ba1466483aaa5
+Section: Tweaks
+Description: 抖音优化 交流版 28.54（免授权·完整版）。玻璃拟态、语音朗读、视频统计等，联网功能较多，仅自用。
+Author: siwenjiajia
+Name: 抖音优化（免授权）
+
 Package: com.snail.autovpn.rootless
 Version: 1.0.8
 Architecture: iphoneos-arm64
@@ -7328,6 +7361,22 @@ Section: Tweaks
 Description: cool
 Author: wkk
 Name: 全局弹窗
+
+Package: com.wkk.glasssuitex
+Version: 1.1-0-arm64e
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.wkk.glasssuitex_1.1-0-arm64e_iphoneos-arm64e.deb
+Size: 395776
+MD5sum: e05644b2bbf066f1de580da77a745355
+SHA1: 178a5ab3987957241cb90a614dd6a6c81c27c059
+SHA256: 8cb99cd454c1e744834e8ffb1385fac68c7d4d7cefb536ec1534d5e1e1e25dfe
+Section: Tweaks
+Description: wkk 卖 20 的液态弹窗，只去授权，安不安全自测
+Author: wkk
+Name: GlassSuiteX（免授权）
 
 Package: com.wkk.glasssuitex
 Version: 1.1-2
