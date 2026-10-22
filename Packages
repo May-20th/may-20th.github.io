@@ -162,6 +162,23 @@ Description: 可注入可越狱使用。自定义步数，精简主页显示内�
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
+Package: cn.octoforce.squidextender
+Version: 3.7.4-2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: debs/cn.octoforce.squidextender_3.7.4-2_iphoneos-arm64.deb
+Size: 2622882
+MD5sum: 966635cde69eafc3fa151aab3dcdf1ad
+SHA1: 2ecc398fa4808de6a23491e8126f1e49f1cab286
+SHA256: a6cd045958efc12418df9ec1a5b009e1444839f69713698bb65a754ac16d9c3b
+Section: Tweaks
+Description: SquidExtender + PCrack 离线授权（本地生成合法授权，不改二进制）
+Author: SquidForce, Backup
+Name: 乌贼键盘无根（免授权）
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidextender.roothide
 Version: 3.7.4+offline.1
 Architecture: iphoneos-arm64e
