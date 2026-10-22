@@ -162,6 +162,24 @@ Description: 可注入可越狱使用。自定义步数，精简主页显示内�
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
+Package: cn.octoforce.squidgesturepro.roothide
+Version: 2.7.6-1
+Architecture: iphoneos-arm64e
+Maintainer: 刀哥
+Installed-Size: 6762
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: cn.octoforce.squidgesturepro, com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: debs/cn.octoforce.squidgesturepro.roothide_2.7.6-1_iphoneos-arm64e.deb
+Size: 1795550
+MD5sum: 5d6527bd945e2f170e73db037852ea7e
+SHA1: 095879de267251b99d34cf3d5d6dac9753c5ff8b
+SHA256: 24c6797b59235393b85713338b1364595f95c49d14de713343a0c1bc5a26850a
+Section: Tweaks
+Description: Local device-bound license recovery for SquidGesturePro 2.7.6-1. No activation server required. Device validation pending.
+Author: 刀哥
+Name: 乌贼手势隐根（免授权）
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
 Package: cn.zqbb.fix120hz
 Version: 3.3.3-3
 Architecture: iphoneos-arm64e
