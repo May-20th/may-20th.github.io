@@ -232,6 +232,25 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
 Name: Hello BundleID（免授权）
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
 
+Package: cn.zqbb.hello.keyboard.ai
+Version: 6.6.6-3
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 11100
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.zqbb.hello.keyboard.ai
+Filename: debs/cn.zqbb.hello.keyboard.ai_6.6.6-3_iphoneos-arm64e.deb
+Size: 2811520
+MD5sum: cc726eded2c84cf5d0ef7809d2b9a926
+SHA1: 50a4cb6801dbd77c832c89750fa454c4d74829a7
+SHA256: 10b2e31d3ac910d763d09015d0aafce8fd08d6ce9e0bf18a0fdd5ddb98576507
+Section: Tweaks
+Description: Quickly activate AI mode.
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+Name: Hello 键盘侠（免授权）
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
+
 Package: cn.zqbb.hello.memorystatus
 Version: 3.9.0-6
 Architecture: iphoneos-arm64e
