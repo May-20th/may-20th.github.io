@@ -3735,6 +3735,58 @@ Author: PoomSmart
 Icon: https://www.susubaby.top/images/apppad.PNG
 Name: AppPad
 
+Package: com.rain.120hzstable
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.rain.120hzpro
+Filename: debs/com.rain.120hzstable_1.3.0_iphoneos-arm64.deb
+Size: 69954
+MD5sum: 910949d1355f856f05ede306965f4f61
+SHA1: a9a765a8c0773fb009afed7fed8acee2c62881fe
+SHA256: fc09a802eebdd6974b75bee14bdba9ab3adcefdbe7daa6848264ba7d9eb8b2ba
+Section: Tweaks
+Description: 专注核心 80Hz/120Hz 调度的精简方案；适合不需要 Pro 扩展功能、注重流畅稳定与低负担的用户。支持 iOS 15.0 及以上。
+Author: Rain
+Name: RainFlow 120Hz
+
+Package: com.rain.processmonitor
+Version: 1.1.1-14+unlocked
+Architecture: iphoneos-arm64e
+Maintainer: Rain
+Installed-Size: 1624
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rain.processmonitor_1.1.1-14+unlocked_iphoneos-arm64e.deb
+Size: 311952
+MD5sum: 8cff2f4ab5515c1f014d29529aea7553
+SHA1: ceec9ccdbe08320f3ce02c7e4c82ef6fc04585d2
+SHA256: c35d6c607463c03c119153578bfdb336b58693e218ce531486751a33e3181f61
+Section: Tweaks
+Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
+Author: Rain
+Name: Rain 的应用（免授权）
+
+Package: com.rain.rainmhz
+Version: 6.14.1-1
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 1320
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist (>= 1.0.4)
+Filename: debs/com.rain.rainmhz_6.14.1-1_iphoneos-arm64.deb
+Size: 183964
+MD5sum: 9c68928e2cab4229298e2de640cf1884
+SHA1: 0e4b192db287d928a787a19fe8fb9731877dafd3
+SHA256: 936598e512411a685da8ec0d623fdbeda410c0aa68d2ace876088e4e28ddf4e5
+Section: Tweaks
+Description: Rain的CPU性能与稳帧控制插件
+ 通过IOKit控制Apple ARM DVFS，支持低发热、均衡、极限性能、智能与稳帧模式
+ 包含动态仪表盘、分级设置、场景预设、温控、性能监控与智能后台管控
+Tag: role::hacker, purpose::extension
+Author: Rain
+Name: Rain 的 Mhz（免授权）
+
 Package: com.removewidgetbg
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -7857,6 +7909,23 @@ Section: Tweaks
 Description: 去除网易云音乐开屏广告、评论区广告，并自动领取激励视频听歌时长。
 Author: wkk
 Name: 网易云音乐去广告
+
+Package: com.wkk.onestepx
+Version: 1.1-0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 516
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 17.0)
+Filename: debs/com.wkk.onestepx_1.1-0_iphoneos-arm64e.deb
+Size: 111816
+MD5sum: d16ac13e352b02bbb93e44798bff05c0
+SHA1: 3ec2ae580adcbea3c30da251620317daed8cd883
+SHA256: eebc660432e9af8a7e62ee520569387eefd1edd4ac248102449ea0ce14e3a338
+Section: Tweaks
+Description: 为 iPhone 操作按钮、锁屏按钮、桌面、底部与状态栏提供独立动作。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: OneStepX（wkk）
 
 Package: com.wkk.qdreaderadblock
 Version: 1.0
