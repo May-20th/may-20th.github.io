@@ -1,3 +1,21 @@
+Package: byg.iosios.net.mango
+Version: 1.0-Beta4-2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 3548
+Depends: mobilesubstrate
+Filename: debs/byg.iosios.net.mango_1.0-Beta4-2_iphoneos-arm64.deb
+Size: 904652
+MD5sum: dc6b62ce6af67123b6f45db3cf894052
+SHA1: 8e1d7c19d02ab3061960e78e68322b0b99cd4a0b
+SHA256: fbea8ead09d1ec02991d9ba004aa85d8c55f8ef1d5a12b73940fd0c8003aacee
+Section: Tweaks
+Description: 一款非常不错的分屏插件，需要授权才能使用，但是免费功能可以液态玻璃 视频壁纸 双击锁屏 音量键锁屏等等，还是可以的，大家可以自行看看是否是自己需要的，觉得不错的可以支持一下！
+Author: go
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 芒果分屏1.0-Beta4-2（免授权）
+Sponsor: 搬运工
+
 Package: ch.xxtou.hudapp.jb
 Version: 2.0-13
 Architecture: iphoneos-arm64
@@ -213,6 +231,24 @@ Author: Netskao
 Icon: https://axs66.github.io/repo/icon/classickeyboardxs.png
 Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/classickeyboardxs/js.json
+
+Package: com.Axs.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Filename: debs/com.Axs.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 1273734
+MD5sum: 89a03ecc73f5f60700b7c9fdd7fe37d4
+SHA1: 8894d787688d29e65fc07f0bdf0144796c64fa9e
+SHA256: 1fa090a837b2c4d059e4e8136275bbfeaafd66d58c981e320ed7893e4ddd2d5d
+Section: Tweaks
+Description: 将截图钉在屏幕上，此为破解版，内置透光图标。
+Author: Jonathan Winger-lang
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: snapper3（免授权）
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
 
 Package: com.Axs.wcsurfacetrim
 Version: 1.0
