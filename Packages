@@ -1179,6 +1179,23 @@ Description: 灵动岛背景？
 Author: 冰蓝
 Name: DynamicFX
 
+Package: com.binglan.filmphotos
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 冰蓝
+Installed-Size: 5320
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: debs/com.binglan.filmphotos_1.0.4_iphoneos-arm64e.deb
+Size: 2657860
+MD5sum: 967e2abf6e0c6c1e1a4b72c2a2a72a64
+SHA1: ba774a21a1089d79662e2015bfdb0ef1cf4b828f
+SHA256: d6810c45933d3587ee4d0175388bce2f6f720b446ef149508eb82270a203350a
+Section: Tweaks
+Description: 为系统照片编辑增加富士、拍立得等 lut 预设，以及一些个性化小功能。
+Author: 冰蓝
+Icon: https://raw.githubusercontent.com/bl809000/Authorize/main/png/IMG_3626.png
+Name: FilmReborn(RootHide)
+
 Package: com.binglan.kongzhidiy
 Version: 2.3.3-end
 Architecture: iphoneos-arm64
