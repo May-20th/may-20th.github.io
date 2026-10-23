@@ -1525,6 +1525,22 @@ Icon: https://axs66.github.io/pro/icon/trollopenjb.png
 Name: TrollOpen 分屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
+Package: com.charlieleung.vpndirect
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/com.charlieleung.vpndirect_1.0.0_iphoneos-arm64e.deb
+Size: 410836
+MD5sum: 1bc1d9730a3ee37814201700bcc009a6
+SHA1: 64bb7318d7fca6b67f4b377a16584567cb4cb38b
+SHA256: 501d2516b850603f71230b1499cc18cc56f3e3d4b75e65cd934afce83014de52
+Section: Tweaks
+Description: 按应用绕过 VPN 直连，提供应用内 VPN 检测兼容与独立设置。
+Author: Charlie Leung
+Name: VPN Direct
+
 Package: com.colorblack.alinfcwakefix
 Version: 0.0.35
 Architecture: iphoneos-arm64
