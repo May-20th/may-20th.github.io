@@ -8296,6 +8296,22 @@ Description: 去除直播吧开屏广告及应用内广告
 Author: wkk
 Name: 直播吧去广告
 
+Package: com.x.wctabbar
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Riee
+Installed-Size: 76
+Depends: mobilesubstrate (>= 0.9.7000)
+Filename: debs/com.x.wctabbar_1.0.1_iphoneos-arm64.deb
+Size: 8218
+MD5sum: a0a451fbf95c93fa43f5417ee71231a8
+SHA1: 88fb407a31357fb09bd30aacab8a45d227e9836a
+SHA256: 82c2851bffaae0bbd3fe7b3e52e9a7625d78b3a4442ba094eac5899442779093
+Section: Tweaks
+Description: 让微信底栏回归 iOS 26 原生 Liquid Glass 浮动样式
+Author: Riee
+Name: wctabbar
+
 Package: com.xlzs001.dystorage
 Version: 1.2.72
 Architecture: iphoneos-arm64
