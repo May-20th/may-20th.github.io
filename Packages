@@ -6545,6 +6545,23 @@ Author: SuSu
 Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 Name: ScreenCore
 
+Package: com.susudear.screencore
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 3092
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_2.0.5_iphoneos-arm64.deb
+Size: 488348
+MD5sum: 5b36bd730f37cb97fb646b4b6803911c
+SHA1: 495454938955b97b38efeb0b37fbb9f44145f21c
+SHA256: 8903fda645161fe257d99d6c2ae078fb7ba786b67a78fae7e1b0067d9530ea34
+Section: Tweaks
+Description: 分屏而已
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Name: ScreenCore
+
 Package: com.susudear.stayshot
 Version: 0.2.8
 Architecture: iphoneos-arm64
