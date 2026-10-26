@@ -3733,10 +3733,10 @@ Maintainer: mlgm
 Installed-Size: 888
 Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
 Filename: debs/com.mlgm.prefnest_1.2.2_iphoneos-arm64.deb
-Size: 193126
-MD5sum: 2aceb1c238a8de6984d260c5b7d649c5
-SHA1: 4095385d31037bbde10ccb5462b1fc63b19ce494
-SHA256: 693ea2823bebacbc2f5b2e1044b15c226d44aba3ee93e842610367375a2b299e
+Size: 172652
+MD5sum: e5f3459eb054352fcf3f1a8569b1e7dd
+SHA1: a0a562564670ced2a00fa6882df3a0b6cfef5ef5
+SHA256: 5f074e8c2dd3fa5ec4e95255c2314144a69553e6274ac4eb93bab43eb7c60111
 Section: Tweaks
 Description: 整理设置首页，集中收纳越狱插件。
 Author: mlgm
@@ -9907,6 +9907,23 @@ Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
 Author: junhong
+Name: 红果净化
+
+Package: hongguofn
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 4504
+Depends: firmware (>= 15.0)
+Filename: debs/hongguofn_2.0.1_iphoneos-arm64.deb
+Size: 2206468
+MD5sum: 077e33e6369ba4cd4672ca6378ed8a09
+SHA1: 40b591dcf2be43ab8b481a4d5012024634c0dbfd
+SHA256: b47c960be3b9ac952fad32d93cfa9547e502d6cad64aa1990554e5a3bd22660f
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
+Author: Junhong
 Name: 红果净化
 
 Package: im.mjh.alipay2nfc
