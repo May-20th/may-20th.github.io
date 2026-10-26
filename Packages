@@ -2368,10 +2368,10 @@ Architecture: iphoneos-arm64e
 Maintainer: hades
 Depends: mobilesubstrate
 Filename: debs/com.hades.pullclearnc_2.1_iphoneos-arm64e.deb
-Size: 22572
-MD5sum: 28ec37fd5026850c02c0261ce7ecf8ee
-SHA1: 5439262a8d3b9c0f66e058a602ddf3e435a5063c
-SHA256: 7bc95ff7ce0bde7c8305a2ad3adb0cf3b3ca7619f2be6f00123081075b9b9cbd
+Size: 21624
+MD5sum: f84863c8b2fa1635407a351a9bcaacb0
+SHA1: 21bd7c0cef7c27b415dfe0cf696c5c3d0d4f2ea2
+SHA256: 3d5c5ddc5dbb593c5a6a4017c497f137fc37d92890c057b8d2ca2e14490cadce
 Section: Tweaks
 Description: 锁屏/通知中心下拉即可清空全部通知，原作者Netskao，更新支持iOS16+；本版新增设置页，可用滑条调整触发距离（默认关闭，需在设置里开启）。
 Author: hades
@@ -7791,6 +7791,57 @@ Section: Tweaks
 Description: WXKeyboardUIHook
 Author: TiaoTiao
 Name: WXKeyboardUIHook
+
+Package: com.touchWorld.bilibiliTweak
+Version: 3.1.0
+Architecture: iphoneos-arm64
+Maintainer: TouchWorld
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchWorld.bilibiliTweak_3.1.0_iphoneos-arm64.deb
+Size: 192068
+MD5sum: 71a8fc98ef0e62ca7377bfacf396888b
+SHA1: ce1481b17b2459fd08499dd7ad872197b06b694f
+SHA256: c740ccd1ccabc9b4d74139e35103fec76dfd6dacd2c9d6a53abce25c6ef55b9c
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/BiliBiliTweak
+Description: 去除哔哩哔哩广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
+Name: BilibiliTweak
+
+Package: com.touchWorld.doubanTweak
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: TouchWorld
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchWorld.doubanTweak_1.2.0_iphoneos-arm64.deb
+Size: 25620
+MD5sum: 0e3d231c908bd2293b9ae68c993db0ef
+SHA1: bcc5b0efd09124917d23426cafd5c34666b2c990
+SHA256: f4fe9a67aecbc19e0dc51b97afc611e5666b1c9d04bda5e3985e93b5119326b4
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/DoubanTweak
+Description: 去除豆瓣广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
+Name: DoubanTweak
+
+Package: com.touchworld.QQMusicPure
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchworld.QQMusicPure_1.0.0_iphoneos-arm64.deb
+Size: 9596
+MD5sum: 9a7fe88bd7fa9cd03e6a368abf1e0799
+SHA1: 0d3f6b4fff36503c99adbc9df5d5c2a2c7748d08
+SHA256: 09cae8befa18ca360dbe39b4296ed99d1ffba79742a172c228c601246ae8469d
+Section: Tweaks
+Priority: optional
+Description: QQ音乐增强插件
+Author: touchWorld
+Name: QQMusicPure
 
 Package: com.wcneo.free
 Version: 1.1.2-3
