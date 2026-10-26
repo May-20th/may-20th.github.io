@@ -2347,6 +2347,36 @@ Description: 闲鱼商品嗅探 + 筛选捡漏工具。悬浮球面板可按机�
 Author: 故
 Name: 闲鱼捡漏
 
+Package: com.hades.pullclearnc
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: hades
+Depends: mobilesubstrate
+Filename: debs/com.hades.pullclearnc_2.0_iphoneos-arm64e.deb
+Size: 5800
+MD5sum: b8fd6342b93aa59eef821cd209366d49
+SHA1: 8837636ad04c95c1f7bb14fb9dac67a08be2e34d
+SHA256: 2108bdb60f5395b24879fbdfe987d2040303161d690a3e9a54bdc377561eef40
+Section: Tweaks
+Description: 锁屏/通知中心下拉即可清空全部通知，原作者Netskao，更新支持iOS16+。
+Author: hades
+Name: PullClearNC(RootHide)
+
+Package: com.hades.pullclearnc
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: hades
+Depends: mobilesubstrate
+Filename: debs/com.hades.pullclearnc_2.1_iphoneos-arm64e.deb
+Size: 22572
+MD5sum: 28ec37fd5026850c02c0261ce7ecf8ee
+SHA1: 5439262a8d3b9c0f66e058a602ddf3e435a5063c
+SHA256: 7bc95ff7ce0bde7c8305a2ad3adb0cf3b3ca7619f2be6f00123081075b9b9cbd
+Section: Tweaks
+Description: 锁屏/通知中心下拉即可清空全部通知，原作者Netskao，更新支持iOS16+；本版新增设置页，可用滑条调整触发距离（默认关闭，需在设置里开启）。
+Author: hades
+Name: PullClearNC(RootHide)
+
 Package: com.hang.zzzj
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm64
@@ -9916,10 +9946,10 @@ Maintainer: Junhong
 Installed-Size: 4504
 Depends: firmware (>= 15.0)
 Filename: debs/hongguofn_2.0.1_iphoneos-arm64.deb
-Size: 2206468
-MD5sum: 077e33e6369ba4cd4672ca6378ed8a09
-SHA1: 40b591dcf2be43ab8b481a4d5012024634c0dbfd
-SHA256: b47c960be3b9ac952fad32d93cfa9547e502d6cad64aa1990554e5a3bd22660f
+Size: 1948874
+MD5sum: 762572a474bbaacced5410b28062fdd3
+SHA1: 80dee1eb6ea3862edcad882cebdf946a2b593872
+SHA256: 1ad7b9bc50697b67f58243f2bee8559ffd1473c48c446e7c235411e51bbba5bb
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
