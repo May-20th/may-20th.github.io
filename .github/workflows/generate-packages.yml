@@ -4,7 +4,6 @@ on:
     paths:
       - 'debs/**'
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,17 +16,27 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y dpkg-dev zstd
+          sudo apt-get install -y dpkg-dev zstd fakeroot
 
-      - name: Fix deb permissions (兜底)
+      - name: Repair deb (清理Mac xattr + 修复control权限)
         run: |
-          # 给所有deb包添加全局读权限，强制解决Permission denied
-          sudo chmod -R 644 debs/*.deb
-          sudo chown -R $(whoami):$(whoami) debs/
+          for deb in debs/*.deb; do
+            if [ -f "$deb" ]; then
+              tmp=$(mktemp -d)
+              # 解压deb
+              fakeroot dpkg-deb -R "$deb" "$tmp"
+              # 强制修复DEBIAN目录和control权限
+              chmod 755 "$tmp/DEBIAN"
+              chmod 644 "$tmp/DEBIAN/control"
+              # 重新打包成干净deb，清除苹果扩展属性
+              fakeroot dpkg-deb -b "$tmp" "$deb"
+              rm -rf "$tmp"
+            fi
+          done
 
       - name: Generate Packages
         run: |
-          dpkg-scanpackages --multiversion debs /dev/null > Packages.raw
+          fakeroot dpkg-scanpackages --multiversion debs /dev/null > Packages.raw
           sed -E 's/^Section:.*$/Section: Tweaks/' Packages.raw > Packages
           zstd -f Packages -o Packages.zst
           rm -f Packages.raw
