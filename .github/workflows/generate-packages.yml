@@ -18,9 +18,20 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y dpkg-dev zstd fakeroot
 
-      - name: Repair deb (清理Mac xattr + 修复control + 修复脚本执行权限)
+      - name: Get changed deb files
+        id: getchanged
         run: |
-          for deb in debs/*.deb; do
+          # 获取本次提交新增/修改的deb
+          CHANGED_DEBS=$(git diff --name-only HEAD^ HEAD | grep '^debs/.*\.deb$' || true)
+          echo "changed_debs<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGED_DEBS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGED_DEBS"
+
+      - name: Repair only changed deb
+        if: steps.getchanged.outputs.changed_debs != ''
+        run: |
+          for deb in ${{ steps.getchanged.outputs.changed_debs }}; do
             if [ -f "$deb" ]; then
               tmp=$(mktemp -d)
               fakeroot dpkg-deb -R "$deb" "$tmp"
