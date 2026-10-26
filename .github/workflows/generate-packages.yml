@@ -16,23 +16,24 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y dpkg-dev zstd fakeroot
+          sudo apt-get install -y dpkg-dev zstd fakeroot attr
 
       - name: Get changed deb files
         id: getchanged
         run: |
-          # 获取本次提交新增/修改的deb
           CHANGED_DEBS=$(git diff --name-only HEAD^ HEAD | grep '^debs/.*\.deb$' || true)
           echo "changed_debs<<EOF" >> $GITHUB_OUTPUT
           echo "$CHANGED_DEBS" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
           echo "$CHANGED_DEBS"
 
-      - name: Repair only changed deb
+      - name: Repair only changed deb (Clear xattr + fix permission)
         if: steps.getchanged.outputs.changed_debs != ''
         run: |
           for deb in ${{ steps.getchanged.outputs.changed_debs }}; do
             if [ -f "$deb" ]; then
+              # 清除mac扩展属性，新增这一行！
+              setfattr --remove-all "$deb" 2>/dev/null || true
               tmp=$(mktemp -d)
               fakeroot dpkg-deb -R "$deb" "$tmp"
               chmod 755 "$tmp/DEBIAN"
