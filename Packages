@@ -3709,6 +3709,40 @@ Description: 七猫小说去广告
 Author: M哥
 Name: QMFree
 
+Package: com.mlgm.prefnest
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 872
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: debs/com.mlgm.prefnest_1.2_iphoneos-arm64.deb
+Size: 169054
+MD5sum: 9df58228df091e63a6117bdf55b2985c
+SHA1: 60f4e5a5466cde6593501b27dc8a89d765aac065
+SHA256: 3f021b93f65458a7f9adec7782b4691e58ea0ffb89870d4a0542142d78334013
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
+Package: com.mlgm.prefnest
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: debs/com.mlgm.prefnest_1.2.2_iphoneos-arm64.deb
+Size: 193126
+MD5sum: 2aceb1c238a8de6984d260c5b7d649c5
+SHA1: 4095385d31037bbde10ccb5462b1fc63b19ce494
+SHA256: 693ea2823bebacbc2f5b2e1044b15c226d44aba3ee93e842610367375a2b299e
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
 Package: com.mtac.vitreux
 Version: 1.4
 Architecture: iphoneos-arm64
