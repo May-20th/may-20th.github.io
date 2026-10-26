@@ -18,17 +18,18 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y dpkg-dev zstd fakeroot
 
-      - name: Repair deb (清理Mac xattr + 修复control权限)
+      - name: Repair deb (清理Mac xattr + 修复control + 修复脚本执行权限)
         run: |
           for deb in debs/*.deb; do
             if [ -f "$deb" ]; then
               tmp=$(mktemp -d)
-              # 解压deb
               fakeroot dpkg-deb -R "$deb" "$tmp"
-              # 强制修复DEBIAN目录和control权限
               chmod 755 "$tmp/DEBIAN"
               chmod 644 "$tmp/DEBIAN/control"
-              # 重新打包成干净deb，清除苹果扩展属性
+              [ -f "$tmp/DEBIAN/preinst" ] && chmod 755 "$tmp/DEBIAN/preinst"
+              [ -f "$tmp/DEBIAN/postinst" ] && chmod 755 "$tmp/DEBIAN/postinst"
+              [ -f "$tmp/DEBIAN/prerm" ] && chmod 755 "$tmp/DEBIAN/prerm"
+              [ -f "$tmp/DEBIAN/postrm" ] && chmod 755 "$tmp/DEBIAN/postrm"
               fakeroot dpkg-deb -b "$tmp" "$deb"
               rm -rf "$tmp"
             fi
