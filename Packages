@@ -7798,10 +7798,10 @@ Architecture: iphoneos-arm64
 Maintainer: TouchWorld
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.touchWorld.bilibiliTweak_3.1.0_iphoneos-arm64.deb
-Size: 192068
-MD5sum: 71a8fc98ef0e62ca7377bfacf396888b
-SHA1: ce1481b17b2459fd08499dd7ad872197b06b694f
-SHA256: c740ccd1ccabc9b4d74139e35103fec76dfd6dacd2c9d6a53abce25c6ef55b9c
+Size: 229740
+MD5sum: 7e3f34a7d770d20619c7132bcb32c955
+SHA1: 0064f872a4d6fe8da83fde152af6917dcea18034
+SHA256: b53d8c73dd5e7c6b3c8547283ac1e25ae84dc2e98daaabe695c3ac169cc6acaf
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/TouchFriend/BiliBiliTweak
@@ -10001,6 +10001,23 @@ Size: 1948874
 MD5sum: 762572a474bbaacced5410b28062fdd3
 SHA1: 80dee1eb6ea3862edcad882cebdf946a2b593872
 SHA256: 1ad7b9bc50697b67f58243f2bee8559ffd1473c48c446e7c235411e51bbba5bb
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
+Author: Junhong
+Name: 红果净化
+
+Package: hongguofn
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 4520
+Depends: firmware (>= 15.0)
+Filename: debs/hongguofn_2.0.2_iphoneos-arm64.deb
+Size: 2210900
+MD5sum: a98e7a4468bf259e94483fcc3640a606
+SHA1: 84bc31ee1d8020d31895280dd26dcbd68176fe10
+SHA256: 5500b31d18a69a7adc2ed07bcf7b1c0ef0d0a62222e2e62b74a11fa610a0534d
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
