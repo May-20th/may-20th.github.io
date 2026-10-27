@@ -2859,6 +2859,45 @@ Author: Iris
 Name: WeChatNeo
 
 Package: com.jibamao.gaodeclean
+Version: 0.9.110+trial71
+Architecture: iphoneos-arm64
+Maintainer: jibamao
+Installed-Size: 420
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.jibamao.gaodeclean_0.9.110+trial71_iphoneos-arm64.deb
+Size: 91694
+MD5sum: 583d56eaa3d1d40ffbb335fcb7f7f5d0
+SHA1: 0419af03d7e87f40967d886dfaca024990564dde
+SHA256: 3fd0d6e164164368dafdf26c60a2b2a7c33846c46ab7aa1ac1975bbd12b889c2
+Section: Tweaks
+Description: 高德地图界面精简 · 纯本地运行
+ 把多余的视觉干扰去掉，把该在的位置摆回原样；不抓网络、不改安装包、不采集任何数据。
+ .
+ 添加源 https://gan-jibamao.github.io 后搜索 GaodeClean 即可安装（RootHide 选 arm64e，
+ Dopamine / rootless 选 arm64，两者不可同时安装）。
+ .
+ 界面精简：
+  • 去底栏「上拉发现」引导提示，去上拉白雾与闪白
+  • 去顶部高斯模糊带，去首页白块
+ .
+ 位置归位（对表高德原生布局）：
+  • 搜索栏 / 天气行 / 连接车机 / 2D·3D / 定位·路线胶囊，各归其位
+  • 2D·3D 按钮回到定位·路线胶囊正上方
+  • 连接车机按钮位于天气行上方，天气行与按钮左对齐
+ .
+ 稳定不闪：
+  • 切页、切 2D·3D 不再跳动
+  • 冷启动全程不会在屏幕中部闪出按钮
+ .
+ 全版本自适应：按控件特征判定，不绑定具体高德版本号。
+ 只改界面显示，不影响搜索、导航、路线规划等原有功能。
+ 装后请注销（sbreload）或重启用户空间再打开高德。
+ .
+ 常用说明与更新日志见仓库 Release 页面。
+Author: jibamao
+Name: GaodeClean 高德精简
+
+Package: com.jibamao.gaodeclean
 Version: 0.9.20
 Architecture: iphoneos-arm64
 Maintainer: jibamao
@@ -10031,10 +10070,10 @@ Maintainer: Junhong
 Installed-Size: 4568
 Depends: firmware (>= 15.0)
 Filename: debs/hongguofn_2.0.3_iphoneos-arm64.deb
-Size: 2235044
-MD5sum: 2142edb03af14238419a0ea4e9189a78
-SHA1: f648d610d2047660b4e316e3160b118200e8d9fc
-SHA256: 9ca32ee43a65e29a589c73374573ca5bbd70c5b72ad38c73167a0b6d712e6285
+Size: 1974682
+MD5sum: aeb05160f015eb79d58b963ada66444f
+SHA1: e23c393d9724a028750a14c4f4dae6158f31d5bd
+SHA256: d4e5f601a1442b2127dbb42ec40c33836de993fce68946c70c67be7af65feaad
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
