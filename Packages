@@ -10014,10 +10014,27 @@ Maintainer: Junhong
 Installed-Size: 4520
 Depends: firmware (>= 15.0)
 Filename: debs/hongguofn_2.0.2_iphoneos-arm64.deb
-Size: 2210900
-MD5sum: a98e7a4468bf259e94483fcc3640a606
-SHA1: 84bc31ee1d8020d31895280dd26dcbd68176fe10
-SHA256: 5500b31d18a69a7adc2ed07bcf7b1c0ef0d0a62222e2e62b74a11fa610a0534d
+Size: 1952836
+MD5sum: 6dd06508a6da1089ce93580df4fda7b6
+SHA1: da23b2b8d06de1e51d52d2d6217fd9c624522087
+SHA256: dfba100184f1105e912fbc39836e0e54d026a0072d70ed1ce028c51b38684d12
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
+Author: Junhong
+Name: 红果净化
+
+Package: hongguofn
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 4568
+Depends: firmware (>= 15.0)
+Filename: debs/hongguofn_2.0.3_iphoneos-arm64.deb
+Size: 2235044
+MD5sum: 2142edb03af14238419a0ea4e9189a78
+SHA1: f648d610d2047660b4e316e3160b118200e8d9fc
+SHA256: 9ca32ee43a65e29a589c73374573ca5bbd70c5b72ad38c73167a0b6d712e6285
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
