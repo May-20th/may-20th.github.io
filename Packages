@@ -70,7 +70,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X: h_h_x_t
 Installed-Size: 112
 Depends: mobilesubstrate
-Filename: debs/cn.llld.biaoji_1.2_iphoneos-arm64.deb
+Filename: debs/单排截图标记（功能少几个）-arm64.deb
 Size: 19232
 MD5sum: cd6564c0cf4fe516398adbd059eb8a3e
 SHA1: a763c2e566dd4f800bad842aabad8b9a16e9bc53
@@ -86,7 +86,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X: h_h_x_t
 Installed-Size: 112
 Depends: mobilesubstrate
-Filename: debs/单排截图标记（功能少几个）-arm64.deb
+Filename: debs/cn.llld.biaoji_1.2_iphoneos-arm64.deb
 Size: 19232
 MD5sum: cd6564c0cf4fe516398adbd059eb8a3e
 SHA1: a763c2e566dd4f800bad842aabad8b9a16e9bc53
@@ -341,6 +341,22 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.holdcpu
 Name: Hello CPU（免授权）
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.holdcpu
 
+Package: com.25mao.wcplugins.rootless
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: developer
+Installed-Size: 224
+Depends: ellekit (>= 1.0)
+Filename: debs/com.25mao.wcplugins.rootless_1.0.9_iphoneos-arm64.deb
+Size: 48972
+MD5sum: 22fc557eb469c2c341de36d0f005463c
+SHA1: e0a4c2e7c4e360d8c418a916c63002976ff15cfa
+SHA256: 64b07e68fbcdae409852b8c263e97b7f1f3136ced914aa91f2c2ee67a5e1a6c9
+Section: Tweaks
+Description: 微信插件管理器：接管原生插件页，提供插件注册/列表/开关
+Author: developer
+Name: 微信插件管理-Rootless
+
 Package: com.34306.watched
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -573,10 +589,10 @@ Conflicts: com.anyi.wcpluginsclone (<< 4.2.3), com.anyi.wcpluginsclone-v3.2.0-be
 Replaces: com.anyi.wcpluginsclone (<< 4.2.3), com.anyi.wcpluginsclone-v3.2.0-beta1 (<< 4.2.3), com.anyi.wcpluginsclone-v3.2.0-beta2 (<< 4.2.3), com.anyi.wcpluginsclone-v3.2.0-beta3 (<< 4.2.3), com.anyi.wcpluginsclone-v3.3.0 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.0 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.1 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.2 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.3 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.4 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.5 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.6 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.7 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.8 (<< 4.2.3), com.anyi.wcpluginsclone-v3.4.9 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.0 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.1 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.10 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.2 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.3 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.4 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.5 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.6 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.7 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.8 (<< 4.2.3), com.anyi.wcpluginsclone-v3.5.9 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.0 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.1 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.2 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.3 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.4 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.5 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.6 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.7 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.8 (<< 4.2.3), com.anyi.wcpluginsclone-v3.6.9 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.0 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.1 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.2 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.3 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.4 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.5 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.6 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.7 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.8 (<< 4.2.3), com.anyi.wcpluginsclone-v3.7.9 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.0 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.1 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.2 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.3 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.4 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.5 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.6 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.7 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.8 (<< 4.2.3), com.anyi.wcpluginsclone-v3.8.9 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.0 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.1 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.2 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.3 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.4 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.5 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.6 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.7 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.8 (<< 4.2.3), com.anyi.wcpluginsclone-v3.9.9 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.0 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.1 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.2 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.3 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.4 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.5 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.6 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.7 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.8 (<< 4.2.3), com.anyi.wcpluginsclone-v4.0.9 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.0 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.1 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.2 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.3 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.4 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.5 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.6 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.7 (<< 4.2.3), com.anyi.wcpluginsclone-v4.1.8 (<< 4.2.3), com.tianlai.wcpluginsclone (<< 4.2.3)
 Provides: com.anyi.wcpluginsclone, com.anyi.wcpluginsclone-v3.2.0-beta1, com.anyi.wcpluginsclone-v3.2.0-beta2, com.anyi.wcpluginsclone-v3.2.0-beta3, com.anyi.wcpluginsclone-v3.3.0, com.anyi.wcpluginsclone-v3.4.0, com.anyi.wcpluginsclone-v3.4.1, com.anyi.wcpluginsclone-v3.4.2, com.anyi.wcpluginsclone-v3.4.3, com.anyi.wcpluginsclone-v3.4.4, com.anyi.wcpluginsclone-v3.4.5, com.anyi.wcpluginsclone-v3.4.6, com.anyi.wcpluginsclone-v3.4.7, com.anyi.wcpluginsclone-v3.4.8, com.anyi.wcpluginsclone-v3.4.9, com.anyi.wcpluginsclone-v3.5.0, com.anyi.wcpluginsclone-v3.5.1, com.anyi.wcpluginsclone-v3.5.10, com.anyi.wcpluginsclone-v3.5.2, com.anyi.wcpluginsclone-v3.5.3, com.anyi.wcpluginsclone-v3.5.4, com.anyi.wcpluginsclone-v3.5.5, com.anyi.wcpluginsclone-v3.5.6, com.anyi.wcpluginsclone-v3.5.7, com.anyi.wcpluginsclone-v3.5.8, com.anyi.wcpluginsclone-v3.5.9, com.anyi.wcpluginsclone-v3.6.0, com.anyi.wcpluginsclone-v3.6.1, com.anyi.wcpluginsclone-v3.6.2, com.anyi.wcpluginsclone-v3.6.3, com.anyi.wcpluginsclone-v3.6.4, com.anyi.wcpluginsclone-v3.6.5, com.anyi.wcpluginsclone-v3.6.6, com.anyi.wcpluginsclone-v3.6.7, com.anyi.wcpluginsclone-v3.6.8, com.anyi.wcpluginsclone-v3.6.9, com.anyi.wcpluginsclone-v3.7.0, com.anyi.wcpluginsclone-v3.7.1, com.anyi.wcpluginsclone-v3.7.2, com.anyi.wcpluginsclone-v3.7.3, com.anyi.wcpluginsclone-v3.7.4, com.anyi.wcpluginsclone-v3.7.5, com.anyi.wcpluginsclone-v3.7.6, com.anyi.wcpluginsclone-v3.7.7, com.anyi.wcpluginsclone-v3.7.8, com.anyi.wcpluginsclone-v3.7.9, com.anyi.wcpluginsclone-v3.8.0, com.anyi.wcpluginsclone-v3.8.1, com.anyi.wcpluginsclone-v3.8.2, com.anyi.wcpluginsclone-v3.8.3, com.anyi.wcpluginsclone-v3.8.4, com.anyi.wcpluginsclone-v3.8.5, com.anyi.wcpluginsclone-v3.8.6, com.anyi.wcpluginsclone-v3.8.7, com.anyi.wcpluginsclone-v3.8.8, com.anyi.wcpluginsclone-v3.8.9, com.anyi.wcpluginsclone-v3.9.0, com.anyi.wcpluginsclone-v3.9.1, com.anyi.wcpluginsclone-v3.9.2, com.anyi.wcpluginsclone-v3.9.3, com.anyi.wcpluginsclone-v3.9.4, com.anyi.wcpluginsclone-v3.9.5, com.anyi.wcpluginsclone-v3.9.6, com.anyi.wcpluginsclone-v3.9.7, com.anyi.wcpluginsclone-v3.9.8, com.anyi.wcpluginsclone-v3.9.9, com.anyi.wcpluginsclone-v4.0.0, com.anyi.wcpluginsclone-v4.0.1, com.anyi.wcpluginsclone-v4.0.2, com.anyi.wcpluginsclone-v4.0.3, com.anyi.wcpluginsclone-v4.0.4, com.anyi.wcpluginsclone-v4.0.5, com.anyi.wcpluginsclone-v4.0.6, com.anyi.wcpluginsclone-v4.0.7, com.anyi.wcpluginsclone-v4.0.8, com.anyi.wcpluginsclone-v4.0.9, com.anyi.wcpluginsclone-v4.1.0, com.anyi.wcpluginsclone-v4.1.1, com.anyi.wcpluginsclone-v4.1.2, com.anyi.wcpluginsclone-v4.1.3, com.anyi.wcpluginsclone-v4.1.4, com.anyi.wcpluginsclone-v4.1.5, com.anyi.wcpluginsclone-v4.1.6, com.anyi.wcpluginsclone-v4.1.7, com.anyi.wcpluginsclone-v4.1.8, com.tianlai.wcpluginsclone
 Filename: debs/com.anyi.wcpluginsclone-v4.1.9_4.2.3+fix2_iphoneos-arm64.deb
-Size: 423114
-MD5sum: a02fdf2831adf9b4f19e257337800474
-SHA1: 7dbf3c84da3a72d7075b9c984e8009dfd5590a59
-SHA256: 3fc24100640cf8ee49dd9f42ff43e4b134f4cef9436e993d80e2e41164864e93
+Size: 371112
+MD5sum: 60a3db8cfef988dcfa0ea6c5ac551b0f
+SHA1: afeabbb11d3a403ab145d86235a3cea921df946b
+SHA256: da66877796a90316cdc0ed86f7b3cdd6a7d5b87842656c0755cf08a10b013462
 Section: Tweaks
 Description: 一款免费的现代化的绿泡泡插件管理箱子。
  1.内置多款排列样式。
@@ -1175,7 +1191,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 772
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/binglan.dynamicfx_1.0.7-arm64.deb
+Filename: debs/binglan.灵动岛背景_1.0.7-arm64.deb
 Size: 73168
 MD5sum: c98336dfe8dec7902e2cb19b9d4ab9c3
 SHA1: 09cfc11fc1753466dd0a190cd34ca4a86a783c19
@@ -1191,7 +1207,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 772
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/binglan.灵动岛背景_1.0.7-arm64.deb
+Filename: debs/binglan.dynamicfx_1.0.7-arm64.deb
 Size: 73168
 MD5sum: c98336dfe8dec7902e2cb19b9d4ab9c3
 SHA1: 09cfc11fc1753466dd0a190cd34ca4a86a783c19
@@ -2459,13 +2475,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2980
+Installed-Size: 3372
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#10-arm64.deb
-Size: 655448
-MD5sum: aa9b6759ab009d93af262f8863c1e054
-SHA1: 43f30ac9075c89a617fa36cf245efcf3416b0df6
-SHA256: e6e4df5088897cfcfaf7ac82d1d4d1bbd71ab8fc3816fe880ccdce27f45f49d8
+Filename: debs/com.huami.dyyy_2.3-0_iphoneos-arm64.deb
+Size: 743086
+MD5sum: 40df297740bd43a98eb599a838735c9c
+SHA1: 997a2e27bd175d2026315150e8a3639c627ccc72
+SHA256: 5a5474bf1051ab020a2dad6fa62f6e0d1c25d035ca4746fb50a5dd05dfdc2b8a
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2478,89 +2494,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2964
+Installed-Size: 3064
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#7-arm64.deb
-Size: 651002
-MD5sum: 3e799b1a93f9d138044a890e14a78fc8
-SHA1: fa3c35d15924fea0d869a7609b3f38fd584326f6
-SHA256: b3b4594c3a6340c558bdb4bf8abc5d7b34dcd9150e87e52ddfe6128e593011d9
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 3048
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#12-arm64.deb
-Size: 672552
-MD5sum: b6ab6c035dc86a725c13ffdbe2b9dd2a
-SHA1: e94f2454817daf817996c9b57468b2d9fb2d8557
-SHA256: aa5fc511ff0b0bfa0ce2f40b7a260f5ea0680c66819943197cc0ab7a2a95e23c
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 3028
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#11-arm64.deb
-Size: 659522
-MD5sum: 41d24d2ff41cae26962b6fd968348177
-SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
-SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2980
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#8-arm64.deb
-Size: 649702
-MD5sum: bb2459d4b2b15080fcdc071a8704deee
-SHA1: 6a1f781816671b3da9de32cc05369068527882d7
-SHA256: e50235ca075aae4be91b1fe3fbf286f2db7e5183a833952c6d1d90e6a673d05d
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.3-0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 3208
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#18-arm64.deb
-Size: 705678
-MD5sum: 7f2e8b1e72435c7b080e616916409ef8
-SHA1: e5d886b6a285bc68b0fec4659de54156855208fb
-SHA256: ca34beef8eb71ddc78b02070efd9878cc7519acb2b8f5f4ef2ab3c4e2609dc25
+Filename: debs/huami.dyyy_2.3-0#13-arm64.deb
+Size: 679096
+MD5sum: 1ebb1ed3c21c4e1110487f739510dc6d
+SHA1: d0afeefc5563652ead5386447df0e32f20fb192a
+SHA256: cd4f59ca98eb301a890456d318970e833df999790155a177b2305cb37663aa47
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2592,13 +2532,13 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2832
+Installed-Size: 3048
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#4-arm64.deb
-Size: 620702
-MD5sum: 0b16ee9b9ebfc0d0843c0f794708000f
-SHA1: 3c72f7d9ca7051f7647bf44ca07bf30da24df6ba
-SHA256: 455c784819a827fbb194dfd7f9396eb231317a660d503f5efd970d37449d3b1e
+Filename: debs/huami.dyyy_2.3-0#12-arm64.deb
+Size: 672552
+MD5sum: b6ab6c035dc86a725c13ffdbe2b9dd2a
+SHA1: e94f2454817daf817996c9b57468b2d9fb2d8557
+SHA256: aa5fc511ff0b0bfa0ce2f40b7a260f5ea0680c66819943197cc0ab7a2a95e23c
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2611,13 +2551,70 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3064
+Installed-Size: 2964
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#13-arm64.deb
-Size: 679096
-MD5sum: 1ebb1ed3c21c4e1110487f739510dc6d
-SHA1: d0afeefc5563652ead5386447df0e32f20fb192a
-SHA256: cd4f59ca98eb301a890456d318970e833df999790155a177b2305cb37663aa47
+Filename: debs/huami.dyyy_2.3-0#7-arm64.deb
+Size: 651002
+MD5sum: 3e799b1a93f9d138044a890e14a78fc8
+SHA1: fa3c35d15924fea0d869a7609b3f38fd584326f6
+SHA256: b3b4594c3a6340c558bdb4bf8abc5d7b34dcd9150e87e52ddfe6128e593011d9
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 3208
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#18-arm64.deb
+Size: 705678
+MD5sum: 7f2e8b1e72435c7b080e616916409ef8
+SHA1: e5d886b6a285bc68b0fec4659de54156855208fb
+SHA256: ca34beef8eb71ddc78b02070efd9878cc7519acb2b8f5f4ef2ab3c4e2609dc25
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#10-arm64.deb
+Size: 655448
+MD5sum: aa9b6759ab009d93af262f8863c1e054
+SHA1: 43f30ac9075c89a617fa36cf245efcf3416b0df6
+SHA256: e6e4df5088897cfcfaf7ac82d1d4d1bbd71ab8fc3816fe880ccdce27f45f49d8
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 3028
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#11-arm64.deb
+Size: 659522
+MD5sum: 41d24d2ff41cae26962b6fd968348177
+SHA1: d4f837e38511e2697a893c44a6498148bbfe29ee
+SHA256: 4fbc08022544df65e76e358db90906a8d92232a0d8a84743ab4806a65c94c899
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2651,11 +2648,11 @@ Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2980
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/huami.dyyy_2.3-0#9-arm64.deb
-Size: 652372
-MD5sum: 2538435e34424860458231d0f8ec3930
-SHA1: 70ea59c6c1f72c31729de58ffa384f6c7d25ab56
-SHA256: d1602d7abd9b0db49282b25eafa5affeb7a20f8739a489aad2a4848055ba516a
+Filename: debs/huami.dyyy_2.3-0#8-arm64.deb
+Size: 649702
+MD5sum: bb2459d4b2b15080fcdc071a8704deee
+SHA1: 6a1f781816671b3da9de32cc05369068527882d7
+SHA256: e50235ca075aae4be91b1fe3fbf286f2db7e5183a833952c6d1d90e6a673d05d
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2668,13 +2665,32 @@ Package: com.huami.dyyy
 Version: 2.3-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 3372
+Installed-Size: 2832
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.huami.dyyy_2.3-0_iphoneos-arm64.deb
-Size: 743086
-MD5sum: 40df297740bd43a98eb599a838735c9c
-SHA1: 997a2e27bd175d2026315150e8a3639c627ccc72
-SHA256: 5a5474bf1051ab020a2dad6fa62f6e0d1c25d035ca4746fb50a5dd05dfdc2b8a
+Filename: debs/huami.dyyy_2.3-0#4-arm64.deb
+Size: 620702
+MD5sum: 0b16ee9b9ebfc0d0843c0f794708000f
+SHA1: 3c72f7d9ca7051f7647bf44ca07bf30da24df6ba
+SHA256: 455c784819a827fbb194dfd7f9396eb231317a660d503f5efd970d37449d3b1e
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/huami.dyyy_2.3-0#9-arm64.deb
+Size: 652372
+MD5sum: 2538435e34424860458231d0f8ec3930
+SHA1: 70ea59c6c1f72c31729de58ffa384f6c7d25ab56
+SHA256: d1602d7abd9b0db49282b25eafa5affeb7a20f8739a489aad2a4848055ba516a
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
