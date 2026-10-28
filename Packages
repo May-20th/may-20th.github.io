@@ -2269,6 +2269,23 @@ Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent �
 Author: roothide
 Name: lockdown(rootless)
 
+Package: com.dao.storeswitcher2
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: subdiox
+Installed-Size: 184
+Depends: firmware (>= 11), mobilesubstrate
+Conflicts: com.lenglengyu.storeswitcher2-rootless, com.yourepo.0xkuj.storeswitcher2rootless, com.hk.storeswitcher2.rl, com.qms.storeswitcher
+Filename: debs/com.dao.storeswitcher2_1.0.5_iphoneos-arm64.deb
+Size: 15270
+MD5sum: 622efe47ecaff9b1eb2de57b5d2a4722
+SHA1: e2d5d6c13347e6ee9442c417c06edd288d31ac32
+SHA256: 39c59fa9e8036427ece468cc5970409824df38dc92ea9c4bf5335ff8ad88b418
+Section: Tweaks
+Description: 点击AppStore帐户页面左上角图标快速切换账号。
+Author: subdiox
+Name: StoreSwitcher2(rootless)
+
 Package: com.duo.themelab
 Version: 1.6.1
 Architecture: iphoneos-arm64
@@ -2438,10 +2455,10 @@ Architecture: iphoneos-arm64e
 Maintainer: Hades
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: debs/com.hades.storeswitchaccounts_2.1_iphoneos-arm64e.deb
-Size: 9878
-MD5sum: 6dc7f8609678adfdf64f58c091b2a735
-SHA1: 2c403b3792905e53e9514aa376ed2ac175fc3b63
-SHA256: f14c87fde5e70a6d8ec2a2a8b68f521cd49b86a2af4f8c31d96e7cc71f56e436
+Size: 9236
+MD5sum: f96f580c7764b8e0912f91beef3041de
+SHA1: 92e3b99159960893750ce91340163f9f6d5bcd3a
+SHA256: 3d11ce95bc5d94a022850d4439aa9311a91a2fd6772a46c6f7a3710f5b1e6ae8
 Section: Tweaks
 Description: 长按桌面 App Store 图标即可快速切换已登录的 Apple ID 账号适配隐根越狱。
 Author: Hades
