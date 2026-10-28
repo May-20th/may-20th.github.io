@@ -2417,6 +2417,36 @@ Description: 锁屏/通知中心下拉即可清空全部通知，原作者Netska
 Author: hades
 Name: PullClearNC(RootHide)
 
+Package: com.hades.storeswitchaccounts
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Hades
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.hades.storeswitchaccounts_2.0_iphoneos-arm64e.deb
+Size: 8712
+MD5sum: ba92476ff8566f6a8111585172b945ff
+SHA1: 11a2ebbd0fe5d83d28f659404a9ea66374143396
+SHA256: 50f3d0543cd248e0a49477db3f2fc29d872b8e3a5068ee091287d778ee88b062
+Section: Tweaks
+Description: 长按桌面 AppStore 图标即可快速切换已登录的 Apple ID 账号。
+Author: Hades
+Name: StoreSwitchAccounts(RootHide)
+
+Package: com.hades.storeswitchaccounts
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Hades
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.hades.storeswitchaccounts_2.1_iphoneos-arm64e.deb
+Size: 9878
+MD5sum: 6dc7f8609678adfdf64f58c091b2a735
+SHA1: 2c403b3792905e53e9514aa376ed2ac175fc3b63
+SHA256: f14c87fde5e70a6d8ec2a2a8b68f521cd49b86a2af4f8c31d96e7cc71f56e436
+Section: Tweaks
+Description: 长按桌面 App Store 图标即可快速切换已登录的 Apple ID 账号适配隐根越狱。
+Author: Hades
+Name: StoreSwitchAccounts(RootHide)
+
 Package: com.hang.zzzj
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm64
@@ -4313,10 +4343,10 @@ Maintainer: Rein
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Filename: debs/com.sini.icleanerpro_7.10.0-1_iphoneos-arm64e.deb
-Size: 1200558
-MD5sum: f783924a37caef4b76a41ec3eaa7f9e5
-SHA1: e556a307ae0ff1f63620df0c0fd0272a5744bbcc
-SHA256: 8a9807ff4afa0136da3740f214462d9ea185a662070008310bab3053d07419f4
+Size: 1089500
+MD5sum: d9d3b43e870be30af1f628a186d4d331
+SHA1: 1719b8eb7c957c4e41b053262505be11b2178822
+SHA256: 4741e052a1829c766e09451ef625197c5a30b43320b648ff7eb44ee9831dda02
 Section: Tweaks
 Description: 破解版iOS系统清理工具，默认简体中文。
  iOS 17 适配版：移除「尚未官方支持 iOS 17」启动弹窗，版本支持上限提高到 iOS 17.x。
