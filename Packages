@@ -2336,6 +2336,23 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.evgeniy.hotspotvpn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: evgeniy
+Installed-Size: 600
+Depends: firmware (>= 15.0), mobilesubstrate | substitute | libhooker | ellekit, com.opa334.ccsupport
+Filename: debs/com.evgeniy.hotspotvpn_1.0_iphoneos-arm64.deb
+Size: 83976
+MD5sum: a5c5aa86bd79e24c4d7ebf92918ab6c2
+SHA1: cc2ff9ef044af5162f52d6e74ee6776ddc56f8a9
+SHA256: b53850d6702aad7b018da9f7ed3b3bd4921b5e23d803c00317ab2db82a9ec193
+Section: Tweaks
+Description: 与个人热点上的设备共享iPhone的VPN连接。Share your iPhone's VPN connection with devices on Personal Hotspot.
+Author: evgeniy
+Icon: https://huayuarc.github.io/icon/hotspotvpn.jpg
+Name: HotspotVPN
+
 Package: com.example.wifileasekeeper
 Version: 1.0.10
 Architecture: iphoneos-arm64
@@ -3994,10 +4011,10 @@ Maintainer: Nets
 Installed-Size: 952
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
-Size: 457802
-MD5sum: edc35dfe23706bcb058fd1adea3b69e4
-SHA1: 1adc03526a7be3016ec26285e66f9660f76208ec
-SHA256: e8f7ddf3e06d39314f62a3344fc4201fc7717716f1d7e27db2c55abcdfe25ff4
+Size: 393732
+MD5sum: fdf6d6e3d74ffec8f6ccd7ed97c40dca
+SHA1: 4d9c97b5628e015135aabcd6686eb53ce0321174
+SHA256: 559f4fdd7181cd4831752daf9889f85ee5a589e16e211aa44d838f60bc4ce1fa
 Section: Tweaks
 Description: 全权限砸壳神器。上架备份。
 Author: Netskao
