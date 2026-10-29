@@ -2343,10 +2343,10 @@ Maintainer: evgeniy
 Installed-Size: 600
 Depends: firmware (>= 15.0), mobilesubstrate | substitute | libhooker | ellekit, com.opa334.ccsupport
 Filename: debs/com.evgeniy.hotspotvpn_1.0_iphoneos-arm64.deb
-Size: 83976
-MD5sum: a5c5aa86bd79e24c4d7ebf92918ab6c2
-SHA1: cc2ff9ef044af5162f52d6e74ee6776ddc56f8a9
-SHA256: b53850d6702aad7b018da9f7ed3b3bd4921b5e23d803c00317ab2db82a9ec193
+Size: 80340
+MD5sum: 887207d1430c0115f3a582b5a65f5720
+SHA1: 04aab4f117e55ac87d5a636866aef5e3d60eb52c
+SHA256: 44eeae245981664d0cf6e5f6bef3bf44f8cbc28a57254398772c2e8213dde847
 Section: Tweaks
 Description: 与个人热点上的设备共享iPhone的VPN连接。Share your iPhone's VPN connection with devices on Personal Hotspot.
 Author: evgeniy
@@ -2436,6 +2436,22 @@ Homepage: https://t.me/zakadeep_bot
 Description: 闲鱼商品嗅探 + 筛选捡漏工具。悬浮球面板可按机型/容量/系统版本/机身颜色/成色/价格/想要人数筛选，自动翻页、单条复制、点击直达商品。v1.9.1：激活弹窗精简（去掉机器码说明与操作提示两行文字，界面更干净）；卡密校验改为进算法层做严格对账——错码不再只是弹提示，而是当场终止，挡掉批量试码的脚本。抓取与筛选逻辑与 v1.9.0 完全一致。
 Author: 故
 Name: 闲鱼捡漏
+
+Package: com.hades.locktouchx
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: hades
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hades.locktouchx_2.2_iphoneos-arm64e.deb
+Size: 15632
+MD5sum: e40f5791fcd24fa979a6772c2336cc50
+SHA1: d000d517da2dad0ad3b0f659dc547665d07af5a2
+SHA256: da3f254fe365427883030b3acb1320a3a17deedc071942bc42740f8ee4d8e187
+Section: Tweaks
+Description: 为 App 添加生物识别锁（Touch ID / Face ID），点击受保护 App 需认证。
+Author: hades
+Name: LockTouchX(RootHide)
 
 Package: com.hades.pullclearnc
 Version: 2.0
