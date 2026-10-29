@@ -2444,10 +2444,10 @@ Maintainer: hades
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.hades.locktouchx_2.2_iphoneos-arm64e.deb
-Size: 15632
-MD5sum: e40f5791fcd24fa979a6772c2336cc50
-SHA1: d000d517da2dad0ad3b0f659dc547665d07af5a2
-SHA256: da3f254fe365427883030b3acb1320a3a17deedc071942bc42740f8ee4d8e187
+Size: 14822
+MD5sum: 310b9687eb054369b729c3071e2d0ce6
+SHA1: e6b439f3164e645dfd088307b8e034e3ce772e76
+SHA256: 34a416586bde46e8433e9a36ddaa71b8e32b0c76ed3fea095d0a08351b1ac051
 Section: Tweaks
 Description: 为 App 添加生物识别锁（Touch ID / Face ID），点击受保护 App 需认证。
 Author: hades
@@ -10283,6 +10283,24 @@ SHA256: 85e41a0b1cb377c2187591b65c3bf6322f832cbf83cae27e9dbe4867d91af1cf
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
+Author: Junhong
+Name: 红果净化
+
+Package: hongguofn
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 4700
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/hongguofn_2.1.0_iphoneos-arm64.deb
+Size: 2295388
+MD5sum: 885f87f7d9a87b5c7a206f18e43c7dc6
+SHA1: 820896f2b22e6d429d4afacac00f6d0843ff9a51
+SHA256: 15597dd4db5e042ad4123ebae370781a7ad33178b2d3e288ed152fde05300f42
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
+ 兼容红果短剧与红果漫剧，版本适配7.4.1，低版本可能存在兼容问题不再适配，请更新至7.4.1版本使用。
 Author: Junhong
 Name: 红果净化
 
