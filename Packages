@@ -10293,10 +10293,10 @@ Maintainer: Junhong
 Installed-Size: 4700
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: debs/hongguofn_2.1.0_iphoneos-arm64.deb
-Size: 2295388
-MD5sum: 885f87f7d9a87b5c7a206f18e43c7dc6
-SHA1: 820896f2b22e6d429d4afacac00f6d0843ff9a51
-SHA256: 15597dd4db5e042ad4123ebae370781a7ad33178b2d3e288ed152fde05300f42
+Size: 2029140
+MD5sum: 7cc27e207727e22fb1ae5c94814d0224
+SHA1: 082cba57abbeda2d37f3bf61012f7a709cc4a3c3
+SHA256: de31f861e8330d7f95110ee4943c4563c233ba20955372c7325159e8bd4a6a2e
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
@@ -10568,6 +10568,38 @@ Section: Tweaks
 Description: Show estimate time left to full charge on your lock screen
 Author: waruhachi
 Name: Jikan
+
+Package: moe.waru.soko
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Installed-Size: 444
+Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/moe.waru.soko_1.0.0_iphoneos-arm64.deb
+Size: 53860
+MD5sum: f225533be2e53ef4ed888a140cef33ec
+SHA1: bf02aeb1434706b61a804e2b2fe4726c580689e4
+SHA256: 38ad60e8dd17c898daee815ec537c89ec1d4bf5fb9e68b6d1b124c4c003a831a
+Section: Tweaks
+Description: iOS 26 style Lock Screen widgets
+Author: waruhachi
+Name: Soko
+
+Package: moe.waru.soko
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Installed-Size: 468
+Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/moe.waru.soko_1.1.0_iphoneos-arm64.deb
+Size: 65582
+MD5sum: f33fdd74edf95603861c3a835ac9377d
+SHA1: 227ea5ec22d2925201a6440a821c7845a06ff3ab
+SHA256: 5767d034579c15b447361630f408ef4c029f717ada53d86465adbaf646dbd785
+Section: Tweaks
+Description: iOS 26 style Lock Screen widgets
+Author: waruhachi
+Name: Soko
 
 Package: net.nyyh
 Version: 1.2.522-1+debug
