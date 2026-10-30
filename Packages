@@ -2453,6 +2453,22 @@ Description: 为 App 添加生物识别锁（Touch ID / Face ID），点击受�
 Author: hades
 Name: LockTouchX(RootHide)
 
+Package: com.hades.locktouchx
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: hades
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hades.locktouchx_2.3_iphoneos-arm64e.deb
+Size: 18166
+MD5sum: 9c4c5439ad8e2277e27c488170ac6d8b
+SHA1: ab80c72f58878a559e1d4b91fcd7c2f778aad2fc
+SHA256: 8cc144775de44de368af4eaee095dfe85d1e3ac16e1a92722128e58fdbf62f36
+Section: Tweaks
+Description: 为 App (文件夹) 添加生物识别锁（Touch ID / Face ID），点击受保护 App (文件夹) 需认证；长按 App (文件夹) 菜单开启/关闭。
+Author: hades
+Name: LockTouchX(RootHide)
+
 Package: com.hades.pullclearnc
 Version: 2.0
 Architecture: iphoneos-arm64e
@@ -10592,10 +10608,10 @@ Maintainer: waruhachi
 Installed-Size: 468
 Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate (>= 0.9.5000)
 Filename: debs/moe.waru.soko_1.1.0_iphoneos-arm64.deb
-Size: 65582
-MD5sum: f33fdd74edf95603861c3a835ac9377d
-SHA1: 227ea5ec22d2925201a6440a821c7845a06ff3ab
-SHA256: 5767d034579c15b447361630f408ef4c029f717ada53d86465adbaf646dbd785
+Size: 57384
+MD5sum: 37d8c1c16a5d79f720677ff04b163fab
+SHA1: 46d607cf77e89b37b7e5fb218fe61f57a16797c1
+SHA256: dc6863a73cdd3e6249b10cb90b4526e6483f6d9ef01a4cb745e19e69fd797d45
 Section: Tweaks
 Description: iOS 26 style Lock Screen widgets
 Author: waruhachi
