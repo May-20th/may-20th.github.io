@@ -2460,10 +2460,10 @@ Maintainer: hades
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.hades.locktouchx_2.3_iphoneos-arm64e.deb
-Size: 18166
-MD5sum: 9c4c5439ad8e2277e27c488170ac6d8b
-SHA1: ab80c72f58878a559e1d4b91fcd7c2f778aad2fc
-SHA256: 8cc144775de44de368af4eaee095dfe85d1e3ac16e1a92722128e58fdbf62f36
+Size: 17176
+MD5sum: 9be4251cf3b3839081535691c2e0a70d
+SHA1: 852533059b5bc1e5059f75283081e4ca900ec452
+SHA256: 8ef9a6e6f68f7480f317b99f27f66195a8419b39fab8c5bb4a3f242769cfc8c7
 Section: Tweaks
 Description: 为 App (文件夹) 添加生物识别锁（Touch ID / Face ID），点击受保护 App (文件夹) 需认证；长按 App (文件夹) 菜单开启/关闭。
 Author: hades
@@ -4186,6 +4186,21 @@ Author: MrShi
 Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
 Name: MrShi(Rootless)
 Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
+
+Package: com.ntm.batteryanalyzer
+Version: 1.6.10
+Architecture: iphoneos-arm64
+Maintainer: yzdmm2024
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.ntm.batteryanalyzer_1.6.10_iphoneos-arm64.deb
+Size: 108662
+MD5sum: 0234d7445d5e27fee2efb03fa0d58048
+SHA1: 290d128c469181a98375e4b6ac262f30a7148c6f
+SHA256: 9beb5660d0bc86158857006e6890dc893cad64c8461f82c2f2482e0e026f4f66
+Section: Tweaks
+Description: 电池耗电分析：注入SpringBoard监控每App前台/后台运行时间与电量变化，估算每App耗电，显示电量历史与本次耗电统计
+Author: yzdmm2024
+Name: 电池耗电分析
 
 Package: com.ojbkclub.themecore
 Version: 1.0-8+h2l1
