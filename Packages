@@ -4193,10 +4193,10 @@ Architecture: iphoneos-arm64
 Maintainer: yzdmm2024
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: debs/com.ntm.batteryanalyzer_1.6.10_iphoneos-arm64.deb
-Size: 108662
-MD5sum: 0234d7445d5e27fee2efb03fa0d58048
-SHA1: 290d128c469181a98375e4b6ac262f30a7148c6f
-SHA256: 9beb5660d0bc86158857006e6890dc893cad64c8461f82c2f2482e0e026f4f66
+Size: 94104
+MD5sum: 54b469dfe8f70b7e6ceab9e59d5599a6
+SHA1: 63481dbe8eb8e07e6ad8178324f9d43a3a20ea93
+SHA256: c612f656b25e0d4b9c49ac9be971534bb6d9ce6c21173190b1a6f04edd7b1659
 Section: Tweaks
 Description: 电池耗电分析：注入SpringBoard监控每App前台/后台运行时间与电量变化，估算每App耗电，显示电量历史与本次耗电统计
 Author: yzdmm2024
@@ -9260,6 +9260,23 @@ Section: Tweaks
 Description: 灵动岛音乐进度环增强插件
 Author: 夜辰
 Name: 灵动岛进度环
+
+Package: com.ylr.abcslim
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.ylr.abcslim_1.5.5_iphoneos-arm64.deb
+Size: 18566
+MD5sum: 692177055bbc544c7edeca32b22e7634
+SHA1: 3e868c897c3bf5f0b036636eebe618ef6328a9aa
+SHA256: 1544ed503b4878955f55d66b9761d444a6ab0bf44752fa3f9cf22356f7ca31b3
+Section: Tweaks
+Description: 农业银行 11.3.0 专用
+ 仅保留去开屏和屏蔽越狱/Frida 等环境检测；仅供娱乐效果，如有传播请马上卸载！
+Author: ylr
+Name: 农行精简
 
 Package: com.ylr.wcsurfacetrim
 Version: 1.0
